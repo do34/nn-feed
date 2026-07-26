@@ -24,21 +24,28 @@ const DOM_DUMP_FILE = path.join(OUTPUT_DIR, "flashes-dom.html");
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+const timeToMinutes = (timeStr) => {
+  const [h, m] = timeStr.trim().split(":").map(Number);
+  return h * 60 + m;
+};
+
+const parseDateStr = (dateStr) => {
+  // e.g. "Jul 26, 2026"
+  const [month, day, year] = dateStr.trim().replace(",", "").split(" ");
+  return new Date(`${month} ${day} ${year}`);
+};
+
 const formatDate = (timeString, dateString, index) => {
   try {
     const now = new Date();
     if (!timeString || timeString === "Unknown time") {
-      const offsetDate = new Date(now.getTime() - index * 60 * 1000);
-      return offsetDate;
+      return new Date(now.getTime() - index * 60 * 1000);
     }
-    let dateStr = dateString;
-    if (!dateString || dateString === "Unknown date") {
-      const month = now.toLocaleString("en-US", { month: "short" });
-      const day = now.getDate();
-      const year = now.getFullYear();
-      dateStr = `${month} ${day}, ${year}`;
-    }
-    const [month, day, year] = dateStr.trim().split(" ");
+    const dateStr = dateString || (() => {
+      const m = now.toLocaleString("en-US", { month: "short" });
+      return `${m} ${now.getDate()}, ${now.getFullYear()}`;
+    })();
+    const [month, day, year] = dateStr.trim().replace(",", "").split(" ");
     const formattedDate = new Date(
       `${month} ${day} ${year} ${timeString.trim()} +0300`
     );
@@ -47,12 +54,7 @@ const formatDate = (timeString, dateString, index) => {
     }
     return formattedDate;
   } catch (e) {
-    console.error("Date parsing error:", e.message, {
-      timeString,
-      dateString,
-      index,
-    });
-    const now = new Date();
+    console.error("Date parsing error:", e.message, { timeString, dateString, index });
     return new Date(now.getTime() - index * 60 * 1000);
   }
 };
@@ -168,6 +170,7 @@ async function generateRSSFeed(browser) {
       if (descCache[cacheKey]) {
         item.description = descCache[cacheKey].description;
         item.link = descCache[cacheKey].link || "/flashes";
+        item.date = descCache[cacheKey].date || "";
         console.log(`Cache hit for ${cacheKey}`);
         continue;
       }
@@ -193,14 +196,25 @@ async function generateRSSFeed(browser) {
         } catch (e) {
           // no link
         }
+        let dateStr = "";
+        try {
+          dateStr = await elements[i].$eval(
+            "div.accordeon-item__details time.flash-date",
+            (el) => el.innerText.trim()
+          );
+        } catch (e) {
+          // no date in details
+        }
         item.description = extraInfo || item.title;
         item.link = link;
+        item.date = dateStr;
         descCache[cacheKey] = {
           description: item.description,
           link,
+          date: dateStr,
         };
         console.log(
-          `Got extra info for ${cacheKey}: ${extraInfo.slice(0, 80)} | link: ${link}`
+          `Got extra info for ${cacheKey}: ${extraInfo.slice(0, 80)} | link: ${link} | date: ${dateStr}`
         );
       } catch (clickErr) {
         console.error(`Click failed for ${cacheKey}:`, clickErr.message);
@@ -228,6 +242,27 @@ async function generateRSSFeed(browser) {
       ttl: 60,
     });
 
+    // Infer dates for items without one (items are in descending time order)
+    let currentDate = new Date();
+    let prevTime = null;
+    for (const item of items) {
+      if (item.date) {
+        currentDate = parseDateStr(item.date);
+        prevTime = item.time;
+      } else {
+        // If time increased vs previous, we crossed midnight going back
+        if (prevTime && timeToMinutes(item.time) > timeToMinutes(prevTime)) {
+          currentDate = new Date(currentDate.getTime() - 24 * 60 * 60 * 1000);
+        }
+        item.date = currentDate.toLocaleString("en-US", {
+          month: "short",
+          day: "2-digit",
+          year: "numeric",
+        });
+        prevTime = item.time;
+      }
+    }
+
     items.forEach((item, index) => {
       if (!item.title) return;
       const fullLink = item.link
@@ -246,7 +281,7 @@ async function generateRSSFeed(browser) {
         description: item.description || item.title,
         url: fullLink,
         guid,
-        date: formatDate(item.time, null, index),
+        date: formatDate(item.time, item.date, index),
       });
     });
 

@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 15:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 16:52:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 15:47:27 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 16:52:56 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Precedential ruling against AI election ads]]></title>
+            <description><![CDATA[The chairman of the Central Elections Committee, Judge Noam Sohlberg, has ordered Finance Minister Bezalel Smotrich to delete an AI-generated campaign video for being too misleading to voters.]]></description>
+            <link>https://www.israelnationalnews.com/news/430784</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690585</guid>
+            <pubDate>Sun, 26 Jul 2026 16:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu: How war with Iran will end]]></title>
+            <description><![CDATA[In a Fox News interview, Prime Minister Benjamin Netanyahu said Iran's regime must either fall or be weakened enough to abandon its nuclear ambitions.]]></description>
+            <link>https://www.israelnationalnews.com/news/430783</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690584</guid>
+            <pubDate>Sun, 26 Jul 2026 16:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Major Yuval Ezra laid to rest: 'You were an angel']]></title>
+            <description><![CDATA[Major Yuval Ezra laid to rest: 'You were an angel']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690583</guid>
+            <pubDate>Sun, 26 Jul 2026 15:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Mezuzahs for Israel and Iran’s future embassies]]></title>
+            <description><![CDATA[Silvain Adams met in Paris with Iranian Crown Prince Reza Pahlavi, expressed support for democratic Iran, and presented mezuzahs to the future embassies of the two countries.]]></description>
+            <link>https://www.israelnationalnews.com/news/430781</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690582</guid>
+            <pubDate>Sun, 26 Jul 2026 15:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[President Herzog speaks with King of Bahrain]]></title>
             <description><![CDATA[Israeli President Isaac Herzog spoke on Sunday with King Hamad bin Isa Al Khalifa of Bahrain.
@@ -59,30 +87,28 @@ According to the official, deployment of ISF personnel will require the approval
         </item>
         <item>
             <title><![CDATA[Cabinet greenlights Gaza plan with technocratic civilian rule]]></title>
-            <description><![CDATA[The Security Cabinet approved a pilot placing parts of Gaza under a Palestinian Arab technocratic government, backed by a multinational force and strict security screening.]]></description>
-            <link>https://www.israelnationalnews.com/news/430777</link>
+            <description><![CDATA[Cabinet greenlights Gaza plan with technocratic civilian rule]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690575</guid>
             <pubDate>Sun, 26 Jul 2026 14:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Iran informed Pakistan that it did not withdraw from talks, but merely suspended them]]></title>
-            <description><![CDATA[Al Hadath reported that Iran informed senior Pakistani officials that it had not withdrawn from the negotiations but had merely suspended them, stressing the need to resume the talks from the point at which they were halted.]]></description>
+            <description><![CDATA[Report: Iran informed Pakistan that it did not withdraw from talks, but merely suspended them]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690574</guid>
             <pubDate>Sun, 26 Jul 2026 13:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amb. Waltz: Trump giving 'some space' for diplomacy with Iran]]></title>
-            <description><![CDATA[US Ambassador to the UN Mike Waltz told Fox News that President Donald Trump is giving "some space" for diplomatic talks with Iran.]]></description>
+            <description><![CDATA[Amb. Waltz: Trump giving 'some space' for diplomacy with Iran]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690573</guid>
             <pubDate>Sun, 26 Jul 2026 13:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iranian official to Reuters: We will halt attacks if US does the same]]></title>
-            <description><![CDATA[A senior Iranian official told Reuters that Iran will halt its attacks as long as the United States does the same.
-
-The official added that Tehran remains “more skeptical than optimistic" about the situation.]]></description>
+            <description><![CDATA[Iranian official to Reuters: We will halt attacks if US does the same]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690572</guid>
             <pubDate>Sun, 26 Jul 2026 13:36:00 GMT</pubDate>
@@ -2788,34 +2814,6 @@ The official added that Tehran remains “more skeptical than optimistic" about 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690187</guid>
             <pubDate>Tue, 21 Jul 2026 02:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State Department issues global security warning amid Middle East tensions]]></title>
-            <description><![CDATA[State Department issues global security warning amid Middle East tensions]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690186</guid>
-            <pubDate>Tue, 21 Jul 2026 01:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US wraps up tenth night of strikes on Iran]]></title>
-            <description><![CDATA[US wraps up tenth night of strikes on Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690185</guid>
-            <pubDate>Tue, 21 Jul 2026 01:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRGC claims two oil tankers ablaze in Strait of Hormuz]]></title>
-            <description><![CDATA[IRGC claims two oil tankers ablaze in Strait of Hormuz]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690184</guid>
-            <pubDate>Tue, 21 Jul 2026 01:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia rejects Houthi blockade, vows to protect Red Sea shipping]]></title>
-            <description><![CDATA[Saudi Arabia rejects Houthi blockade, vows to protect Red Sea shipping]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690183</guid>
-            <pubDate>Tue, 21 Jul 2026 01:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

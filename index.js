@@ -51,6 +51,21 @@ const timeToMinutes = (timeStr) => {
   return h * 60 + m;
 };
 
+const getIsraelOffset = (date) => {
+  const dtf = new Intl.DateTimeFormat("en-US", {
+    timeZone: "Asia/Jerusalem",
+    timeZoneName: "shortOffset",
+  });
+  const parts = dtf.formatToParts(date);
+  const tz = parts.find((p) => p.type === "timeZoneName").value;
+  const m = tz.match(/GMT([+-])(\d{1,2}):?(\d{2})?/);
+  if (!m) return "+03:00";
+  const sign = m[1];
+  const h = m[2].padStart(2, "0");
+  const min = m[3] || "00";
+  return `${sign}${h}${min}`;
+};
+
 const parseDateStr = (dateStr) => {
   // e.g. "Jul 26, 2026"
   const [month, day, year] = dateStr.trim().replace(",", "").split(" ");
@@ -68,8 +83,9 @@ const formatDate = (timeString, dateString, index) => {
       return `${m} ${now.getDate()}, ${now.getFullYear()}`;
     })();
     const [month, day, year] = dateStr.trim().replace(",", "").split(" ");
+    const offset = getIsraelOffset(new Date(`${month} ${day} ${year}`));
     const formattedDate = new Date(
-      `${month} ${day} ${year} ${timeString.trim()} +0300`
+      `${month} ${day} ${year} ${timeString.trim()} ${offset}`
     );
     if (isNaN(formattedDate.getTime())) {
       throw new Error("Invalid date format");

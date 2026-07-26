@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 21:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 22:28:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 21:25:19 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 22:28:41 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Concerns over foreign interference: Shin Bet chief to brief Knesset committee]]></title>
+            <description><![CDATA[In a closed-door meeting of the Foreign Affairs and Defense Subcommittee for Intelligence, Shin Bet Director David Zini will present data on influence operations by enemy states.]]></description>
+            <link>https://www.israelnationalnews.com/news/430797</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690601</guid>
+            <pubDate>Sun, 26 Jul 2026 22:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Motorcyclist moderately injured after crashing into guardrail in Umm al-Fahm]]></title>
+            <description><![CDATA[A 21-year-old man was moderately injured after crashing his motorcycle into a guardrail in Umm al-Fahm.
+
+A Magen David Adom (MDA) medical team treated him at the scene and evacuated him to HaEmek Hospital in Afula.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690600</guid>
+            <pubDate>Sun, 26 Jul 2026 21:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['We have more than we need': Trump rejects claims of dwindling munitions]]></title>
             <description><![CDATA[President Trump rejects reports that he delayed massive two-week military strike on Iran over concerns about declining missile stockpiles.]]></description>
@@ -25,8 +41,8 @@
         </item>
         <item>
             <title><![CDATA[J’Accuse, Mayor Mamdani]]></title>
-            <description><![CDATA[J’Accuse, Mayor Mamdani]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[The Mayor of New York has turned the Jewish state, the Jewish people, and its democraticallye elected leader, into a collective Dreyfus. Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/430794</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690597</guid>
             <pubDate>Sun, 26 Jul 2026 20:23:00 GMT</pubDate>
         </item>
@@ -69,15 +85,15 @@ According to the report, the party's candidate list will be chosen in a vote hel
         </item>
         <item>
             <title><![CDATA[Military backtracks: IDF knew of hike before deadly terror attack]]></title>
-            <description><![CDATA[The IDF acknowledged it knew of the unauthorized hike before the terror attack but did not stop it or provide security, according to a report.]]></description>
-            <link>https://www.israelnationalnews.com/news/430789</link>
+            <description><![CDATA[Military backtracks: IDF knew of hike before deadly terror attack]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690591</guid>
             <pubDate>Sun, 26 Jul 2026 18:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shots fired at Jewish bakery in Toronto in twin vandalism attacks]]></title>
-            <description><![CDATA[Gunshots struck one Toronto bakery branch while another was vandalized, prompting a hate crime investigation and condemnation from Gideon Sa'ar.]]></description>
-            <link>https://www.israelnationalnews.com/news/430788</link>
+            <description><![CDATA[Shots fired at Jewish bakery in Toronto in twin vandalism attacks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690590</guid>
             <pubDate>Sun, 26 Jul 2026 18:25:00 GMT</pubDate>
         </item>
@@ -2796,20 +2812,6 @@ According to the report, the party's candidate list will be chosen in a vote hel
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690203</guid>
             <pubDate>Tue, 21 Jul 2026 06:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senior Democrats support evacuation of Judea and Samaria communities]]></title>
-            <description><![CDATA[Senior Democrats support evacuation of Judea and Samaria communities]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690202</guid>
-            <pubDate>Tue, 21 Jul 2026 06:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF kills Hamas commander who led Gaza Brigade into Israel]]></title>
-            <description><![CDATA[IDF kills Hamas commander who led Gaza Brigade into Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690201</guid>
-            <pubDate>Tue, 21 Jul 2026 06:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -258,7 +258,7 @@ async function generateRSSFeed(browser) {
     const feed = new RSS({
       title: "Israel National News Flashes",
       description: "Latest news flashes from Israel National News",
-      feed_url: "http://do34.50webs.com/rss/inn.xml",
+      feed_url: "https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml",
       site_url: "https://www.israelnationalnews.com",
       language: "en-us",
       pubDate: new Date(),

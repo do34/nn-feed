@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 20:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 21:25:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 20:17:56 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 21:25:19 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA['We have more than we need': Trump rejects claims of dwindling munitions]]></title>
+            <description><![CDATA[President Trump rejects reports that he delayed massive two-week military strike on Iran over concerns about declining missile stockpiles.]]></description>
+            <link>https://www.israelnationalnews.com/news/430796</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690599</guid>
+            <pubDate>Sun, 26 Jul 2026 21:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspicious object neutralized outside MK Avi Maoz’s home]]></title>
+            <description><![CDATA[Israel Police sappers neutralize a suspicious bag found in the yard of the Noam party leader’s residence. Object taken to a laboratory for further examination.]]></description>
+            <link>https://www.israelnationalnews.com/news/430795</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690598</guid>
+            <pubDate>Sun, 26 Jul 2026 20:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[J’Accuse, Mayor Mamdani]]></title>
+            <description><![CDATA[J’Accuse, Mayor Mamdani]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690597</guid>
+            <pubDate>Sun, 26 Jul 2026 20:23:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why a new sand berm and concrete barrier in Gaza will not defeat Hamas]]></title>
             <description><![CDATA[Static defences encourage adaptation rather than surrender. Opinion.]]></description>
@@ -25,8 +46,8 @@
         </item>
         <item>
             <title><![CDATA[Bennett-Lapid hit all-time low polling numbers]]></title>
-            <description><![CDATA[Bennett-Lapid hit all-time low polling numbers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[A new Kantar poll shows Likud leading with 22 seats, while Gadi Eisenkot trails by one seat and matches Netanyahu in support for prime minister, while Bennett trails.]]></description>
+            <link>https://www.israelnationalnews.com/news/430791</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690594</guid>
             <pubDate>Sun, 26 Jul 2026 19:29:00 GMT</pubDate>
         </item>
@@ -62,23 +83,21 @@ According to the report, the party's candidate list will be chosen in a vote hel
         </item>
         <item>
             <title><![CDATA['Bold and courageous leader': Herzog reveals details of call with Bahrain's King]]></title>
-            <description><![CDATA[President Isaac Herzog said he and Bahrain's King Hamad discussed regional challenges, advancing peace and confronting terrorism and hatred.]]></description>
-            <link>https://www.israelnationalnews.com/news/430787</link>
+            <description><![CDATA['Bold and courageous leader': Herzog reveals details of call with Bahrain's King]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690589</guid>
             <pubDate>Sun, 26 Jul 2026 17:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jerusalem man indicted for firework attack on police]]></title>
-            <description><![CDATA[The Jerusalem District Attorney's Office filed a complainant's statement on Sunday with the Jerusalem Magistrates' Court against a 20-year-old Arab resident of the Silwan neighborhood for hitting a police officer with fireworks.]]></description>
-            <link>https://www.israelnationalnews.com/news/430786</link>
+            <description><![CDATA[Jerusalem man indicted for firework attack on police]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690588</guid>
             <pubDate>Sun, 26 Jul 2026 17:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[German media: Terrorist who carried out Berlin ramming attack eliminated]]></title>
-            <description><![CDATA[German media outlets are reporting that the attacker who carried out the vehicle-ramming attack during an pride event in Berlin has been killed.
-
-According to the reports, one woman was killed in the attack and 17 other people were injured.]]></description>
+            <description><![CDATA[German media: Terrorist who carried out Berlin ramming attack eliminated]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690587</guid>
             <pubDate>Sun, 26 Jul 2026 17:22:00 GMT</pubDate>
@@ -2791,27 +2810,6 @@ According to the reports, one woman was killed in the attack and 17 other people
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690201</guid>
             <pubDate>Tue, 21 Jul 2026 06:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Captain A.'s path to becoming Deputy Commander of INS Oz]]></title>
-            <description><![CDATA[Captain A.'s path to becoming Deputy Commander of INS Oz]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690200</guid>
-            <pubDate>Tue, 21 Jul 2026 05:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian state media: US missiles struck civilian site near Abadan]]></title>
-            <description><![CDATA[Iranian state media: US missiles struck civilian site near Abadan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690199</guid>
-            <pubDate>Tue, 21 Jul 2026 05:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Trump administration weighs ending support for UN refugee agency]]></title>
-            <description><![CDATA[Report: Trump administration weighs ending support for UN refugee agency]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690198</guid>
-            <pubDate>Tue, 21 Jul 2026 05:09:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "preinstall": "export PUPPETEER_PRODUCT=firefox npm install puppeteer && npx puppeteer browsers install firefox",
+    "preinstall": "npx puppeteer browsers install chrome",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,7 +25,6 @@
     "puppeteer": "^24.12.1",
     "puppeteer-extra": "3.3.6",
     "puppeteer-extra-plugin-block-resources": "^2.4.3",
-    "puppeteer-firefox": "^0.5.1",
     "rss": "^1.2.2"
   }
 }

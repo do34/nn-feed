@@ -22,7 +22,29 @@ const SCREENSHOT_FILE = path.join(OUTPUT_DIR, "error-screenshot.png");
 const HTML_FILE = path.join(OUTPUT_DIR, "error-page.html");
 const DOM_DUMP_FILE = path.join(OUTPUT_DIR, "flashes-dom.html");
 
+const MAX_AGE_DAYS = parseInt(process.env.MAX_AGE_DAYS || "3", 10);
+const MAX_ITEMS = parseInt(process.env.MAX_ITEMS || "500", 10);
+
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+const pruneCache = (cache) => {
+  const cutoff = Date.now() - MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
+  const entries = Object.entries(cache);
+  const kept = entries.filter(([, v]) => {
+    if (!v || !v.date) return false;
+    const d = new Date(v.date);
+    return !isNaN(d.getTime()) && d.getTime() >= cutoff;
+  });
+  if (kept.length > MAX_ITEMS) {
+    kept.sort((a, b) => new Date(b[1].date) - new Date(a[1].date));
+    kept.length = MAX_ITEMS;
+  }
+  const removed = entries.length - kept.length;
+  if (removed > 0) {
+    console.log(`Pruned ${removed} stale cache entries (kept ${kept.length}/${entries.length})`);
+  }
+  return Object.fromEntries(kept);
+};
 
 const timeToMinutes = (timeStr) => {
   const [h, m] = timeStr.trim().split(":").map(Number);
@@ -226,7 +248,8 @@ async function generateRSSFeed(browser) {
     // Save updated cache
     try {
       await fs.promises.mkdir(OUTPUT_DIR, { recursive: true });
-      fs.writeFileSync(ITEMS_FILE, JSON.stringify(descCache, null, 2));
+      const prunedCache = pruneCache(descCache);
+      fs.writeFileSync(ITEMS_FILE, JSON.stringify(prunedCache, null, 2));
       console.log(`Description cache saved to ${ITEMS_FILE}`);
     } catch (cacheErr) {
       console.error("Failed to save cache:", cacheErr.message);
@@ -327,7 +350,10 @@ async function main() {
 
     console.log("Launching Puppeteer browser...");
     const headlessType = process.env.IS_LOCAL ? false : "shell";
-    browser = await puppeteer.launch({ product: "firefox", headless: headlessType });
+    browser = await puppeteer.launch({
+      headless: headlessType,
+      args: ["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"],
+    });
     console.log("Browser launched successfully");
 
     const hasItems = await generateRSSFeed(browser);

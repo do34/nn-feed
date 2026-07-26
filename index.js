@@ -149,10 +149,79 @@ async function generateRSSFeed(browser) {
     }
     items.forEach((it, i) => console.log(i, it.time, it.title));
 
+    // Load cached descriptions
+    let descCache = {};
+    try {
+      const data = fs.readFileSync(ITEMS_FILE, "utf8");
+      descCache = JSON.parse(data);
+    } catch (e) {
+      console.log("No description cache found", e.message);
+    }
+
+    // Click only the top 10 items that aren't cached to fetch extra info
+    const TOP_N = 10;
+    const elements = await page.$$("li.accordeon-item");
+    for (let i = 0; i < Math.min(TOP_N, elements.length); i++) {
+      const item = items[i];
+      if (!item || !item.id) continue;
+      const cacheKey = item.id;
+      if (descCache[cacheKey]) {
+        item.description = descCache[cacheKey].description;
+        item.link = descCache[cacheKey].link || "/flashes";
+        console.log(`Cache hit for ${cacheKey}`);
+        continue;
+      }
+      console.log(`Fetching extra info for ${cacheKey} (index ${i})`);
+      try {
+        await elements[i].click();
+        await delay(300);
+        let extraInfo = "";
+        try {
+          extraInfo = await elements[i].$eval(
+            "#articleContent",
+            (el) => el.innerText
+          );
+        } catch (e) {
+          // no article content
+        }
+        let link = "/flashes";
+        try {
+          link = await elements[i].$eval(
+            "a.flash-full-article-link",
+            (el) => el.getAttribute("href")
+          );
+        } catch (e) {
+          // no link
+        }
+        item.description = extraInfo || item.title;
+        item.link = link;
+        descCache[cacheKey] = {
+          description: item.description,
+          link,
+        };
+        console.log(
+          `Got extra info for ${cacheKey}: ${extraInfo.slice(0, 80)} | link: ${link}`
+        );
+      } catch (clickErr) {
+        console.error(`Click failed for ${cacheKey}:`, clickErr.message);
+        item.description = item.title;
+        item.link = "/flashes";
+      }
+    }
+
+    // Save updated cache
+    try {
+      await fs.promises.mkdir(OUTPUT_DIR, { recursive: true });
+      fs.writeFileSync(ITEMS_FILE, JSON.stringify(descCache, null, 2));
+      console.log(`Description cache saved to ${ITEMS_FILE}`);
+    } catch (cacheErr) {
+      console.error("Failed to save cache:", cacheErr.message);
+    }
+
     const feed = new RSS({
       title: "Israel National News Flashes",
       description: "Latest news flashes from Israel National News",
-      feed_url: "", // TODO: add link
+      feed_url: "http://do34.50webs.com/rss/inn.xml",
       site_url: "https://www.israelnationalnews.com",
       language: "en-us",
       pubDate: new Date(),
@@ -161,6 +230,11 @@ async function generateRSSFeed(browser) {
 
     items.forEach((item, index) => {
       if (!item.title) return;
+      const fullLink = item.link
+        ? item.link.startsWith("http")
+          ? item.link
+          : `https://www.israelnationalnews.com${item.link}`
+        : "https://www.israelnationalnews.com/flashes";
       const guid = item.id
         ? `https://www.israelnationalnews.com/flashes#${item.id}`
         : `https://www.israelnationalnews.com/flashes/item-${index}-${item.title.replace(
@@ -169,15 +243,14 @@ async function generateRSSFeed(browser) {
           )}`;
       feed.item({
         title: item.title,
-        description: item.title,
-        url: "https://www.israelnationalnews.com/flashes",
+        description: item.description || item.title,
+        url: fullLink,
         guid,
         date: formatDate(item.time, null, index),
       });
     });
 
     const rssFeed = feed.xml({ indent: true });
-    await fs.promises.mkdir(OUTPUT_DIR, { recursive: true });
     fs.writeFileSync(RSS_FILE, rssFeed);
     console.log(`RSS feed saved to ${RSS_FILE}`);
 

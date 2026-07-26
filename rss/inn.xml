@@ -4,11 +4,41 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 17:58:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 19:13:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 17:58:11 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 19:13:36 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[For the first time since its founding: United Arab List to hold primaries]]></title>
+            <description><![CDATA[For the first time since its founding, United Arab List (Ra'am) will hold party primaries on August 22, according to a report by Channel 12.
+
+According to the report, the party's candidate list will be chosen in a vote held separately from the conference of the Islamic Movement in Israel and without being subject to the authority of its Shura Council.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690593</guid>
+            <pubDate>Sun, 26 Jul 2026 19:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Religious Zionist Party unveils Knesset slate following primaries]]></title>
+            <description><![CDATA[The Religious Zionist Party on Sunday evening announced the results of its primaries for the next Knesset elections, with party chairman Bezalel Smotrich retaining the top spot on the party's list.]]></description>
+            <link>https://www.israelnationalnews.com/news/430790</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690592</guid>
+            <pubDate>Sun, 26 Jul 2026 18:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Military backtracks: IDF knew of hike before deadly terror attack]]></title>
+            <description><![CDATA[The IDF acknowledged it knew of the unauthorized hike before the terror attack but did not stop it or provide security, according to a report.]]></description>
+            <link>https://www.israelnationalnews.com/news/430789</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690591</guid>
+            <pubDate>Sun, 26 Jul 2026 18:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shots fired at Jewish bakery in Toronto in twin vandalism attacks]]></title>
+            <description><![CDATA[Shots fired at Jewish bakery in Toronto in twin vandalism attacks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690590</guid>
+            <pubDate>Sun, 26 Jul 2026 18:25:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Bold and courageous leader': Herzog reveals details of call with Bahrain's King]]></title>
             <description><![CDATA[President Isaac Herzog said he and Bahrain's King Hamad discussed regional challenges, advancing peace and confronting terrorism and hatred.]]></description>
@@ -25,7 +55,9 @@
         </item>
         <item>
             <title><![CDATA[German media: Terrorist who carried out Berlin ramming attack eliminated]]></title>
-            <description><![CDATA[German media: Terrorist who carried out Berlin ramming attack eliminated]]></description>
+            <description><![CDATA[German media outlets are reporting that the attacker who carried out the vehicle-ramming attack during an pride event in Berlin has been killed.
+
+According to the reports, one woman was killed in the attack and 17 other people were injured.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690587</guid>
             <pubDate>Sun, 26 Jul 2026 17:22:00 GMT</pubDate>
@@ -53,33 +85,29 @@
         </item>
         <item>
             <title><![CDATA[Major Yuval Ezra laid to rest: 'You were an angel']]></title>
-            <description><![CDATA[Major Yuval Ezra, laid to rest after being murdered in the shooting attack near Havat Gilad, remembered as an influential and beloved figure by many.]]></description>
-            <link>https://www.israelnationalnews.com/news/430782</link>
+            <description><![CDATA[Major Yuval Ezra laid to rest: 'You were an angel']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690583</guid>
             <pubDate>Sun, 26 Jul 2026 15:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Mezuzahs for Israel and Iran’s future embassies]]></title>
-            <description><![CDATA[Silvain Adams met in Paris with Iranian Crown Prince Reza Pahlavi, expressed support for democratic Iran, and presented mezuzahs to the future embassies of the two countries.]]></description>
-            <link>https://www.israelnationalnews.com/news/430781</link>
+            <description><![CDATA[Watch: Mezuzahs for Israel and Iran’s future embassies]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690582</guid>
             <pubDate>Sun, 26 Jul 2026 15:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[President Herzog speaks with King of Bahrain]]></title>
-            <description><![CDATA[Israeli President Isaac Herzog spoke on Sunday with King Hamad bin Isa Al Khalifa of Bahrain.
-
-During the call, the two discussed the friendship and relations between Israel and Bahrain, as well as the importance of the US-led Abraham Accords in strengthening security, stability, and prosperity in the Middle East. The two also spoke about recent developments in the region.
-
-Herzog noted that "Bahrain is an important country in the Middle East, and I congratulated the King on his bold leadership and vision for the region."]]></description>
+            <description><![CDATA[President Herzog speaks with King of Bahrain]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690581</guid>
             <pubDate>Sun, 26 Jul 2026 15:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDU Spokesman: 'The search in Ashkelon was a great miracle']]></title>
-            <description><![CDATA[A spokesman for one of these search units speaks about why 4-year-old Yuval Kogan was not found faster despite the massive effort launched to locate him.]]></description>
-            <link>https://www.israelnationalnews.com/news/430780</link>
+            <description><![CDATA[IDU Spokesman: 'The search in Ashkelon was a great miracle']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690580</guid>
             <pubDate>Sun, 26 Jul 2026 15:09:00 GMT</pubDate>
         </item>
@@ -2784,34 +2812,6 @@ Herzog noted that "Bahrain is an important country in the Middle East, and I con
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690195</guid>
             <pubDate>Tue, 21 Jul 2026 04:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drawing a line in the sand with new Prime Minister, Andy Burnham]]></title>
-            <description><![CDATA[Drawing a line in the sand with new Prime Minister, Andy Burnham]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690194</guid>
-            <pubDate>Tue, 21 Jul 2026 04:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MK Moshe Tur-Paz: Unite the entire Zionist camp]]></title>
-            <description><![CDATA[MK Moshe Tur-Paz: Unite the entire Zionist camp]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690193</guid>
-            <pubDate>Tue, 21 Jul 2026 03:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani’s brave and viral posturing at the end of a rope]]></title>
-            <description><![CDATA[Mamdani’s brave and viral posturing at the end of a rope]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690192</guid>
-            <pubDate>Tue, 21 Jul 2026 03:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Footage: Tenth night of US strikes in Iran]]></title>
-            <description><![CDATA[Footage: Tenth night of US strikes in Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690191</guid>
-            <pubDate>Tue, 21 Jul 2026 03:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

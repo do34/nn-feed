@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 19:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 20:17:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 19:13:36 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 20:17:56 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Why a new sand berm and concrete barrier in Gaza will not defeat Hamas]]></title>
+            <description><![CDATA[Static defences encourage adaptation rather than surrender. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/430793</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690596</guid>
+            <pubDate>Sun, 26 Jul 2026 20:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haredim launch consumer initiative to combat cost of living]]></title>
+            <description><![CDATA[Haredi community leaders are launching a large-scale consumer initiative aimed at reducing the cost of living for families of Yeshiva students, following the recent economic sanctions imposed on Yeshiva students who do not report for IDF service.]]></description>
+            <link>https://www.israelnationalnews.com/news/430792</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690595</guid>
+            <pubDate>Sun, 26 Jul 2026 20:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bennett-Lapid hit all-time low polling numbers]]></title>
+            <description><![CDATA[Bennett-Lapid hit all-time low polling numbers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690594</guid>
+            <pubDate>Sun, 26 Jul 2026 19:29:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[For the first time since its founding: United Arab List to hold primaries]]></title>
             <description><![CDATA[For the first time since its founding, United Arab List (Ra'am) will hold party primaries on August 22, according to a report by Channel 12.
@@ -34,8 +55,8 @@ According to the report, the party's candidate list will be chosen in a vote hel
         </item>
         <item>
             <title><![CDATA[Shots fired at Jewish bakery in Toronto in twin vandalism attacks]]></title>
-            <description><![CDATA[Shots fired at Jewish bakery in Toronto in twin vandalism attacks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[Gunshots struck one Toronto bakery branch while another was vandalized, prompting a hate crime investigation and condemnation from Gideon Sa'ar.]]></description>
+            <link>https://www.israelnationalnews.com/news/430788</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690590</guid>
             <pubDate>Sun, 26 Jul 2026 18:25:00 GMT</pubDate>
         </item>
@@ -64,22 +85,22 @@ According to the reports, one woman was killed in the attack and 17 other people
         </item>
         <item>
             <title><![CDATA[Judea and Samaria: IDF launches massive crackdown to stop escalation]]></title>
-            <description><![CDATA[Following last week's terror attacks, the IDF arrested more than 130 wanted suspects and tightened security measures across Judea and Samaria.]]></description>
-            <link>https://www.israelnationalnews.com/news/430785</link>
+            <description><![CDATA[Judea and Samaria: IDF launches massive crackdown to stop escalation]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690586</guid>
             <pubDate>Sun, 26 Jul 2026 17:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Precedential ruling against AI election ads]]></title>
-            <description><![CDATA[The chairman of the Central Elections Committee, Judge Noam Sohlberg, has ordered Finance Minister Bezalel Smotrich to delete an AI-generated campaign video for being too misleading to voters.]]></description>
-            <link>https://www.israelnationalnews.com/news/430784</link>
+            <description><![CDATA[Precedential ruling against AI election ads]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690585</guid>
             <pubDate>Sun, 26 Jul 2026 16:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu: How war with Iran will end]]></title>
-            <description><![CDATA[In a Fox News interview, Prime Minister Benjamin Netanyahu said Iran's regime must either fall or be weakened enough to abandon its nuclear ambitions.]]></description>
-            <link>https://www.israelnationalnews.com/news/430783</link>
+            <description><![CDATA[Netanyahu: How war with Iran will end]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690584</guid>
             <pubDate>Sun, 26 Jul 2026 16:44:00 GMT</pubDate>
         </item>
@@ -2791,27 +2812,6 @@ According to the reports, one woman was killed in the attack and 17 other people
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690198</guid>
             <pubDate>Tue, 21 Jul 2026 05:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu's called Jewish rioters in Judea and Samaria: 'A spreading cancer']]></title>
-            <description><![CDATA[Netanyahu's called Jewish rioters in Judea and Samaria: 'A spreading cancer']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690197</guid>
-            <pubDate>Tue, 21 Jul 2026 04:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gerrer hasidim protest outside AG's home]]></title>
-            <description><![CDATA[Gerrer hasidim protest outside AG's home]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690196</guid>
-            <pubDate>Tue, 21 Jul 2026 04:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[War and Peace]]></title>
-            <description><![CDATA[War and Peace]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690195</guid>
-            <pubDate>Tue, 21 Jul 2026 04:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

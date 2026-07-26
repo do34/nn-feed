@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 09:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 10:28:46 GMT</lastBuildDate>
         <atom:link href="http://do34.50webs.com/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 09:19:46 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 10:28:46 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Cabinet approves ban on import of goods made with forced labor]]></title>
+            <description><![CDATA[The Government approved Prime Minister Benjamin Netanyahu’s proposal to ban the import into Israel of goods produced, entirely or in part, through forced labor.]]></description>
+            <link>https://www.israelnationalnews.com/news/430769</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690561</guid>
+            <pubDate>Sun, 26 Jul 2026 10:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mourning the man who brought hope to thousands]]></title>
+            <description><![CDATA[Forty-eight years since the birth of the world’s first IVF baby, Prof. Shlomo Mashiach, pioneer of fertility medicine in Israel who helped transform global revolution in reproductive medicine into tangible hope for countless couples, passed away.]]></description>
+            <link>https://www.israelnationalnews.com/news/430767</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690560</guid>
+            <pubDate>Sun, 26 Jul 2026 09:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Geert Wilders: 'Israeli settlements aid security of Europe']]></title>
+            <description><![CDATA[Geert Wilders: 'Israeli settlements aid security of Europe']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690559</guid>
+            <pubDate>Sun, 26 Jul 2026 09:25:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 PA Arabs arrested for assault on Israeli near Beitar Illit]]></title>
             <description><![CDATA[Seven Palestinian Arab suspects were arrested last night on suspicion of involvement in a violent incident near the Moreno farm, in the Beitar Illit area.]]></description>
@@ -52,7 +73,7 @@
             <pubDate>Sun, 26 Jul 2026 07:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tal Yinon Derdik's mother cries out: 'Everyone is silent']]></title>
+            <title><![CDATA[Tal Yinon Derdik's mother protests: 'Everyone is silent']]></title>
             <description><![CDATA[Mother of detained Tal Yinon Derdik speaks to Dr. Chana Katan, launching a blistering attack on authorities and revealing details of his hunger strike and harsh detention reality.]]></description>
             <link>https://www.israelnationalnews.com/news/430760</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690552</guid>
@@ -60,22 +81,22 @@
         </item>
         <item>
             <title><![CDATA[Defense establishment warns of potential Intifada in Judea and Samaria]]></title>
-            <description><![CDATA[Security officials say they are detecting a shift in Arab behavior and are warning of the possibility of a broad popular uprising following the terrorist attacks over the past week.]]></description>
-            <link>https://www.israelnationalnews.com/news/430759</link>
+            <description><![CDATA[Defense establishment warns of potential Intifada in Judea and Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690551</guid>
             <pubDate>Sun, 26 Jul 2026 06:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Religious Zionism launches primaries]]></title>
-            <description><![CDATA[170 members of the Religious Zionism Party's central committee will decide today among ten candidates seeking to secure a place on the party's Knesset slate.]]></description>
-            <link>https://www.israelnationalnews.com/news/430757</link>
+            <description><![CDATA[Religious Zionism launches primaries]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690550</guid>
             <pubDate>Sun, 26 Jul 2026 06:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Outcry over IDF dismissal: Minister Smotrich calls on IDF Chief to revoke punishment]]></title>
-            <description><![CDATA[Minister Smotrich appeals to IDF Chief following dismissal of soldier who posted video supporting his party: 'Punishment is disproportionate. Reinstate soldier to active service.']]></description>
-            <link>https://www.israelnationalnews.com/news/430756</link>
+            <description><![CDATA[Outcry over IDF dismissal: Minister Smotrich calls on IDF Chief to revoke punishment]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690549</guid>
             <pubDate>Sun, 26 Jul 2026 05:51:00 GMT</pubDate>
         </item>
@@ -2787,27 +2808,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690163</guid>
             <pubDate>Mon, 20 Jul 2026 19:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jordanian military intercepts three Iranian missiles]]></title>
-            <description><![CDATA[Jordanian military intercepts three Iranian missiles]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690162</guid>
-            <pubDate>Mon, 20 Jul 2026 18:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ministers Katz, Sofer hold online meeting with Lone Soldier's parents]]></title>
-            <description><![CDATA[Ministers Katz, Sofer hold online meeting with Lone Soldier's parents]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690161</guid>
-            <pubDate>Mon, 20 Jul 2026 18:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seconds before impact: IDF aborts strike on Israeli civilians]]></title>
-            <description><![CDATA[Seconds before impact: IDF aborts strike on Israeli civilians]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690160</guid>
-            <pubDate>Mon, 20 Jul 2026 18:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

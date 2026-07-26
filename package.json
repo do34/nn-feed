@@ -1,0 +1,31 @@
+{
+  "name": "nn-feed",
+  "version": "1.0.0",
+  "description": "Scrape Israel National News flashes and generate an RSS file locally (no upload).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "preinstall": "export PUPPETEER_PRODUCT=firefox npm install puppeteer && npx puppeteer browsers install firefox",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do34/nn-feed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/do34/nn-feed/issues"
+  },
+  "homepage": "https://github.com/do34/nn-feed#readme",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "puppeteer": "^24.12.1",
+    "puppeteer-extra": "3.3.6",
+    "puppeteer-extra-plugin-block-resources": "^2.4.3",
+    "puppeteer-firefox": "^0.5.1",
+    "rss": "^1.2.2"
+  }
+}

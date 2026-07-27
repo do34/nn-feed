@@ -4,11 +4,48 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 16:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 18:24:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 16:20:28 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 18:24:55 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Newly released footage: Graham says he'll lobby Trump to strike Lebanon, Netanyahu refuses]]></title>
+            <description><![CDATA[Unseen footage shared by CNN's Inside Politics captures a phone call between Senator Graham and Prime Minister Netanyahu, in which Graham says he will try to persuade President Trump to strike Lebanon, but Netanyahu turns down the offer.]]></description>
+            <link>https://www.israelnationalnews.com/news/430848</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690664</guid>
+            <pubDate>Mon, 27 Jul 2026 18:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airports Authority: Malfunction expected to disrupt flight schedules]]></title>
+            <description><![CDATA[The Israel Airports Authority announced that flight schedules across European airspace are expected to be disrupted due to a malfunction in the Eurocontrol system in Brussels.
+
+According to the statement, there is a high likelihood of prolonged delays affecting both departing and arriving flights in the coming hours, until the technical issue is resolved and normal operations resume.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690662</guid>
+            <pubDate>Mon, 27 Jul 2026 17:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['When the wicked perish': Haredi extremists celebrate death of IDF integration advocate]]></title>
+            <description><![CDATA['When the wicked perish': Haredi extremists celebrate death of IDF integration advocate]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690661</guid>
+            <pubDate>Mon, 27 Jul 2026 17:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump: 'We have disagreements with Netanyahu, but our positions on Iran are close']]></title>
+            <description><![CDATA[Speaking to reporters aboard Air Force One, US President Donald Trump said there are 'some disagreements' with PM Benjamin Netanyahu, but stressed that the positions of the US and Israel on Iran are 'pretty close.']]></description>
+            <link>https://www.israelnationalnews.com/news/430846</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690660</guid>
+            <pubDate>Mon, 27 Jul 2026 17:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Jew Derangement Syndrome' | Trump Shares Scathing Post Slamming Tucker Carlson]]></title>
+            <description><![CDATA['Jew Derangement Syndrome' | Trump Shares Scathing Post Slamming Tucker Carlson]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690659</guid>
+            <pubDate>Mon, 27 Jul 2026 16:51:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two years in waiting: Rom Braslavski completes Torah started during his captivity]]></title>
             <description><![CDATA[The final letter of the Torah scroll was left unfinished throughout Rom Braslavski's captivity, waiting for him to complete it after returning home.]]></description>
@@ -25,8 +62,8 @@
         </item>
         <item>
             <title><![CDATA[IDF eliminates Islamic Jihad terrorist involved in hostage release]]></title>
-            <description><![CDATA[IDF eliminates Islamic Jihad terrorist involved in hostage release]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[The IDF said it eliminated an Islamic Jihad Nukhba terrorist involved in an Israeli hostage's release and a Hamas commander in separate Gaza strikes.]]></description>
+            <link>https://www.israelnationalnews.com/news/430842</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690655</guid>
             <pubDate>Mon, 27 Jul 2026 15:54:00 GMT</pubDate>
         </item>
@@ -39,8 +76,8 @@
         </item>
         <item>
             <title><![CDATA[MK Uri Maklev attacks Religious Zionism]]></title>
-            <description><![CDATA[MK Uri Maklev attacks Religious Zionism]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[MK Uri Maklev slams approach of combining Torah study with military service, saying it is 'the greatest damage' facing the haredi public and 'will not be forgiven.' Rabbi Chaim Navon calls his bluff.]]></description>
+            <link>https://www.israelnationalnews.com/news/430840</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690653</guid>
             <pubDate>Mon, 27 Jul 2026 15:21:00 GMT</pubDate>
         </item>
@@ -60,19 +97,15 @@
         </item>
         <item>
             <title><![CDATA[Drone located near Kibbutz Nahal Oz found to be IDF drone]]></title>
-            <description><![CDATA[A short while ago, a drone was located in the area of Kibbutz Nahal Oz.
-
-Following a review, it was determined to be an IDF drone.
-
-There is no suspicion of a security incident. The incident is under review.]]></description>
+            <description><![CDATA[Drone located near Kibbutz Nahal Oz found to be IDF drone]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690650</guid>
             <pubDate>Mon, 27 Jul 2026 14:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Footage shows attack and theft of soldier's weapon in Susya]]></title>
-            <description><![CDATA[Security forces arrest four terrorists who were involved in the assault on an off-duty IDF soldier and the theft of his weapon over the weekend.]]></description>
-            <link>https://www.israelnationalnews.com/news/430833</link>
+            <description><![CDATA[Footage shows attack and theft of soldier's weapon in Susya]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690649</guid>
             <pubDate>Mon, 27 Jul 2026 14:33:00 GMT</pubDate>
         </item>
@@ -2777,41 +2810,6 @@ There is no suspicion of a security incident. The incident is under review.]]></
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690264</guid>
             <pubDate>Wed, 22 Jul 2026 00:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report in Iran: US strikes target Behbahan and Omidiyeh regions]]></title>
-            <description><![CDATA[Report in Iran: US strikes target Behbahan and Omidiyeh regions]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690263</guid>
-            <pubDate>Wed, 22 Jul 2026 00:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Air defense systems activated in Tehran]]></title>
-            <description><![CDATA[Air defense systems activated in Tehran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690262</guid>
-            <pubDate>Tue, 21 Jul 2026 23:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US begins striking military targets in Iran for the 11th consecutive night]]></title>
-            <description><![CDATA[US begins striking military targets in Iran for the 11th consecutive night]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690261</guid>
-            <pubDate>Tue, 21 Jul 2026 23:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran: Gas leak causes explosion in Tehran, no injuries]]></title>
-            <description><![CDATA[Iran: Gas leak causes explosion in Tehran, no injuries]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690260</guid>
-            <pubDate>Tue, 21 Jul 2026 23:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poll: Netanyahu and Eisenkot tied]]></title>
-            <description><![CDATA[Poll: Netanyahu and Eisenkot tied]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690259</guid>
-            <pubDate>Tue, 21 Jul 2026 23:15:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

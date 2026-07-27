@@ -4,22 +4,120 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 09:39:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 12:45:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 09:39:31 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 12:45:03 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
+            <title><![CDATA[Truck plows into vehicles after overturning at gas station]]></title>
+            <description><![CDATA[Truck overturns at gas station near Sha'ar Hagai interchange, crashing into several vehicles and trapping one victim.]]></description>
+            <link>https://www.israelnationalnews.com/news/430830</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690642</guid>
+            <pubDate>Mon, 27 Jul 2026 12:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tal Yinon Dardik, detained at the Russian Compound, evacuated to hospital due to low pulse rate]]></title>
+            <description><![CDATA[Tal Yinon Dardik, detained at the Russian Compound, evacuated to hospital due to low pulse rate]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690641</guid>
+            <pubDate>Mon, 27 Jul 2026 12:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Gvir discloses Barghouti urged Arab parties to unite against prison reforms]]></title>
+            <description><![CDATA[Ben Gvir discloses Barghouti urged Arab parties to unite against prison reforms]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690640</guid>
+            <pubDate>Mon, 27 Jul 2026 12:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The International Courts are sitting ducks]]></title>
+            <description><![CDATA[Marco Rubio gunning for the ICC could take an object lesson from Trump’s learning curve. The longer he sought to make Tehran’s Mullahs and Mafiosi respect his MOM (Memorandum of Misunderstanding) the more he realised they were “scum" “liars" and “sick." Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/430831</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690639</guid>
+            <pubDate>Mon, 27 Jul 2026 12:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A terrorist involved in stealing a weapon during Sussia attack turns himself in to security forces]]></title>
+            <description><![CDATA[One of the terrorists involved in stealing a weapon during the attack in Sussia has turned himself in to Israeli security forces, according to a report by Nitzan Shapira on Channel 12 News.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690638</guid>
+            <pubDate>Mon, 27 Jul 2026 12:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's behind the pause in US strikes?]]></title>
+            <description><![CDATA[i24 political correspondent Guy Azriel believes that the halt in the American attacks is purely tactical: "We are far from the end of this story."]]></description>
+            <link>https://www.israelnationalnews.com/news/430829</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690637</guid>
+            <pubDate>Mon, 27 Jul 2026 11:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu takes off for Washington]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu takes off for diplomatic visit to Washington, focusing on Iranian threat, expansion of Abraham Accords.]]></description>
+            <link>https://www.israelnationalnews.com/news/430827</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690636</guid>
+            <pubDate>Mon, 27 Jul 2026 11:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two Israelis detained after crossing into Syria from Mount Hermon]]></title>
+            <description><![CDATA[Two Israeli civilians cross border into Syrian territory, are located by IDF troops, returned to Israel, and detained.]]></description>
+            <link>https://www.israelnationalnews.com/news/430828</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690635</guid>
+            <pubDate>Mon, 27 Jul 2026 11:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Study warns: Unelected officials weakening Knesset authority]]></title>
+            <description><![CDATA[New Yachin Center study warns balance of power has shifted from elected lawmakers to the Knesset's legal bureaucracy, calls for reforms to restore legislative authority to members of Knesset.]]></description>
+            <link>https://www.israelnationalnews.com/news/430825</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690634</guid>
+            <pubDate>Mon, 27 Jul 2026 11:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MK Saada to Arutz Sheva: The new details shaking Netanyahu's Trial]]></title>
+            <description><![CDATA[MK Moshe Saada reveals a new detail about the examination of the interrogation tactics for Nir Hefetz.]]></description>
+            <link>https://www.israelnationalnews.com/news/430826</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690633</guid>
+            <pubDate>Mon, 27 Jul 2026 11:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Massive fire erupts in Sderot industrial zone]]></title>
+            <description><![CDATA[Watch: Massive fire erupts in Sderot industrial zone]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690632</guid>
+            <pubDate>Mon, 27 Jul 2026 10:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bennett: I will declare Qatar an enemy state]]></title>
+            <description><![CDATA[Bennett: I will declare Qatar an enemy state]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690631</guid>
+            <pubDate>Mon, 27 Jul 2026 09:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jordanian military says it intercepted 2 UAVs]]></title>
+            <description><![CDATA[Jordanian military says it intercepted 2 UAVs]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690630</guid>
+            <pubDate>Mon, 27 Jul 2026 09:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eldar wrote 'it's a mess here' - and disappeared]]></title>
+            <description><![CDATA[Eldar wrote 'it's a mess here' - and disappeared]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690629</guid>
+            <pubDate>Mon, 27 Jul 2026 09:39:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Joint Ops & Counterterror efforts: Shin Bet Chief Zini makes 1rst official visit to YAMAM]]></title>
-            <description><![CDATA[The head of the Shin Bet paid his first official working visit to the Border Police National Counter-Terrorism Unit and agreed to deepen operational and technological coordination.]]></description>
-            <link>https://www.israelnationalnews.com/news/430822</link>
+            <description><![CDATA[Joint Ops & Counterterror efforts: Shin Bet Chief Zini makes 1rst official visit to YAMAM]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690628</guid>
             <pubDate>Mon, 27 Jul 2026 09:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Supreme Court declines to halt gender-separate study law]]></title>
-            <description><![CDATA[MK Limor Son Har-Melech hails Supreme Court's refusal to suspend the law permitting gender-separated academic programs, urges universities to begin implementing it.]]></description>
-            <link>https://www.israelnationalnews.com/news/430814</link>
+            <description><![CDATA[Supreme Court declines to halt gender-separate study law]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690627</guid>
             <pubDate>Mon, 27 Jul 2026 08:35:00 GMT</pubDate>
         </item>
@@ -32,9 +130,7 @@
         </item>
         <item>
             <title><![CDATA[IDF intercepts two UAVs identified in near Jordan-Israel border]]></title>
-            <description><![CDATA[Two UAVs intercepted near Israel-Jordan border; IDF investigating.
-
-Read more]]></description>
+            <description><![CDATA[IDF intercepts two UAVs identified in near Jordan-Israel border]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690625</guid>
             <pubDate>Mon, 27 Jul 2026 07:59:00 GMT</pubDate>
@@ -48,8 +144,8 @@ Read more]]></description>
         </item>
         <item>
             <title><![CDATA[Response to terror: Eight new outposts within days]]></title>
-            <description><![CDATA[Eight new outposts, including two in Area B, established since deadly Havat Gilad terror attack.]]></description>
-            <link>https://www.israelnationalnews.com/news/430813</link>
+            <description><![CDATA[Response to terror: Eight new outposts within days]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690623</guid>
             <pubDate>Mon, 27 Jul 2026 07:36:00 GMT</pubDate>
         </item>
@@ -62,8 +158,8 @@ Read more]]></description>
         </item>
         <item>
             <title><![CDATA[Rare First Temple mold discovered beneath Tower of David]]></title>
-            <description><![CDATA[Archaeologists uncover first known mold used to produce First Temple-era female figurines in Jerusalem, offering direct evidence the artifacts were manufactured in the city nearly 2,600 years ago.]]></description>
-            <link>https://www.israelnationalnews.com/news/430810</link>
+            <description><![CDATA[Rare First Temple mold discovered beneath Tower of David]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690621</guid>
             <pubDate>Mon, 27 Jul 2026 06:30:00 GMT</pubDate>
         </item>
@@ -76,8 +172,8 @@ Read more]]></description>
         </item>
         <item>
             <title><![CDATA[The choice that will shape the new Middle East]]></title>
-            <description><![CDATA[As the world celebrated the collapse of apartheid, communism, and Nazism, so too the day will eventually come when Islamist terrorism meets the same fate. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/430809</link>
+            <description><![CDATA[The choice that will shape the new Middle East]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690619</guid>
             <pubDate>Mon, 27 Jul 2026 05:37:00 GMT</pubDate>
         </item>
@@ -2712,104 +2808,6 @@ Read more]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690244</guid>
             <pubDate>Tue, 21 Jul 2026 17:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tisha B’Av: Remembering our brokenness, renewing our hope]]></title>
-            <description><![CDATA[Tisha B’Av: Remembering our brokenness, renewing our hope]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690243</guid>
-            <pubDate>Tue, 21 Jul 2026 17:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Religious Zionist rabbis defend IDF against haredi leader]]></title>
-            <description><![CDATA[Religious Zionist rabbis defend IDF against haredi leader]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690242</guid>
-            <pubDate>Tue, 21 Jul 2026 17:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF eliminates weapons smuggling terrorists in Gaza]]></title>
-            <description><![CDATA[IDF eliminates weapons smuggling terrorists in Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690241</guid>
-            <pubDate>Tue, 21 Jul 2026 16:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF refutes Lebanese army's claims]]></title>
-            <description><![CDATA[IDF refutes Lebanese army's claims]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690240</guid>
-            <pubDate>Tue, 21 Jul 2026 16:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[50-50 initiative pushes for equal representation in Knesset]]></title>
-            <description><![CDATA[50-50 initiative pushes for equal representation in Knesset]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690239</guid>
-            <pubDate>Tue, 21 Jul 2026 15:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump: 'A lot more countries will join the Abraham Accords soon']]></title>
-            <description><![CDATA[Trump: 'A lot more countries will join the Abraham Accords soon']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690238</guid>
-            <pubDate>Tue, 21 Jul 2026 15:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump calls Iranian regime 'savages' after execution of protester]]></title>
-            <description><![CDATA[Trump calls Iranian regime 'savages' after execution of protester]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690237</guid>
-            <pubDate>Tue, 21 Jul 2026 15:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For Tanakh will go forth from Gush Etzion...]]></title>
-            <description><![CDATA[For Tanakh will go forth from Gush Etzion...]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690236</guid>
-            <pubDate>Tue, 21 Jul 2026 15:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former Sanders staffer claims he backed antisemitic candidates]]></title>
-            <description><![CDATA[Former Sanders staffer claims he backed antisemitic candidates]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690235</guid>
-            <pubDate>Tue, 21 Jul 2026 14:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Investigation: Hamas planned massive Oct. 7-style attacks across Europe]]></title>
-            <description><![CDATA[Investigation: Hamas planned massive Oct. 7-style attacks across Europe]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690234</guid>
-            <pubDate>Tue, 21 Jul 2026 14:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Last year's Bunker-Buster success may not be repeatable at Pickaxe Mountain]]></title>
-            <description><![CDATA[Last year's Bunker-Buster success may not be repeatable at Pickaxe Mountain]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690233</guid>
-            <pubDate>Tue, 21 Jul 2026 13:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Viagra study points to possible role in slowing cancer spread]]></title>
-            <description><![CDATA[Viagra study points to possible role in slowing cancer spread]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690232</guid>
-            <pubDate>Tue, 21 Jul 2026 13:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arkia expands New York-Tel Aviv service]]></title>
-            <description><![CDATA[Arkia expands New York-Tel Aviv service]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690231</guid>
-            <pubDate>Tue, 21 Jul 2026 13:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airports Authority Dir: We'll have to cancel flights if any more refueling planes come]]></title>
-            <description><![CDATA[Airports Authority Dir: We'll have to cancel flights if any more refueling planes come]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690230</guid>
-            <pubDate>Tue, 21 Jul 2026 13:06:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

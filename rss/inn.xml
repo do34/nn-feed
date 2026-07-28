@@ -4,11 +4,62 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 17:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 19:24:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 17:27:50 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 19:24:03 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Sirens in Nahal Oz were false alarm]]></title>
+            <description><![CDATA[Sirens in Nahal Oz were false alarm]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690741</guid>
+            <pubDate>Tue, 28 Jul 2026 19:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sirens sound in the area of Nahal Oz]]></title>
+            <description><![CDATA[Initial report - Sirens sound in the area of Nahal Oz. The details are under review.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690740</guid>
+            <pubDate>Tue, 28 Jul 2026 19:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Qatar attacks, Bennett fires back: 'You won't buy me with money']]></title>
+            <description><![CDATA[Qatar attacks, Bennett fires back: 'You won't buy me with money']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690739</guid>
+            <pubDate>Tue, 28 Jul 2026 18:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu calls White House meeting 'one of my best conversations' with President Trump]]></title>
+            <description><![CDATA[Netanyahu calls White House meeting 'one of my best conversations' with President Trump]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690738</guid>
+            <pubDate>Tue, 28 Jul 2026 18:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heated clash at the UN: 'Unthinkable hypocrisy, Hamas will not change']]></title>
+            <description><![CDATA[Heated clash at the UN: 'Unthinkable hypocrisy, Hamas will not change']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690737</guid>
+            <pubDate>Tue, 28 Jul 2026 18:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interceptor mistaenly launched in response to IDF artillery fire]]></title>
+            <description><![CDATA[A short while ago, an interceptor was mistakenly launched toward IDF artillery fire directed at Lebanon. The incident is under review.
+
+No sirens were sounded in accordance with protocol.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690736</guid>
+            <pubDate>Tue, 28 Jul 2026 17:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antisemitism in Toronto: Shooting near headquarters of Jewish-owned security company]]></title>
+            <description><![CDATA[Attacks targeting Jewish institutions in Toronto continued after gunfire damage was discovered near a Jewish-owned business, prompting Canada's Prime Minister to order a thorough investigation.]]></description>
+            <link>https://www.israelnationalnews.com/news/430904</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690735</guid>
+            <pubDate>Tue, 28 Jul 2026 17:35:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blue-White achievement | Cyera acquires Israeli startup in $1 billion deal]]></title>
             <description><![CDATA[The Israeli cybersecurity company Cyera announces the acquisition of cybersecurity firm Oasis Security in a massive deal valued at $1 billion.]]></description>
@@ -32,8 +83,8 @@
         </item>
         <item>
             <title><![CDATA[Is Judea and Samaria quickly becoming the new Gaza?]]></title>
-            <description><![CDATA[Help the Schwell family rebuild after a devastating fire destroyed their home. Your support can help provide clothing, essentials, and a path toward rebuilding their lives.]]></description>
-            <link>https://www.israelnationalnews.com/news/430895</link>
+            <description><![CDATA[Is Judea and Samaria quickly becoming the new Gaza?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690731</guid>
             <pubDate>Tue, 28 Jul 2026 16:24:00 GMT</pubDate>
         </item>
@@ -46,8 +97,8 @@
         </item>
         <item>
             <title><![CDATA[Memorial event for Lindsey Graham | 'Israel has lost one of its greatest friends']]></title>
-            <description><![CDATA[Prime Minister Netanyahu participated in a special event held in Washington in memory of the late American lawmaker.]]></description>
-            <link>https://www.israelnationalnews.com/news/430898</link>
+            <description><![CDATA[Memorial event for Lindsey Graham | 'Israel has lost one of its greatest friends']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690729</guid>
             <pubDate>Tue, 28 Jul 2026 16:20:00 GMT</pubDate>
         </item>
@@ -59,28 +110,22 @@
             <pubDate>Tue, 28 Jul 2026 15:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[High Court interim order halts arrests of draft dodgers]]></title>
-            <description><![CDATA[The High Court of Justice issued an interim order suspending the implementation of the law freezing the arrest of draft dodgers.]]></description>
-            <link>https://www.israelnationalnews.com/news/430897</link>
+            <title><![CDATA[High Court interim order freezes law barring arrests of draft dodgers]]></title>
+            <description><![CDATA[High Court interim order freezes law barring arrests of draft dodgers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690727</guid>
             <pubDate>Tue, 28 Jul 2026 15:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump jabs at Netanyahu ahead of White House meeting]]></title>
-            <description><![CDATA[Trump took a dig at Netanyahu, saying he did not need his updates on Iran and made it clear that he would prefer an agreement to war at this stage.]]></description>
-            <link>https://www.israelnationalnews.com/news/430894</link>
+            <description><![CDATA[Trump jabs at Netanyahu ahead of White House meeting]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690726</guid>
             <pubDate>Tue, 28 Jul 2026 14:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF elimnates Nukhba commander who abducted civilians]]></title>
-            <description><![CDATA[Yesterday (Monday), the IDF struck in the area of Khan Yunis and eliminated the terrorist Muhammad Khalil Muhammad Aslam, a Nukhba platoon commander in the PIJ terrorist organization.
-
-During the October 7th Massacre, Aslam commanded a terrorist cell that participated in the abduction of Israeli civilians.
-
-In recent months, Aslam advanced attacks targeting IDF troops and Israeli civilians.
-
-The terrorist posed an immediate threat and was eliminated in a precise aerial strike.]]></description>
+            <description><![CDATA[IDF elimnates Nukhba commander who abducted civilians]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690725</guid>
             <pubDate>Tue, 28 Jul 2026 14:35:00 GMT</pubDate>
@@ -2765,55 +2810,6 @@ The terrorist posed an immediate threat and was eliminated in a precise aerial s
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690341</guid>
             <pubDate>Wed, 22 Jul 2026 20:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK evacuates diplomatic staff from Tehran]]></title>
-            <description><![CDATA[UK evacuates diplomatic staff from Tehran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690340</guid>
-            <pubDate>Wed, 22 Jul 2026 19:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erdan and Edelstein to establish party without Shaked]]></title>
-            <description><![CDATA[Erdan and Edelstein to establish party without Shaked]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690339</guid>
-            <pubDate>Wed, 22 Jul 2026 19:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: US probing possible Russian role in Iranian drone attacks on CIA sites]]></title>
-            <description><![CDATA[Report: US probing possible Russian role in Iranian drone attacks on CIA sites]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690338</guid>
-            <pubDate>Wed, 22 Jul 2026 19:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Gvir visits Tal Yinon Derdik in prison]]></title>
-            <description><![CDATA[Ben Gvir visits Tal Yinon Derdik in prison]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690337</guid>
-            <pubDate>Wed, 22 Jul 2026 19:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kan News: US notified Israel of intention to use heavy bombers in strikes on Iran]]></title>
-            <description><![CDATA[Kan News: US notified Israel of intention to use heavy bombers in strikes on Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690336</guid>
-            <pubDate>Wed, 22 Jul 2026 18:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran threatens to cut off US allies' electricity if US strikes infrastructure]]></title>
-            <description><![CDATA[Iran threatens to cut off US allies' electricity if US strikes infrastructure]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690335</guid>
-            <pubDate>Wed, 22 Jul 2026 18:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OU to Mamdani: 'Focus on NY's needs instead of playing prosecutor for the cameras']]></title>
-            <description><![CDATA[OU to Mamdani: 'Focus on NY's needs instead of playing prosecutor for the cameras']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690334</guid>
-            <pubDate>Wed, 22 Jul 2026 18:18:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

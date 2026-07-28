@@ -4,11 +4,80 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 12:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 15:22:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 12:54:14 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 15:22:00 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump jabs at Netanyahu ahead of White House meeting]]></title>
+            <description><![CDATA[Trump took a dig at Netanyahu, saying he did not need his updates on Iran and made it clear that he would prefer an agreement to war at this stage.]]></description>
+            <link>https://www.israelnationalnews.com/news/430894</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690726</guid>
+            <pubDate>Tue, 28 Jul 2026 14:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF elimnates Nukhba commander who abducted civilians]]></title>
+            <description><![CDATA[Yesterday (Monday), the IDF struck in the area of Khan Yunis and eliminated the terrorist Muhammad Khalil Muhammad Aslam, a Nukhba platoon commander in the PIJ terrorist organization.
+
+During the October 7th Massacre, Aslam commanded a terrorist cell that participated in the abduction of Israeli civilians.
+
+In recent months, Aslam advanced attacks targeting IDF troops and Israeli civilians.
+
+The terrorist posed an immediate threat and was eliminated in a precise aerial strike.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690725</guid>
+            <pubDate>Tue, 28 Jul 2026 14:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brig. Gen. Erez Winner warns: 'The next October 7th will be worse']]></title>
+            <description><![CDATA[Brig. Gen. Erez Winner warns: 'The next October 7th will be worse']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690724</guid>
+            <pubDate>Tue, 28 Jul 2026 14:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Gvir and Smotrich embrace on stage: 'Don't believe the media']]></title>
+            <description><![CDATA[After his interview at the Channel 14 conference, Itamar Ben Gvir was joined on stage by Finance Minister Bezalel Smotrich, where the two embraced and insisted there was no rivalry between them.]]></description>
+            <link>https://www.israelnationalnews.com/news/430889</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690723</guid>
+            <pubDate>Tue, 28 Jul 2026 13:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tanya/ Iggeres Ha’Kodesh - The Holy Epistle,]]></title>
+            <description><![CDATA[Tanya/ Iggeres Ha’Kodesh - The Holy Epistle,]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690722</guid>
+            <pubDate>Tue, 28 Jul 2026 13:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mall, bridge collapse: Dead and trapped after powerful earthquake in Japan]]></title>
+            <description><![CDATA[A 7.1-magnitude earthquake that struck the southwest of Japan led to the collapse of a floor at a local shopping mall. A large number of deaths and trapped people were reported]]></description>
+            <link>https://www.israelnationalnews.com/news/430891</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690721</guid>
+            <pubDate>Tue, 28 Jul 2026 13:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blessing over the Mezuzah and different cusoms regarding Tefillin]]></title>
+            <description><![CDATA[Blessing over the Mezuzah and different cusoms regarding Tefillin]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690720</guid>
+            <pubDate>Tue, 28 Jul 2026 13:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When anti-Trump media went from fact to fiction]]></title>
+            <description><![CDATA[How did they feel about Joe Biden, their Democrat? They loved him...Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/430888</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690719</guid>
+            <pubDate>Tue, 28 Jul 2026 13:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shas Torah Sages: 'It is forbidden to draft yeshiva students']]></title>
+            <description><![CDATA[Shas Torah Sages: 'It is forbidden to draft yeshiva students']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690718</guid>
+            <pubDate>Tue, 28 Jul 2026 13:32:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mansour Abbas refuses to condemn Hamas]]></title>
             <description><![CDATA[In response to the question of whether Hamas is a terrorist organization that should be destroyed, Ra'am chairman Mansour Abbas replied, 'I don't want to give you a straight answer.']]></description>
@@ -18,66 +87,64 @@
         </item>
         <item>
             <title><![CDATA[After manhunt, police arrest suspect in Benyahu Razi murder]]></title>
-            <description><![CDATA[Avior Sasson, the primary suspect in the murder of Benyahu Razi, was arrested today.]]></description>
-            <link>https://www.israelnationalnews.com/news/430886</link>
+            <description><![CDATA[After manhunt, police arrest suspect in Benyahu Razi murder]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690716</guid>
             <pubDate>Tue, 28 Jul 2026 12:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Liberman vs Gush Etzion governor in memory of soldier]]></title>
-            <description><![CDATA[Residents and public officials, including MK Avigdor Liberman and Gush Etzion Regional Council head Yaron Rosenthal, gathered in Nokedim for a soccer tournament commemorating fallen soldier Naveh Leshem.]]></description>
-            <link>https://www.israelnationalnews.com/news/430884</link>
+            <description><![CDATA[Watch: Liberman vs Gush Etzion governor in memory of soldier]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690715</guid>
             <pubDate>Tue, 28 Jul 2026 12:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indictment filed against 16-year-old who planned to carry out attack in Neve Daniel]]></title>
-            <description><![CDATA[The military prosecution has filed an indictment against a 16-year-old Palestinian Arab from the village of Nahalin, alleging that he planned to carry out a stabbing attack in the community of Neve Daniel.
-
-According to the Israel Police, the suspect armed himself with a knife, switched his mobile phone to airplane mode to avoid being tracked, and set out toward the community. Investigators allege that he later changed his mind and hid the knife before being detained by Neve Daniel's civilian security coordinator and IDF troops. The knife was later recovered after the suspect allegedly led investigators to its location during a reconstruction of the events.]]></description>
+            <description><![CDATA[Indictment filed against 16-year-old who planned to carry out attack in Neve Daniel]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690714</guid>
             <pubDate>Tue, 28 Jul 2026 11:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gulf States back Oman's Hormuz plan with Iran]]></title>
-            <description><![CDATA[Reuters reports Gulf states support Oman's proposal for a joint mechanism with Iran to manage the Strait of Hormuz through voluntary user fees.]]></description>
-            <link>https://www.israelnationalnews.com/news/430883</link>
+            <description><![CDATA[Gulf States back Oman's Hormuz plan with Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690713</guid>
             <pubDate>Tue, 28 Jul 2026 11:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rabbi Haim Sabato named recipient of Presidential Medal of Honor]]></title>
-            <description><![CDATA[President Isaac Herzog named Rabbi Haim Sabato among 11 recipients of the 2026 Presidential Medal of Honor for his lifelong contributions to Torah, education and literature.]]></description>
-            <link>https://www.israelnationalnews.com/news/430882</link>
+            <description><![CDATA[Rabbi Haim Sabato named recipient of Presidential Medal of Honor]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690712</guid>
             <pubDate>Tue, 28 Jul 2026 11:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defense Minister cancels expulsion order against farmer]]></title>
-            <description><![CDATA[Defense Minister Israel Katz instructed that an expulsion order issued against Israeli farmer Tal Yinon Dardik not be renewed.]]></description>
-            <link>https://www.israelnationalnews.com/news/430881</link>
+            <description><![CDATA[Defense Minister cancels expulsion order against farmer]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690711</guid>
             <pubDate>Tue, 28 Jul 2026 10:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF prepares to seize another Judea and Samaria 'refugee' camp]]></title>
-            <description><![CDATA[Defense Minister Israel Katz ordered the IDF to expand counterterror operations and prepare to take control of another terrorist stronghold in Judea and Samaria.]]></description>
-            <link>https://www.israelnationalnews.com/news/430880</link>
+            <description><![CDATA[IDF prepares to seize another Judea and Samaria 'refugee' camp]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690710</guid>
             <pubDate>Tue, 28 Jul 2026 10:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Minister Katz instructs IDF to prepare to take control of another Palestinian Arab 'refugee' camp]]></title>
-            <description><![CDATA[Defense Minister Israel Katz has instructed the IDF to expand its offensive operations against Palestinian Arab terrorism in Judea and Samaria and to prepare to take control of another 'refugee' camp, following the model implemented in Jenin, Tulkarm, and Nur Shams.]]></description>
+            <description><![CDATA[Minister Katz instructs IDF to prepare to take control of another Palestinian Arab 'refugee' camp]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690709</guid>
             <pubDate>Tue, 28 Jul 2026 10:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From Tanzania rescue to Bar Mitzvah: Boy's extraordinary journey]]></title>
-            <description><![CDATA[Six years after Yad L'Achim rescued an Israeli mother and her children from Tanzania, her eldest son celebrated his Bar Mitzvah in Israel.]]></description>
-            <link>https://www.israelnationalnews.com/news/430879</link>
+            <description><![CDATA[From Tanzania rescue to Bar Mitzvah: Boy's extraordinary journey]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690708</guid>
             <pubDate>Tue, 28 Jul 2026 10:11:00 GMT</pubDate>
         </item>
@@ -2747,69 +2814,6 @@ According to the Israel Police, the suspect armed himself with a knife, switched
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690326</guid>
             <pubDate>Wed, 22 Jul 2026 17:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reciting Shema with tefillin: Bar Kupershtein returns to where Hamas kidnapped him]]></title>
-            <description><![CDATA[Reciting Shema with tefillin: Bar Kupershtein returns to where Hamas kidnapped him]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690325</guid>
-            <pubDate>Wed, 22 Jul 2026 16:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I want newspapers:' Bnei Brak spy's petition to High Court]]></title>
-            <description><![CDATA['I want newspapers:' Bnei Brak spy's petition to High Court]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690324</guid>
-            <pubDate>Wed, 22 Jul 2026 16:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3.5 tons of drugs seized at Beirut Port]]></title>
-            <description><![CDATA[3.5 tons of drugs seized at Beirut Port]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690323</guid>
-            <pubDate>Wed, 22 Jul 2026 16:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Temple of Ahavat Chinam]]></title>
-            <description><![CDATA[A Temple of Ahavat Chinam]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690322</guid>
-            <pubDate>Wed, 22 Jul 2026 16:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM Netanyahu's Tisha B'Av message: 'Baseless hatred destroyed us, love rebuilt us']]></title>
-            <description><![CDATA[PM Netanyahu's Tisha B'Av message: 'Baseless hatred destroyed us, love rebuilt us']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690321</guid>
-            <pubDate>Wed, 22 Jul 2026 16:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ninth of Av: A magnificent tragedy]]></title>
-            <description><![CDATA[The Ninth of Av: A magnificent tragedy]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690320</guid>
-            <pubDate>Wed, 22 Jul 2026 16:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Tisha B’av called a festival?]]></title>
-            <description><![CDATA[Why is Tisha B’av called a festival?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690319</guid>
-            <pubDate>Wed, 22 Jul 2026 16:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Mamdani’s parents forged a Mayor who loathes Jews and Israel]]></title>
-            <description><![CDATA[How Mamdani’s parents forged a Mayor who loathes Jews and Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690318</guid>
-            <pubDate>Wed, 22 Jul 2026 15:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Terror in the guise of sport | Gazan soccer players exposed as terrorists]]></title>
-            <description><![CDATA[Terror in the guise of sport | Gazan soccer players exposed as terrorists]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690317</guid>
-            <pubDate>Wed, 22 Jul 2026 15:43:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

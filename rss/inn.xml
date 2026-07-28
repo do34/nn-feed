@@ -4,24 +4,131 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 00:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 04:10:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 00:03:04 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 04:10:13 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[Electric scooter rider seriously injured in Tel Aviv]]></title>
-            <description><![CDATA[A 36-year-old man was seriously injured while riding an electric scooter in Tel Aviv.
+            <title><![CDATA['We Will Dance Again': Boy George releases new single supporting Israel]]></title>
+            <description><![CDATA[Boy George releases "We Will Dance Again," a pop-reggae track backing Israel's war effort, invoking the Nova festival attack, and criticizing pro-Palestinian Arab artists.]]></description>
+            <link>https://www.israelnationalnews.com/news/430862</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690690</guid>
+            <pubDate>Tue, 28 Jul 2026 03:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[White House releases presidential schedule: Trump and Netanyahu to meet at 11:00 a.m. Eastern]]></title>
+            <description><![CDATA[The White House has released President Donald Trump's official schedule for Tuesday.
 
-Magen David Adom (MDA) EMTs and paramedics evacuated him to Ichilov Hospital.]]></description>
+According to the schedule, Trump's meeting with Prime Minister Benjamin Netanyahu is set to take place at 11:00 a.m. Washington time (6:00 p.m. Israel time).]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690689</guid>
+            <pubDate>Tue, 28 Jul 2026 03:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM Carney vows to combat antisemitism after attacks on Toronto Jewish bakeries]]></title>
+            <description><![CDATA[PM Carney vows to combat antisemitism after attacks on Toronto Jewish bakeries]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690688</guid>
+            <pubDate>Tue, 28 Jul 2026 03:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IAF intercepts a UAV in the area of the Jordan border]]></title>
+            <description><![CDATA[The IDF Spokesperson's Unit said that, a short while ago, the Israeli Air Force intercepted a UAV in the area of the Jordan border.
+
+The UAV did not cross into Israeli territory. The origin of the launch is under review. No sirens were sounded in accordance with protocol.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690687</guid>
+            <pubDate>Tue, 28 Jul 2026 03:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump to hold separate meetings with Netanyahu and Zelenskyy]]></title>
+            <description><![CDATA[Trump to hold separate meetings with Netanyahu and Zelenskyy]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690686</guid>
+            <pubDate>Tue, 28 Jul 2026 02:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rome to host US-led talks between Israel and Lebanon at the start of August]]></title>
+            <description><![CDATA[Trilateral talks between Israel, Lebanon, and the US will take place in Rome from August 4-6 to discuss border disputes and expanding southern Lebanon security zones, says a US official.]]></description>
+            <link>https://www.israelnationalnews.com/news/430859</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690685</guid>
+            <pubDate>Tue, 28 Jul 2026 02:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF: Sirens in Kissufim were a false identification]]></title>
+            <description><![CDATA[IDF: Sirens in Kissufim were a false identification]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690684</guid>
+            <pubDate>Tue, 28 Jul 2026 02:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home Front Command says incident in Kissufim has concluded]]></title>
+            <description><![CDATA[Home Front Command says incident in Kissufim has concluded]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690683</guid>
+            <pubDate>Tue, 28 Jul 2026 02:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sirens in Kissufim, located near the border with Gaza]]></title>
+            <description><![CDATA[Sirens in Kissufim, located near the border with Gaza]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690682</guid>
+            <pubDate>Tue, 28 Jul 2026 02:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Netanyahu to present Trump with proof of Iranian nuclear buildup]]></title>
+            <description><![CDATA[Prime Minister Netanyahu will present intelligence to President Trump showing Iran is installing centrifuges at Pickaxe Mountain and breaking ceasefire promises, reports The New York Post.]]></description>
+            <link>https://www.israelnationalnews.com/news/430858</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690681</guid>
+            <pubDate>Tue, 28 Jul 2026 02:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soldier dismissed after vandalizing South Lebanon Army memorial in Metula]]></title>
+            <description><![CDATA[Soldier dismissed after vandalizing South Lebanon Army memorial in Metula]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690680</guid>
+            <pubDate>Tue, 28 Jul 2026 01:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Danon wishes Netanyahu success in Washington]]></title>
+            <description><![CDATA[Danon wishes Netanyahu success in Washington]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690679</guid>
+            <pubDate>Tue, 28 Jul 2026 01:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senate advances Trump nominee for Director of National Intelligence]]></title>
+            <description><![CDATA[Senate advances Trump nominee for Director of National Intelligence]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690678</guid>
+            <pubDate>Tue, 28 Jul 2026 01:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran warns US: Threats against ships constitute an expansion of regional war]]></title>
+            <description><![CDATA[Iran warns US: Threats against ships constitute an expansion of regional war]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690677</guid>
+            <pubDate>Tue, 28 Jul 2026 00:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poll: Eisenkot’s party leads, Tropper and Hendel cross electoral threshold]]></title>
+            <description><![CDATA[Poll: Eisenkot’s party leads, Tropper and Hendel cross electoral threshold]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690676</guid>
+            <pubDate>Tue, 28 Jul 2026 00:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electric scooter rider seriously injured in Tel Aviv]]></title>
+            <description><![CDATA[Electric scooter rider seriously injured in Tel Aviv]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690675</guid>
             <pubDate>Mon, 27 Jul 2026 23:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Four days after attack: Palestinian Arab workers returning to Judea and Samaria]]></title>
-            <description><![CDATA[Four days after the fatal attack near Havat Gilad, the IDF announces that Palestinian Arab workers will be re-permitted into Israeli communities across Judea and Samaria starting on Tuesday.]]></description>
-            <link>https://www.israelnationalnews.com/news/430854</link>
+            <description><![CDATA[Four days after attack: Palestinian Arab workers returning to Judea and Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690674</guid>
             <pubDate>Mon, 27 Jul 2026 23:13:00 GMT</pubDate>
         </item>
@@ -48,40 +155,36 @@ Magen David Adom (MDA) EMTs and paramedics evacuated him to Ichilov Hospital.]]>
         </item>
         <item>
             <title><![CDATA[IDF on Eli Junction incident: Israeli struck after Arab vehicle lost control due to rock-throwing]]></title>
-            <description><![CDATA[The IDF Spokesperson's Unit commented on the incident in which a teenager was struck by a Palestinian Arab vehicle near the Eli Junction, stating: "IDF forces were dispatched a short time ago to the gas station area near Eli in the Samaria Regional Brigade sector. At the location, a gathering of Israeli citizens had assembled, blocking Palestinian vehicles and hurling rocks at them."
-
-The statement added: "Suspicions indicate that as a result of the rock-throwing, a Palestinian vehicle lost control and struck an Israeli citizen, who was evacuated to the hospital for medical treatment. The driver was detained at the scene by Judea and Samaria District Police, and an investigation into the circumstances of the incident is ongoing."
-
-Military authorities further confirmed that the incident is not being treated as a terror attack.]]></description>
+            <description><![CDATA[IDF on Eli Junction incident: Israeli struck after Arab vehicle lost control due to rock-throwing]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690670</guid>
             <pubDate>Mon, 27 Jul 2026 21:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[17-year-old hit by Palestinian Arab vehicle during demonstration near Eli]]></title>
-            <description><![CDATA[17-year-old struck by a Palestinian Arab vehicle during a protest at the Eli Junction. Magen David Adom and IDF medical personnel provide treatment and evacuate him to hospital.]]></description>
-            <link>https://www.israelnationalnews.com/news/430852</link>
+            <description><![CDATA[17-year-old hit by Palestinian Arab vehicle during demonstration near Eli]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690669</guid>
             <pubDate>Mon, 27 Jul 2026 21:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The rule only Republicans obey]]></title>
-            <description><![CDATA[The Republicans are bringing a knife to a gunfight. The Democrats will bring a tank if gifted the chance. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/430851</link>
+            <description><![CDATA[The rule only Republicans obey]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690668</guid>
             <pubDate>Mon, 27 Jul 2026 20:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Likud Central Committee approves all of Netanyahu's requests ahead of elections]]></title>
-            <description><![CDATA[The Likud Central Committee approves Netanyahu’s request for eight reserved slate spots, as well as a clause allowing sitting ministers and MKs to run in regional districts.]]></description>
-            <link>https://www.israelnationalnews.com/news/430850</link>
+            <description><![CDATA[Likud Central Committee approves all of Netanyahu's requests ahead of elections]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690667</guid>
             <pubDate>Mon, 27 Jul 2026 20:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gazan doctor bound with socks by fellow inmates]]></title>
-            <description><![CDATA[A report says fellow inmates tied up the Gazan doctor after accusing him of monitoring prison staff in a way they feared could bring collective punishment.]]></description>
-            <link>https://www.israelnationalnews.com/news/430849</link>
+            <description><![CDATA[Gazan doctor bound with socks by fellow inmates]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690666</guid>
             <pubDate>Mon, 27 Jul 2026 19:44:00 GMT</pubDate>
         </item>
@@ -2709,111 +2812,6 @@ Military authorities further confirmed that the incident is not being treated as
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690290</guid>
             <pubDate>Wed, 22 Jul 2026 10:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unprecedented: State seeks to strip citizenship from terrorists]]></title>
-            <description><![CDATA[Unprecedented: State seeks to strip citizenship from terrorists]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690289</guid>
-            <pubDate>Wed, 22 Jul 2026 09:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aliyah when Moshiach arrives]]></title>
-            <description><![CDATA[Aliyah when Moshiach arrives]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690288</guid>
-            <pubDate>Wed, 22 Jul 2026 08:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli assessment: US incapable of destroying 'Pickaxe Mountain']]></title>
-            <description><![CDATA[Israeli assessment: US incapable of destroying 'Pickaxe Mountain']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690287</guid>
-            <pubDate>Wed, 22 Jul 2026 08:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After 500 years, Spain returns to Al Andalusia]]></title>
-            <description><![CDATA[After 500 years, Spain returns to Al Andalusia]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690286</guid>
-            <pubDate>Wed, 22 Jul 2026 08:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nearly half of Israelis back nationwide Tisha B'Av closures]]></title>
-            <description><![CDATA[Nearly half of Israelis back nationwide Tisha B'Av closures]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690285</guid>
-            <pubDate>Wed, 22 Jul 2026 07:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arkia flight circles mid-air following Iranian launches towards Jordan]]></title>
-            <description><![CDATA[Arkia flight circles mid-air following Iranian launches towards Jordan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690284</guid>
-            <pubDate>Wed, 22 Jul 2026 07:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explosions heard in Eilat following Iranian launches towards Aqaba, Jordan]]></title>
-            <description><![CDATA[Explosions heard in Eilat following Iranian launches towards Aqaba, Jordan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690283</guid>
-            <pubDate>Wed, 22 Jul 2026 07:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYC Councilman blasts Mamdani's 'obsession' with Netanyahu]]></title>
-            <description><![CDATA[NYC Councilman blasts Mamdani's 'obsession' with Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690282</guid>
-            <pubDate>Wed, 22 Jul 2026 07:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The lies behind Mamdani’s Netanyahu stunt are the real threat]]></title>
-            <description><![CDATA[The lies behind Mamdani’s Netanyahu stunt are the real threat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690281</guid>
-            <pubDate>Wed, 22 Jul 2026 07:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Donkey found bound inside car trunk at Jerusalem checkpoint]]></title>
-            <description><![CDATA[Donkey found bound inside car trunk at Jerusalem checkpoint]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690280</guid>
-            <pubDate>Wed, 22 Jul 2026 07:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Civil Service Commission approves permanent Settlement Division]]></title>
-            <description><![CDATA[Civil Service Commission approves permanent Settlement Division]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690279</guid>
-            <pubDate>Wed, 22 Jul 2026 07:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meron rabbi urges modest dress at Rashbi tomb]]></title>
-            <description><![CDATA[Meron rabbi urges modest dress at Rashbi tomb]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690278</guid>
-            <pubDate>Wed, 22 Jul 2026 06:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Hamas tightens grip on Gaza]]></title>
-            <description><![CDATA[Report: Hamas tightens grip on Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690277</guid>
-            <pubDate>Wed, 22 Jul 2026 05:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The party that destroyed Jerusalem-and the lesson we still refuse to learn]]></title>
-            <description><![CDATA[The party that destroyed Jerusalem-and the lesson we still refuse to learn]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690276</guid>
-            <pubDate>Wed, 22 Jul 2026 05:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police bust 500M shekel fraud ring]]></title>
-            <description><![CDATA[Police bust 500M shekel fraud ring]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690275</guid>
-            <pubDate>Wed, 22 Jul 2026 05:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

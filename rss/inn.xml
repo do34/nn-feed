@@ -4,11 +4,64 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 21:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 22:59:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 21:08:25 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 22:59:14 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Footage from Israel of the interceptions in Jordan]]></title>
+            <description><![CDATA[Footage from Israel of the interceptions in Jordan]]></description>
+            <link>https://www.israelnationalnews.com/news/430913</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690752</guid>
+            <pubDate>Tue, 28 Jul 2026 22:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First time in days: Iran fires missiles at US base in Jordan]]></title>
+            <description><![CDATA[CENTCOM confirmed that Iran fired missiles towards a US base in Jordan, adding, "All Iranian missiles were successfully intercepted. US forces remain vigilant and at a high state of readiness."]]></description>
+            <link>https://www.israelnationalnews.com/news/430913</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690751</guid>
+            <pubDate>Tue, 28 Jul 2026 22:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US official: Iran launched missiles at US base in Jordan]]></title>
+            <description><![CDATA[A senior US official told Channel 12 News that Iran launched missiles at a United States military base in Jordan.
+
+The US confirmation follows initial reports of a missile barrage originating from Iranian territory directed toward Jordan. At this stage, no official details have been released regarding casualties or damage.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690750</guid>
+            <pubDate>Tue, 28 Jul 2026 22:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Canadian politician reads AI prompts during legislative speech]]></title>
+            <description><![CDATA[Politician in New Brunswick, Canada, reads out AI prompts three separate times during a legislative assembly speech.]]></description>
+            <link>https://www.israelnationalnews.com/news/430912</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690749</guid>
+            <pubDate>Tue, 28 Jul 2026 22:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reports of launches from Iran toward Jordan]]></title>
+            <description><![CDATA[Reports are emerging of launches originating from Iranian territory directed toward Jordan.
+
+At this stage, there are no available details regarding casualties or damage.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690748</guid>
+            <pubDate>Tue, 28 Jul 2026 21:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelenskyy and Netanyahu speak before Graham memorial in Washington]]></title>
+            <description><![CDATA[Ukrainian President Volodymyr Zelenskyy and Prime Minister Benjamin Netanyahu spoke on Tuesday before the memorial service for the late Senator Lindsey Graham in Washington.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690747</guid>
+            <pubDate>Tue, 28 Jul 2026 21:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon: Suspect detained for transferring hundreds of thousands to ISIS]]></title>
+            <description><![CDATA[Lebanese authorities arrest a suspect who stole $400,000 from his father to finance ISIS operations, uncovering a cross-border terror funding cell.]]></description>
+            <link>https://www.israelnationalnews.com/news/430911</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690746</guid>
+            <pubDate>Tue, 28 Jul 2026 21:08:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No More UNIFIL: No to extending the mandate and no to an alternative force.]]></title>
             <description><![CDATA[Why Is There No Place for the Continued Activity of a Foreign Force in Southern Lebanon?]]></description>
@@ -25,15 +78,15 @@
         </item>
         <item>
             <title><![CDATA[Sean Hannity says Lindsey Graham loved peace, Israel, and Benjamin Netanyahu]]></title>
-            <description><![CDATA[Sean Hannity says Lindsey Graham loved peace, Israel, and Benjamin Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[Sean Hannity honored Lindsey Graham as a staunch Israel supporter and peace advocate, rejecting claims that the late senator was a warmonger, 'he desperately wanted a lasting peace in the Middle East.']]></description>
+            <link>https://www.israelnationalnews.com/news/430908</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690743</guid>
             <pubDate>Tue, 28 Jul 2026 19:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Live: Funeral of Senator Lindsey Graham]]></title>
-            <description><![CDATA[The funeral service of Israel-supporter Sen. Lindsey Graham is held at Washington National Cathedral.]]></description>
-            <link>https://www.israelnationalnews.com/news/430907</link>
+            <description><![CDATA[Live: Funeral of Senator Lindsey Graham]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690742</guid>
             <pubDate>Tue, 28 Jul 2026 19:35:00 GMT</pubDate>
         </item>
@@ -46,15 +99,15 @@
         </item>
         <item>
             <title><![CDATA[Sirens sound in the area of Nahal Oz]]></title>
-            <description><![CDATA[Initial report - Sirens sound in the area of Nahal Oz. The details are under review.]]></description>
+            <description><![CDATA[Sirens sound in the area of Nahal Oz]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690740</guid>
             <pubDate>Tue, 28 Jul 2026 19:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Qatar attacks, Bennett fires back: 'You won't buy me with money']]></title>
-            <description><![CDATA[A heated exchange of accusations erupted between Beyachad party chairman Naftali Bennett and the Qatari authorities, who accused him of 'spreading false information for political purposes.']]></description>
-            <link>https://www.israelnationalnews.com/news/430906</link>
+            <description><![CDATA[Qatar attacks, Bennett fires back: 'You won't buy me with money']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690739</guid>
             <pubDate>Tue, 28 Jul 2026 18:54:00 GMT</pubDate>
         </item>
@@ -67,16 +120,14 @@
         </item>
         <item>
             <title><![CDATA[Heated clash at the UN: 'Unthinkable hypocrisy, Hamas will not change']]></title>
-            <description><![CDATA[Israeli Ambassador to the UN Danny Danon sharply attacked the Security Council's demand to bring dual-use items into the Gaza Strip.]]></description>
-            <link>https://www.israelnationalnews.com/news/430905</link>
+            <description><![CDATA[Heated clash at the UN: 'Unthinkable hypocrisy, Hamas will not change']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690737</guid>
             <pubDate>Tue, 28 Jul 2026 18:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interceptor mistaenly launched in response to IDF artillery fire]]></title>
-            <description><![CDATA[A short while ago, an interceptor was mistakenly launched toward IDF artillery fire directed at Lebanon. The incident is under review.
-
-No sirens were sounded in accordance with protocol.]]></description>
+            <description><![CDATA[Interceptor mistaenly launched in response to IDF artillery fire]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690736</guid>
             <pubDate>Tue, 28 Jul 2026 17:56:00 GMT</pubDate>
@@ -2761,55 +2812,6 @@ No sirens were sounded in accordance with protocol.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690352</guid>
             <pubDate>Thu, 23 Jul 2026 01:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Near the site of destruction: Thousands gather at the Western Wall on Tisha B'Av eve]]></title>
-            <description><![CDATA[Near the site of destruction: Thousands gather at the Western Wall on Tisha B'Av eve]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690351</guid>
-            <pubDate>Thu, 23 Jul 2026 00:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House passes defense bill expanding deep US-Israel tech cooperation]]></title>
-            <description><![CDATA[House passes defense bill expanding deep US-Israel tech cooperation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690350</guid>
-            <pubDate>Thu, 23 Jul 2026 00:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kuwaiti air defense systems intercept drones from Iran]]></title>
-            <description><![CDATA[Kuwaiti air defense systems intercept drones from Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690349</guid>
-            <pubDate>Wed, 22 Jul 2026 23:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthis confirm strike on Saudi oil tanker to enforce new maritime blockade]]></title>
-            <description><![CDATA[Houthis confirm strike on Saudi oil tanker to enforce new maritime blockade]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690348</guid>
-            <pubDate>Wed, 22 Jul 2026 23:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hundreds recite Lamentations in Jerusalem, calling for release of Tal Yinon Derdik]]></title>
-            <description><![CDATA[Hundreds recite Lamentations in Jerusalem, calling for release of Tal Yinon Derdik]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690347</guid>
-            <pubDate>Wed, 22 Jul 2026 22:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CENTCOM announces twelfth consecutive night of strikes in Iran]]></title>
-            <description><![CDATA[CENTCOM announces twelfth consecutive night of strikes in Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690346</guid>
-            <pubDate>Wed, 22 Jul 2026 22:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthis attack Saudi oil tanker in Red Sea]]></title>
-            <description><![CDATA[Houthis attack Saudi oil tanker in Red Sea]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690345</guid>
-            <pubDate>Wed, 22 Jul 2026 21:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,67 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 15:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 17:27:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 15:22:00 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 17:27:50 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Blue-White achievement | Cyera acquires Israeli startup in $1 billion deal]]></title>
+            <description><![CDATA[The Israeli cybersecurity company Cyera announces the acquisition of cybersecurity firm Oasis Security in a massive deal valued at $1 billion.]]></description>
+            <link>https://www.israelnationalnews.com/news/430903</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690734</guid>
+            <pubDate>Tue, 28 Jul 2026 17:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Iran intensifying efforts to assassinate Israeli officials]]></title>
+            <description><![CDATA[Iran is reportedly seeking to attack both current and former officials in an effort to achieve a psychological victory over Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/430902</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690733</guid>
+            <pubDate>Tue, 28 Jul 2026 17:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[General Election]]></title>
+            <description><![CDATA[General Election]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690732</guid>
+            <pubDate>Tue, 28 Jul 2026 17:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Judea and Samaria quickly becoming the new Gaza?]]></title>
+            <description><![CDATA[Help the Schwell family rebuild after a devastating fire destroyed their home. Your support can help provide clothing, essentials, and a path toward rebuilding their lives.]]></description>
+            <link>https://www.israelnationalnews.com/news/430895</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690731</guid>
+            <pubDate>Tue, 28 Jul 2026 16:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[During Trump-Netanyahu meeting, Peace Now launches anti-government campaign]]></title>
+            <description><![CDATA[During Trump-Netanyahu meeting, Peace Now launches anti-government campaign]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690730</guid>
+            <pubDate>Tue, 28 Jul 2026 16:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Memorial event for Lindsey Graham | 'Israel has lost one of its greatest friends']]></title>
+            <description><![CDATA[Prime Minister Netanyahu participated in a special event held in Washington in memory of the late American lawmaker.]]></description>
+            <link>https://www.israelnationalnews.com/news/430898</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690729</guid>
+            <pubDate>Tue, 28 Jul 2026 16:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu and Trump Meet at the White House]]></title>
+            <description><![CDATA[Netanyahu and Trump Meet at the White House]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690728</guid>
+            <pubDate>Tue, 28 Jul 2026 15:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High Court interim order halts arrests of draft dodgers]]></title>
+            <description><![CDATA[The High Court of Justice issued an interim order suspending the implementation of the law freezing the arrest of draft dodgers.]]></description>
+            <link>https://www.israelnationalnews.com/news/430897</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690727</guid>
+            <pubDate>Tue, 28 Jul 2026 15:49:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump jabs at Netanyahu ahead of White House meeting]]></title>
             <description><![CDATA[Trump took a dig at Netanyahu, saying he did not need his updates on Iran and made it clear that he would prefer an agreement to war at this stage.]]></description>
@@ -38,8 +94,8 @@ The terrorist posed an immediate threat and was eliminated in a precise aerial s
         </item>
         <item>
             <title><![CDATA[Ben Gvir and Smotrich embrace on stage: 'Don't believe the media']]></title>
-            <description><![CDATA[After his interview at the Channel 14 conference, Itamar Ben Gvir was joined on stage by Finance Minister Bezalel Smotrich, where the two embraced and insisted there was no rivalry between them.]]></description>
-            <link>https://www.israelnationalnews.com/news/430889</link>
+            <description><![CDATA[Ben Gvir and Smotrich embrace on stage: 'Don't believe the media']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690723</guid>
             <pubDate>Tue, 28 Jul 2026 13:51:00 GMT</pubDate>
         </item>
@@ -52,8 +108,8 @@ The terrorist posed an immediate threat and was eliminated in a precise aerial s
         </item>
         <item>
             <title><![CDATA[Mall, bridge collapse: Dead and trapped after powerful earthquake in Japan]]></title>
-            <description><![CDATA[A 7.1-magnitude earthquake that struck the southwest of Japan led to the collapse of a floor at a local shopping mall. A large number of deaths and trapped people were reported]]></description>
-            <link>https://www.israelnationalnews.com/news/430891</link>
+            <description><![CDATA[Mall, bridge collapse: Dead and trapped after powerful earthquake in Japan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690721</guid>
             <pubDate>Tue, 28 Jul 2026 13:49:00 GMT</pubDate>
         </item>
@@ -66,8 +122,8 @@ The terrorist posed an immediate threat and was eliminated in a precise aerial s
         </item>
         <item>
             <title><![CDATA[When anti-Trump media went from fact to fiction]]></title>
-            <description><![CDATA[How did they feel about Joe Biden, their Democrat? They loved him...Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/430888</link>
+            <description><![CDATA[When anti-Trump media went from fact to fiction]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690719</guid>
             <pubDate>Tue, 28 Jul 2026 13:35:00 GMT</pubDate>
         </item>
@@ -80,8 +136,8 @@ The terrorist posed an immediate threat and was eliminated in a precise aerial s
         </item>
         <item>
             <title><![CDATA[Mansour Abbas refuses to condemn Hamas]]></title>
-            <description><![CDATA[In response to the question of whether Hamas is a terrorist organization that should be destroyed, Ra'am chairman Mansour Abbas replied, 'I don't want to give you a straight answer.']]></description>
-            <link>https://www.israelnationalnews.com/news/430885</link>
+            <description><![CDATA[Mansour Abbas refuses to condemn Hamas]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690717</guid>
             <pubDate>Tue, 28 Jul 2026 12:37:00 GMT</pubDate>
         </item>
@@ -2758,62 +2814,6 @@ The terrorist posed an immediate threat and was eliminated in a precise aerial s
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690334</guid>
             <pubDate>Wed, 22 Jul 2026 18:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Israeli officials concerned over possibility US will allow Saudis to enrich uranium]]></title>
-            <description><![CDATA[Report: Israeli officials concerned over possibility US will allow Saudis to enrich uranium]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690333</guid>
-            <pubDate>Wed, 22 Jul 2026 18:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli civilians detained while attempting to infiltrate Syria]]></title>
-            <description><![CDATA[Israeli civilians detained while attempting to infiltrate Syria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690332</guid>
-            <pubDate>Wed, 22 Jul 2026 18:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel braces for possible Iran escalation]]></title>
-            <description><![CDATA[Israel braces for possible Iran escalation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690331</guid>
-            <pubDate>Wed, 22 Jul 2026 18:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZOA warns US-Saudi nuclear deal poses 'serious, dangerous mistake']]></title>
-            <description><![CDATA[ZOA warns US-Saudi nuclear deal poses 'serious, dangerous mistake']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690330</guid>
-            <pubDate>Wed, 22 Jul 2026 18:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photo: President Herzog reads Lamentations with Hashmonaim Brigade troops]]></title>
-            <description><![CDATA[Photo: President Herzog reads Lamentations with Hashmonaim Brigade troops]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690329</guid>
-            <pubDate>Wed, 22 Jul 2026 17:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tens of thousands stream to Western Wall as Tisha B'Av begins]]></title>
-            <description><![CDATA[Tens of thousands stream to Western Wall as Tisha B'Av begins]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690328</guid>
-            <pubDate>Wed, 22 Jul 2026 17:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli study: Reducing ultra-processed foods may come at environmental cost]]></title>
-            <description><![CDATA[Israeli study: Reducing ultra-processed foods may come at environmental cost]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690327</guid>
-            <pubDate>Wed, 22 Jul 2026 17:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UJA-Federation to Mamdani: 'Shame on you']]></title>
-            <description><![CDATA[UJA-Federation to Mamdani: 'Shame on you']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690326</guid>
-            <pubDate>Wed, 22 Jul 2026 17:15:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

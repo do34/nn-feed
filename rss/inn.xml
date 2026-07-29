@@ -4,23 +4,102 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 00:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 04:12:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 00:05:13 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 04:12:20 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
+            <title><![CDATA[Netanyahu weighs digital primaries for Likud]]></title>
+            <description><![CDATA[The Prime Minister is considering shifting Likud to a digital voting system for its primaries. The idea follows his favorable impression of the online primary held by The Democrats party.]]></description>
+            <link>https://www.israelnationalnews.com/news/430920</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690765</guid>
+            <pubDate>Wed, 29 Jul 2026 03:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Houston man faces 15 years after admitting to supporting ISIS]]></title>
+            <description><![CDATA[A 30-year-old Houston man faces up to 15 years in prison and $500,000 in fines after pleading guilty to concealing material support for ISIS and lying to police.]]></description>
+            <link>https://www.israelnationalnews.com/news/430919</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690764</guid>
+            <pubDate>Wed, 29 Jul 2026 03:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Footage: US and Saudi forces strike Iranian proxies in Iraq]]></title>
+            <description><![CDATA[Footage: US and Saudi forces strike Iranian proxies in Iraq]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690763</guid>
+            <pubDate>Wed, 29 Jul 2026 03:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRGC claims responsibility for missile strikes into Jordan]]></title>
+            <description><![CDATA[Iran's Islamic Revolutionary Guard Corps (IRGC) officially announced that it launched a barrage of ballistic missiles at a US base in Jordan.
+
+In direct response to the attack in Jordan and ongoing drone strikes targeting Saudi oil facilities, US and Saudi air forces launched a coordinated wave of precision strikes against pro-Iranian militia targets in eastern Iraq.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690762</guid>
+            <pubDate>Wed, 29 Jul 2026 03:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chad initiates ICC withdrawal, US welcomes decision]]></title>
+            <description><![CDATA[Chad initiates ICC withdrawal, US welcomes decision]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690761</guid>
+            <pubDate>Wed, 29 Jul 2026 02:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US rejects 'unreasonable' Iranian demands for tolls in Hormuz]]></title>
+            <description><![CDATA[US official says Iran's "unreasonable demands" were rejected by Oman and the US, affirming no tolls or fees will be imposed in the Strait of Hormuz.]]></description>
+            <link>https://www.israelnationalnews.com/news/430917</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690760</guid>
+            <pubDate>Wed, 29 Jul 2026 02:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu: Those looking for cracks in US relations will find a 'wall of granite']]></title>
+            <description><![CDATA[Netanyahu: Those looking for cracks in US relations will find a 'wall of granite']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690759</guid>
+            <pubDate>Wed, 29 Jul 2026 02:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump on meeting with Netanyahu: Many important subjects were discussed]]></title>
+            <description><![CDATA[President Trump says his meeting with Netanyahu was very good: Obviously, many important subjects were discussed.]]></description>
+            <link>https://www.israelnationalnews.com/news/430915</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690758</guid>
+            <pubDate>Wed, 29 Jul 2026 01:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Defense Ministry spokesman: Not seeking escalation, but reserve the right to self-defense]]></title>
+            <description><![CDATA[Saudi Defense Ministry spokesman: Not seeking escalation, but reserve the right to self-defense]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690757</guid>
+            <pubDate>Wed, 29 Jul 2026 01:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US and Saudi forces strike Iranian proxies after IRGC launches missiles at Jordan base]]></title>
+            <description><![CDATA[US Central Command (CENTCOM) announced on Tuesday night that, together with the Saudi Arabian Armed Forces, it conducted precision strikes in Iraq against Iran-aligned terrorists that the Islamic Revolutionary Guard Corps (IRGC) directed to attack US forces and Saudi energy infrastructure.
+
+“US and Saudi fighter aircraft struck multiple terrorist logistics and weapons sites across eastern Iraq in a strong response to over 30 IRGC-directed aerial drone attacks in the last 72 hours," said CENTCOM.]]></description>
+            <link>https://www.israelnationalnews.com/news/430913</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690756</guid>
+            <pubDate>Wed, 29 Jul 2026 00:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senate confirms Jay Clayton as intelligence chief]]></title>
+            <description><![CDATA[Senate confirms Jay Clayton as intelligence chief]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690755</guid>
+            <pubDate>Wed, 29 Jul 2026 00:09:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Report: Hadash, Ta'al, and Balad to announce re-formation of Joint List]]></title>
-            <description><![CDATA[The leaders of Hadash, Ta'al, and Balad will announce the re-formation of the Joint List next week, according to a report by Kan 11 News.]]></description>
+            <description><![CDATA[Report: Hadash, Ta'al, and Balad to announce re-formation of Joint List]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690754</guid>
             <pubDate>Tue, 28 Jul 2026 23:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pedestrian killed after being hit by vehicle at Hadera Junction]]></title>
-            <description><![CDATA[A pedestrian in his 40s was killed after being struck by a vehicle at Hadera Junction.
-
-A Magen David Adom team that arrived at the scene pronounced him dead at the spot.]]></description>
+            <description><![CDATA[Pedestrian killed after being hit by vehicle at Hadera Junction]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690753</guid>
             <pubDate>Tue, 28 Jul 2026 23:14:00 GMT</pubDate>
@@ -28,60 +107,56 @@ A Magen David Adom team that arrived at the scene pronounced him dead at the spo
         <item>
             <title><![CDATA[Footage from Israel of the interceptions in Jordan]]></title>
             <description><![CDATA[Footage from Israel of the interceptions in Jordan]]></description>
-            <link>https://www.israelnationalnews.com/news/430913</link>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690752</guid>
             <pubDate>Tue, 28 Jul 2026 22:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First time in days: Iran fires missiles at US base in Jordan]]></title>
-            <description><![CDATA[CENTCOM confirmed that Iran fired missiles towards a US base in Jordan, adding, "All Iranian missiles were successfully intercepted. US forces remain vigilant and at a high state of readiness."]]></description>
-            <link>https://www.israelnationalnews.com/news/430913</link>
+            <description><![CDATA[First time in days: Iran fires missiles at US base in Jordan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690751</guid>
             <pubDate>Tue, 28 Jul 2026 22:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US official: Iran launched missiles at US base in Jordan]]></title>
-            <description><![CDATA[A senior US official told Channel 12 News that Iran launched missiles at a United States military base in Jordan.
-
-The US confirmation follows initial reports of a missile barrage originating from Iranian territory directed toward Jordan. At this stage, no official details have been released regarding casualties or damage.]]></description>
+            <description><![CDATA[US official: Iran launched missiles at US base in Jordan]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690750</guid>
             <pubDate>Tue, 28 Jul 2026 22:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Canadian politician reads AI prompts during legislative speech]]></title>
-            <description><![CDATA[Politician in New Brunswick, Canada, reads out AI prompts three separate times during a legislative assembly speech.]]></description>
-            <link>https://www.israelnationalnews.com/news/430912</link>
+            <description><![CDATA[Watch: Canadian politician reads AI prompts during legislative speech]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690749</guid>
             <pubDate>Tue, 28 Jul 2026 22:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reports of launches from Iran toward Jordan]]></title>
-            <description><![CDATA[Reports are emerging of launches originating from Iranian territory directed toward Jordan.
-
-At this stage, there are no available details regarding casualties or damage.]]></description>
+            <description><![CDATA[Reports of launches from Iran toward Jordan]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690748</guid>
             <pubDate>Tue, 28 Jul 2026 21:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zelenskyy and Netanyahu speak before Graham memorial in Washington]]></title>
-            <description><![CDATA[Ukrainian President Volodymyr Zelenskyy and Prime Minister Benjamin Netanyahu spoke on Tuesday before the memorial service for the late Senator Lindsey Graham in Washington.]]></description>
+            <description><![CDATA[Zelenskyy and Netanyahu speak before Graham memorial in Washington]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690747</guid>
             <pubDate>Tue, 28 Jul 2026 21:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lebanon: Suspect detained for transferring hundreds of thousands to ISIS]]></title>
-            <description><![CDATA[Lebanese authorities arrest a suspect who stole $400,000 from his father to finance ISIS operations, uncovering a cross-border terror funding cell.]]></description>
-            <link>https://www.israelnationalnews.com/news/430911</link>
+            <description><![CDATA[Lebanon: Suspect detained for transferring hundreds of thousands to ISIS]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690746</guid>
             <pubDate>Tue, 28 Jul 2026 21:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No More UNIFIL: No to extending the mandate and no to an alternative force.]]></title>
-            <description><![CDATA[Why Is There No Place for the Continued Activity of a Foreign Force in Southern Lebanon?]]></description>
-            <link>https://www.israelnationalnews.com/news/430910</link>
+            <description><![CDATA[No More UNIFIL: No to extending the mandate and no to an alternative force.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690745</guid>
             <pubDate>Tue, 28 Jul 2026 20:59:00 GMT</pubDate>
         </item>
@@ -2737,83 +2812,6 @@ At this stage, there are no available details regarding casualties or damage.]]>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690365</guid>
             <pubDate>Thu, 23 Jul 2026 04:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani posts peaceful Tisha B'Av wish, one day after anti-Netanyahu rant]]></title>
-            <description><![CDATA[Mamdani posts peaceful Tisha B'Av wish, one day after anti-Netanyahu rant]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690364</guid>
-            <pubDate>Thu, 23 Jul 2026 03:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK pulls diplomatic staff from Iran, updates travel warnings across Middle East]]></title>
-            <description><![CDATA[UK pulls diplomatic staff from Iran, updates travel warnings across Middle East]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690363</guid>
-            <pubDate>Thu, 23 Jul 2026 03:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Footage: Aftermath of US strike at the Shalamcheh border crossing]]></title>
-            <description><![CDATA[Footage: Aftermath of US strike at the Shalamcheh border crossing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690362</guid>
-            <pubDate>Thu, 23 Jul 2026 03:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Focus on your city': Consul General Akunis slams Mamdani's anti-Israel attacks]]></title>
-            <description><![CDATA['Focus on your city': Consul General Akunis slams Mamdani's anti-Israel attacks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690361</guid>
-            <pubDate>Thu, 23 Jul 2026 03:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CENTCOM concludes twelfth consecutive night of strikes in Iran]]></title>
-            <description><![CDATA[CENTCOM concludes twelfth consecutive night of strikes in Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690360</guid>
-            <pubDate>Thu, 23 Jul 2026 03:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toronto man faces terror charge for alleged Hamas-linked activity at protests]]></title>
-            <description><![CDATA[Toronto man faces terror charge for alleged Hamas-linked activity at protests]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690359</guid>
-            <pubDate>Thu, 23 Jul 2026 02:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hitler’s Austrian birthplace officially reopens as police headquarters]]></title>
-            <description><![CDATA[Hitler’s Austrian birthplace officially reopens as police headquarters]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690358</guid>
-            <pubDate>Thu, 23 Jul 2026 02:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia confirms: Saudi-owned vessel attacked in the Red Sea]]></title>
-            <description><![CDATA[Saudi Arabia confirms: Saudi-owned vessel attacked in the Red Sea]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690357</guid>
-            <pubDate>Thu, 23 Jul 2026 02:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Herzog reads Book of Lamentations with soldiers of haredi brigade]]></title>
-            <description><![CDATA[Herzog reads Book of Lamentations with soldiers of haredi brigade]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690356</guid>
-            <pubDate>Thu, 23 Jul 2026 01:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian report: Additional wave of US strikes in Bushehr]]></title>
-            <description><![CDATA[Iranian report: Additional wave of US strikes in Bushehr]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690355</guid>
-            <pubDate>Thu, 23 Jul 2026 01:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian report: Two killed in US strike at Shalamcheh border crossing]]></title>
-            <description><![CDATA[Iranian report: Two killed in US strike at Shalamcheh border crossing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690354</guid>
-            <pubDate>Thu, 23 Jul 2026 01:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

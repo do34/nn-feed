@@ -4,22 +4,103 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 10:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 13:00:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 10:39:33 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 13:00:51 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
+            <title><![CDATA[Rome and the Two-State Illusion]]></title>
+            <description><![CDATA[Statehood is not an experiment. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/430949</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690794</guid>
+            <pubDate>Wed, 29 Jul 2026 12:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu's surprising response: "We have special forces all around"]]></title>
+            <description><![CDATA[Netanyahu was asked what would happen if he were forced to make an emergency landing in a country that recognizes the ICC arrest warrant.]]></description>
+            <link>https://www.israelnationalnews.com/news/430947</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690793</guid>
+            <pubDate>Wed, 29 Jul 2026 12:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump responds forcefully to Iranian attack on US forces: 'We'll be hitting them hard']]></title>
+            <description><![CDATA[US President tells Fox News that the US will retaliate for the overnight missile barrage launched from Iran on US forces in Jordan.
+
+Read more.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690792</guid>
+            <pubDate>Wed, 29 Jul 2026 12:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Court orders activist to pay over 'poisoned wells' post]]></title>
+            <description><![CDATA[Israeli court orders left-wing activist Boaz Drori to pay damages for falsely portraying a teenage shepherd as a settler 'polluting Palestinian wells.']]></description>
+            <link>https://www.israelnationalnews.com/news/430943</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690791</guid>
+            <pubDate>Wed, 29 Jul 2026 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former classified unit reservist accused of spying for Iran]]></title>
+            <description><![CDATA[A former IDF soldier who served in a classified unit during both his mandatory and reserve service has been accused of spying for Iran.]]></description>
+            <link>https://www.israelnationalnews.com/news/430946</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690790</guid>
+            <pubDate>Wed, 29 Jul 2026 11:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Army source: Chief of Staff did not peak with CENTCOM chief since last statement was publicized]]></title>
+            <description><![CDATA[An army source has clarified that the reports that Chief of Staff Eyal Zamir spoke with CENTCOM's chief are untrue.
+
+"The Chief of Staff has not spoken with CENTCOM's chief since the Minister's statement was published."]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690789</guid>
+            <pubDate>Wed, 29 Jul 2026 11:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspect arrested over assault in Huwara while wearing IDF uniform]]></title>
+            <description><![CDATA[Police announced Wednesday that they have arrested the suspect seen in widely circulated footage allegedly assaulting a Palestinian in Huwara.]]></description>
+            <link>https://www.israelnationalnews.com/news/430945</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690788</guid>
+            <pubDate>Wed, 29 Jul 2026 11:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamas weapons cache found inside Gaza mosque]]></title>
+            <description><![CDATA[IDF destroys multiple Hamas weapons depots in central and northern Gaza, including one hidden inside a mosque.]]></description>
+            <link>https://www.israelnationalnews.com/news/430935</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690787</guid>
+            <pubDate>Wed, 29 Jul 2026 11:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF: Hezbollah violated ceasefire agreement]]></title>
+            <description><![CDATA[IDF investigation reveals Hezbollah launched explosive drone toward IDF engineering vehicle in southern Lebanon security zone.]]></description>
+            <link>https://www.israelnationalnews.com/news/430942</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690786</guid>
+            <pubDate>Wed, 29 Jul 2026 11:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Spoils of war': Report exposes Iran's crackdown on Jews]]></title>
+            <description><![CDATA[New Jewish Chronicle investigation indicates Iran's shrinking Jewish community facing intimidation, arrests, vandalism, economic persecution.]]></description>
+            <link>https://www.israelnationalnews.com/news/430940</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690785</guid>
+            <pubDate>Wed, 29 Jul 2026 11:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malachei Hashalom officially recognized as permanent community]]></title>
+            <description><![CDATA[Malachei Hashalom officially recognized as permanent community]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690784</guid>
+            <pubDate>Wed, 29 Jul 2026 10:53:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[IDF announces second soldier suicide in days]]></title>
-            <description><![CDATA[Female Bardalas Battalion soldier dies by suicide at southern Israel base, marking second such tragedy in a single week.]]></description>
-            <link>https://www.israelnationalnews.com/news/430938</link>
+            <description><![CDATA[IDF announces second soldier suicide in days]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690783</guid>
             <pubDate>Wed, 29 Jul 2026 10:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reservists ordered to carry private firearms during reserve duty]]></title>
-            <description><![CDATA[The IDF prohibits reservists with personal pistols from bringing them to reserve duty - a regulation that could cost hundreds of shekels a month in storage fees.]]></description>
-            <link>https://www.israelnationalnews.com/news/430939</link>
+            <description><![CDATA[Reservists ordered to carry private firearms during reserve duty]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690782</guid>
             <pubDate>Wed, 29 Jul 2026 10:09:00 GMT</pubDate>
         </item>
@@ -32,8 +113,8 @@
         </item>
         <item>
             <title><![CDATA[World Mizrachi: Enough words, it's time to act]]></title>
-            <description><![CDATA[Citing surge in deadly antisemitism worldwide, World Mizrachi urges Israel to protect Jews abroad, strengthen Jewish identity, and throw open gates for immigration.]]></description>
-            <link>https://www.israelnationalnews.com/news/430936</link>
+            <description><![CDATA[World Mizrachi: Enough words, it's time to act]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690780</guid>
             <pubDate>Wed, 29 Jul 2026 09:44:00 GMT</pubDate>
         </item>
@@ -46,8 +127,8 @@
         </item>
         <item>
             <title><![CDATA[Regavim petitions to demolish illegal Area C neighborhood]]></title>
-            <description><![CDATA[Regavim is petitioning the Jerusalem District Court to order the demolition of an alleged illegal Palestinian Authority housing project in Area C near Katzir.]]></description>
-            <link>https://www.israelnationalnews.com/news/430933</link>
+            <description><![CDATA[Regavim petitions to demolish illegal Area C neighborhood]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690778</guid>
             <pubDate>Wed, 29 Jul 2026 08:51:00 GMT</pubDate>
         </item>
@@ -60,22 +141,22 @@
         </item>
         <item>
             <title><![CDATA[Court petition challenges pool policy in Beit Shemesh]]></title>
-            <description><![CDATA[Residents are challenging Beit Shemesh's decision to operate the new Neve Shamir country club with full gender separation, arguing it breaks promises made when the neighborhood was developed.]]></description>
-            <link>https://www.israelnationalnews.com/news/430932</link>
+            <description><![CDATA[Court petition challenges pool policy in Beit Shemesh]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690776</guid>
             <pubDate>Wed, 29 Jul 2026 08:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran rejects Hormuz deal, enrages US mediators]]></title>
-            <description><![CDATA[Iran rejected an Omani proposal to share control of shipping routes through the Strait of Hormuz, angering mediators, Wall Street Journal report says.]]></description>
-            <link>https://www.israelnationalnews.com/news/430926</link>
+            <description><![CDATA[Iran rejects Hormuz deal, enrages US mediators]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690775</guid>
             <pubDate>Wed, 29 Jul 2026 07:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Police seize alleged stolen IDF missile in central Israel]]></title>
-            <description><![CDATA[Israel Police and Border Police forces uncovered multiple weapons caches during operations in Kafr Qassem and Kafr Qara this week, seizing a large cache of weapons and ammunition while arresting five suspects.]]></description>
-            <link>https://www.israelnationalnews.com/news/430930</link>
+            <description><![CDATA[Police seize alleged stolen IDF missile in central Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690774</guid>
             <pubDate>Wed, 29 Jul 2026 07:20:00 GMT</pubDate>
         </item>
@@ -2731,83 +2812,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690394</guid>
             <pubDate>Thu, 23 Jul 2026 11:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tisha B'Av Special: Waters of Jerusalem Temple Discovered]]></title>
-            <description><![CDATA[Tisha B'Av Special: Waters of Jerusalem Temple Discovered]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690393</guid>
-            <pubDate>Thu, 23 Jul 2026 11:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elon Moreh stabbing attack: Victim identified as farm movement founder Itamar Cohen]]></title>
-            <description><![CDATA[Elon Moreh stabbing attack: Victim identified as farm movement founder Itamar Cohen]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690392</guid>
-            <pubDate>Thu, 23 Jul 2026 11:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Zini accuses media of 'character assassination']]></title>
-            <description><![CDATA[Report: Zini accuses media of 'character assassination']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690391</guid>
-            <pubDate>Thu, 23 Jul 2026 11:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire Commissioner signs order banning fires through August]]></title>
-            <description><![CDATA[Fire Commissioner signs order banning fires through August]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690390</guid>
-            <pubDate>Thu, 23 Jul 2026 10:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sharren Haskel visits Temple Mount with daughter on Tisha B'Av]]></title>
-            <description><![CDATA[Sharren Haskel visits Temple Mount with daughter on Tisha B'Av]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690389</guid>
-            <pubDate>Thu, 23 Jul 2026 10:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tisha B’Av, the Shoah, and the Jewish refusal to despair]]></title>
-            <description><![CDATA[Tisha B’Av, the Shoah, and the Jewish refusal to despair]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690388</guid>
-            <pubDate>Thu, 23 Jul 2026 10:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samaria stabbing attack: Arabs set fire near the farm, two terrorists eliminated]]></title>
-            <description><![CDATA[Samaria stabbing attack: Arabs set fire near the farm, two terrorists eliminated]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690387</guid>
-            <pubDate>Thu, 23 Jul 2026 09:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samaria stabbing attack: Two terrorists neutralized, victim in serious condition]]></title>
-            <description><![CDATA[Samaria stabbing attack: Two terrorists neutralized, victim in serious condition]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690386</guid>
-            <pubDate>Thu, 23 Jul 2026 09:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire breaks out near Elon Moreh in Samaria]]></title>
-            <description><![CDATA[Fire breaks out near Elon Moreh in Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690385</guid>
-            <pubDate>Thu, 23 Jul 2026 09:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Initial reports: Suspected stabbing at the Avraham Farm near Elon Moreh in Samaria]]></title>
-            <description><![CDATA[Initial reports: Suspected stabbing at the Avraham Farm near Elon Moreh in Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690384</guid>
-            <pubDate>Thu, 23 Jul 2026 09:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sirens sounding in Bahrain due to Iranian launches]]></title>
-            <description><![CDATA[Sirens sounding in Bahrain due to Iranian launches]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690383</guid>
-            <pubDate>Thu, 23 Jul 2026 09:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

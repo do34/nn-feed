@@ -4,11 +4,67 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 07:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 10:39:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 07:43:31 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 10:39:33 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IDF announces second soldier suicide in days]]></title>
+            <description><![CDATA[Female Bardalas Battalion soldier dies by suicide at southern Israel base, marking second such tragedy in a single week.]]></description>
+            <link>https://www.israelnationalnews.com/news/430938</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690783</guid>
+            <pubDate>Wed, 29 Jul 2026 10:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reservists ordered to carry private firearms during reserve duty]]></title>
+            <description><![CDATA[The IDF prohibits reservists with personal pistols from bringing them to reserve duty - a regulation that could cost hundreds of shekels a month in storage fees.]]></description>
+            <link>https://www.israelnationalnews.com/news/430939</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690782</guid>
+            <pubDate>Wed, 29 Jul 2026 10:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Herzl’s grandparents to be reburied in Israel after 77 years]]></title>
+            <description><![CDATA[Watch: Herzl’s grandparents to be reburied in Israel after 77 years]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690781</guid>
+            <pubDate>Wed, 29 Jul 2026 09:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Mizrachi: Enough words, it's time to act]]></title>
+            <description><![CDATA[Citing surge in deadly antisemitism worldwide, World Mizrachi urges Israel to protect Jews abroad, strengthen Jewish identity, and throw open gates for immigration.]]></description>
+            <link>https://www.israelnationalnews.com/news/430936</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690780</guid>
+            <pubDate>Wed, 29 Jul 2026 09:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: IDF uncovers Hezbollah HQ beneath factory near UNIFIL post]]></title>
+            <description><![CDATA[Watch: IDF uncovers Hezbollah HQ beneath factory near UNIFIL post]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690779</guid>
+            <pubDate>Wed, 29 Jul 2026 09:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Regavim petitions to demolish illegal Area C neighborhood]]></title>
+            <description><![CDATA[Regavim is petitioning the Jerusalem District Court to order the demolition of an alleged illegal Palestinian Authority housing project in Area C near Katzir.]]></description>
+            <link>https://www.israelnationalnews.com/news/430933</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690778</guid>
+            <pubDate>Wed, 29 Jul 2026 08:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Mortally wounded hero kept fighting, took down terrorists]]></title>
+            <description><![CDATA[Watch: Mortally wounded hero kept fighting, took down terrorists]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690777</guid>
+            <pubDate>Wed, 29 Jul 2026 08:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Court petition challenges pool policy in Beit Shemesh]]></title>
+            <description><![CDATA[Residents are challenging Beit Shemesh's decision to operate the new Neve Shamir country club with full gender separation, arguing it breaks promises made when the neighborhood was developed.]]></description>
+            <link>https://www.israelnationalnews.com/news/430932</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690776</guid>
+            <pubDate>Wed, 29 Jul 2026 08:23:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran rejects Hormuz deal, enrages US mediators]]></title>
             <description><![CDATA[Iran rejected an Omani proposal to share control of shipping routes through the Strait of Hormuz, angering mediators, Wall Street Journal report says.]]></description>
@@ -32,8 +88,8 @@
         </item>
         <item>
             <title><![CDATA[IDF uncovers Hezbollah weapons cache in southern Lebanon]]></title>
-            <description><![CDATA[IDF troops operating in Lebanon security zone locate dozens of Hezbollah weapons, including assault rifles, RPGs, explosives, and grenades.]]></description>
-            <link>https://www.israelnationalnews.com/news/430928</link>
+            <description><![CDATA[IDF uncovers Hezbollah weapons cache in southern Lebanon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690772</guid>
             <pubDate>Wed, 29 Jul 2026 06:27:00 GMT</pubDate>
         </item>
@@ -46,8 +102,8 @@
         </item>
         <item>
             <title><![CDATA[A cornerstone laid a century late]]></title>
-            <description><![CDATA[The Jewish Agency's claim that "pluralistic Judaism" was a founding pillar of Zionism fails every test - historical, religious, and institutional. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/430925</link>
+            <description><![CDATA[A cornerstone laid a century late]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690770</guid>
             <pubDate>Wed, 29 Jul 2026 05:39:00 GMT</pubDate>
         </item>
@@ -60,8 +116,8 @@
         </item>
         <item>
             <title><![CDATA[Watch: Torah scroll dedicated at IDF 'Keter Hahermon' outpost]]></title>
-            <description><![CDATA[In moving ceremony, IDF soldiers stationed some 40 kilometers inside Syrian territory dance and sing, welcoming new Torah scroll to their remote outpost. 'Through the unity of Israel, we will prevail.']]></description>
-            <link>https://www.israelnationalnews.com/news/430923</link>
+            <description><![CDATA[Watch: Torah scroll dedicated at IDF 'Keter Hahermon' outpost]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690768</guid>
             <pubDate>Wed, 29 Jul 2026 05:23:00 GMT</pubDate>
         </item>
@@ -74,8 +130,8 @@
         </item>
         <item>
             <title><![CDATA[Report: 2025 marks deadliest year for diaspora in decades]]></title>
-            <description><![CDATA[A new report has found that 2025 was the deadliest year for Jews living outside Israel due to antisemitic attacks in more than three decades.]]></description>
-            <link>https://www.israelnationalnews.com/news/430921</link>
+            <description><![CDATA[Report: 2025 marks deadliest year for diaspora in decades]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690766</guid>
             <pubDate>Wed, 29 Jul 2026 04:58:00 GMT</pubDate>
         </item>
@@ -2752,62 +2808,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690383</guid>
             <pubDate>Thu, 23 Jul 2026 09:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ramat Gan mayor orders public shelters opened]]></title>
-            <description><![CDATA[Ramat Gan mayor orders public shelters opened]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690382</guid>
-            <pubDate>Thu, 23 Jul 2026 09:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Tisha B'Av at the largest synagogue in Iran]]></title>
-            <description><![CDATA[Watch: Tisha B'Av at the largest synagogue in Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690381</guid>
-            <pubDate>Thu, 23 Jul 2026 08:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2,784 Jews visited the Temple Mount on Tisha B'Av morning]]></title>
-            <description><![CDATA[2,784 Jews visited the Temple Mount on Tisha B'Av morning]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690380</guid>
-            <pubDate>Thu, 23 Jul 2026 08:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Havat Gilad fire suspects released]]></title>
-            <description><![CDATA[Havat Gilad fire suspects released]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690379</guid>
-            <pubDate>Thu, 23 Jul 2026 08:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Minister Ben-Gvir ascends the Temple Mount]]></title>
-            <description><![CDATA[Watch: Minister Ben-Gvir ascends the Temple Mount]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690378</guid>
-            <pubDate>Thu, 23 Jul 2026 08:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rubio: Iran 'begging' for a deal]]></title>
-            <description><![CDATA[Rubio: Iran 'begging' for a deal]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690377</guid>
-            <pubDate>Thu, 23 Jul 2026 08:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indictment: Nazareth man plotted drone attack on Ben Gvir]]></title>
-            <description><![CDATA[Indictment: Nazareth man plotted drone attack on Ben Gvir]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690376</guid>
-            <pubDate>Thu, 23 Jul 2026 07:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Over 2,000 Jews have ascended the Temple Mount so far this morning marking Tisha B'Av]]></title>
-            <description><![CDATA[Over 2,000 Jews have ascended the Temple Mount so far this morning marking Tisha B'Av]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690375</guid>
-            <pubDate>Thu, 23 Jul 2026 07:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 20:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 22:03:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 20:56:28 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 22:03:21 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Motorcyclist moderately injured in crash near Mesubim Interchange]]></title>
+            <description><![CDATA[A 67-year-old motorcyclist was moderately injured in a traffic accident near the Mesubim Interchange.
+
+A Magen David Adom medical team treated him at the scene and evacuated him to Sheba Hospital in Tel Hashomer.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690824</guid>
+            <pubDate>Wed, 29 Jul 2026 21:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Gvir fires back at Eisenkot: Defeatist morality]]></title>
+            <description><![CDATA[After the chairman of the "Yashar!" party launches an attack, National Security Minister reminds the public that Gadi Eisenkot blocked and delayed the elimination of Hezbollah’s secretary-general.]]></description>
+            <link>https://www.israelnationalnews.com/news/430971</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690823</guid>
+            <pubDate>Wed, 29 Jul 2026 21:16:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zelenskyy: We're preparing for a massive Russian attack tonight]]></title>
             <description><![CDATA[Zelenskyy: We're preparing for a massive Russian attack tonight]]></description>
@@ -73,15 +89,15 @@ Read more]]></description>
         </item>
         <item>
             <title><![CDATA[New Jersey men arrested in Pennsylvania with drugs worth millions]]></title>
-            <description><![CDATA[Two New Jersey residents were arrested after being stopped for speeding on a Pennsylvania toll road. A search of their vehicle uncovered more than 300 kilograms of marijuana and hundreds of narcotic pills.]]></description>
-            <link>https://www.israelnationalnews.com/news/430964</link>
+            <description><![CDATA[New Jersey men arrested in Pennsylvania with drugs worth millions]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690814</guid>
             <pubDate>Wed, 29 Jul 2026 19:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jerusalem warns of fraud using fake municipal payment demands]]></title>
-            <description><![CDATA[The Jerusalem Municipality and Hagihon warned residents about fake payment demands using official-looking documents and urged the public to verify every request.]]></description>
-            <link>https://www.israelnationalnews.com/news/430963</link>
+            <description><![CDATA[Jerusalem warns of fraud using fake municipal payment demands]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690813</guid>
             <pubDate>Wed, 29 Jul 2026 18:50:00 GMT</pubDate>
         </item>
@@ -2800,20 +2816,6 @@ Read more]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690424</guid>
             <pubDate>Thu, 23 Jul 2026 19:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The security of Israeli ports and maritime energy assets in the face of Iranian threats]]></title>
-            <description><![CDATA[The security of Israeli ports and maritime energy assets in the face of Iranian threats]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690423</guid>
-            <pubDate>Thu, 23 Jul 2026 18:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senate blocks resolution to limit Trump's authority on Iran]]></title>
-            <description><![CDATA[Senate blocks resolution to limit Trump's authority on Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690422</guid>
-            <pubDate>Thu, 23 Jul 2026 18:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

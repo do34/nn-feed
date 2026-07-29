@@ -4,11 +4,43 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 15:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 17:15:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 15:49:24 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 17:15:28 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[US tanker hit in suspected drone attack in Egypt]]></title>
+            <description><![CDATA[An American tanker was struck in a suspected UAV attack at the Damietta Port in northern Egypt this evening.]]></description>
+            <link>https://www.israelnationalnews.com/news/430958</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690808</guid>
+            <pubDate>Wed, 29 Jul 2026 16:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspected drone attack on Egypt: Explosion at port in north, American tanker hit]]></title>
+            <description><![CDATA[Suspected drone attack on Egypt: Explosion at port in north, American tanker hit]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690807</guid>
+            <pubDate>Wed, 29 Jul 2026 16:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joint US-Saudi airstrikes reportedly killed six Iranian advisers]]></title>
+            <description><![CDATA[Associated Press reports six Iranian advisers were killed, with the Iraqi militias reporting a death toll of 20, when US and Saudi forces struck IRGC-linked militia sites in eastern Iraq overnight.]]></description>
+            <link>https://www.israelnationalnews.com/news/430957</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690806</guid>
+            <pubDate>Wed, 29 Jul 2026 16:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US designates Iranian entities, vessels over Strait of Hormuz activities]]></title>
+            <description><![CDATA[The United States on Wednesday designated the Persian Gulf Marine Insurance Company and Hormuz Safe Marine Services Authority, two Iranian entities backed by the Islamic Revolutionary Guard Corps (IRGC), over what it said were coercive “insurance" schemes targeting international shipping transiting the Strait of Hormuz.
+
+The US Department of State said the entities create risks, including threats of vessel seizures, and charge commercial vessels for protection from dangers attributed to the Iranian regime. The US also designated eight companies operating vessels that transported illicit Iranian crude oil and petrochemical products to China and the United Arab Emirates, describing them as part of Iran’s “shadow fleet" used to evade sanctions.
+
+The State Department said the designations support enforcement efforts against Iranian ports and coastline and bring the number of vessels sanctioned this year to more than 100. The United States said it will continue efforts to hold Iran accountable for actions involving international waterways, sanctions evasion, and regional destabilizing activities.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690805</guid>
+            <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Senior Israeli official: 'Decision on Iran strikes is up to Trump']]></title>
             <description><![CDATA[Senior official says Trump and Netanyahu discussed Pickaxe Mountain, phasing out US military aid, and options to eliminate Iran's nuclear threat.]]></description>
@@ -18,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Photo: Prime Minister Netanyahu meets with US Defense Sec. Hegseth in Washington]]></title>
-            <description><![CDATA[Photo: Prime Minister Netanyahu meets with US Defense Sec. Hegseth in Washington]]></description>
+            <description><![CDATA[Netanyahu and HegsethPhoto: Ma'ayan Toaf/GPO]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690803</guid>
             <pubDate>Wed, 29 Jul 2026 15:19:00 GMT</pubDate>
@@ -46,15 +78,15 @@
         </item>
         <item>
             <title><![CDATA[Three Israelis arrested after crossing into Syria]]></title>
-            <description><![CDATA[Three Israelis arrested after crossing into Syria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[IDF returns three Israeli activists to Israeli territory a day after they crossed the border.]]></description>
+            <link>https://www.israelnationalnews.com/news/430952</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690799</guid>
             <pubDate>Wed, 29 Jul 2026 14:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algerian author: 'I refused to silence my support for Israel']]></title>
-            <description><![CDATA[Algerian-French writer Boualem Sansal tells Kan News his support for Israel led to imprisonment, alleging political repression and fear in Algeria.]]></description>
-            <link>https://www.israelnationalnews.com/news/430951</link>
+            <description><![CDATA[Algerian author: 'I refused to silence my support for Israel']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690798</guid>
             <pubDate>Wed, 29 Jul 2026 13:55:00 GMT</pubDate>
         </item>
@@ -67,7 +99,7 @@
         </item>
         <item>
             <title><![CDATA[Photo: Benjamin Netanyahu speaks with Ukranian President Zelenskyy at Sen. Graham's funeral]]></title>
-            <description><![CDATA[Netanyahu and ZelenskyyPrime Minister's Spokesperson’s Office]]></description>
+            <description><![CDATA[Photo: Benjamin Netanyahu speaks with Ukranian President Zelenskyy at Sen. Graham's funeral]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690796</guid>
             <pubDate>Wed, 29 Jul 2026 13:18:00 GMT</pubDate>
@@ -2780,34 +2812,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690408</guid>
             <pubDate>Thu, 23 Jul 2026 14:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani…shades of Hitler]]></title>
-            <description><![CDATA[Mamdani…shades of Hitler]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690407</guid>
-            <pubDate>Thu, 23 Jul 2026 13:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu responds to Trump: Saudi Arabia joining Abraham Accords would be historic leap]]></title>
-            <description><![CDATA[Netanyahu responds to Trump: Saudi Arabia joining Abraham Accords would be historic leap]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690406</guid>
-            <pubDate>Thu, 23 Jul 2026 13:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYPD investigates antisemitic and anti-Muslim attack in Brooklyn]]></title>
-            <description><![CDATA[NYPD investigates antisemitic and anti-Muslim attack in Brooklyn]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690405</guid>
-            <pubDate>Thu, 23 Jul 2026 13:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: Saudi Arabia joining Abraham Accords would be historic leap forward for peace]]></title>
-            <description><![CDATA[Netanyahu: Saudi Arabia joining Abraham Accords would be historic leap forward for peace]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690404</guid>
-            <pubDate>Thu, 23 Jul 2026 13:19:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

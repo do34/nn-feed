@@ -4,11 +4,74 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 06:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 09:31:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 06:28:30 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 09:31:06 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Father of slain hero delivers powerful message from attack site]]></title>
+            <description><![CDATA[Standing at site where his son was murdered, Benayahu Melet's father calls on IDF to permanently control ridge, demanding government establish Jewish communities in the area.]]></description>
+            <link>https://www.israelnationalnews.com/news/430997</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690855</guid>
+            <pubDate>Thu, 30 Jul 2026 09:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The truth behind Humanitarian Aid in Gaza]]></title>
+            <description><![CDATA[No amount of aid can guarantee food security if humanitarian organizations are obstructed, supplies are diverted, or aid workers are threatened. A critique of the latest Integrated Food Security Phase Classification report.]]></description>
+            <link>https://www.israelnationalnews.com/news/430996</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690854</guid>
+            <pubDate>Thu, 30 Jul 2026 08:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Hezbollah arsenal found hidden among civilians]]></title>
+            <description><![CDATA[Watch: Hezbollah arsenal found hidden among civilians]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690853</guid>
+            <pubDate>Thu, 30 Jul 2026 08:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From molecular recognition to redemptive prayer]]></title>
+            <description><![CDATA[One of the most exquisite acts in all of biology teaches something profound about prayer.]]></description>
+            <link>https://www.israelnationalnews.com/news/430995</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690852</guid>
+            <pubDate>Thu, 30 Jul 2026 08:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Senator John Fetterman clashes with reporter over Israel]]></title>
+            <description><![CDATA[Watch: Senator John Fetterman clashes with reporter over Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690851</guid>
+            <pubDate>Thu, 30 Jul 2026 08:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Injured IDF soldier questioned after testifying on terror attack]]></title>
+            <description><![CDATA[An IDF soldier wounded in a terrorist attack near Susya says he became the subject of a criminal investigation after arriving to give testimony. His attorney accuses police of targeting a terror victim instead of his attackers.]]></description>
+            <link>https://www.israelnationalnews.com/news/430992</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690850</guid>
+            <pubDate>Thu, 30 Jul 2026 08:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Toddler survives after car drives over him]]></title>
+            <description><![CDATA[Watch: Toddler survives after car drives over him]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690849</guid>
+            <pubDate>Thu, 30 Jul 2026 08:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Shidduch Crisis, part II]]></title>
+            <description><![CDATA[Not according to our timetable.]]></description>
+            <link>https://www.israelnationalnews.com/news/430991</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690848</guid>
+            <pubDate>Thu, 30 Jul 2026 07:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYT: Iran behind Egypt port blast]]></title>
+            <description><![CDATA[NYT: Iran behind Egypt port blast]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690847</guid>
+            <pubDate>Thu, 30 Jul 2026 07:12:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Last Hamas sniper commander eliminated, IDF says]]></title>
             <description><![CDATA[IDF eliminates final remaining sniper cell commander in Hamas' Nuseirat Battalion, alongside terrorist who infiltrated Israel during October 7 massacre.]]></description>
@@ -18,8 +81,8 @@
         </item>
         <item>
             <title><![CDATA[Report: Hamas may agree to disarm]]></title>
-            <description><![CDATA[Hamas discussing deal to surrender its weapons, hand control of Gaza to international force, Channel 13 report says.]]></description>
-            <link>https://www.israelnationalnews.com/news/430987</link>
+            <description><![CDATA[Report: Hamas may agree to disarm]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690845</guid>
             <pubDate>Thu, 30 Jul 2026 06:18:00 GMT</pubDate>
         </item>
@@ -32,8 +95,8 @@
         </item>
         <item>
             <title><![CDATA[What’s good for Russia and China Is bad for the United States]]></title>
-            <description><![CDATA[There is no Jewish conspiracy to dominate the world, but there is a widespread global anti-Jewish conspiracy based on the principles of digital and online anti-Semitism. And it comes from China and Russia. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/430986</link>
+            <description><![CDATA[What’s good for Russia and China Is bad for the United States]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690843</guid>
             <pubDate>Thu, 30 Jul 2026 04:49:00 GMT</pubDate>
         </item>
@@ -46,38 +109,36 @@
         </item>
         <item>
             <title><![CDATA[Jury finds Salman Rushdie's attacker guilty of terrorism charges]]></title>
-            <description><![CDATA[Federal jury convicts Hadi Matar of transnational terrorism for the 2022 stabbing of author Salman Rushdie, exposing him to a life sentence.]]></description>
-            <link>https://www.israelnationalnews.com/news/430984</link>
+            <description><![CDATA[Jury finds Salman Rushdie's attacker guilty of terrorism charges]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690841</guid>
             <pubDate>Thu, 30 Jul 2026 03:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu meets Sen. Tim Sheehy, thanks him for 'unbelievable support']]></title>
-            <description><![CDATA[PM Netanyahu meets Senator Tim Sheehy in Washington, thanking him for his support, as Sheehy notes that true friends reveal themselves when under siege.]]></description>
-            <link>https://www.israelnationalnews.com/news/430983</link>
+            <description><![CDATA[Netanyahu meets Sen. Tim Sheehy, thanks him for 'unbelievable support']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690840</guid>
             <pubDate>Thu, 30 Jul 2026 03:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Podcast: The mysterious origins of a beloved day]]></title>
-            <description><![CDATA[Moshe preps his people for conquering the land.]]></description>
-            <link>https://www.israelnationalnews.com/news/430976</link>
+            <description><![CDATA[Podcast: The mysterious origins of a beloved day]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690839</guid>
             <pubDate>Thu, 30 Jul 2026 02:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CENTCOM completes heavy wave of strikes across Iran following Jordan base attack]]></title>
-            <description><![CDATA[US Central Command (CENTCOM) announced on Thursday morning that its forces successfully completed a heavy wave of strikes against Iran.
-
-“CENTCOM assets struck dozens of Islamic Revolutionary Guard Corps (IRGC) targets in Iran, including military command centers, missile and drone facilities, coastal surveillance and defense sites, and maritime capabilities," CENTCOM said.]]></description>
-            <link>https://www.israelnationalnews.com/news/430977</link>
+            <description><![CDATA[CENTCOM completes heavy wave of strikes across Iran following Jordan base attack]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690838</guid>
             <pubDate>Thu, 30 Jul 2026 02:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu meets Evangelicals in D.C.: We are one against common threats]]></title>
-            <description><![CDATA[Netanyahu thanks Evangelical leaders for their unwavering support during a meeting in Washington, urging unity against antisemitism and calling on them to fight back.]]></description>
-            <link>https://www.israelnationalnews.com/news/430982</link>
+            <description><![CDATA[Netanyahu meets Evangelicals in D.C.: We are one against common threats]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690837</guid>
             <pubDate>Thu, 30 Jul 2026 02:23:00 GMT</pubDate>
         </item>
@@ -2747,69 +2808,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690455</guid>
             <pubDate>Fri, 24 Jul 2026 05:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dvar Haftorah for Shabbat Nachamu: The illusion of human power]]></title>
-            <description><![CDATA[Dvar Haftorah for Shabbat Nachamu: The illusion of human power]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690454</guid>
-            <pubDate>Fri, 24 Jul 2026 05:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poll: Eisenkot's Yashar! widens lead over Likud]]></title>
-            <description><![CDATA[Poll: Eisenkot's Yashar! widens lead over Likud]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690453</guid>
-            <pubDate>Fri, 24 Jul 2026 05:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Haftarat Shabbat Nachamu: Comforting God]]></title>
-            <description><![CDATA[Haftarat Shabbat Nachamu: Comforting God]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690452</guid>
-            <pubDate>Fri, 24 Jul 2026 05:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The appropriate orientation to Torah observance]]></title>
-            <description><![CDATA[The appropriate orientation to Torah observance]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690451</guid>
-            <pubDate>Fri, 24 Jul 2026 05:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parashat Va-et’chanan: It’s not a coincidence]]></title>
-            <description><![CDATA[Parashat Va-et’chanan: It’s not a coincidence]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690450</guid>
-            <pubDate>Fri, 24 Jul 2026 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A New Perspective: Discovering Hashem’s mercy within exile]]></title>
-            <description><![CDATA[A New Perspective: Discovering Hashem’s mercy within exile]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690449</guid>
-            <pubDate>Fri, 24 Jul 2026 04:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK police apologizes over unchecked phones of Manchester synagogue attacker]]></title>
-            <description><![CDATA[UK police apologizes over unchecked phones of Manchester synagogue attacker]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690448</guid>
-            <pubDate>Fri, 24 Jul 2026 03:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US sanctions target Muslim Brotherhood official and Hamas-linked entities]]></title>
-            <description><![CDATA[US sanctions target Muslim Brotherhood official and Hamas-linked entities]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690447</guid>
-            <pubDate>Fri, 24 Jul 2026 03:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran warns of strikes on Tel Aviv if Trump expands campaign to Tehran]]></title>
-            <description><![CDATA[Iran warns of strikes on Tel Aviv if Trump expands campaign to Tehran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690446</guid>
-            <pubDate>Fri, 24 Jul 2026 02:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

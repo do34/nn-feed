@@ -4,11 +4,53 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 03:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 06:28:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 03:17:19 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 06:28:30 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Last Hamas sniper commander eliminated, IDF says]]></title>
+            <description><![CDATA[IDF eliminates final remaining sniper cell commander in Hamas' Nuseirat Battalion, alongside terrorist who infiltrated Israel during October 7 massacre.]]></description>
+            <link>https://www.israelnationalnews.com/news/430988</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690846</guid>
+            <pubDate>Thu, 30 Jul 2026 06:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Hamas may agree to disarm]]></title>
+            <description><![CDATA[Hamas discussing deal to surrender its weapons, hand control of Gaza to international force, Channel 13 report says.]]></description>
+            <link>https://www.israelnationalnews.com/news/430987</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690845</guid>
+            <pubDate>Thu, 30 Jul 2026 06:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No boarding: Israel cracks down on Uman-bound draft evaders]]></title>
+            <description><![CDATA[No boarding: Israel cracks down on Uman-bound draft evaders]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690844</guid>
+            <pubDate>Thu, 30 Jul 2026 05:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What’s good for Russia and China Is bad for the United States]]></title>
+            <description><![CDATA[There is no Jewish conspiracy to dominate the world, but there is a widespread global anti-Jewish conspiracy based on the principles of digital and online anti-Semitism. And it comes from China and Russia. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/430986</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690843</guid>
+            <pubDate>Thu, 30 Jul 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Two waves of launches from Iran towards Jordan]]></title>
+            <description><![CDATA[Report: Two waves of launches from Iran towards Jordan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690842</guid>
+            <pubDate>Thu, 30 Jul 2026 04:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jury finds Salman Rushdie's attacker guilty of terrorism charges]]></title>
+            <description><![CDATA[Federal jury convicts Hadi Matar of transnational terrorism for the 2022 stabbing of author Salman Rushdie, exposing him to a life sentence.]]></description>
+            <link>https://www.israelnationalnews.com/news/430984</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690841</guid>
+            <pubDate>Thu, 30 Jul 2026 03:57:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netanyahu meets Sen. Tim Sheehy, thanks him for 'unbelievable support']]></title>
             <description><![CDATA[PM Netanyahu meets Senator Tim Sheehy in Washington, thanking him for his support, as Sheehy notes that true friends reveal themselves when under siege.]]></description>
@@ -34,15 +76,15 @@
         </item>
         <item>
             <title><![CDATA[Netanyahu meets Evangelicals in D.C.: We are one against common threats]]></title>
-            <description><![CDATA[Netanyahu meets Evangelicals in D.C.: We are one against common threats]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[Netanyahu thanks Evangelical leaders for their unwavering support during a meeting in Washington, urging unity against antisemitism and calling on them to fight back.]]></description>
+            <link>https://www.israelnationalnews.com/news/430982</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690837</guid>
             <pubDate>Thu, 30 Jul 2026 02:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu thanks Sen. Fetterman for standing with Israel during Washington meeting]]></title>
-            <description><![CDATA[PM Netanyahu meets Senator John Fetterman in D.C., thanking him for his staunch support, as Fetterman vows to remain the "conscience of the Democratic Party."]]></description>
-            <link>https://www.israelnationalnews.com/news/430981</link>
+            <description><![CDATA[Netanyahu thanks Sen. Fetterman for standing with Israel during Washington meeting]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690836</guid>
             <pubDate>Thu, 30 Jul 2026 01:52:00 GMT</pubDate>
         </item>
@@ -55,8 +97,8 @@
         </item>
         <item>
             <title><![CDATA[Reports in Iran of explosions on Qeshem Island and Bushehr]]></title>
-            <description><![CDATA[Iranian media reported that three explosions were heard on Qeshm Island in the Strait of Hormuz, along with another explosion in Bushehr.]]></description>
-            <link>https://www.israelnationalnews.com/news/430977</link>
+            <description><![CDATA[Reports in Iran of explosions on Qeshem Island and Bushehr]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690834</guid>
             <pubDate>Thu, 30 Jul 2026 01:08:00 GMT</pubDate>
         </item>
@@ -69,8 +111,8 @@
         </item>
         <item>
             <title><![CDATA[CENTCOM confirms launching strikes in Iran]]></title>
-            <description><![CDATA[US Central Command (CENTCOM) confirmed it had launched strikes on Iran, saying in a statement, “US forces began launching strikes against Iran at 8 p.m. ET today. The strikes are a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East."]]></description>
-            <link>https://www.israelnationalnews.com/news/430977</link>
+            <description><![CDATA[CENTCOM confirms launching strikes in Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690832</guid>
             <pubDate>Thu, 30 Jul 2026 00:27:00 GMT</pubDate>
         </item>
@@ -2768,48 +2810,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690446</guid>
             <pubDate>Fri, 24 Jul 2026 02:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: The 9th of Av and the future of our world]]></title>
-            <description><![CDATA[Podcast: The 9th of Av and the future of our world]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690445</guid>
-            <pubDate>Fri, 24 Jul 2026 02:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[125 nations set to vote on ousting suspended ICC Chief Prosecutor]]></title>
-            <description><![CDATA[125 nations set to vote on ousting suspended ICC Chief Prosecutor]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690444</guid>
-            <pubDate>Fri, 24 Jul 2026 01:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CENTCOM wraps 13th straight might of Iran strikes to protect shipping lines]]></title>
-            <description><![CDATA[CENTCOM wraps 13th straight might of Iran strikes to protect shipping lines]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690443</guid>
-            <pubDate>Fri, 24 Jul 2026 01:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House passes measure to end Iran war, Senate blocks binding resolution]]></title>
-            <description><![CDATA[House passes measure to end Iran war, Senate blocks binding resolution]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690442</guid>
-            <pubDate>Fri, 24 Jul 2026 01:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Iran rejects Iraqi PM’s proposal for US ceasefire plan]]></title>
-            <description><![CDATA[Report: Iran rejects Iraqi PM’s proposal for US ceasefire plan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690441</guid>
-            <pubDate>Fri, 24 Jul 2026 00:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian report: Air defense systems activated in Tehran]]></title>
-            <description><![CDATA[Iranian report: Air defense systems activated in Tehran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690440</guid>
-            <pubDate>Fri, 24 Jul 2026 00:35:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,76 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 00:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 04:22:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 00:02:01 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 04:22:03 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Watch: Iranian drone strike in Erbil, Iraq overnight]]></title>
+            <description><![CDATA[Watch: Iranian drone strike in Erbil, Iraq overnight]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690912</guid>
+            <pubDate>Fri, 31 Jul 2026 04:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish leaders condemn sentence in Chabad headquarters car attack]]></title>
+            <description><![CDATA[Brooklyn Jewish leaders criticize judge's decision to sentence man to time served for repeatedly ramming his car into Chabad's world headquarters.]]></description>
+            <link>https://www.israelnationalnews.com/news/431036</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690911</guid>
+            <pubDate>Fri, 31 Jul 2026 03:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mansour Abbas: Yes to civic service for Arabs, but with no military or security ties]]></title>
+            <description><![CDATA[Mansour Abbas: Yes to civic service for Arabs, but with no military or security ties]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690910</guid>
+            <pubDate>Fri, 31 Jul 2026 03:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US sanctions global entities aiding Iran’s IRGC]]></title>
+            <description><![CDATA[US sanctions six people and firms across four countries for assisting Iran's IRGC and its transport network, Mahan Air, in moving military equipment.]]></description>
+            <link>https://www.israelnationalnews.com/news/431034</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690909</guid>
+            <pubDate>Fri, 31 Jul 2026 02:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police arrest suspect in rock-throwing targeting Channel 12 headquarters]]></title>
+            <description><![CDATA[Police arrest a Ramat Gan resident suspected of hurling rocks at the main entrance of the Channel 12 News building, causing property damage, and leaving a threatening note at the scene.]]></description>
+            <link>https://www.israelnationalnews.com/news/431033</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690908</guid>
+            <pubDate>Fri, 31 Jul 2026 02:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran’s FM claims Israel behind attack on US tanker in Egypt]]></title>
+            <description><![CDATA[Iranian FM Araghchi blames Israel for a drone strike on a US tanker in Egypt, calling it a “false-flag operation" despite reports attributing it to Iran.]]></description>
+            <link>https://www.israelnationalnews.com/news/431032</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690907</guid>
+            <pubDate>Fri, 31 Jul 2026 01:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US officials: If Israel refuses the deal, Trump will be disappointed]]></title>
+            <description><![CDATA[US and Board of Peace officials brief reporters on Gaza demilitarization deal, reveal that Tehran attempted to sabotage negotiations and warn that a rejection from Israel would disappoint Trump.]]></description>
+            <link>https://www.israelnationalnews.com/news/431031</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690906</guid>
+            <pubDate>Fri, 31 Jul 2026 01:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six-year-old boy moderately injured after being struck by car in Jerusalem]]></title>
+            <description><![CDATA[A six-year-old boy was moderately injured after being struck by a vehicle in Jerusalem.
+
+Magen David Adom (MDA) EMTs and paramedics provided medical treatment at the scene and evacuated him to Shaare Zedek Hospital.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690905</guid>
+            <pubDate>Fri, 31 Jul 2026 00:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senate Republicans defeat another resolution to halt US military action in Iran]]></title>
+            <description><![CDATA[Senate Republicans again block a motion to pull US troops from Iran, giving President Trump leeway.]]></description>
+            <link>https://www.israelnationalnews.com/news/431030</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690904</guid>
+            <pubDate>Fri, 31 Jul 2026 00:27:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Senior US official: Implementation of Hamas demilitarization deal to begin in coming weeks]]></title>
             <description><![CDATA[A senior American official quoted by Channel 12 News addressed the agreements reached regarding the disarming of the Hamas terrorist organization in the Gaza Strip, stating that on-the-ground implementation of the agreement is expected to begin in the coming weeks.
@@ -20,9 +85,7 @@ The official noted that Israeli leadership was dissatisfied with the US decision
         </item>
         <item>
             <title><![CDATA[Cyclist seriously injured riding electric bicycle in Nof HaGalil]]></title>
-            <description><![CDATA[A 25-year-old man was seriously injured while riding an electric bicycle on Menahem Ariav Street in Nof HaGalil.
-
-Magen David Adom paramedics and EMTs provided medical treatment at the scene before evacuating him to the Italian Hospital in Nazareth.]]></description>
+            <description><![CDATA[Cyclist seriously injured riding electric bicycle in Nof HaGalil]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690902</guid>
             <pubDate>Thu, 30 Jul 2026 23:19:00 GMT</pubDate>
@@ -36,52 +99,42 @@ Magen David Adom paramedics and EMTs provided medical treatment at the scene bef
         </item>
         <item>
             <title><![CDATA[Rift among The Democrats over the term 'Judea and Samaria']]></title>
-            <description><![CDATA[Gaby Lasky demands that Yair Golan use the term "West Bank," while Arab party representatives criticize his response to the Havat Gilad terror attack.]]></description>
-            <link>https://www.israelnationalnews.com/news/431028</link>
+            <description><![CDATA[Rift among The Democrats over the term 'Judea and Samaria']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690900</guid>
             <pubDate>Thu, 30 Jul 2026 22:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Murder in the Negev: 30-year-old shot dead in Kuseife, two others lightly injured]]></title>
-            <description><![CDATA[A man in his 30s was shot and killed in a violent incident in the Negev town of Kuseife. First responders arriving at the scene were forced to pronounce him dead on site. Two other men sustained light injuries during the attack and were evacuated by medical personnel to Soroka Hospital in Be'er Sheva.
-
-Officers from the Ar'arat an-Naqab (Aroer) police station responded to the shooting, opened an investigation into the circumstances, and began gathering evidence while conducting extensive searches in the area for suspects. Preliminary police findings indicate that the incident was criminally motivated.]]></description>
+            <description><![CDATA[Murder in the Negev: 30-year-old shot dead in Kuseife, two others lightly injured]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690899</guid>
             <pubDate>Thu, 30 Jul 2026 21:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF destroys terror tunnels in Beaufort in Lebanon using some 700 tons of explosives]]></title>
-            <description><![CDATA[On the directive of Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz, the IDF has demolished terror tunnels in the Beaufort region of southern Lebanon. According to the political leadership, the underground network was part of Hezbollah's plan to invade communities in the Galilee.
-
-A joint statement revealed that the tunnels were blown up using roughly 700 tons of explosives. The statement further noted that the operation was carried out following a ceasefire violation by Hezbollah, emphasizing that Israel will respond forcefully to any attempt to target IDF troops or its citizens.
-
-Read more]]></description>
+            <description><![CDATA[IDF destroys terror tunnels in Beaufort in Lebanon using some 700 tons of explosives]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690898</guid>
             <pubDate>Thu, 30 Jul 2026 21:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF to stand down standby security teams in Gaza border communities]]></title>
-            <description><![CDATA[The IDF has decided to stand down members of local standby security squads in Gaza border communities located 4 to 7 kilometers from the border with the Strip.
-
-Under the decision, each community's chief security officer will remain on active reserve duty, while all other personnel called up under emergency reserve orders will be discharged shortly.]]></description>
+            <description><![CDATA[IDF to stand down standby security teams in Gaza border communities]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690897</guid>
             <pubDate>Thu, 30 Jul 2026 20:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trust in God does not replace the army]]></title>
-            <description><![CDATA[The parsha teaches that God is the one who grants strength to achieve success, not that a person is exempt from taking action of their own.]]></description>
-            <link>https://www.israelnationalnews.com/news/431025</link>
+            <description><![CDATA[Trust in God does not replace the army]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690896</guid>
             <pubDate>Thu, 30 Jul 2026 20:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israeli man stabbed at music festival in Hungary, three suspects arrested]]></title>
-            <description><![CDATA[An Israeli citizen in his 30s was stabbed early Tuesday morning at the Ozora Music Festival in Hungary.
-
-Local police arrested three suspects in connection with the attack. Authorities reported that the Israeli man's condition stabilized after he was hospitalized.]]></description>
+            <description><![CDATA[Israeli man stabbed at music festival in Hungary, three suspects arrested]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690895</guid>
             <pubDate>Thu, 30 Jul 2026 20:02:00 GMT</pubDate>
@@ -2759,69 +2812,6 @@ Local police arrested three suspects in connection with the attack. Authorities 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690512</guid>
             <pubDate>Fri, 24 Jul 2026 19:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu to meet Trump in DC as amid soaring Iran tensions]]></title>
-            <description><![CDATA[Netanyahu to meet Trump in DC as amid soaring Iran tensions]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690511</guid>
-            <pubDate>Fri, 24 Jul 2026 18:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICC member states vote to oust Chief Prosecutor Khan, Israeli officials welcome move]]></title>
-            <description><![CDATA[ICC member states vote to oust Chief Prosecutor Khan, Israeli officials welcome move]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690510</guid>
-            <pubDate>Fri, 24 Jul 2026 17:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Bahrain and Kuwait secretly struck Iran in first direct retaliation]]></title>
-            <description><![CDATA[Report: Bahrain and Kuwait secretly struck Iran in first direct retaliation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690509</guid>
-            <pubDate>Fri, 24 Jul 2026 17:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
-            <pubDate>Fri, 24 Jul 2026 16:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benayahu Melet, hero who rushed to rescue hikers, laid to rest]]></title>
-            <description><![CDATA[Benayahu Melet, hero who rushed to rescue hikers, laid to rest]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690508</guid>
-            <pubDate>Fri, 24 Jul 2026 16:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF strikes Hamas weapons sites after ceasefire violations]]></title>
-            <description><![CDATA[IDF strikes Hamas weapons sites after ceasefire violations]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690506</guid>
-            <pubDate>Fri, 24 Jul 2026 15:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's warning to Russia and Iran]]></title>
-            <description><![CDATA[Trump's warning to Russia and Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690505</guid>
-            <pubDate>Fri, 24 Jul 2026 15:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White House: Zelenskyy to meet with Trump on Tuesday]]></title>
-            <description><![CDATA[White House: Zelenskyy to meet with Trump on Tuesday]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690504</guid>
-            <pubDate>Fri, 24 Jul 2026 15:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ashkelon Mayor meets Yuval Kogan and his mother: "A revealed miracle to meet little Yuval"]]></title>
-            <description><![CDATA[Ashkelon Mayor meets Yuval Kogan and his mother: "A revealed miracle to meet little Yuval"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690503</guid>
-            <pubDate>Fri, 24 Jul 2026 15:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,29 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 17:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 19:24:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 17:37:13 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 19:24:46 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Israel rebuts Canada 'settlement' critique by highlighting local antisemitism]]></title>
+            <description><![CDATA[In response to Canada condemning Israeli policy in Judea and Samaria, Israel's Embassy turns Ottawa's wording back on it to highlight antisemitic violence in Canada.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431072</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690961</guid>
+            <pubDate>Fri, 31 Jul 2026 19:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump says he is 'losing faith' in Iran: They lie and break their word]]></title>
+            <description><![CDATA[President Trump expresses distrust in Iran, citing broken promises and missile attacks during talks, while reaffirming Iran will not get nuclear arms.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431071</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690960</guid>
+            <pubDate>Fri, 31 Jul 2026 18:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump claims Israel is 'very happy' with Hamas disarmament deal]]></title>
             <description><![CDATA[President Trump praises Hamas disarmament deal, claiming Israel is "very happy" with the agreement and states weapons will be surrendered to the Board of Peace.
@@ -29,7 +47,11 @@
         </item>
         <item>
             <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
+            <description><![CDATA[Arutz Sheva-Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of Shabbat. Jerusalem candle lighting time is 18:57 on Friday. Our North American desk will keep you informed until the 19:54 EDT candle lighting time in New York.
+
+The updates from Israel will resume Saturday night, following the conclusion of Shabbat at 20:16 in Jerusalem.
+
+Shabbat Shalom!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
             <pubDate>Fri, 31 Jul 2026 16:15:00 GMT</pubDate>
@@ -82,8 +104,8 @@ The statement added that Kardi continued to advance terror plots targeting IDF f
         </item>
         <item>
             <title><![CDATA['A commander fell': When they thought Efi Defrin had been killed]]></title>
-            <description><![CDATA[Twenty years after the Battle of Wadi Saluki, Brig. Gen. Efi Defrin returns to the moments of his injury, the call over the radio, and the first question he asked when he regained consciousness.]]></description>
-            <link>https://www.israelnationalnews.com/news/431066</link>
+            <description><![CDATA['A commander fell': When they thought Efi Defrin had been killed]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690951</guid>
             <pubDate>Fri, 31 Jul 2026 13:56:00 GMT</pubDate>
         </item>
@@ -2802,20 +2824,6 @@ The statement added that Kardi continued to advance terror plots targeting IDF f
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690561</guid>
             <pubDate>Sun, 26 Jul 2026 10:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mourning the man who brought hope to thousands]]></title>
-            <description><![CDATA[Mourning the man who brought hope to thousands]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690560</guid>
-            <pubDate>Sun, 26 Jul 2026 09:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geert Wilders: 'Israeli settlements aid security of Europe']]></title>
-            <description><![CDATA[Geert Wilders: 'Israeli settlements aid security of Europe']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690559</guid>
-            <pubDate>Sun, 26 Jul 2026 09:25:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

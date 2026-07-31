@@ -4,11 +4,55 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 04:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 07:50:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 04:22:03 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 07:50:12 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Watch: Netzah Yehuda soldiers attacked in Jerusalem]]></title>
+            <description><![CDATA[Three soldiers from the IDF's Netzah Yehuda Battalion were assaulted after entering the area of a protest march in Jerusalem, where participants chanted slogans against military service.]]></description>
+            <link>https://www.israelnationalnews.com/news/431041</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690918</guid>
+            <pubDate>Fri, 31 Jul 2026 07:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Pentagon considering reducing US military presence in Kuwait]]></title>
+            <description><![CDATA[Following Iranian attacks, the Pentagon has reportedly been discussing for some time the possibility of scaling back the US military presence in Kuwait.]]></description>
+            <link>https://www.israelnationalnews.com/news/431040</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690917</guid>
+            <pubDate>Fri, 31 Jul 2026 06:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extreme heat wave expected this weekend]]></title>
+            <description><![CDATA[Extreme heat wave expected this weekend]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690916</guid>
+            <pubDate>Fri, 31 Jul 2026 05:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dozens killed in Pakistan coal mine explosion]]></title>
+            <description><![CDATA[At least 34 people were killed in an explosion at a coal mine in Pakistan's southwestern Balochistan province.
+
+French media noted that all the victims identified at the scene worked as recruits in the mine at the time of the disaster.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690915</guid>
+            <pubDate>Fri, 31 Jul 2026 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teen recounts: 'I begged him to stop the terrorist']]></title>
+            <description><![CDATA[Teen recounts: 'I begged him to stop the terrorist']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690914</guid>
+            <pubDate>Fri, 31 Jul 2026 04:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The tragic Israel wedge]]></title>
+            <description><![CDATA[Jewish leaders need to quickly close the gap that has opened up between Zionism and Judaism. Anti-Zionism, which would destroy the religion by detaching it from the land, is inescapably anti-Judaism. And Bret Stephens fell into the trap. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431037</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690913</guid>
+            <pubDate>Fri, 31 Jul 2026 04:27:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Iranian drone strike in Erbil, Iraq overnight]]></title>
             <description><![CDATA[Watch: Iranian drone strike in Erbil, Iraq overnight]]></description>
@@ -25,8 +69,8 @@
         </item>
         <item>
             <title><![CDATA[Mansour Abbas: Yes to civic service for Arabs, but with no military or security ties]]></title>
-            <description><![CDATA[Mansour Abbas: Yes to civic service for Arabs, but with no military or security ties]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[Ra'am chairman MK Mansour Abbas supports a volunteer service model for the Arab community that would be Arab-led and focused on Arab community needs.]]></description>
+            <link>https://www.israelnationalnews.com/news/431035</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690910</guid>
             <pubDate>Fri, 31 Jul 2026 03:16:00 GMT</pubDate>
         </item>
@@ -39,47 +83,43 @@
         </item>
         <item>
             <title><![CDATA[Police arrest suspect in rock-throwing targeting Channel 12 headquarters]]></title>
-            <description><![CDATA[Police arrest a Ramat Gan resident suspected of hurling rocks at the main entrance of the Channel 12 News building, causing property damage, and leaving a threatening note at the scene.]]></description>
-            <link>https://www.israelnationalnews.com/news/431033</link>
+            <description><![CDATA[Police arrest suspect in rock-throwing targeting Channel 12 headquarters]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690908</guid>
             <pubDate>Fri, 31 Jul 2026 02:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran’s FM claims Israel behind attack on US tanker in Egypt]]></title>
-            <description><![CDATA[Iranian FM Araghchi blames Israel for a drone strike on a US tanker in Egypt, calling it a “false-flag operation" despite reports attributing it to Iran.]]></description>
-            <link>https://www.israelnationalnews.com/news/431032</link>
+            <description><![CDATA[Iran’s FM claims Israel behind attack on US tanker in Egypt]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690907</guid>
             <pubDate>Fri, 31 Jul 2026 01:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US officials: If Israel refuses the deal, Trump will be disappointed]]></title>
-            <description><![CDATA[US and Board of Peace officials brief reporters on Gaza demilitarization deal, reveal that Tehran attempted to sabotage negotiations and warn that a rejection from Israel would disappoint Trump.]]></description>
-            <link>https://www.israelnationalnews.com/news/431031</link>
+            <description><![CDATA[US officials: If Israel refuses the deal, Trump will be disappointed]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690906</guid>
             <pubDate>Fri, 31 Jul 2026 01:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six-year-old boy moderately injured after being struck by car in Jerusalem]]></title>
-            <description><![CDATA[A six-year-old boy was moderately injured after being struck by a vehicle in Jerusalem.
-
-Magen David Adom (MDA) EMTs and paramedics provided medical treatment at the scene and evacuated him to Shaare Zedek Hospital.]]></description>
+            <description><![CDATA[Six-year-old boy moderately injured after being struck by car in Jerusalem]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690905</guid>
             <pubDate>Fri, 31 Jul 2026 00:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senate Republicans defeat another resolution to halt US military action in Iran]]></title>
-            <description><![CDATA[Senate Republicans again block a motion to pull US troops from Iran, giving President Trump leeway.]]></description>
-            <link>https://www.israelnationalnews.com/news/431030</link>
+            <description><![CDATA[Senate Republicans defeat another resolution to halt US military action in Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690904</guid>
             <pubDate>Fri, 31 Jul 2026 00:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senior US official: Implementation of Hamas demilitarization deal to begin in coming weeks]]></title>
-            <description><![CDATA[A senior American official quoted by Channel 12 News addressed the agreements reached regarding the disarming of the Hamas terrorist organization in the Gaza Strip, stating that on-the-ground implementation of the agreement is expected to begin in the coming weeks.
-
-The official noted that Israeli leadership was dissatisfied with the US decision to include Turkey and Qatar in the Board of Peace. However, he maintained that both nations - alongside Egypt - played a crucial role in advancing the process.]]></description>
-            <link>https://www.israelnationalnews.com/news/431029</link>
+            <description><![CDATA[Senior US official: Implementation of Hamas demilitarization deal to begin in coming weeks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690903</guid>
             <pubDate>Thu, 30 Jul 2026 23:56:00 GMT</pubDate>
         </item>
@@ -2770,48 +2810,6 @@ The official noted that Israeli leadership was dissatisfied with the US decision
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690518</guid>
             <pubDate>Fri, 24 Jul 2026 21:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Rewriting history': Israel blasts UNESCO over Samaria town heritage listing]]></title>
-            <description><![CDATA['Rewriting history': Israel blasts UNESCO over Samaria town heritage listing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690517</guid>
-            <pubDate>Fri, 24 Jul 2026 21:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Austrian Airlines and ITA cancel morning flights to Israel]]></title>
-            <description><![CDATA[Austrian Airlines and ITA cancel morning flights to Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690516</guid>
-            <pubDate>Fri, 24 Jul 2026 21:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia strikes Yemen’s Hodeidah following attack on Saudi vessel]]></title>
-            <description><![CDATA[Saudi Arabia strikes Yemen’s Hodeidah following attack on Saudi vessel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690515</guid>
-            <pubDate>Fri, 24 Jul 2026 20:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reports of explosions Port of Hodeidah in Yemen]]></title>
-            <description><![CDATA[Reports of explosions Port of Hodeidah in Yemen]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690514</guid>
-            <pubDate>Fri, 24 Jul 2026 20:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump again clarifies Saudi nuclear pact hinges on Abraham Accords]]></title>
-            <description><![CDATA[Trump again clarifies Saudi nuclear pact hinges on Abraham Accords]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690513</guid>
-            <pubDate>Fri, 24 Jul 2026 19:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump meets key cabinet officials to evaluate escalating military action against Iran]]></title>
-            <description><![CDATA[Trump meets key cabinet officials to evaluate escalating military action against Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690512</guid>
-            <pubDate>Fri, 24 Jul 2026 19:25:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

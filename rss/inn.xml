@@ -4,11 +4,43 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 22:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 00:02:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 22:08:12 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 00:02:01 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Senior US official: Implementation of Hamas demilitarization deal to begin in coming weeks]]></title>
+            <description><![CDATA[A senior American official quoted by Channel 12 News addressed the agreements reached regarding the disarming of the Hamas terrorist organization in the Gaza Strip, stating that on-the-ground implementation of the agreement is expected to begin in the coming weeks.
+
+The official noted that Israeli leadership was dissatisfied with the US decision to include Turkey and Qatar in the Board of Peace. However, he maintained that both nations - alongside Egypt - played a crucial role in advancing the process.]]></description>
+            <link>https://www.israelnationalnews.com/news/431029</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690903</guid>
+            <pubDate>Thu, 30 Jul 2026 23:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cyclist seriously injured riding electric bicycle in Nof HaGalil]]></title>
+            <description><![CDATA[A 25-year-old man was seriously injured while riding an electric bicycle on Menahem Ariav Street in Nof HaGalil.
+
+Magen David Adom paramedics and EMTs provided medical treatment at the scene before evacuating him to the Italian Hospital in Nazareth.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690902</guid>
+            <pubDate>Thu, 30 Jul 2026 23:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump: The Board of Peace has reached an agreement for the disarmament of Hamas]]></title>
+            <description><![CDATA[Trump: The Board of Peace has reached an agreement for the disarmament of Hamas]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690901</guid>
+            <pubDate>Thu, 30 Jul 2026 22:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rift among The Democrats over the term 'Judea and Samaria']]></title>
+            <description><![CDATA[Gaby Lasky demands that Yair Golan use the term "West Bank," while Arab party representatives criticize his response to the Havat Gilad terror attack.]]></description>
+            <link>https://www.israelnationalnews.com/news/431028</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690900</guid>
+            <pubDate>Thu, 30 Jul 2026 22:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Murder in the Negev: 30-year-old shot dead in Kuseife, two others lightly injured]]></title>
             <description><![CDATA[A man in his 30s was shot and killed in a violent incident in the Negev town of Kuseife. First responders arriving at the scene were forced to pronounce him dead on site. Two other men sustained light injuries during the attack and were evacuated by medical personnel to Soroka Hospital in Be'er Sheva.
@@ -31,7 +63,9 @@ Read more]]></description>
         </item>
         <item>
             <title><![CDATA[IDF to stand down standby security teams in Gaza border communities]]></title>
-            <description><![CDATA[IDF to stand down standby security teams in Gaza border communities]]></description>
+            <description><![CDATA[The IDF has decided to stand down members of local standby security squads in Gaza border communities located 4 to 7 kilometers from the border with the Strip.
+
+Under the decision, each community's chief security officer will remain on active reserve duty, while all other personnel called up under emergency reserve orders will be discharged shortly.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690897</guid>
             <pubDate>Thu, 30 Jul 2026 20:40:00 GMT</pubDate>
@@ -61,30 +95,28 @@ Local police arrested three suspects in connection with the attack. Authorities 
         </item>
         <item>
             <title><![CDATA[Analyst: The threat that most worries the Shin Bet chief]]></title>
-            <description><![CDATA[According to commentator Amit Segal, Shin Bet Director David Zini views a growing technological threat as one of Israel's most pressing security challenges.]]></description>
-            <link>https://www.israelnationalnews.com/news/431024</link>
+            <description><![CDATA[Analyst: The threat that most worries the Shin Bet chief]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690893</guid>
             <pubDate>Thu, 30 Jul 2026 19:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF orders shutdown of most military social media accounts]]></title>
-            <description><![CDATA[The IDF has suspended social media accounts run by units below division level and imposed tighter approval rules on senior officers' public statements.]]></description>
-            <link>https://www.israelnationalnews.com/news/431023</link>
+            <description><![CDATA[IDF orders shutdown of most military social media accounts]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690892</guid>
             <pubDate>Thu, 30 Jul 2026 19:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Police return rifle stolen from IDF soldier during attack near Susya]]></title>
-            <description><![CDATA[Police have returned an IDF soldier's personal weapon after it was stolen during an assault by Arabs near Susya.]]></description>
-            <link>https://www.israelnationalnews.com/news/431022</link>
+            <description><![CDATA[Police return rifle stolen from IDF soldier during attack near Susya]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690891</guid>
             <pubDate>Thu, 30 Jul 2026 19:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US sanctions six entities and individuals in China, India, Russia, and Iran for enabling IRGC]]></title>
-            <description><![CDATA[The United States today sanctioned six entities and individuals in China, India, Russia, and Iran that enable the Iranian regime’s Islamic Revolutionary Guard Corps (IRGC).
-
-These include entities that support Mahan Air, the IRGC’s airline of choice for moving weapons, military personnel, and equipment. Today’s action also targets DadeNegar Startup Studio, an IRGC-affiliated front company supporting Iranian military targeting by soliciting locations of American and Israeli equipment in the Middle East.]]></description>
+            <description><![CDATA[US sanctions six entities and individuals in China, India, Russia, and Iran for enabling IRGC]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690890</guid>
             <pubDate>Thu, 30 Jul 2026 18:41:00 GMT</pubDate>
@@ -2790,34 +2822,6 @@ These include entities that support Mahan Air, the IRGC’s airline of choice fo
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690503</guid>
             <pubDate>Fri, 24 Jul 2026 15:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF CoS Eyal Zamir holds situation assessment and initial inquiry at site of terrorist attack]]></title>
-            <description><![CDATA[IDF CoS Eyal Zamir holds situation assessment and initial inquiry at site of terrorist attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690502</guid>
-            <pubDate>Fri, 24 Jul 2026 15:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4-year-old Yuval Kogan on his way to his parents safe and sound]]></title>
-            <description><![CDATA[4-year-old Yuval Kogan on his way to his parents safe and sound]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690501</guid>
-            <pubDate>Fri, 24 Jul 2026 15:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YouTube removes livestream of Benayahu Melet's funeral in Havat Gilad]]></title>
-            <description><![CDATA[YouTube removes livestream of Benayahu Melet's funeral in Havat Gilad]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690500</guid>
-            <pubDate>Fri, 24 Jul 2026 14:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF prepares major counterterrorism operation in Judea and Samaria following deadly attack]]></title>
-            <description><![CDATA[IDF prepares major counterterrorism operation in Judea and Samaria following deadly attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690499</guid>
-            <pubDate>Fri, 24 Jul 2026 14:33:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

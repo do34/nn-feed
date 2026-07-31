@@ -4,11 +4,45 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 21:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 23:00:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 21:04:11 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 23:00:28 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA['We are ready': Iran vows retaliation for any US-Israeli strikes]]></title>
+            <description><![CDATA[Iran warns it has prepared plans to strike US and Israeli energy targets and potentially close the Strait of Hormuz following reports of imminent joint US-Israeli airstrikes.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431076</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690966</guid>
+            <pubDate>Fri, 31 Jul 2026 22:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michigan Democratic candidates clash over Israel stance]]></title>
+            <description><![CDATA[Rep. Haley Stevens fires back at progressive Abdul El-Sayed in Michigan's Senate primary, accusing him of scapegoating Jewish Americans over AIPAC.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431075</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690965</guid>
+            <pubDate>Fri, 31 Jul 2026 22:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WSJ report: Trump orders fresh attack on Iranian targets]]></title>
+            <description><![CDATA[US President Donald Trump has ordered a fresh attack on Iran that could begin as soon as this weekend and would last a few days, US officials told The Wall Street Journal on Friday.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431074</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690964</guid>
+            <pubDate>Fri, 31 Jul 2026 21:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: US and Israel plan strikes against Iranian energy targets]]></title>
+            <description><![CDATA[Report: US and Israel plan strikes against Iranian energy targets]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690963</guid>
+            <pubDate>Fri, 31 Jul 2026 21:09:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ambassador Danon: Hamas must fully disarm before any next steps in Gaza]]></title>
             <description><![CDATA[Israeli Ambassador to the UN emphasizes that Hamas must completely disarm, warning against superficial measures, as disputes continue over the sequence of Gaza peace steps.
@@ -67,8 +101,8 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[Jewish groups express concern over Diane Abbott’s return to Labour]]></title>
-            <description><![CDATA[Jewish organizations in Britain have criticized Labour’s decision to readmit veteran MP Diane Abbott, citing her past comments about Jews and Israel and warning of the impact on the fight against antisemitism.]]></description>
-            <link>https://www.israelnationalnews.com/news/431068</link>
+            <description><![CDATA[Jewish groups express concern over Diane Abbott’s return to Labour]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690957</guid>
             <pubDate>Fri, 31 Jul 2026 15:30:00 GMT</pubDate>
         </item>
@@ -81,18 +115,14 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[IDF and Shin Bet: Hamas terrorist who held Romi Gonen and Cpl. Noa Marciano z"l eliminated]]></title>
-            <description><![CDATA[The IDF and Shin Bet announced that yesterday they eliminated in the Gaza City area Abd al-Rahim Abd al-Hay Yusuf Kardi, deputy commander of a squad in Hamas’ military wing, who also served as a doctor at Shifa Hospital.
-
-According to the statement, Kardi took part in the October 7 massacre and was involved in holding hostage Romi Gonen and Cpl. Noa Marciano z"l after her murder, until her body was recovered by IDF forces.
-
-The statement added that Kardi continued to advance terror plots targeting IDF forces and Israeli civilians and was eliminated in an airstrike.]]></description>
+            <description><![CDATA[IDF and Shin Bet: Hamas terrorist who held Romi Gonen and Cpl. Noa Marciano z"l eliminated]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690955</guid>
             <pubDate>Fri, 31 Jul 2026 15:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump said, 'We hit them hard yesterday and we’re going to hit them hard again today']]></title>
-            <description><![CDATA[Trump said, 'We hit them hard yesterday and we’re going to hit them hard again today, until victory.']]></description>
+            <description><![CDATA[Trump said, 'We hit them hard yesterday and we’re going to hit them hard again today']]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690954</guid>
             <pubDate>Fri, 31 Jul 2026 14:58:00 GMT</pubDate>
@@ -2798,34 +2828,6 @@ The statement added that Kardi continued to advance terror plots targeting IDF f
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690566</guid>
             <pubDate>Sun, 26 Jul 2026 11:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Gvir: "We must return to targeted killings"]]></title>
-            <description><![CDATA[Ben Gvir: "We must return to targeted killings"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690565</guid>
-            <pubDate>Sun, 26 Jul 2026 11:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[al-Sharaa: 'Security agreement with Israel could pave way for peace, without giving up the Golan']]></title>
-            <description><![CDATA[al-Sharaa: 'Security agreement with Israel could pave way for peace, without giving up the Golan']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690564</guid>
-            <pubDate>Sun, 26 Jul 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2,500-year-old coin fromn Cyprus discovered on Ashdod beach]]></title>
-            <description><![CDATA[2,500-year-old coin fromn Cyprus discovered on Ashdod beach]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690563</guid>
-            <pubDate>Sun, 26 Jul 2026 10:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: 'We're prepared to act on broader scale against terrorist nests']]></title>
-            <description><![CDATA[Netanyahu: 'We're prepared to act on broader scale against terrorist nests']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690562</guid>
-            <pubDate>Sun, 26 Jul 2026 10:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

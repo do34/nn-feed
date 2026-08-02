@@ -4,11 +4,55 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 11:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 13:21:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 11:19:37 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 13:21:14 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Reports from Gaza: 12 killed in airstrikes since last night]]></title>
+            <description><![CDATA[Reports from Gaza: 12 killed in airstrikes since last night]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691017</guid>
+            <pubDate>Sun, 02 Aug 2026 13:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boy survives rare skull injury after archery camp accident]]></title>
+            <description><![CDATA[An 11-year-old boy is recovering after suffering a rare and potentially life-threatening injury when an arrow penetrated his skull during an archery activity at a day camp.]]></description>
+            <link>https://www.israelnationalnews.com/news/431122</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691016</guid>
+            <pubDate>Sun, 02 Aug 2026 13:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New party on the horizon? Erdan sets red line for the government]]></title>
+            <description><![CDATA[New party on the horizon? Erdan sets red line for the government]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691015</guid>
+            <pubDate>Sun, 02 Aug 2026 12:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Officer who investigated Oct. 7: "Half of Ashkelon could have been vaporized"]]></title>
+            <description><![CDATA[Brig. Gen. (res.) Solomon recounts the events of October 7 from the perspective of the Israeli Navy & discusses Hamas's deadly naval capabilities.]]></description>
+            <link>https://www.israelnationalnews.com/news/431120</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691014</guid>
+            <pubDate>Sun, 02 Aug 2026 11:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 arrested on suspicion of spitting and throwing stones at the Armenian Church in Jerusalem]]></title>
+            <description><![CDATA[Police in the Jerusalem district arrested six suspects, including five minors and an adult, on suspicion of spitting at the Armenian Church and throwing stones at it in the Old City of Jerusalem.
+
+Three of the suspects are being brought to the Jerusalem Magistrate's Court for a hearing on extending their detention, while the rest were released under restrictive conditions, including being banned from the Old City.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691013</guid>
+            <pubDate>Sun, 02 Aug 2026 11:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanese army claims 5 soldiers were injured in IDF attack]]></title>
+            <description><![CDATA[The Lebanese army claims that five of its soldiers were lightly injured in an Israeli attack in the Bint Jbeil area in southern Lebanon.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691012</guid>
+            <pubDate>Sun, 02 Aug 2026 11:26:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israeli immigration expert warns Europe may wake up too late to mass migration crisis]]></title>
             <description><![CDATA[Attorney Yonatan Jakubowicz says Spain's immigration policies are encouraging illegal migration into EU territory, warning that Europe may soon find it impossible to reverse the trend.]]></description>
@@ -32,15 +76,15 @@
         </item>
         <item>
             <title><![CDATA[Expert's assessment: This is America's objective in Iran]]></title>
-            <description><![CDATA[Expert's assessment: This is America's objective in Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[The security analyst believes that greater attention should be paid to the actions the United States is taking on the ground than to public statements.]]></description>
+            <link>https://www.israelnationalnews.com/news/431117</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691008</guid>
             <pubDate>Sun, 02 Aug 2026 10:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Journalist blasts Yair Golan over anti-Eli Academy campaign: Have we got no other problems]]></title>
-            <description><![CDATA[Moriah Asraf warns Yair Golan's campaign to cut funding for Eli Academy, with high percentages of IDF serving graduates, is alienating centrist and right-wing voters seeking to replace the government.]]></description>
-            <link>https://www.israelnationalnews.com/news/431115</link>
+            <description><![CDATA[Journalist blasts Yair Golan over anti-Eli Academy campaign: Have we got no other problems]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691007</guid>
             <pubDate>Sun, 02 Aug 2026 10:33:00 GMT</pubDate>
         </item>
@@ -53,29 +97,29 @@
         </item>
         <item>
             <title><![CDATA[Report: Islamic Jihad agrees to disarm]]></title>
-            <description><![CDATA[The Saudi Al-Arabiya channel reported from its sources that the Palestinian Islamic Jihad terrorist organization has agreed to disarm.]]></description>
+            <description><![CDATA[Report: Islamic Jihad agrees to disarm]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691005</guid>
             <pubDate>Sun, 02 Aug 2026 09:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mysterious explosion near Kremlin: 3 killed in assassination attempt in central Moscow]]></title>
-            <description><![CDATA[An explosive device disguised as a gift detonated at the entrance to an upscale restaurant in central Moscow during a private, heavily secured event.]]></description>
-            <link>https://www.israelnationalnews.com/news/431113</link>
+            <description><![CDATA[Mysterious explosion near Kremlin: 3 killed in assassination attempt in central Moscow]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691004</guid>
             <pubDate>Sun, 02 Aug 2026 09:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Court allows ‘kill Israelis’ video evidence in Australian nurses’ trial after appeal]]></title>
-            <description><![CDATA[New South Wales Supreme Court overturns ruling that excluded viral footage allegedly showing two former nurses making threats against Israelis, allowing prosecutors to present the video at trial.]]></description>
-            <link>https://www.israelnationalnews.com/news/431112</link>
+            <description><![CDATA[Court allows ‘kill Israelis’ video evidence in Australian nurses’ trial after appeal]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691003</guid>
             <pubDate>Sun, 02 Aug 2026 09:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Florida man arrested for antisemitic hate crime after synagogue attack]]></title>
-            <description><![CDATA[Brayton Laschinger allegedly smashed a synagogue window with a brick, telling police he targeted the site because it was a 'Jewish place of worship' after viewing antisemitic content online.]]></description>
-            <link>https://www.israelnationalnews.com/news/431111</link>
+            <description><![CDATA[Florida man arrested for antisemitic hate crime after synagogue attack]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691002</guid>
             <pubDate>Sun, 02 Aug 2026 08:42:00 GMT</pubDate>
         </item>
@@ -2766,48 +2810,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690618</guid>
             <pubDate>Mon, 27 Jul 2026 05:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just before Washington trip: Netanyahu reveals concern over possible US pressure]]></title>
-            <description><![CDATA[Just before Washington trip: Netanyahu reveals concern over possible US pressure]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690617</guid>
-            <pubDate>Mon, 27 Jul 2026 04:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sanders defends support for ex-Maine candidate facing assault allegation]]></title>
-            <description><![CDATA[Sanders defends support for ex-Maine candidate facing assault allegation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690616</guid>
-            <pubDate>Mon, 27 Jul 2026 03:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rekless rhetoric as Netanyahu comes to town]]></title>
-            <description><![CDATA[Rekless rhetoric as Netanyahu comes to town]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690615</guid>
-            <pubDate>Mon, 27 Jul 2026 03:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9/11 families demand Mamdani be banned from 25th anniversary ceremony]]></title>
-            <description><![CDATA[9/11 families demand Mamdani be banned from 25th anniversary ceremony]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690614</guid>
-            <pubDate>Mon, 27 Jul 2026 03:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seattle shooting update: Two dead, five injured]]></title>
-            <description><![CDATA[Seattle shooting update: Two dead, five injured]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690613</guid>
-            <pubDate>Mon, 27 Jul 2026 03:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[B'nai Brith demands action following attacks on Toronto Jewish bakeries]]></title>
-            <description><![CDATA[B'nai Brith demands action following attacks on Toronto Jewish bakeries]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690612</guid>
-            <pubDate>Mon, 27 Jul 2026 02:51:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

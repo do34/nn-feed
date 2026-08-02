@@ -4,11 +4,46 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 20:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 21:56:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 20:10:35 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 21:56:59 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump: The talks with Iran will resume tomorrow]]></title>
+            <description><![CDATA[President Trump announces US-Iran talks will resume on Monday after Middle Eastern allies persuade him to hold off on a massive attack to pursue a diplomatic deal.]]></description>
+            <link>https://www.israelnationalnews.com/news/431138</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691043</guid>
+            <pubDate>Sun, 02 Aug 2026 21:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF Spokesperson's Unit: Katz's statement was not coordinated with the Chief of the General Staff]]></title>
+            <description><![CDATA[The IDF Spokesperson’s Unit responded to Defense Minister Israel Katz and said, “The statement issued by the Minister of Defense was not coordinated with the Chief of the General Staff. The Chief of the General Staff does not intend to change key IDF commanders' positions during these sensitive times. Once such a decision is made, it will be taken by the Chief of the General Staff and approved in accordance with the required protocols."]]></description>
+            <link>https://www.israelnationalnews.com/news/431137</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691042</guid>
+            <pubDate>Sun, 02 Aug 2026 21:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On live TV: DM Katz attacks head of Central Command and announces his replacement]]></title>
+            <description><![CDATA[On live TV: DM Katz attacks head of Central Command and announces his replacement]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691041</guid>
+            <pubDate>Sun, 02 Aug 2026 21:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twelve sectors, twelve grids, twelve ballots vs. annexation]]></title>
+            <description><![CDATA[A proposal that is different: barriers that separate Gaza's population from Hamas. Details below. Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/431136</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691040</guid>
+            <pubDate>Sun, 02 Aug 2026 20:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ten days without a lead: Police appeal for help finding missing teen Efrat Menachem]]></title>
+            <description><![CDATA[Ten days without a lead: Police appeal for help finding missing teen Efrat Menachem]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691039</guid>
+            <pubDate>Sun, 02 Aug 2026 20:38:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: U.S. enforcement operation of Iran’s naval blockade]]></title>
             <description><![CDATA[The U.S. Central Command released footage of the launch of a carrier-based fighter jet taking off in the Arabian Sea as part of operations against Iran.]]></description>
@@ -25,7 +60,13 @@
         </item>
         <item>
             <title><![CDATA[Board of Peace director condemns Israeli strikes in Gaza]]></title>
-            <description><![CDATA[Board of Peace director condemns Israeli strikes in Gaza]]></description>
+            <description><![CDATA[The Director General of the Board of Peace in Gaza, Nickolay Mladenov, condemned Israeli strikes on Gaza over the past two days, claiming that they have "killed civilians and destroyed medical supplies that people depend on."
+
+He noted that the strikes come after "intense efforts by the Board of Peace and the mediators (Egypt, Turkiye, Qatar and the US) to bring the Palestinian factions in Gaza to agree to a Roadmap on the full implementation of President Trump's plan, to hand over civilian governance and to decommission their weapons."
+
+Mladenov stressed that "both parties carry obligations under the Comprehensive Plan and the Sharm El Sheikh deal that secured the release of all hostages."
+
+"My team and I are working around the clock with the parties, the mediators and regional partners to de-escalate and create the space for the full implementation of the President's plan. Achieving a lasting peace is hard but achievable if everyone make their best efforts," he added.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691036</guid>
             <pubDate>Sun, 02 Aug 2026 19:20:00 GMT</pubDate>
@@ -39,43 +80,47 @@
         </item>
         <item>
             <title><![CDATA[IDF: Explosive device that injured LAF troops assessed to have belonged to Hezbollah]]></title>
-            <description><![CDATA[IDF: Explosive device that injured LAF troops assessed to have belonged to Hezbollah]]></description>
+            <description><![CDATA[The IDF announced on Sunday that, following a review and contrary to claims, it was confirmed that the explosive device that exploded on a Lebanese Armed Forces vehicle earlier in the day, injuring five LAF soldiers, did not belong to the IDF.
+
+According to the information available to the IDF, the explosive device is assessed to have belonged to the Hezbollah terrorist organization. The incident occurred in the Kfara area, outside the Security Zone in southern Lebanon, where no IDF soldiers had any presence.
+
+Read more.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691034</guid>
             <pubDate>Sun, 02 Aug 2026 18:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[After months delay: Israel prepares to evacuate UNRWA compound in Jerusalem]]></title>
-            <description><![CDATA[Police and IDF confirm preparations to evacuate the UNRWA compound in Kafr Aqab after months of delays and security concerns.]]></description>
-            <link>https://www.israelnationalnews.com/news/431131</link>
+            <description><![CDATA[After months delay: Israel prepares to evacuate UNRWA compound in Jerusalem]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691033</guid>
             <pubDate>Sun, 02 Aug 2026 17:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Spokeskid of Israel:' 11-year-old Ben Carasso on taking Israel's case to the world]]></title>
-            <description><![CDATA[Ben Carasso tells Arutz Sheva how a friend's loss after October 7 inspired his global advocacy campaign, why he believes the battle for public opinion is focused on the "neutral majority," and why children have a unique voice in defending Israel.]]></description>
-            <link>https://www.israelnationalnews.com/news/431129</link>
+            <description><![CDATA['Spokeskid of Israel:' 11-year-old Ben Carasso on taking Israel's case to the world]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691032</guid>
             <pubDate>Sun, 02 Aug 2026 17:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gazan reports: Senior Hamas official Nafedh Tzabih eliminated in airstrike]]></title>
-            <description><![CDATA[Media outlets in the Gaza Strip are reporting that Nafedh Tzabih, a senior figure in the military wing of Hamas, was killed in a strike on a vehicle in Gaza City in the northern part of the enclave.]]></description>
+            <description><![CDATA[Gazan reports: Senior Hamas official Nafedh Tzabih eliminated in airstrike]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691031</guid>
             <pubDate>Sun, 02 Aug 2026 17:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Israeli soccer player shuts up antisemitic fans]]></title>
-            <description><![CDATA[Israeli soccer player Dor Turgeman responds to chants of 'Death to Israel' in the best way he could.]]></description>
-            <link>https://www.israelnationalnews.com/news/431130</link>
+            <description><![CDATA[Watch: Israeli soccer player shuts up antisemitic fans]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691030</guid>
             <pubDate>Sun, 02 Aug 2026 16:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Court freezes plan to place crocodiles at Ketziot Prison]]></title>
-            <description><![CDATA[The Jerusalem District Court on Sunday issued an interim order temporarily blocking the state's plan to transfer Nile crocodiles to Ketzi'ot Prison as part of the defenses around captured Hamas terrorists.]]></description>
-            <link>https://www.israelnationalnews.com/news/431128</link>
+            <description><![CDATA[Court freezes plan to place crocodiles at Ketziot Prison]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691029</guid>
             <pubDate>Sun, 02 Aug 2026 16:12:00 GMT</pubDate>
         </item>
@@ -2773,41 +2818,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690644</guid>
             <pubDate>Mon, 27 Jul 2026 13:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four terrorists arrested over theft of soldier's weapon in Susya]]></title>
-            <description><![CDATA[Four terrorists arrested over theft of soldier's weapon in Susya]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690643</guid>
-            <pubDate>Mon, 27 Jul 2026 12:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Truck plows into vehicles after overturning at gas station]]></title>
-            <description><![CDATA[Truck plows into vehicles after overturning at gas station]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690642</guid>
-            <pubDate>Mon, 27 Jul 2026 12:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tal Yinon Dardik, detained at the Russian Compound, evacuated to hospital due to low pulse rate]]></title>
-            <description><![CDATA[Tal Yinon Dardik, detained at the Russian Compound, evacuated to hospital due to low pulse rate]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690641</guid>
-            <pubDate>Mon, 27 Jul 2026 12:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Gvir discloses Barghouti urged Arab parties to unite against prison reforms]]></title>
-            <description><![CDATA[Ben Gvir discloses Barghouti urged Arab parties to unite against prison reforms]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690640</guid>
-            <pubDate>Mon, 27 Jul 2026 12:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The International Courts are sitting ducks]]></title>
-            <description><![CDATA[The International Courts are sitting ducks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690639</guid>
-            <pubDate>Mon, 27 Jul 2026 12:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

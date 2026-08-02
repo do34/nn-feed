@@ -4,11 +4,67 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 04:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 07:32:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 04:22:59 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 07:32:00 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Iran’s dark horizon]]></title>
+            <description><![CDATA[A campaign aimed at weakening the regime’s governing capacity. Opinion]]></description>
+            <link>https://www.israelnationalnews.com/news/431102</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690993</guid>
+            <pubDate>Sun, 02 Aug 2026 07:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liberman: 'Likud has become a haredi-lite party']]></title>
+            <description><![CDATA[Yisrael Beytenu chairman rejects the debate over who should be the next prime minister and rules out any cooperation with the Ra'am party.]]></description>
+            <link>https://www.israelnationalnews.com/news/431101</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690992</guid>
+            <pubDate>Sun, 02 Aug 2026 07:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boy George parts ways with manager over pro-Israel song 'We Will Dance Again']]></title>
+            <description><![CDATA[Boy George parts ways with manager over pro-Israel song 'We Will Dance Again']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690991</guid>
+            <pubDate>Sun, 02 Aug 2026 06:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Terrorist who invaded Nahal Oz on October 7 eliminated]]></title>
+            <description><![CDATA[IDF eliminates Nukhba commander Salem Jamal Abd al-Rahman Abu Labad, who took part in the massacre in Kibbut Nahal Oz.]]></description>
+            <link>https://www.israelnationalnews.com/news/431099</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690990</guid>
+            <pubDate>Sun, 02 Aug 2026 05:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fragmentation grenade thrown at Japanika branch in Hadera]]></title>
+            <description><![CDATA[Fragmentation grenade thrown at Japanika branch in Hadera]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690989</guid>
+            <pubDate>Sun, 02 Aug 2026 05:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heat wave reaches its peak today]]></title>
+            <description><![CDATA[A significant increase in the heat load is expected throughout the day, with extreme heat conditions across the country. A noticeable cooldown is expected by Wednesday.]]></description>
+            <link>https://www.israelnationalnews.com/news/431098</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690988</guid>
+            <pubDate>Sun, 02 Aug 2026 05:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soldier suspected in Al-Mughayyir shooting released under restrictive conditions]]></title>
+            <description><![CDATA[Soldier suspected in Al-Mughayyir shooting released under restrictive conditions]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690987</guid>
+            <pubDate>Sun, 02 Aug 2026 04:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF spokesman reveals personal struggle with PTSD, urges soldiers to seek help]]></title>
+            <description><![CDATA[IDF spokesman shares his personal experience with PTSD and tells combat veterans: 'Treatment is not a sign of weakness. On the contrary, it's an act of responsibility toward yourself and toward the people you love.']]></description>
+            <link>https://www.israelnationalnews.com/news/431095</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690986</guid>
+            <pubDate>Sun, 02 Aug 2026 04:29:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Podcast: How to know if you should hold or sell an inherited bond]]></title>
             <description><![CDATA[What Americans in Israel should know before assuming a U.S. portfolio built for someone else still makes sense today.]]></description>
@@ -32,18 +88,14 @@
         </item>
         <item>
             <title><![CDATA[Arab reports: Four killed in IDF strikes across Gaza Strip]]></title>
-            <description><![CDATA[Gaza medical sources report that at least four people were killed in Israeli Air Force strikes in Gaza City and Deir al-Balah.
-
-According to the reports, an airstrike targeting an apartment in the central Gaza Strip killed two people and injured four others, while a separate strike on a building in Gaza City left two additional people dead.]]></description>
+            <description><![CDATA[Arab reports: Four killed in IDF strikes across Gaza Strip]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690982</guid>
             <pubDate>Sun, 02 Aug 2026 02:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump: I have agreed to cancel the attack on Iran]]></title>
-            <description><![CDATA[US President Donald Trump wrote in a post on Truth Social, "The U.S.A. is locked and loaded and ready to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since World War II. Despite this, we have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to. This would include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran’s nuclear threat."
-
-He added, "Based on this request, I have agreed, for the future benefit of the WORLD and, likewise, the survival of a successful and prosperous Iran, to cancel the attack, subject to being able to rapidly make a DEAL. The Country of Israel joins me in this commitment. Get to work, everybody, and get it DONE."]]></description>
+            <description><![CDATA[Trump: I have agreed to cancel the attack on Iran]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690981</guid>
             <pubDate>Sun, 02 Aug 2026 02:10:00 GMT</pubDate>
@@ -57,29 +109,29 @@ He added, "Based on this request, I have agreed, for the future benefit of the W
         </item>
         <item>
             <title><![CDATA[Silly me, I thought Hamas was finished]]></title>
-            <description><![CDATA[Israel, the nation that beat Hamas to a pulp in response to the slaughter of Oct. 7, 2023, gets to play the part of the loser in Trump's peace plan. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431089</link>
+            <description><![CDATA[Silly me, I thought Hamas was finished]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690979</guid>
             <pubDate>Sat, 01 Aug 2026 22:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump social network offers $100,000 access to early posts]]></title>
-            <description><![CDATA[Trump Media has launched a premium Truth Social service allowing subscribers to view President Trump’s posts before the public, drawing criticism from Democratic senators who are calling for an SEC investigation.]]></description>
-            <link>https://www.israelnationalnews.com/news/431088</link>
+            <description><![CDATA[Trump social network offers $100,000 access to early posts]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690978</guid>
             <pubDate>Sat, 01 Aug 2026 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US urges Americans to leave Middle East amid Iran fears]]></title>
-            <description><![CDATA[US State Department warns Americans in Middle East to consider leaving, citing risk of sudden airspace closures, flight disruptions, and attacks on US interests.]]></description>
-            <link>https://www.israelnationalnews.com/news/431087</link>
+            <description><![CDATA[US urges Americans to leave Middle East amid Iran fears]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690977</guid>
             <pubDate>Sat, 01 Aug 2026 20:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Sabbath café protest erupts as Liberman visits]]></title>
-            <description><![CDATA[Dozens of haredi demonstrators protest outside Jerusalem café open on Sabbath during visit by Yisrael Beytenu leader MK Avigdor Liberman.]]></description>
-            <link>https://www.israelnationalnews.com/news/431085</link>
+            <description><![CDATA[Watch: Sabbath café protest erupts as Liberman visits]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690976</guid>
             <pubDate>Sat, 01 Aug 2026 20:23:00 GMT</pubDate>
         </item>
@@ -2756,62 +2808,6 @@ He added, "Based on this request, I have agreed, for the future benefit of the W
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690594</guid>
             <pubDate>Sun, 26 Jul 2026 19:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For the first time since its founding: United Arab List to hold primaries]]></title>
-            <description><![CDATA[For the first time since its founding: United Arab List to hold primaries]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690593</guid>
-            <pubDate>Sun, 26 Jul 2026 19:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Religious Zionist Party unveils Knesset slate following primaries]]></title>
-            <description><![CDATA[Religious Zionist Party unveils Knesset slate following primaries]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690592</guid>
-            <pubDate>Sun, 26 Jul 2026 18:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Military backtracks: IDF knew of hike before deadly terror attack]]></title>
-            <description><![CDATA[Military backtracks: IDF knew of hike before deadly terror attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690591</guid>
-            <pubDate>Sun, 26 Jul 2026 18:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shots fired at Jewish bakery in Toronto in twin vandalism attacks]]></title>
-            <description><![CDATA[Shots fired at Jewish bakery in Toronto in twin vandalism attacks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690590</guid>
-            <pubDate>Sun, 26 Jul 2026 18:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Bold and courageous leader': Herzog reveals details of call with Bahrain's King]]></title>
-            <description><![CDATA['Bold and courageous leader': Herzog reveals details of call with Bahrain's King]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690589</guid>
-            <pubDate>Sun, 26 Jul 2026 17:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerusalem man indicted for firework attack on police]]></title>
-            <description><![CDATA[Jerusalem man indicted for firework attack on police]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690588</guid>
-            <pubDate>Sun, 26 Jul 2026 17:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German media: Terrorist who carried out Berlin ramming attack eliminated]]></title>
-            <description><![CDATA[German media: Terrorist who carried out Berlin ramming attack eliminated]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690587</guid>
-            <pubDate>Sun, 26 Jul 2026 17:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Judea and Samaria: IDF launches massive crackdown to stop escalation]]></title>
-            <description><![CDATA[Judea and Samaria: IDF launches massive crackdown to stop escalation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690586</guid>
-            <pubDate>Sun, 26 Jul 2026 17:18:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

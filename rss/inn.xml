@@ -4,11 +4,59 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 15:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 16:59:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 15:02:10 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 16:59:10 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Court freezes plan to place crocodiles at Ketziot Prison]]></title>
+            <description><![CDATA[The Jerusalem District Court on Sunday issued an interim order temporarily blocking the state's plan to transfer Nile crocodiles to Ketzi'ot Prison as part of the defenses around captured Hamas terrorists.]]></description>
+            <link>https://www.israelnationalnews.com/news/431128</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691029</guid>
+            <pubDate>Sun, 02 Aug 2026 16:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police locate powerful pipe bombs near Ramla Train Station]]></title>
+            <description><![CDATA[Detectives from the Ramla Police Station locate three pipe bombs and dozens of rounds of stolen IDF ammunition near the city's railway station.]]></description>
+            <link>https://www.israelnationalnews.com/news/431127</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691028</guid>
+            <pubDate>Sun, 02 Aug 2026 16:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain migrant surge: Antisemitic conspiracies reach 100 million in 72 hours]]></title>
+            <description><![CDATA[Spain migrant surge: Antisemitic conspiracies reach 100 million in 72 hours]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691027</guid>
+            <pubDate>Sun, 02 Aug 2026 15:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Criminal terror attack' thwarted: Pipe bombs, ammo uncovered near Ramla Train Station]]></title>
+            <description><![CDATA[Officers from the Israel Police Central District uncovered three high-powered pipe bombs and dozens of 5.56 mm rounds, which police believe were stolen from the IDF, during a search of an open area near the Ramla Railway Station.
+
+Police said the operation thwarted what they described as a “criminal terror attack" in the Arab sector. The explosive devices were neutralized by a police bomb disposal expert, and the evidence was transferred for further investigation and forensic examination.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691026</guid>
+            <pubDate>Sun, 02 Aug 2026 15:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gantz: 'Israel cannot compromise on Hamas’ full disarmament in Gaza before retreating']]></title>
+            <description><![CDATA[In a social media post in English, Knesset Member Benny Gantz (Blue and White) addressed the current deal with Hamas, warning that Israel cannot compromise on full disarmament.
+
+Gantz related how shortly after joining the War Cabinet after October 7th, he met various US generals who had one piece of advice when it came to Gaza & Hamas: “Don’t rush to your failure". According to Gantz, he responded: “You must understand - Gaza isn’t a far away mission for us, it’s a few hundred metres from Israeli homes; children, families. We don’t have the privilege of not acting now".
+
+Gantz wrote that "today, Israel cannot compromise on Hamas’ full disarmament in Gaza before retreating from further territory. The price of failure isn’t a failed mission far away - it’s the security of our children."]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691025</guid>
+            <pubDate>Sun, 02 Aug 2026 15:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[American Airlines delays return to Israel to March 2027]]></title>
+            <description><![CDATA[American Airlines delays return to Israel to March 2027]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691024</guid>
+            <pubDate>Sun, 02 Aug 2026 15:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yemeni Army says it killed five Houthi terrorists in clashes]]></title>
             <description><![CDATA[Yemeni Army says it killed five Houthi terrorists in clashes]]></description>
@@ -25,8 +73,8 @@
         </item>
         <item>
             <title><![CDATA[Damaged U.S. refueling aircraft departs Israel at last]]></title>
-            <description><![CDATA[Damaged U.S. refueling aircraft departs Israel at last]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[Four and a half months after making an emergency landing at Ben-Gurion Airport following an air collision over Iraq, the American refueling aircraft took off back to the United States.]]></description>
+            <link>https://www.israelnationalnews.com/news/431125</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691021</guid>
             <pubDate>Sun, 02 Aug 2026 14:29:00 GMT</pubDate>
         </item>
@@ -43,11 +91,7 @@ Read more.]]></description>
         </item>
         <item>
             <title><![CDATA[IDF eliminates three terrorists who attempted to advance terror attacks against IDF troops]]></title>
-            <description><![CDATA[Yesterday (Saturday), the IDF struck in the area of Gaza City and eliminated Alaa Imad Khamis Tarams, a terrorist from the “Army of Islam" terrorist organization, and Hassan Ibrahim Shehadeh Qahman, a terrorist from the Islamic Jihad terrorist organization.
-
-In an additional strike in the northern Gaza Strip last week, the IDF eliminated Ahmad Khudar, a commander in the Jabalya battalion of the Hamas terrorist organization.
-
-The three terrorists attempted to advance terror attacks against Israeli civilians and IDF troops, and were eliminated in order to remove the threat.]]></description>
+            <description><![CDATA[IDF eliminates three terrorists who attempted to advance terror attacks against IDF troops]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691019</guid>
             <pubDate>Sun, 02 Aug 2026 14:05:00 GMT</pubDate>
@@ -68,22 +112,22 @@ The three terrorists attempted to advance terror attacks against Israeli civilia
         </item>
         <item>
             <title><![CDATA[Boy survives rare skull injury after archery camp accident]]></title>
-            <description><![CDATA[An 11-year-old boy is recovering after suffering a rare and potentially life-threatening injury when an arrow penetrated his skull during an archery activity at a day camp.]]></description>
-            <link>https://www.israelnationalnews.com/news/431122</link>
+            <description><![CDATA[Boy survives rare skull injury after archery camp accident]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691016</guid>
             <pubDate>Sun, 02 Aug 2026 13:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New party on the horizon? Erdan sets red line for the government]]></title>
-            <description><![CDATA[Ex-Likud member and former ambassador Gilad Erdan vows that he will not sit in a narrow government.]]></description>
-            <link>https://www.israelnationalnews.com/news/431121</link>
+            <description><![CDATA[New party on the horizon? Erdan sets red line for the government]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691015</guid>
             <pubDate>Sun, 02 Aug 2026 12:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Officer who investigated Oct. 7: "Half of Ashkelon could have been vaporized"]]></title>
-            <description><![CDATA[Brig. Gen. (res.) Solomon recounts the events of October 7 from the perspective of the Israeli Navy & discusses Hamas's deadly naval capabilities.]]></description>
-            <link>https://www.israelnationalnews.com/news/431120</link>
+            <description><![CDATA[Officer who investigated Oct. 7: "Half of Ashkelon could have been vaporized"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691014</guid>
             <pubDate>Sun, 02 Aug 2026 11:57:00 GMT</pubDate>
         </item>
@@ -2774,48 +2818,6 @@ The three terrorists attempted to advance terror attacks against Israeli civilia
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690630</guid>
             <pubDate>Mon, 27 Jul 2026 09:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eldar wrote 'it's a mess here' - and disappeared]]></title>
-            <description><![CDATA[Eldar wrote 'it's a mess here' - and disappeared]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690629</guid>
-            <pubDate>Mon, 27 Jul 2026 09:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joint Ops & Counterterror efforts: Shin Bet Chief Zini makes 1rst official visit to YAMAM]]></title>
-            <description><![CDATA[Joint Ops & Counterterror efforts: Shin Bet Chief Zini makes 1rst official visit to YAMAM]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690628</guid>
-            <pubDate>Mon, 27 Jul 2026 09:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Court declines to halt gender-separate study law]]></title>
-            <description><![CDATA[Supreme Court declines to halt gender-separate study law]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690627</guid>
-            <pubDate>Mon, 27 Jul 2026 08:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Shidduch Crisis]]></title>
-            <description><![CDATA[The Shidduch Crisis]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690626</guid>
-            <pubDate>Mon, 27 Jul 2026 08:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF intercepts two UAVs identified in near Jordan-Israel border]]></title>
-            <description><![CDATA[IDF intercepts two UAVs identified in near Jordan-Israel border]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690625</guid>
-            <pubDate>Mon, 27 Jul 2026 07:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman drowns at beach near Sdot Yam]]></title>
-            <description><![CDATA[Woman drowns at beach near Sdot Yam]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690624</guid>
-            <pubDate>Mon, 27 Jul 2026 07:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

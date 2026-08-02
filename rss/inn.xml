@@ -4,11 +4,46 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 18:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 20:10:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 18:06:11 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 20:10:35 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Watch: U.S. enforcement operation of Iran’s naval blockade]]></title>
+            <description><![CDATA[The U.S. Central Command released footage of the launch of a carrier-based fighter jet taking off in the Arabian Sea as part of operations against Iran.]]></description>
+            <link>https://www.israelnationalnews.com/news/431134</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691038</guid>
+            <pubDate>Sun, 02 Aug 2026 19:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poll: Bennett and Golan lose seats; Winter doesn't pass threshold]]></title>
+            <description><![CDATA[Benett drops to 13 seats, Golan drops to eight, Ofer Winter and Erdan and Edelstein stay behind electoral threshold. Netanyahu and Eisenkot tied for lead.]]></description>
+            <link>https://www.israelnationalnews.com/news/431133</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691037</guid>
+            <pubDate>Sun, 02 Aug 2026 19:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Board of Peace director condemns Israeli strikes in Gaza]]></title>
+            <description><![CDATA[Board of Peace director condemns Israeli strikes in Gaza]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691036</guid>
+            <pubDate>Sun, 02 Aug 2026 19:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian FM: Iran, Oman nearing agreement on Strait of Hormuz]]></title>
+            <description><![CDATA[Iranian News Agency (IRNA) reported that Iranian Foreign Minister Abbas Araghchi said that there has been progress in the talks between Iran and Oman, confirming that they are moving toward finalizing the agreement and entering the final stages.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691035</guid>
+            <pubDate>Sun, 02 Aug 2026 18:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF: Explosive device that injured LAF troops assessed to have belonged to Hezbollah]]></title>
+            <description><![CDATA[IDF: Explosive device that injured LAF troops assessed to have belonged to Hezbollah]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691034</guid>
+            <pubDate>Sun, 02 Aug 2026 18:14:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[After months delay: Israel prepares to evacuate UNRWA compound in Jerusalem]]></title>
             <description><![CDATA[Police and IDF confirm preparations to evacuate the UNRWA compound in Kafr Aqab after months of delays and security concerns.]]></description>
@@ -25,15 +60,15 @@
         </item>
         <item>
             <title><![CDATA[Gazan reports: Senior Hamas official Nafedh Tzabih eliminated in airstrike]]></title>
-            <description><![CDATA[Gazan reports: Senior Hamas official Nafedh Tzabih eliminated in airstrike]]></description>
+            <description><![CDATA[Media outlets in the Gaza Strip are reporting that Nafedh Tzabih, a senior figure in the military wing of Hamas, was killed in a strike on a vehicle in Gaza City in the northern part of the enclave.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691031</guid>
             <pubDate>Sun, 02 Aug 2026 17:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Israeli soccer player shuts up antisemitic fans]]></title>
-            <description><![CDATA[Watch: Israeli soccer player shuts up antisemitic fans]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[Israeli soccer player Dor Turgeman responds to chants of 'Death to Israel' in the best way he could.]]></description>
+            <link>https://www.israelnationalnews.com/news/431130</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691030</guid>
             <pubDate>Sun, 02 Aug 2026 16:59:00 GMT</pubDate>
         </item>
@@ -46,34 +81,28 @@
         </item>
         <item>
             <title><![CDATA[Police locate powerful pipe bombs near Ramla Train Station]]></title>
-            <description><![CDATA[Detectives from the Ramla Police Station locate three pipe bombs and dozens of rounds of stolen IDF ammunition near the city's railway station.]]></description>
-            <link>https://www.israelnationalnews.com/news/431127</link>
+            <description><![CDATA[Police locate powerful pipe bombs near Ramla Train Station]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691028</guid>
             <pubDate>Sun, 02 Aug 2026 16:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spain migrant surge: Antisemitic conspiracies reach 100 million in 72 hours]]></title>
-            <description><![CDATA[CAM report says antisemitic conspiracy theories linking Israel to the Ceuta migrant surge reached more than 100 million people on X within 72 hours, as prominent pages share it.]]></description>
-            <link>https://www.israelnationalnews.com/news/431126</link>
+            <description><![CDATA[Spain migrant surge: Antisemitic conspiracies reach 100 million in 72 hours]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691027</guid>
             <pubDate>Sun, 02 Aug 2026 15:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Criminal terror attack' thwarted: Pipe bombs, ammo uncovered near Ramla Train Station]]></title>
-            <description><![CDATA[Officers from the Israel Police Central District uncovered three high-powered pipe bombs and dozens of 5.56 mm rounds, which police believe were stolen from the IDF, during a search of an open area near the Ramla Railway Station.
-
-Police said the operation thwarted what they described as a “criminal terror attack" in the Arab sector. The explosive devices were neutralized by a police bomb disposal expert, and the evidence was transferred for further investigation and forensic examination.]]></description>
+            <description><![CDATA['Criminal terror attack' thwarted: Pipe bombs, ammo uncovered near Ramla Train Station]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691026</guid>
             <pubDate>Sun, 02 Aug 2026 15:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gantz: 'Israel cannot compromise on Hamas’ full disarmament in Gaza before retreating']]></title>
-            <description><![CDATA[In a social media post in English, Knesset Member Benny Gantz (Blue and White) addressed the current deal with Hamas, warning that Israel cannot compromise on full disarmament.
-
-Gantz related how shortly after joining the War Cabinet after October 7th, he met various US generals who had one piece of advice when it came to Gaza & Hamas: “Don’t rush to your failure". According to Gantz, he responded: “You must understand - Gaza isn’t a far away mission for us, it’s a few hundred metres from Israeli homes; children, families. We don’t have the privilege of not acting now".
-
-Gantz wrote that "today, Israel cannot compromise on Hamas’ full disarmament in Gaza before retreating from further territory. The price of failure isn’t a failed mission far away - it’s the security of our children."]]></description>
+            <description><![CDATA[Gantz: 'Israel cannot compromise on Hamas’ full disarmament in Gaza before retreating']]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691025</guid>
             <pubDate>Sun, 02 Aug 2026 15:21:00 GMT</pubDate>
@@ -2779,41 +2808,6 @@ Gantz wrote that "today, Israel cannot compromise on Hamas’ full disarmament i
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690639</guid>
             <pubDate>Mon, 27 Jul 2026 12:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A terrorist involved in stealing a weapon during Sussia attack turns himself in to security forces]]></title>
-            <description><![CDATA[A terrorist involved in stealing a weapon during Sussia attack turns himself in to security forces]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690638</guid>
-            <pubDate>Mon, 27 Jul 2026 12:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's behind the pause in US strikes?]]></title>
-            <description><![CDATA[What's behind the pause in US strikes?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690637</guid>
-            <pubDate>Mon, 27 Jul 2026 11:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu takes off for Washington]]></title>
-            <description><![CDATA[Netanyahu takes off for Washington]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690636</guid>
-            <pubDate>Mon, 27 Jul 2026 11:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two Israelis detained after crossing into Syria from Mount Hermon]]></title>
-            <description><![CDATA[Two Israelis detained after crossing into Syria from Mount Hermon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690635</guid>
-            <pubDate>Mon, 27 Jul 2026 11:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Study warns: Unelected officials weakening Knesset authority]]></title>
-            <description><![CDATA[Study warns: Unelected officials weakening Knesset authority]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690634</guid>
-            <pubDate>Mon, 27 Jul 2026 11:27:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

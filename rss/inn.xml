@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 22:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 00:05:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 22:59:15 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 00:05:55 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Saudi Foreign Minister speaks with Iranian counterpart in effort to de-escalate tensions]]></title>
+            <description><![CDATA[Saudi Foreign Minister Faisal bin Farhan held a telephone conversation with Iranian Foreign Minister Abbas Araghchi amid intense diplomatic efforts by Riyadh to prevent a regional escalation and advance an agreement between the United States and Iran.
+
+According to a statement from the Saudi Ministry of Foreign Affairs, the call focused on reviewing diplomatic steps to ease tensions. During the conversation, Bin Farhan emphasized the Kingdom's commitment to continuing "its regional role in establishing security and stability, in a manner that achieves the shared interests of all nations and peoples in the region."]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691046</guid>
+            <pubDate>Sun, 02 Aug 2026 23:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shas sets non-negotiable condition for next coalition]]></title>
+            <description><![CDATA[Shas faction chairman Yinon Azoulay announces that settling the draft status of yeshiva students will be a baseline requirement for the party joining any post-election government.]]></description>
+            <link>https://www.israelnationalnews.com/news/431139</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691045</guid>
+            <pubDate>Sun, 02 Aug 2026 23:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Navy exercise scheduled for this week between Shavei Tzion and Ashdod]]></title>
             <description><![CDATA[The IDF announced that a Naval exercise will take place starting Monday morning through Tuesday evening in the maritime area between Shavei Tzion and Ashdod.
@@ -69,20 +85,14 @@ Increased activity of security forces and naval vessels will be noticeable throu
         </item>
         <item>
             <title><![CDATA[Board of Peace director condemns Israeli strikes in Gaza]]></title>
-            <description><![CDATA[The Director General of the Board of Peace in Gaza, Nickolay Mladenov, condemned Israeli strikes on Gaza over the past two days, claiming that they have "killed civilians and destroyed medical supplies that people depend on."
-
-He noted that the strikes come after "intense efforts by the Board of Peace and the mediators (Egypt, Turkiye, Qatar and the US) to bring the Palestinian factions in Gaza to agree to a Roadmap on the full implementation of President Trump's plan, to hand over civilian governance and to decommission their weapons."
-
-Mladenov stressed that "both parties carry obligations under the Comprehensive Plan and the Sharm El Sheikh deal that secured the release of all hostages."
-
-"My team and I are working around the clock with the parties, the mediators and regional partners to de-escalate and create the space for the full implementation of the President's plan. Achieving a lasting peace is hard but achievable if everyone make their best efforts," he added.]]></description>
+            <description><![CDATA[Board of Peace director condemns Israeli strikes in Gaza]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691036</guid>
             <pubDate>Sun, 02 Aug 2026 19:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iranian FM: Iran, Oman nearing agreement on Strait of Hormuz]]></title>
-            <description><![CDATA[Iranian News Agency (IRNA) reported that Iranian Foreign Minister Abbas Araghchi said that there has been progress in the talks between Iran and Oman, confirming that they are moving toward finalizing the agreement and entering the final stages.]]></description>
+            <description><![CDATA[Iranian FM: Iran, Oman nearing agreement on Strait of Hormuz]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691035</guid>
             <pubDate>Sun, 02 Aug 2026 18:19:00 GMT</pubDate>
@@ -2802,20 +2812,6 @@ Mladenov stressed that "both parties carry obligations under the Comprehensive P
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690647</guid>
             <pubDate>Mon, 27 Jul 2026 14:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police hunt for Jerusalem mother accused of kidnapping her two children]]></title>
-            <description><![CDATA[Police hunt for Jerusalem mother accused of kidnapping her two children]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690646</guid>
-            <pubDate>Mon, 27 Jul 2026 13:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF continues to deal blows to Hamas in central Gaza]]></title>
-            <description><![CDATA[IDF continues to deal blows to Hamas in central Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690645</guid>
-            <pubDate>Mon, 27 Jul 2026 13:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

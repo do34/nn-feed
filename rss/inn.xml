@@ -4,11 +4,41 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 21:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 23:00:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 21:02:48 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 23:00:39 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Hamas: Waiting for official response regarding Phase Two of ceasefire]]></title>
+            <description><![CDATA[The Hamas terrorist organization announced that it is awaiting an official response from the Board of Peace and mediating nations regarding the implementation of the second phase of the ceasefire agreement.
+
+A senior Hamas source stated that the group and other Palestinian Arab factions in the Strip remain "committed to what was agreed upon" concerning the execution of Phase Two, emphasizing that this includes all involved parties fulfilling their respective commitments.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691104</guid>
+            <pubDate>Mon, 03 Aug 2026 22:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi tankers reroute around Africa to bypass Houthi Red Sea blockade]]></title>
+            <description><![CDATA[Six Saudi ships divert around Africa, adding two weeks to their voyages, to circumvent a Houthi-declared shipping blockade in the Red Sea chokepoint.]]></description>
+            <link>https://www.israelnationalnews.com/news/431189</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691103</guid>
+            <pubDate>Mon, 03 Aug 2026 22:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After 30 hours of calm: IDF reporetdly strikes vehicle in Gaza City]]></title>
+            <description><![CDATA[Gaza media outlets reported Monday evening that an IDF drone struck a vehicle in Gaza City, ending a period of approximately 30 hours without strikes in the Strip. Casualties were reported at the scene.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691102</guid>
+            <pubDate>Mon, 03 Aug 2026 21:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Found safe: Missing teenager Efrat Menachem located after 11 Days]]></title>
+            <description><![CDATA[Police have announced that 16-year-old Efrat Menachem from Kokhav Ya'akov, who had been missing for 11 days, has been found safe and sound.]]></description>
+            <link>https://www.israelnationalnews.com/news/431188</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691101</guid>
+            <pubDate>Mon, 03 Aug 2026 21:09:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Qatar, Egypt, and Turkey scold Israel for strikes on Gaza terrorists]]></title>
             <description><![CDATA[Mediating nations accuse Israel of violating the ceasefire following IDF strikes targeting Hamas terrorists, hours after the Board of Peace clarified key terms.]]></description>
@@ -55,39 +85,29 @@ Sydney Altfield, CEO of Teach Coalition, responded to the new figures: "These st
         </item>
         <item>
             <title><![CDATA[IDF, ISA eliminate Nukhba commander who infiltrated Israel during the October 7th Massacre]]></title>
-            <description><![CDATA[Yesterday (Sunday), the IDF, directed by the ISA, struck in the Deir al-Balah area and eliminated the terrorist Abdallah Adnan Taha Abu al-Tayf, a Nukhba commander in Hamas' military wing.
-
-The terrorist infiltrated Israeli territory during the October 7th Massacre. Throughout the war, he actively participated in combat against IDF troops.
-
-In an additional strike directed by the ISA yesterday (Sunday) in the Shati area, the IDF eliminated the terrorist Jalal Tsubeih, a commander in the Daraj Tuffah Battalion of Hamas’ military wing.
-
-Recently, the terrorists attempted to advance terror attacks against IDF troops and Israeli civilians and were eliminated in order to remove the threat.
-
-Prior to the strikes, steps were taken to mitigate harm to civilians, including the use of precise munitions and aerial surveillance.]]></description>
+            <description><![CDATA[IDF, ISA eliminate Nukhba commander who infiltrated Israel during the October 7th Massacre]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691094</guid>
             <pubDate>Mon, 03 Aug 2026 18:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gaza Council of Peace: IDF withdrawal from Gaza only after complete disarmament of the Strip]]></title>
-            <description><![CDATA[After the storm surrounding the "roadmap," the Gaza Council of Peace stated that Israel and the Council share the goal of complete disarmament in the Gaza Strip and a transition to civilian rule.
-
-It was also emphasized that the IDF withdrawal beyond the Yellow Line will only take place after the dismantling of all weapons in the Strip, including light weapons, heavy weapons, and tunnels, has been completed.]]></description>
+            <description><![CDATA[Gaza Council of Peace: IDF withdrawal from Gaza only after complete disarmament of the Strip]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691093</guid>
             <pubDate>Mon, 03 Aug 2026 18:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katz clarifies: Central Command Chief is doing his job well, no disagreement between us]]></title>
-            <description><![CDATA[Defense Minister Katz tells Judea and Samaria leaders that Maj. Gen. Avi Bluth remains in his post as sides discuss security and settlement.]]></description>
-            <link>https://www.israelnationalnews.com/news/431182</link>
+            <description><![CDATA[Katz clarifies: Central Command Chief is doing his job well, no disagreement between us]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691092</guid>
             <pubDate>Mon, 03 Aug 2026 18:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[After terror attack: Illegal PA structures threatening Derech Avraham Farm demolished]]></title>
-            <description><![CDATA[The Civil Administration's Enforcement Unit demolished a number of illegal Palestinian structures near the Derech Avraham farm following the terrorist attack in which Itamar Cohen was wounded.]]></description>
-            <link>https://www.israelnationalnews.com/news/431181</link>
+            <description><![CDATA[After terror attack: Illegal PA structures threatening Derech Avraham Farm demolished]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691091</guid>
             <pubDate>Mon, 03 Aug 2026 17:37:00 GMT</pubDate>
         </item>
@@ -2792,34 +2812,6 @@ It was also emphasized that the IDF withdrawal beyond the Yellow Line will only 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690707</guid>
             <pubDate>Tue, 28 Jul 2026 10:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airports Authority rejects reports of staffing shortage]]></title>
-            <description><![CDATA[Airports Authority rejects reports of staffing shortage]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690706</guid>
-            <pubDate>Tue, 28 Jul 2026 09:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Court challenges freezing enforcement against draft evaders]]></title>
-            <description><![CDATA[Court challenges freezing enforcement against draft evaders]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690705</guid>
-            <pubDate>Tue, 28 Jul 2026 09:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Someone will die': Threatening letter found after second attack on Channel 12 offices]]></title>
-            <description><![CDATA['Someone will die': Threatening letter found after second attack on Channel 12 offices]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690704</guid>
-            <pubDate>Tue, 28 Jul 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Trump initially resisted meeting Netanyahu]]></title>
-            <description><![CDATA[Report: Trump initially resisted meeting Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690703</guid>
-            <pubDate>Tue, 28 Jul 2026 08:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

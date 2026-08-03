@@ -4,22 +4,92 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 08:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 12:23:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 08:29:13 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 12:23:25 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
+            <title><![CDATA[Calling Judea and Samaria the “West Bank" Is historical erasure and a distortion]]></title>
+            <description><![CDATA[Using the term "West Bank" shows how thoroughly some Israelis have internalized the language of their adversaries. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431166</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691073</guid>
+            <pubDate>Mon, 03 Aug 2026 11:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[102-year-old Jewish WWII veteran: 'England is not the same England anymore']]></title>
+            <description><![CDATA[Monty Goldstein, who defended Britain during WWII, says rising antisemitism has left him wondering why Jews are once again paying the price for hatred, while calling life at 102 a gift from G-d.]]></description>
+            <link>https://www.israelnationalnews.com/news/431165</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691072</guid>
+            <pubDate>Mon, 03 Aug 2026 11:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UNRWA hearing erupts: 'Supreme Court for terrorists']]></title>
+            <description><![CDATA[UNRWA hearing erupts: 'Supreme Court for terrorists']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691071</guid>
+            <pubDate>Mon, 03 Aug 2026 11:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Justice for Malki, accountability for a terrorist murderess]]></title>
+            <description><![CDATA[Arnold Roth’s 25-year fight for his daughter's murder and accountability for a Hamas terrorist.]]></description>
+            <link>https://www.israelnationalnews.com/news/431163</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691070</guid>
+            <pubDate>Mon, 03 Aug 2026 11:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concerning data: Emigration rates from Israel continue for a third consecutive year]]></title>
+            <description><![CDATA[Concerning data: Emigration rates from Israel continue for a third consecutive year]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691069</guid>
+            <pubDate>Mon, 03 Aug 2026 10:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-MK, top contractor detained in multimillion-shekel fraud probe]]></title>
+            <description><![CDATA[Former MK serving in senior Likud role is detained alongside well-known contractor, other businessmen, over allegations of sophisticated fraud scheme.]]></description>
+            <link>https://www.israelnationalnews.com/news/431160</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691068</guid>
+            <pubDate>Mon, 03 Aug 2026 10:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rimmel family: 'It's a disgrace. Nothing else to say.']]></title>
+            <description><![CDATA[Rimmel family: 'It's a disgrace. Nothing else to say.']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691067</guid>
+            <pubDate>Mon, 03 Aug 2026 10:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Katz blasts 'political campaign' over Bluth controversy]]></title>
+            <description><![CDATA[Defense Minister Israel Katz accuses critics of spreading 'outright lie' after reports claimed he sought to dismiss Central Command chief Maj. Gen. Avi Bluth, insisting the appointment of Bluth's successor had been underway for months.]]></description>
+            <link>https://www.israelnationalnews.com/news/431157</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691066</guid>
+            <pubDate>Mon, 03 Aug 2026 09:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yesha Council backs both Bluth and Katz amid controversy]]></title>
+            <description><![CDATA[Yesha Council backs both Bluth and Katz amid controversy]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691065</guid>
+            <pubDate>Mon, 03 Aug 2026 09:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haredi allies turn on Netanyahu over Draft Law]]></title>
+            <description><![CDATA[Haredi factions disagree on response to Prime Minister Benjamin Netanyahu's statements on law preventing arrest of haredi draft evaders, exposing internal rift.]]></description>
+            <link>https://www.israelnationalnews.com/news/431154</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691064</guid>
+            <pubDate>Mon, 03 Aug 2026 08:34:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Another message from Eitan: Fallen officer’s duffel bag found after two years]]></title>
-            <description><![CDATA[More than two years after his death, fallen IDF officer’s family receives unexpected ‘message from Eitan,' following a mistaken identification between the surnames Fish and Fischer.]]></description>
-            <link>https://www.israelnationalnews.com/news/431155</link>
+            <description><![CDATA[Another message from Eitan: Fallen officer’s duffel bag found after two years]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691063</guid>
             <pubDate>Mon, 03 Aug 2026 08:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Terror battalion commander accused of murdering IDF soldier]]></title>
-            <description><![CDATA[Indictment filed against Nur Shams Battalion commander for the murder of IDF reservist Sergeant first class (res.) Yehuda Geto in July 2024, as well as numerous terror-related offenses.]]></description>
-            <link>https://www.israelnationalnews.com/news/431153</link>
+            <description><![CDATA[Terror battalion commander accused of murdering IDF soldier]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691062</guid>
             <pubDate>Mon, 03 Aug 2026 07:52:00 GMT</pubDate>
         </item>
@@ -32,8 +102,8 @@
         </item>
         <item>
             <title><![CDATA[Information Security: IDF soldiers used Lebanese eSIMs]]></title>
-            <description><![CDATA[Reserve soldiers in the Paratroopers Brigade purchased eSIM cards from Lebanese sources during the fighting in Lebanon, in violation of military regulations and without security authorization.]]></description>
-            <link>https://www.israelnationalnews.com/news/431151</link>
+            <description><![CDATA[Information Security: IDF soldiers used Lebanese eSIMs]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691060</guid>
             <pubDate>Mon, 03 Aug 2026 07:07:00 GMT</pubDate>
         </item>
@@ -46,8 +116,8 @@
         </item>
         <item>
             <title><![CDATA[Spanish actor criticized after claiming Israel benefits from Spain's migrant crisis]]></title>
-            <description><![CDATA[Spanish actor Javier Bardem sparked backlash after posting on social media, 'we know who benefits from a weakened, destabilized Spain: Israel, and the Western far right eager to turn migration into a weapon against Muslims.']]></description>
-            <link>https://www.israelnationalnews.com/news/431149</link>
+            <description><![CDATA[Spanish actor criticized after claiming Israel benefits from Spain's migrant crisis]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691058</guid>
             <pubDate>Mon, 03 Aug 2026 06:20:00 GMT</pubDate>
         </item>
@@ -60,8 +130,8 @@
         </item>
         <item>
             <title><![CDATA[Pro or anti-Israel? You just can't have it both ways]]></title>
-            <description><![CDATA[Dear President Trump, you did an excellent job at first but aren't you now starting to behave like most politicians, destroying with one hand what the other hand has painstakingly built? Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431148</link>
+            <description><![CDATA[Pro or anti-Israel? You just can't have it both ways]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691056</guid>
             <pubDate>Mon, 03 Aug 2026 05:27:00 GMT</pubDate>
         </item>
@@ -74,8 +144,8 @@
         </item>
         <item>
             <title><![CDATA[American Airlines extends Tel Aviv flight suspensions through spring 2027]]></title>
-            <description><![CDATA[American Airlines extends its Tel Aviv flight pause to March 28, 2027, making it the only major US carrier out of Israel since October 2023.]]></description>
-            <link>https://www.israelnationalnews.com/news/431145</link>
+            <description><![CDATA[American Airlines extends Tel Aviv flight suspensions through spring 2027]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691054</guid>
             <pubDate>Mon, 03 Aug 2026 03:55:00 GMT</pubDate>
         </item>
@@ -2738,76 +2808,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690676</guid>
             <pubDate>Tue, 28 Jul 2026 00:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Electric scooter rider seriously injured in Tel Aviv]]></title>
-            <description><![CDATA[Electric scooter rider seriously injured in Tel Aviv]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690675</guid>
-            <pubDate>Mon, 27 Jul 2026 23:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four days after attack: Palestinian Arab workers returning to Judea and Samaria]]></title>
-            <description><![CDATA[Four days after attack: Palestinian Arab workers returning to Judea and Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690674</guid>
-            <pubDate>Mon, 27 Jul 2026 23:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[17-year-old stabbed in Isawiya, police say incident stems from family dispute]]></title>
-            <description><![CDATA[17-year-old stabbed in Isawiya, police say incident stems from family dispute]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690673</guid>
-            <pubDate>Mon, 27 Jul 2026 22:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu and his entourage land in Washington]]></title>
-            <description><![CDATA[Netanyahu and his entourage land in Washington]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690672</guid>
-            <pubDate>Mon, 27 Jul 2026 22:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump on Iran: There are 'very friendly' talks going on]]></title>
-            <description><![CDATA[Trump on Iran: There are 'very friendly' talks going on]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690671</guid>
-            <pubDate>Mon, 27 Jul 2026 22:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF on Eli Junction incident: Israeli struck after Arab vehicle lost control due to rock-throwing]]></title>
-            <description><![CDATA[IDF on Eli Junction incident: Israeli struck after Arab vehicle lost control due to rock-throwing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690670</guid>
-            <pubDate>Mon, 27 Jul 2026 21:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[17-year-old hit by Palestinian Arab vehicle during demonstration near Eli]]></title>
-            <description><![CDATA[17-year-old hit by Palestinian Arab vehicle during demonstration near Eli]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690669</guid>
-            <pubDate>Mon, 27 Jul 2026 21:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rule only Republicans obey]]></title>
-            <description><![CDATA[The rule only Republicans obey]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690668</guid>
-            <pubDate>Mon, 27 Jul 2026 20:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Likud Central Committee approves all of Netanyahu's requests ahead of elections]]></title>
-            <description><![CDATA[Likud Central Committee approves all of Netanyahu's requests ahead of elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690667</guid>
-            <pubDate>Mon, 27 Jul 2026 20:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gazan doctor bound with socks by fellow inmates]]></title>
-            <description><![CDATA[Gazan doctor bound with socks by fellow inmates]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690666</guid>
-            <pubDate>Mon, 27 Jul 2026 19:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

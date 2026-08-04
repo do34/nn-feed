@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 16:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 18:27:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 16:51:18 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 18:27:20 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Report: US faces missile shortfall after Iran war drained stockpiles]]></title>
+            <description><![CDATA[Reuters reports US stocks of ATACMS and PrSM missiles are nearly depleted after five months of war with Iran, raising concerns over future conflicts.]]></description>
+            <link>https://www.israelnationalnews.com/news/431237</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691168</guid>
+            <pubDate>Tue, 04 Aug 2026 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protesters swarm haredi soldier, shout: "Traitor"]]></title>
+            <description><![CDATA[Footage from the demonstration shows Mendel Rata standing alongside police officers as protesters from the Jerusalem Faction confront and attack him.]]></description>
+            <link>https://www.israelnationalnews.com/news/431236</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691167</guid>
+            <pubDate>Tue, 04 Aug 2026 17:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indian-flagged ship sinks in Red Sea after explosives attack]]></title>
+            <description><![CDATA[Indian-flagged ship sinks in Red Sea after explosives attack]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691166</guid>
+            <pubDate>Tue, 04 Aug 2026 17:20:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dramatic change in Gaza strike policy]]></title>
             <description><![CDATA[The IDF has tightened its rules of engagement in Gaza, and from now on, every targeted killing will require approval from the highest echelon.]]></description>
@@ -60,24 +81,22 @@
         </item>
         <item>
             <title><![CDATA[Central bimah of Vilna Great Synagogue fully exposed]]></title>
-            <description><![CDATA[Excavations at the Great Synagogue of Vilna uncovered its central bimah, colorful floors, worshippers' plaques and a Ten Commandments tablet.]]></description>
-            <link>https://www.israelnationalnews.com/news/431227</link>
+            <description><![CDATA[Central bimah of Vilna Great Synagogue fully exposed]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691158</guid>
             <pubDate>Tue, 04 Aug 2026 14:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rubio: Progress on opening of Strait of Hormuz in talks with Iran, but nothing final]]></title>
-            <description><![CDATA[US Secretary of State Marco Rubio said Tuesday that progress has been made in talks with Iran to open the Strait of Hormuz.
-
-"Nothing is final," he said, "I hope the agreement will be signed very soon."]]></description>
+            <description><![CDATA[Rubio: Progress on opening of Strait of Hormuz in talks with Iran, but nothing final]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691157</guid>
             <pubDate>Tue, 04 Aug 2026 14:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From Rebbe to Jung to Quantum Physics: The truth that less means more]]></title>
-            <description><![CDATA[Stepping back from the frantic demands of the materialistic self enables an individual to align with a greater, unmanifested source of infinite blessings.]]></description>
-            <link>https://www.israelnationalnews.com/news/431225</link>
+            <description><![CDATA[From Rebbe to Jung to Quantum Physics: The truth that less means more]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691156</guid>
             <pubDate>Tue, 04 Aug 2026 14:19:00 GMT</pubDate>
         </item>
@@ -2789,27 +2808,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690771</guid>
             <pubDate>Wed, 29 Jul 2026 06:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A cornerstone laid a century late]]></title>
-            <description><![CDATA[A cornerstone laid a century late]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690770</guid>
-            <pubDate>Wed, 29 Jul 2026 05:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reuters report: Iran set to receive hundreds of shoulder-fired missiles from China]]></title>
-            <description><![CDATA[Reuters report: Iran set to receive hundreds of shoulder-fired missiles from China]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690769</guid>
-            <pubDate>Wed, 29 Jul 2026 05:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Torah scroll dedicated at IDF 'Keter Hahermon' outpost]]></title>
-            <description><![CDATA[Watch: Torah scroll dedicated at IDF 'Keter Hahermon' outpost]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690768</guid>
-            <pubDate>Wed, 29 Jul 2026 05:23:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

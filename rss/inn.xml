@@ -4,11 +4,67 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 04:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 07:38:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 04:09:44 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 07:38:59 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Watch: Yeshiva students dance at IDF enlistment center]]></title>
+            <description><![CDATA[Students from the Tefahot Yeshiva dance and sing at the Tel Hashomer inductment center, moments before joining Givati Brigade.]]></description>
+            <link>https://www.israelnationalnews.com/news/431264</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691202</guid>
+            <pubDate>Wed, 05 Aug 2026 07:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police raid Jericho to arrest suspect who praised Hamas]]></title>
+            <description><![CDATA[Israeli forces arrested a Jericho resident accused of online incitement and Hamas support after intelligence officers tracked his social media activity.]]></description>
+            <link>https://www.israelnationalnews.com/news/431263</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691201</guid>
+            <pubDate>Wed, 05 Aug 2026 07:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: Inside Hezbollah's underground terror network]]></title>
+            <description><![CDATA[Revealed: Inside Hezbollah's underground terror network]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691200</guid>
+            <pubDate>Wed, 05 Aug 2026 07:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Likud MK, convicted contractor at center of new fraud probe]]></title>
+            <description><![CDATA[Lahav 433 investigators question former MK Michael Kleiner, contractor Dudi Appel. over alleged scheme to conceal multimillion-shekel real estate assets through fraudulent transactions.]]></description>
+            <link>https://www.israelnationalnews.com/news/431259</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691199</guid>
+            <pubDate>Wed, 05 Aug 2026 06:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minister Sa’ar begins official visit to Ecuador and Colombia]]></title>
+            <description><![CDATA[Minister Sa’ar begins official visit to Ecuador and Colombia]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691198</guid>
+            <pubDate>Wed, 05 Aug 2026 06:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Hamas moving covert operations from Qatar to Turkey]]></title>
+            <description><![CDATA[Kan reports Hamas plans to move its covert planning and cyber operations from Qatar to Turkey after Doha imposed new restrictions on its leadership.]]></description>
+            <link>https://www.israelnationalnews.com/news/431260</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691197</guid>
+            <pubDate>Wed, 05 Aug 2026 05:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: New Lebanon proposal emerges in Israel negotiations]]></title>
+            <description><![CDATA[Report: New Lebanon proposal emerges in Israel negotiations]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691196</guid>
+            <pubDate>Wed, 05 Aug 2026 05:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Iran war drained US THAAD and Patriot missile stocks]]></title>
+            <description><![CDATA[CNN reports nearly 80% of US THAAD missiles and half of Patriot interceptors have been used in the Iran war, raising stockpile concerns.]]></description>
+            <link>https://www.israelnationalnews.com/news/431258</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691195</guid>
+            <pubDate>Wed, 05 Aug 2026 04:38:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: Negotiations to reopen the Strait of Hormuz enter final stages]]></title>
             <description><![CDATA[Pakistani government sources told the Turkish news agency Anadolu that mediators have drafted a framework laying the groundwork for reopening the Strait of Hormuz. According to the report, indirect negotiations currently underway between the United States and Iran regarding the document have entered a decisive stage.
@@ -27,8 +83,8 @@ The sources added that the talks, mediated by senior officials from Pakistan and
         </item>
         <item>
             <title><![CDATA[Trump warns Iran: Either they open the Strait or they will get hit very hard]]></title>
-            <description><![CDATA[President Trump tells Fox News the US is holding “good discussions" with Iran, reiterates he will launch major strikes if Tehran fails to open the Strait of Hormuz.]]></description>
-            <link>https://www.israelnationalnews.com/news/431255</link>
+            <description><![CDATA[Trump warns Iran: Either they open the Strait or they will get hit very hard]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691192</guid>
             <pubDate>Wed, 05 Aug 2026 03:30:00 GMT</pubDate>
         </item>
@@ -41,45 +97,43 @@ The sources added that the talks, mediated by senior officials from Pakistan and
         </item>
         <item>
             <title><![CDATA[Footage: Plumes of smoke seen near Dubai's Jebel Ali Port]]></title>
-            <description><![CDATA[Reports out of the United Arab Emirates indicated that thick smoke was seen rising from the Jebel Ali Port complex.
-
-As of now, no official statement has been issued by emergency services or the Dubai Media Office regarding the circumstances surrounding the incident.]]></description>
+            <description><![CDATA[Footage: Plumes of smoke seen near Dubai's Jebel Ali Port]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691190</guid>
             <pubDate>Wed, 05 Aug 2026 03:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MLS probes antisemitic language directed at Israeli soccer player Dor Turgeman]]></title>
-            <description><![CDATA[Major League Soccer is investigating after New England Revolution striker Dor Turgeman was subjected to antisemitic abuse during a match against CF Montreal.]]></description>
-            <link>https://www.israelnationalnews.com/news/431253</link>
+            <description><![CDATA[MLS probes antisemitic language directed at Israeli soccer player Dor Turgeman]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691189</guid>
             <pubDate>Wed, 05 Aug 2026 02:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Chief Rabbi of Russia and Yaakov Shwekey perform duet]]></title>
-            <description><![CDATA[Rabbi Berel Lazar and Yaakov Shwekey join forces for a rendition of "Tzama Lecha Nafshi" during the 70th birthday celebration of businessman Lev Leviev.]]></description>
-            <link>https://www.israelnationalnews.com/news/431252</link>
+            <description><![CDATA[Watch: Chief Rabbi of Russia and Yaakov Shwekey perform duet]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691188</guid>
             <pubDate>Wed, 05 Aug 2026 02:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Judge tosses 200-page GWU antisemitism lawsuit for length]]></title>
-            <description><![CDATA[Federal judge dismissed an antisemitism lawsuit against George Washington University for procedural length violations, granting 30 days to refile.]]></description>
-            <link>https://www.israelnationalnews.com/news/431251</link>
+            <description><![CDATA[Judge tosses 200-page GWU antisemitism lawsuit for length]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691187</guid>
             <pubDate>Wed, 05 Aug 2026 02:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wesley Bell defeats Israel critic Cori Bush in Missouri primary rematch]]></title>
-            <description><![CDATA[Multiple networks project that Representative Wesley Bell will defeat “Squad" member Cori Bush in Missouri's 1st District Democratic primary.]]></description>
-            <link>https://www.israelnationalnews.com/news/431250</link>
+            <description><![CDATA[Wesley Bell defeats Israel critic Cori Bush in Missouri primary rematch]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691186</guid>
             <pubDate>Wed, 05 Aug 2026 01:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senate Judiciary panel votes to advance Todd Blanche’s AG nomination]]></title>
-            <description><![CDATA[Senate Judiciary Committee votes 12-10 to advance Todd Blanche’s attorney general nomination after he agrees to dismantle a $1.8 billion compensation fund.]]></description>
-            <link>https://www.israelnationalnews.com/news/431249</link>
+            <description><![CDATA[Senate Judiciary panel votes to advance Todd Blanche’s AG nomination]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691185</guid>
             <pubDate>Wed, 05 Aug 2026 01:17:00 GMT</pubDate>
         </item>
@@ -2756,62 +2810,6 @@ As of now, no official statement has been issued by emergency services or the Du
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690805</guid>
             <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senior Israeli official: 'Decision on Iran strikes is up to Trump']]></title>
-            <description><![CDATA[Senior Israeli official: 'Decision on Iran strikes is up to Trump']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690804</guid>
-            <pubDate>Wed, 29 Jul 2026 15:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photo: Prime Minister Netanyahu meets with US Defense Sec. Hegseth in Washington]]></title>
-            <description><![CDATA[Photo: Prime Minister Netanyahu meets with US Defense Sec. Hegseth in Washington]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690803</guid>
-            <pubDate>Wed, 29 Jul 2026 15:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Jewish and historic mission': IDF Chief's message to haredi commanders]]></title>
-            <description><![CDATA['Jewish and historic mission': IDF Chief's message to haredi commanders]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690802</guid>
-            <pubDate>Wed, 29 Jul 2026 15:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Teen's heroic rescue amazes Trump]]></title>
-            <description><![CDATA[Watch: Teen's heroic rescue amazes Trump]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690801</guid>
-            <pubDate>Wed, 29 Jul 2026 15:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Israeli Navy's new air force]]></title>
-            <description><![CDATA[The Israeli Navy's new air force]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690800</guid>
-            <pubDate>Wed, 29 Jul 2026 14:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three Israelis arrested after crossing into Syria]]></title>
-            <description><![CDATA[Three Israelis arrested after crossing into Syria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690799</guid>
-            <pubDate>Wed, 29 Jul 2026 14:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Algerian author: 'I refused to silence my support for Israel']]></title>
-            <description><![CDATA[Algerian author: 'I refused to silence my support for Israel']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690798</guid>
-            <pubDate>Wed, 29 Jul 2026 13:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF forces remove three Israelis from Syrian territory]]></title>
-            <description><![CDATA[IDF forces remove three Israelis from Syrian territory]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690797</guid>
-            <pubDate>Wed, 29 Jul 2026 13:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

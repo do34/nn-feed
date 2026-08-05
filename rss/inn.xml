@@ -4,11 +4,74 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 07:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 10:34:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 07:38:59 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 10:34:54 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IDF strikes in southern Lebanon]]></title>
+            <description><![CDATA[IDF strikes in southern Lebanon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691211</guid>
+            <pubDate>Wed, 05 Aug 2026 10:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['We demand justice': Angry law interns confront Levin]]></title>
+            <description><![CDATA[Dozens of law interns gather outside Justice Minister Yariv Levin's home, demanding he intervene after unusually difficult bar exam left only about one-third of candidates with a passing grade.]]></description>
+            <link>https://www.israelnationalnews.com/news/431271</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691210</guid>
+            <pubDate>Wed, 05 Aug 2026 10:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish Studies Faculty in American colleges and their stance on Israel]]></title>
+            <description><![CDATA[Jewish Studies Faculty in American colleges and their stance on Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691209</guid>
+            <pubDate>Wed, 05 Aug 2026 10:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel launches first aliyah program for Jewish educators]]></title>
+            <description><![CDATA[Israel launches a national program to bring qualified Jewish educators from North America, targeting teacher shortages ahead of the 2027-28 school year.]]></description>
+            <link>https://www.israelnationalnews.com/news/431270</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691208</guid>
+            <pubDate>Wed, 05 Aug 2026 09:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Oketz dog leads IDF to rocket-filled Hamas tunnel]]></title>
+            <description><![CDATA[Watch: Oketz dog leads IDF to rocket-filled Hamas tunnel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691207</guid>
+            <pubDate>Wed, 05 Aug 2026 09:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attorney allegedly murdered by own client over NIS 15,000 dispute]]></title>
+            <description><![CDATA[Arbel Feldman, father of three, allegedly gunned down in his Rishon Lezion office by a client after a dispute over compensation payments.]]></description>
+            <link>https://www.israelnationalnews.com/news/431265</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691206</guid>
+            <pubDate>Wed, 05 Aug 2026 09:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another blow to the Democrats' pro-Israel faction: Abdul El-Sayed wins Michigan primary]]></title>
+            <description><![CDATA[Another blow to the Democrats' pro-Israel faction: Abdul El-Sayed wins Michigan primary]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691205</guid>
+            <pubDate>Wed, 05 Aug 2026 08:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF probe reveals failures in deadly Samaria terror attack]]></title>
+            <description><![CDATA[IDF investigation finds Maj. Yuval Ezra, Capt. (res.) Benyahu Melet's actions prevented far greater tragedy, exposes command failures, undermanned response, and flaws in evacuation effort.]]></description>
+            <link>https://www.israelnationalnews.com/news/431266</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691204</guid>
+            <pubDate>Wed, 05 Aug 2026 08:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Far-Left activists storm Religious Zionist Party HQ]]></title>
+            <description><![CDATA[Far-Left activists storm Religious Zionist Party HQ]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691203</guid>
+            <pubDate>Wed, 05 Aug 2026 07:59:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Yeshiva students dance at IDF enlistment center]]></title>
             <description><![CDATA[Students from the Tefahot Yeshiva dance and sing at the Tel Hashomer inductment center, moments before joining Givati Brigade.]]></description>
@@ -18,8 +81,8 @@
         </item>
         <item>
             <title><![CDATA[Police raid Jericho to arrest suspect who praised Hamas]]></title>
-            <description><![CDATA[Israeli forces arrested a Jericho resident accused of online incitement and Hamas support after intelligence officers tracked his social media activity.]]></description>
-            <link>https://www.israelnationalnews.com/news/431263</link>
+            <description><![CDATA[Police raid Jericho to arrest suspect who praised Hamas]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691201</guid>
             <pubDate>Wed, 05 Aug 2026 07:08:00 GMT</pubDate>
         </item>
@@ -32,8 +95,8 @@
         </item>
         <item>
             <title><![CDATA[Ex-Likud MK, convicted contractor at center of new fraud probe]]></title>
-            <description><![CDATA[Lahav 433 investigators question former MK Michael Kleiner, contractor Dudi Appel. over alleged scheme to conceal multimillion-shekel real estate assets through fraudulent transactions.]]></description>
-            <link>https://www.israelnationalnews.com/news/431259</link>
+            <description><![CDATA[Ex-Likud MK, convicted contractor at center of new fraud probe]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691199</guid>
             <pubDate>Wed, 05 Aug 2026 06:52:00 GMT</pubDate>
         </item>
@@ -46,8 +109,8 @@
         </item>
         <item>
             <title><![CDATA[Report: Hamas moving covert operations from Qatar to Turkey]]></title>
-            <description><![CDATA[Kan reports Hamas plans to move its covert planning and cyber operations from Qatar to Turkey after Doha imposed new restrictions on its leadership.]]></description>
-            <link>https://www.israelnationalnews.com/news/431260</link>
+            <description><![CDATA[Report: Hamas moving covert operations from Qatar to Turkey]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691197</guid>
             <pubDate>Wed, 05 Aug 2026 05:51:00 GMT</pubDate>
         </item>
@@ -60,24 +123,22 @@
         </item>
         <item>
             <title><![CDATA[Report: Iran war drained US THAAD and Patriot missile stocks]]></title>
-            <description><![CDATA[CNN reports nearly 80% of US THAAD missiles and half of Patriot interceptors have been used in the Iran war, raising stockpile concerns.]]></description>
-            <link>https://www.israelnationalnews.com/news/431258</link>
+            <description><![CDATA[Report: Iran war drained US THAAD and Patriot missile stocks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691195</guid>
             <pubDate>Wed, 05 Aug 2026 04:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Negotiations to reopen the Strait of Hormuz enter final stages]]></title>
-            <description><![CDATA[Pakistani government sources told the Turkish news agency Anadolu that mediators have drafted a framework laying the groundwork for reopening the Strait of Hormuz. According to the report, indirect negotiations currently underway between the United States and Iran regarding the document have entered a decisive stage.
-
-The sources added that the talks, mediated by senior officials from Pakistan and Qatar, are close to finalizing an agreed-upon text for the document.]]></description>
+            <description><![CDATA[Report: Negotiations to reopen the Strait of Hormuz enter final stages]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691194</guid>
             <pubDate>Wed, 05 Aug 2026 03:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MK Kariv: We will invest more in the Arab sector]]></title>
-            <description><![CDATA[MK Gilad Kariv says The Democrats party will work to approve a larger five-year development plan for Arab society if it joins the next government.]]></description>
-            <link>https://www.israelnationalnews.com/news/431256</link>
+            <description><![CDATA[MK Kariv: We will invest more in the Arab sector]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691193</guid>
             <pubDate>Wed, 05 Aug 2026 03:51:00 GMT</pubDate>
         </item>
@@ -2747,69 +2808,6 @@ The sources added that the talks, mediated by senior officials from Pakistan and
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690814</guid>
             <pubDate>Wed, 29 Jul 2026 19:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerusalem warns of fraud using fake municipal payment demands]]></title>
-            <description><![CDATA[Jerusalem warns of fraud using fake municipal payment demands]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690813</guid>
-            <pubDate>Wed, 29 Jul 2026 18:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New legal battle over Chief Rabbinate ordination exams]]></title>
-            <description><![CDATA[New legal battle over Chief Rabbinate ordination exams]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690812</guid>
-            <pubDate>Wed, 29 Jul 2026 18:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frances Belzberg z"l, a true woman of valor, passed away this past Shabbat]]></title>
-            <description><![CDATA[Frances Belzberg z"l, a true woman of valor, passed away this past Shabbat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690811</guid>
-            <pubDate>Wed, 29 Jul 2026 18:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zamir: IDF won't leave Lebanon security zone until long-term security is guaranteed]]></title>
-            <description><![CDATA[Zamir: IDF won't leave Lebanon security zone until long-term security is guaranteed]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690810</guid>
-            <pubDate>Wed, 29 Jul 2026 17:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hotovely to Arutz Sheva: Netanyahu and Trump 'on the same page']]></title>
-            <description><![CDATA[Hotovely to Arutz Sheva: Netanyahu and Trump 'on the same page']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690809</guid>
-            <pubDate>Wed, 29 Jul 2026 17:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US tanker hit in suspected drone attack in Egypt]]></title>
-            <description><![CDATA[US tanker hit in suspected drone attack in Egypt]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690808</guid>
-            <pubDate>Wed, 29 Jul 2026 16:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspected drone attack on Egypt: Explosion at port in north, American tanker hit]]></title>
-            <description><![CDATA[Suspected drone attack on Egypt: Explosion at port in north, American tanker hit]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690807</guid>
-            <pubDate>Wed, 29 Jul 2026 16:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joint US-Saudi airstrikes reportedly killed six Iranian advisers]]></title>
-            <description><![CDATA[Joint US-Saudi airstrikes reportedly killed six Iranian advisers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690806</guid>
-            <pubDate>Wed, 29 Jul 2026 16:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US designates Iranian entities, vessels over Strait of Hormuz activities]]></title>
-            <description><![CDATA[US designates Iranian entities, vessels over Strait of Hormuz activities]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690805</guid>
-            <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

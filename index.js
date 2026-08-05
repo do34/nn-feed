@@ -72,6 +72,15 @@ const parseDateStr = (dateStr) => {
   return new Date(`${month} ${day} ${year}`);
 };
 
+const isFlashesPageLink = (link) => {
+  if (!link) return true;
+  const normalized = link.replace(/\/+$/, "").split("#")[0];
+  return (
+    normalized === "/flashes" ||
+    normalized === FLASHES_URL.replace(/\/+$/, "")
+  );
+};
+
 const formatDate = (timeString, dateString, index) => {
   try {
     const now = new Date();
@@ -198,8 +207,8 @@ async function generateRSSFeed(browser) {
       console.log("No description cache found", e.message);
     }
 
-    // Click only the top 10 items that aren't cached to fetch extra info
-    const TOP_N = 10;
+    // Click only the top 30 items that aren't cached to fetch extra info
+    const TOP_N = 30;
     const elements = await page.$$("li.accordeon-item");
     for (let i = 0; i < Math.min(TOP_N, elements.length); i++) {
       const item = items[i];
@@ -302,27 +311,46 @@ async function generateRSSFeed(browser) {
       }
     }
 
+    const cutoff = Date.now() - MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
+    let skipped = 0;
     items.forEach((item, index) => {
       if (!item.title) return;
+      const pubDate = formatDate(item.time, item.date, index);
+      // Rolling window: drop items older than MAX_AGE_DAYS days
+      if (pubDate.getTime() < cutoff) {
+        skipped++;
+        return;
+      }
       const fullLink = item.link
         ? item.link.startsWith("http")
           ? item.link
           : `https://www.israelnationalnews.com${item.link}`
         : "https://www.israelnationalnews.com/flashes";
-      const guid = item.id
-        ? `https://www.israelnationalnews.com/flashes#${item.id}`
-        : `https://www.israelnationalnews.com/flashes/item-${index}-${item.title.replace(
-            /\s+/g,
-            "-"
-          )}`;
+      // guid should equal the link when there is a real article link;
+      // keep the unique #flash_id anchor for flashes without one.
+      // Note: flashes that share an article URL now share a guid, so
+      // some readers may collapse them (intentional per user request).
+      const guid = isFlashesPageLink(item.link)
+        ? item.id
+          ? `https://www.israelnationalnews.com/flashes#${item.id}`
+          : `https://www.israelnationalnews.com/flashes/item-${index}-${item.title.replace(
+              /\s+/g,
+              "-"
+            )}`
+        : fullLink;
       feed.item({
         title: item.title,
         description: item.description || item.title,
         url: fullLink,
         guid,
-        date: formatDate(item.time, item.date, index),
+        date: pubDate,
       });
     });
+    if (skipped > 0) {
+      console.log(
+        `Skipped ${skipped} item(s) older than ${MAX_AGE_DAYS} days (rolling ${MAX_AGE_DAYS}-day window)`
+      );
+    }
 
     const rssFeed = feed.xml({ indent: true });
     fs.writeFileSync(RSS_FILE, rssFeed);

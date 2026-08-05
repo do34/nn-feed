@@ -4,11 +4,67 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 12:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 15:13:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 12:52:28 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 15:13:40 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Netanyahu to High Court: I will not fire Ben Gvir]]></title>
+            <description><![CDATA[Prime Minister responds to petitions seeking the removal of the National Security Minister, saying his appointment was lawful and there are no grounds for his dismissal.]]></description>
+            <link>https://www.israelnationalnews.com/news/431289</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691228</guid>
+            <pubDate>Wed, 05 Aug 2026 14:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anti-Jewish hate crimes surge in New York City]]></title>
+            <description><![CDATA[Jews were the targets of nearly 70% of confirmed hate crimes in New York City last month, with anti-Jewish incidents rising more than 53% compared with July 2025, according to new NYPD data.]]></description>
+            <link>https://www.israelnationalnews.com/news/431288</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691227</guid>
+            <pubDate>Wed, 05 Aug 2026 14:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eizenkot takes swipe at Bennett over Qatar]]></title>
+            <description><![CDATA[Eizenkot takes swipe at Bennett over Qatar]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691226</guid>
+            <pubDate>Wed, 05 Aug 2026 14:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smotrich launches interactive platform highlighting party record]]></title>
+            <description><![CDATA[The Religious Zionist Party has unveiled a new digital platform that allows users to explore its achievements based on their interests and location.]]></description>
+            <link>https://www.israelnationalnews.com/news/431286</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691225</guid>
+            <pubDate>Wed, 05 Aug 2026 14:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch Live: Bones of Herzl's grandparents brought to Israel]]></title>
+            <description><![CDATA[Watch Live: Bones of Herzl's grandparents brought to Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691224</guid>
+            <pubDate>Wed, 05 Aug 2026 14:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Retreat, rebuild, resume the war]]></title>
+            <description><![CDATA[For fifty years, Palestinian Arab leaders have accepted concessions without surrendering their objective or capacity to resume the fight. The new Gaza roadmap preserves that playbook. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431285</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691223</guid>
+            <pubDate>Wed, 05 Aug 2026 13:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unity of the gemstones]]></title>
+            <description><![CDATA[The unity of the gemstones]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691222</guid>
+            <pubDate>Wed, 05 Aug 2026 13:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Evacuate immediately": Unusual evacuation warning issued in Lebanon after weeks]]></title>
+            <description><![CDATA[The IDF's Arabic-language spokesperson issued an evacuation warning to residents of the village of Al-Mansouri in southern Lebanon, citing Hezbollah's violation of the ceasefire.]]></description>
+            <link>https://www.israelnationalnews.com/news/431283</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691221</guid>
+            <pubDate>Wed, 05 Aug 2026 13:05:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Uproar after Yair Golan's remarks on Haredi conscription: "An uneducated population"]]></title>
             <description><![CDATA[The chairman of the Democrats party, Yair Golan, said at a conference that "we would not want to draft all the Haredim tomorrow morning."]]></description>
@@ -32,8 +88,8 @@
         </item>
         <item>
             <title><![CDATA[Police prevent disaster by rescuing toddler from locked car]]></title>
-            <description><![CDATA[Police officers broke into a locked car to rescue a distressed toddler on a hot day, with the child taken for medical evaluation in good condition.]]></description>
-            <link>https://www.israelnationalnews.com/news/431280</link>
+            <description><![CDATA[Police prevent disaster by rescuing toddler from locked car]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691217</guid>
             <pubDate>Wed, 05 Aug 2026 11:50:00 GMT</pubDate>
         </item>
@@ -60,15 +116,15 @@
         </item>
         <item>
             <title><![CDATA[Retired general answers haredim who attacked him: 'I'm not afraid of you']]></title>
-            <description><![CDATA[After he was attacked by extremists outside a guidance fair for haredi pre-military recruits, Brigadier General (Res.) Ofer Winter says he will continue working to integrate haredim in the IDF.]]></description>
-            <link>https://www.israelnationalnews.com/news/431277</link>
+            <description><![CDATA[Retired general answers haredim who attacked him: 'I'm not afraid of you']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691213</guid>
             <pubDate>Wed, 05 Aug 2026 11:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hitler, Himmler, Mamdani]]></title>
-            <description><![CDATA[When Mamdani blasted Netanyahu, and thus all the Jewish people, yes, who rose up in New York City to denounce him? It's deja vu all over again, just like docile European Jewry facing Hitler's henchmen. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431274</link>
+            <description><![CDATA[Hitler, Himmler, Mamdani]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691212</guid>
             <pubDate>Wed, 05 Aug 2026 10:44:00 GMT</pubDate>
         </item>
@@ -2752,62 +2808,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690831</guid>
             <pubDate>Thu, 30 Jul 2026 00:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: A celebration of divine love]]></title>
-            <description><![CDATA[Podcast: A celebration of divine love]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690830</guid>
-            <pubDate>Wed, 29 Jul 2026 23:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senior US official: US Army striking Iran]]></title>
-            <description><![CDATA[Senior US official: US Army striking Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690829</guid>
-            <pubDate>Wed, 29 Jul 2026 23:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Trump weighs intensive 10-to-14-day air campaign in Iran]]></title>
-            <description><![CDATA[Report: Trump weighs intensive 10-to-14-day air campaign in Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690828</guid>
-            <pubDate>Wed, 29 Jul 2026 23:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From separation to reunion: Tisha B'Av to Tu B'Av]]></title>
-            <description><![CDATA[From separation to reunion: Tisha B'Av to Tu B'Av]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690827</guid>
-            <pubDate>Wed, 29 Jul 2026 22:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explosions heard in Kyiv following Russian missile attack]]></title>
-            <description><![CDATA[Explosions heard in Kyiv following Russian missile attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690826</guid>
-            <pubDate>Wed, 29 Jul 2026 22:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Despite Iran strikes: Saudi Arabia urges de-escalation with Iran]]></title>
-            <description><![CDATA[Despite Iran strikes: Saudi Arabia urges de-escalation with Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690825</guid>
-            <pubDate>Wed, 29 Jul 2026 22:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motorcyclist moderately injured in crash near Mesubim Interchange]]></title>
-            <description><![CDATA[Motorcyclist moderately injured in crash near Mesubim Interchange]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690824</guid>
-            <pubDate>Wed, 29 Jul 2026 21:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Gvir fires back at Eisenkot: Defeatist morality]]></title>
-            <description><![CDATA[Ben Gvir fires back at Eisenkot: Defeatist morality]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690823</guid>
-            <pubDate>Wed, 29 Jul 2026 21:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

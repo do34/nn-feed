@@ -4,11 +4,46 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 15:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 17:37:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 15:13:40 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 17:37:17 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Drama in Washington's skies: Trump's helicopter came close to passenger plane]]></title>
+            <description><![CDATA[The US Federal Aviation Administration has launched an investigation after President Trump's helicopter came into close proximity with a passenger aircraft during takeoff.]]></description>
+            <link>https://www.israelnationalnews.com/news/431294</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691233</guid>
+            <pubDate>Wed, 05 Aug 2026 17:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zamir in Gaza: We won't allow another October 7; We'll hunt every terrorist involved]]></title>
+            <description><![CDATA[Chief of Staff visits troops in the Gaza Strip, says the IDF has fundamentally changed the security reality and will continue pursuing every terrorist involved in the October 7 massacre.]]></description>
+            <link>https://www.israelnationalnews.com/news/431293</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691232</guid>
+            <pubDate>Wed, 05 Aug 2026 17:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dozens of Israelis. mostly minors, cross border into Lebanon]]></title>
+            <description><![CDATA[Dozens of Israelis. mostly minors, cross border into Lebanon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691231</guid>
+            <pubDate>Wed, 05 Aug 2026 16:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Detainee seeks apology over reports linking him to attack]]></title>
+            <description><![CDATA[Tal Yinon Dardik has demanded a public apology from the Defense Ministry and the ISA, claiming media leaks falsely portrayed him as a key suspect in an alleged attack on Palestinians to justify his administrative detention.]]></description>
+            <link>https://www.israelnationalnews.com/news/431291</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691230</guid>
+            <pubDate>Wed, 05 Aug 2026 16:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada: 96% of Jewish students experienced or witnessed antisemitism]]></title>
+            <description><![CDATA[Canada: 96% of Jewish students experienced or witnessed antisemitism]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691229</guid>
+            <pubDate>Wed, 05 Aug 2026 15:56:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netanyahu to High Court: I will not fire Ben Gvir]]></title>
             <description><![CDATA[Prime Minister responds to petitions seeking the removal of the National Security Minister, saying his appointment was lawful and there are no grounds for his dismissal.]]></description>
@@ -25,8 +60,8 @@
         </item>
         <item>
             <title><![CDATA[Eizenkot takes swipe at Bennett over Qatar]]></title>
-            <description><![CDATA[Eizenkot takes swipe at Bennett over Qatar]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[Yashar! party chairman says declaring Qatar an enemy state requires a professional policy review-not election slogans.]]></description>
+            <link>https://www.israelnationalnews.com/news/431287</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691226</guid>
             <pubDate>Wed, 05 Aug 2026 14:22:00 GMT</pubDate>
         </item>
@@ -39,15 +74,15 @@
         </item>
         <item>
             <title><![CDATA[Watch Live: Bones of Herzl's grandparents brought to Israel]]></title>
-            <description><![CDATA[Watch Live: Bones of Herzl's grandparents brought to Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
+            <description><![CDATA[Decades later, the bones of Theodore Herzl's grandparents have been removed from Belgrade and brought to Israel to be laid to rest.]]></description>
+            <link>https://www.israelnationalnews.com/news/431281</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691224</guid>
             <pubDate>Wed, 05 Aug 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Retreat, rebuild, resume the war]]></title>
-            <description><![CDATA[For fifty years, Palestinian Arab leaders have accepted concessions without surrendering their objective or capacity to resume the fight. The new Gaza roadmap preserves that playbook. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431285</link>
+            <description><![CDATA[Retreat, rebuild, resume the war]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691223</guid>
             <pubDate>Wed, 05 Aug 2026 13:49:00 GMT</pubDate>
         </item>
@@ -60,22 +95,22 @@
         </item>
         <item>
             <title><![CDATA["Evacuate immediately": Unusual evacuation warning issued in Lebanon after weeks]]></title>
-            <description><![CDATA[The IDF's Arabic-language spokesperson issued an evacuation warning to residents of the village of Al-Mansouri in southern Lebanon, citing Hezbollah's violation of the ceasefire.]]></description>
-            <link>https://www.israelnationalnews.com/news/431283</link>
+            <description><![CDATA["Evacuate immediately": Unusual evacuation warning issued in Lebanon after weeks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691221</guid>
             <pubDate>Wed, 05 Aug 2026 13:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uproar after Yair Golan's remarks on Haredi conscription: "An uneducated population"]]></title>
-            <description><![CDATA[The chairman of the Democrats party, Yair Golan, said at a conference that "we would not want to draft all the Haredim tomorrow morning."]]></description>
-            <link>https://www.israelnationalnews.com/news/431282</link>
+            <description><![CDATA[Uproar after Yair Golan's remarks on Haredi conscription: "An uneducated population"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691220</guid>
             <pubDate>Wed, 05 Aug 2026 12:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jerusalem father identified as Israeli who drowned in Cyprus]]></title>
-            <description><![CDATA[Kobi Yedid, 34, who disappeared while swimming with his family off a beach in Limassol, found two hours later.]]></description>
-            <link>https://www.israelnationalnews.com/news/431279</link>
+            <description><![CDATA[Jerusalem father identified as Israeli who drowned in Cyprus]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691219</guid>
             <pubDate>Wed, 05 Aug 2026 12:15:00 GMT</pubDate>
         </item>
@@ -2773,41 +2808,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690836</guid>
             <pubDate>Thu, 30 Jul 2026 01:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Nobody tells Trump what to do': Netanyahu rejects claims he misled Trump on Iran]]></title>
-            <description><![CDATA['Nobody tells Trump what to do': Netanyahu rejects claims he misled Trump on Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690835</guid>
-            <pubDate>Thu, 30 Jul 2026 01:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reports in Iran of explosions on Qeshem Island and Bushehr]]></title>
-            <description><![CDATA[Reports in Iran of explosions on Qeshem Island and Bushehr]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690834</guid>
-            <pubDate>Thu, 30 Jul 2026 01:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German Chancellor rejects broad EU sanctions against Israel]]></title>
-            <description><![CDATA[German Chancellor rejects broad EU sanctions against Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690833</guid>
-            <pubDate>Thu, 30 Jul 2026 00:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CENTCOM confirms launching strikes in Iran]]></title>
-            <description><![CDATA[CENTCOM confirms launching strikes in Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690832</guid>
-            <pubDate>Thu, 30 Jul 2026 00:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Best ally since WWII': Sen. Tom Cotton praises Israel in meeting with Netanyahu]]></title>
-            <description><![CDATA['Best ally since WWII': Sen. Tom Cotton praises Israel in meeting with Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_690831</guid>
-            <pubDate>Thu, 30 Jul 2026 00:25:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

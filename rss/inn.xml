@@ -4,11 +4,53 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 12:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 15:16:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 12:56:48 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 15:16:59 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Reports of an Israeli drone strike on a motorcycle in southern Lebanon]]></title>
+            <description><![CDATA[Reports of an Israeli drone strike on a motorcycle in southern Lebanon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691289</guid>
+            <pubDate>Thu, 06 Aug 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Court releases Israelis who crossed into Lebanon]]></title>
+            <description><![CDATA[A Magistrate’s Court rejected the police request to extend the detention of 11 Israeli citizens who were arrested after crossing the border into Lebanese territory.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691288</guid>
+            <pubDate>Thu, 06 Aug 2026 14:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Hard for me to say goodbye:' The chilling speech by Maj. Harel Birenstock to his troops]]></title>
+            <description><![CDATA['Hard for me to say goodbye:' The chilling speech by Maj. Harel Birenstock to his troops]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691287</guid>
+            <pubDate>Thu, 06 Aug 2026 14:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arab mob attempts to attack Israelis who accidentally entered Jenin]]></title>
+            <description><![CDATA[Two Israelis who accidentally entered Jenin due to a navigation error were attacked by an Arab mob. They escaped unharmed, but their vehicle was damaged.]]></description>
+            <link>https://www.israelnationalnews.com/news/431336</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431336</guid>
+            <pubDate>Thu, 06 Aug 2026 13:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indictment: Ashkelon couple spied for Iran in exchange for crypto]]></title>
+            <description><![CDATA[Two Ashkelon residents charged with carrying out surveillance missions across Israel for Iranian handler, photographing military-related sites and receiving cryptocurrency.]]></description>
+            <link>https://www.israelnationalnews.com/news/431330</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431330</guid>
+            <pubDate>Thu, 06 Aug 2026 13:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police arrest suspect over threat to murder MK Tzvi Sukkot]]></title>
+            <description><![CDATA[Police arrested an eastern Jerusalem man accused of threatening to murder MK Tzvi Sukkot, prompting authorities to raise his security threat level.]]></description>
+            <link>https://www.israelnationalnews.com/news/431334</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431334</guid>
+            <pubDate>Thu, 06 Aug 2026 13:18:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: US begins removing refueling aircraft from Ben Gurion]]></title>
             <description><![CDATA[US Air Force reportedly begins relocating some of its aerial refueling aircraft from Ben Gurion Airport, following pressure to ease congestion ahead of one of the busiest travel months since October 7.]]></description>
@@ -183,23 +225,23 @@ Among the targets struck were weapon storage facilities, a command center, and a
         </item>
         <item>
             <title><![CDATA[Freedom of Speech ends where public safety begins]]></title>
-            <description><![CDATA[New York City's Jews may face a “clear and present danger" due to their mayor's rhetoric. And too little is being done about it. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431312</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431312</guid>
+            <description><![CDATA[Freedom of Speech ends where public safety begins]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691259</guid>
             <pubDate>Thu, 06 Aug 2026 04:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eli Yishai comeback? Former Shas leader weighs run with new haredi party]]></title>
-            <description><![CDATA[The former Shas chairman is in talks with the "Haredi Public" party, which targets working haredim and advocates for enlisting haredim not engaged in full-time Torah study.]]></description>
-            <link>https://www.israelnationalnews.com/news/431311</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431311</guid>
+            <description><![CDATA[Eli Yishai comeback? Former Shas leader weighs run with new haredi party]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691258</guid>
             <pubDate>Thu, 06 Aug 2026 03:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Houthis target Saudi oil tankers in Red Sea and Gulf of Aden]]></title>
-            <description><![CDATA[Yemen's Houthis claim missile attacks on two Saudi oil tankers off Yanbu and in the Gulf of Aden, intensifying their Red Sea naval blockade against Riyadh.]]></description>
-            <link>https://www.israelnationalnews.com/news/431310</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431310</guid>
+            <description><![CDATA[Houthis target Saudi oil tankers in Red Sea and Gulf of Aden]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691257</guid>
             <pubDate>Thu, 06 Aug 2026 03:22:00 GMT</pubDate>
         </item>
         <item>
@@ -211,18 +253,16 @@ Among the targets struck were weapon storage facilities, a command center, and a
         </item>
         <item>
             <title><![CDATA[Cleared for publication: IDF reservists Harel Birenstock and Tamir Vaknin fell in southern Lebanon]]></title>
-            <description><![CDATA[The IDF Spokesperson's Unit cleared for publication that Major (Res.) Harel Birenstock, aged 34, from Nokdim, a company commander in the 2855th Battalion, 55th Brigade, and Chief Master Sergeant (Res.) Tamir Vaknin, aged 33, from Eilat, a combat soldier in the 2855th Battalion, 55th Brigade, fell during combat in southern Lebanon.
-
-​In the incident in which Major (Res.) Harel Birenstock and Chief Master Sergeant (Res.) Tamir Vaknin fell, four IDF reserve soldiers were severely injured. The soldiers were evacuated to receive medical treatment at a hospital, and their families have been notified.]]></description>
+            <description><![CDATA[Cleared for publication: IDF reservists Harel Birenstock and Tamir Vaknin fell in southern Lebanon]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691255</guid>
             <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Following clash with Netanyahu: MK Dan Illouz joins Avigdor Liberman’s Yisrael Beytenu]]></title>
-            <description><![CDATA[MK Dan Illouz announces he is joining the Yisrael Beytenu party, led by Avigdor Liberman, after leaving Likud.]]></description>
-            <link>https://www.israelnationalnews.com/news/431309</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431309</guid>
+            <description><![CDATA[Following clash with Netanyahu: MK Dan Illouz joins Avigdor Liberman’s Yisrael Beytenu]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691254</guid>
             <pubDate>Thu, 06 Aug 2026 02:38:00 GMT</pubDate>
         </item>
         <item>
@@ -1407,69 +1447,6 @@ Among the targets struck were weapon storage facilities, a command center, and a
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691085</guid>
             <pubDate>Mon, 03 Aug 2026 15:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Knives and hideout discovered near Kedumim]]></title>
-            <description><![CDATA[Knives and hideout discovered near Kedumim]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691084</guid>
-            <pubDate>Mon, 03 Aug 2026 14:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brother of Zakaria Zubeidi released from administrative detention]]></title>
-            <description><![CDATA[Brother of Zakaria Zubeidi released from administrative detention]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691083</guid>
-            <pubDate>Mon, 03 Aug 2026 14:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Board of Peace asked Netanyahu to halt strikes on Gaza]]></title>
-            <description><![CDATA[Report: Board of Peace asked Netanyahu to halt strikes on Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691082</guid>
-            <pubDate>Mon, 03 Aug 2026 14:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weapons theft investigation uncovers drug trafficking ring]]></title>
-            <description><![CDATA[Weapons theft investigation uncovers drug trafficking ring]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691081</guid>
-            <pubDate>Mon, 03 Aug 2026 14:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Political source: Israel will not withdraw from current position in Gaza]]></title>
-            <description><![CDATA[Political source: Israel will not withdraw from current position in Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691080</guid>
-            <pubDate>Mon, 03 Aug 2026 13:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran shuts down reports of US negotiations]]></title>
-            <description><![CDATA[Iran shuts down reports of US negotiations]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691079</guid>
-            <pubDate>Mon, 03 Aug 2026 13:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Kedar to Arutz Sheva: If you're going to make a deal with Hamas, this is how]]></title>
-            <description><![CDATA[Dr. Kedar to Arutz Sheva: If you're going to make a deal with Hamas, this is how]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691078</guid>
-            <pubDate>Mon, 03 Aug 2026 13:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Likud minister: 'Whoever isn't learning Torah must enlist']]></title>
-            <description><![CDATA[Likud minister: 'Whoever isn't learning Torah must enlist']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691077</guid>
-            <pubDate>Mon, 03 Aug 2026 13:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smotrich and Strock oppose Gaza framework]]></title>
-            <description><![CDATA[Smotrich and Strock oppose Gaza framework]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691076</guid>
-            <pubDate>Mon, 03 Aug 2026 13:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

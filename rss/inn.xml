@@ -4,11 +4,53 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 07:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 10:39:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 07:39:22 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 10:39:09 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Education Ministry probes missing bonuses at haredi daycares]]></title>
+            <description><![CDATA[Education Ministry audit finds dozens of haredi daycare centers allegedly failed to pass government-funded bonuses on to classroom aides, prompting demands to recover millions of shekels.]]></description>
+            <link>https://www.israelnationalnews.com/news/431323</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431323</guid>
+            <pubDate>Thu, 06 Aug 2026 10:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family bids tearful farewell to Major Harel Birenstock]]></title>
+            <description><![CDATA[Major (res.) Harel Birenstock, who was killed in combat in southern Lebanon, was laid to rest at Mount Herzl as his family remembered his devotion to his country, his wife and four children, and his unwavering love of life in emotional eulogies.]]></description>
+            <link>https://www.israelnationalnews.com/news/431326</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431326</guid>
+            <pubDate>Thu, 06 Aug 2026 10:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holocaust survivor who built generations dies at 102]]></title>
+            <description><![CDATA[Holocaust survivor who built generations dies at 102]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691272</guid>
+            <pubDate>Thu, 06 Aug 2026 09:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antisemitism at a Bnei Akiva camp in Bulgaria]]></title>
+            <description><![CDATA[Men dressed in black shouted 'Sieg Heil' at Bnei Akiva members from Italy who were staying at a summer camp in Sofia.]]></description>
+            <link>https://www.israelnationalnews.com/news/431325</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431325</guid>
+            <pubDate>Thu, 06 Aug 2026 09:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF: Hezbollah built thousands of terror sites inside Lebanese villages]]></title>
+            <description><![CDATA[IDF: Hezbollah built thousands of terror sites inside Lebanese villages]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691270</guid>
+            <pubDate>Thu, 06 Aug 2026 09:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New legal battle targets municipal funding for haredim]]></title>
+            <description><![CDATA[Israel Hofsheet appeals to Attorney General, municipal legal advisers, demanding local authorities halt funding for haredi cultural events and community programs.]]></description>
+            <link>https://www.israelnationalnews.com/news/431318</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431318</guid>
+            <pubDate>Thu, 06 Aug 2026 08:56:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[15 Israelis cross into Lebanon after breaching border fence]]></title>
             <description><![CDATA[Around 15 civilians cross into Lebanon after breaching border fence near Ghajar, prompting IDF operation to retrieve them.]]></description>
@@ -67,9 +109,9 @@
         </item>
         <item>
             <title><![CDATA[Preparing for Rosh Hashanah]]></title>
-            <description><![CDATA[Preparing for Rosh Hashanah]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691260</guid>
+            <description><![CDATA[As bewildering as the world can be, the parasha and haftorah assure us of our wonderful future. Our enemies, whether on the battlefields or in the international courtrooms, are destined to fail.]]></description>
+            <link>https://www.israelnationalnews.com/news/431314</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431314</guid>
             <pubDate>Thu, 06 Aug 2026 04:57:00 GMT</pubDate>
         </item>
         <item>
@@ -183,48 +225,44 @@ She noted that it reflects the continued refinement of the system based on opera
         </item>
         <item>
             <title><![CDATA[Shaked will not join Gilad Erdan and Yuli Edelstein]]></title>
-            <description><![CDATA[Former Minister Ayelet Shaked will not be joining Gilad Erdan and Yuli Edelstein in the new party they are expected to announce on Thursday ahead of the upcoming elections.]]></description>
+            <description><![CDATA[Shaked will not join Gilad Erdan and Yuli Edelstein]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691244</guid>
             <pubDate>Wed, 05 Aug 2026 21:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Phase Two of Gaza agreement to span 210 days across five stages]]></title>
-            <description><![CDATA[Hamas sources tell Asharq Al-Awsat newspaper that the second phase of the ceasefire agreement will last 210 days and be implemented in five distinct stages.]]></description>
-            <link>https://www.israelnationalnews.com/news/431302</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431302</guid>
+            <description><![CDATA[Report: Phase Two of Gaza agreement to span 210 days across five stages]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691243</guid>
             <pubDate>Wed, 05 Aug 2026 21:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[57-year-old motorcyclist seriously injured in crash near Or Yehuda]]></title>
-            <description><![CDATA[A 57-year-old motorcyclist was seriously injured in while riding on Route 412 near the industrial zone in Or Yehuda.
-
-Magen David Adom crews provided him with life-saving medical treatment and evacuated him to Sheba Hospital.]]></description>
+            <description><![CDATA[57-year-old motorcyclist seriously injured in crash near Or Yehuda]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691242</guid>
             <pubDate>Wed, 05 Aug 2026 20:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF: Interceptor mistakenly launched at friendly fire in southern Lebanon]]></title>
-            <description><![CDATA[A short while ago, an interceptor was mistakenly launched toward a target that was later identified as IDF fire from operations conducted within the Security Zone in southern Lebanon. No injuries were reported, said the IDF Spokesperson's Unit.
-
-The incident is under review. No sirens were sounded in accordance with protocol.]]></description>
+            <description><![CDATA[IDF: Interceptor mistakenly launched at friendly fire in southern Lebanon]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691241</guid>
             <pubDate>Wed, 05 Aug 2026 20:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reservist Harel Birenstock, of Nokdim, fell in southern Lebanon]]></title>
-            <description><![CDATA[Gush Etzion Regional Council announces the death of reservist Harel Birenstock, of Nokdim, who fell in fighting in southern Lebanon. He was 34.]]></description>
-            <link>https://www.israelnationalnews.com/news/431301</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431301</guid>
+            <description><![CDATA[Reservist Harel Birenstock, of Nokdim, fell in southern Lebanon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691240</guid>
             <pubDate>Wed, 05 Aug 2026 20:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu: 'The long journey of the Herzl family ends today']]></title>
-            <description><![CDATA[Prime Minister links Herzl's vision to Israel's current security challenges, vows to prevent a nuclear Iran; President Herzog says lasting victory requires both military success and statesmanship.]]></description>
-            <link>https://www.israelnationalnews.com/news/431300</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431300</guid>
+            <description><![CDATA[Netanyahu: 'The long journey of the Herzl family ends today']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691239</guid>
             <pubDate>Wed, 05 Aug 2026 19:30:00 GMT</pubDate>
         </item>
         <item>
@@ -1416,55 +1454,6 @@ The incident is under review. No sirens were sounded in accordance with protocol
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691069</guid>
             <pubDate>Mon, 03 Aug 2026 10:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-MK, top contractor detained in multimillion-shekel fraud probe]]></title>
-            <description><![CDATA[Ex-MK, top contractor detained in multimillion-shekel fraud probe]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691068</guid>
-            <pubDate>Mon, 03 Aug 2026 10:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rimmel family: 'It's a disgrace. Nothing else to say.']]></title>
-            <description><![CDATA[Rimmel family: 'It's a disgrace. Nothing else to say.']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691067</guid>
-            <pubDate>Mon, 03 Aug 2026 10:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katz blasts 'political campaign' over Bluth controversy]]></title>
-            <description><![CDATA[Katz blasts 'political campaign' over Bluth controversy]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691066</guid>
-            <pubDate>Mon, 03 Aug 2026 09:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yesha Council backs both Bluth and Katz amid controversy]]></title>
-            <description><![CDATA[Yesha Council backs both Bluth and Katz amid controversy]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691065</guid>
-            <pubDate>Mon, 03 Aug 2026 09:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Haredi allies turn on Netanyahu over Draft Law]]></title>
-            <description><![CDATA[Haredi allies turn on Netanyahu over Draft Law]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691064</guid>
-            <pubDate>Mon, 03 Aug 2026 08:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another message from Eitan: Fallen officer’s duffel bag found after two years]]></title>
-            <description><![CDATA[Another message from Eitan: Fallen officer’s duffel bag found after two years]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691063</guid>
-            <pubDate>Mon, 03 Aug 2026 08:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Terror battalion commander accused of murdering IDF soldier]]></title>
-            <description><![CDATA[Terror battalion commander accused of murdering IDF soldier]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691062</guid>
-            <pubDate>Mon, 03 Aug 2026 07:52:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

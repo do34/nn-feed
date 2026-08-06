@@ -4,11 +4,81 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 04:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 07:39:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 04:12:34 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 07:39:22 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[15 Israelis cross into Lebanon after breaching border fence]]></title>
+            <description><![CDATA[Around 15 civilians cross into Lebanon after breaching border fence near Ghajar, prompting IDF operation to retrieve them.]]></description>
+            <link>https://www.israelnationalnews.com/news/431319</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431319</guid>
+            <pubDate>Thu, 06 Aug 2026 07:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seven soldiers indicted over alleged abuse in engineering unit]]></title>
+            <description><![CDATA[Seven veteran soldiers have been indicted on charges of carrying out a prolonged campaign of violence and humiliation against younger troops in an engineering unit.]]></description>
+            <link>https://www.israelnationalnews.com/news/431320</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431320</guid>
+            <pubDate>Thu, 06 Aug 2026 06:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samaria terrorist infiltration alert declared false alarm]]></title>
+            <description><![CDATA[Samaria terrorist infiltration alert declared false alarm]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691266</guid>
+            <pubDate>Thu, 06 Aug 2026 05:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Body found during search for missing Israeli]]></title>
+            <description><![CDATA[Police discover body in an advanced state of decomposition during the search for missing man Eldar Dayan, identity not yet confirmed.]]></description>
+            <link>https://www.israelnationalnews.com/news/431316</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431316</guid>
+            <pubDate>Thu, 06 Aug 2026 05:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Terrorist infiltration alert sounds in Tel Zion, Kokhav Yaakov]]></title>
+            <description><![CDATA[Terrorist infiltration alert sounds in Tel Zion, Kokhav Yaakov]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691264</guid>
+            <pubDate>Thu, 06 Aug 2026 05:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parashat Re'eh: Food parcels save lives]]></title>
+            <description><![CDATA[One of the great elements of the practice of sending food parcels is that it’s not just those who receive who benefit, but those who send the food, they rejoice.]]></description>
+            <link>https://www.israelnationalnews.com/news/431317</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431317</guid>
+            <pubDate>Thu, 06 Aug 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The price of belonging]]></title>
+            <description><![CDATA[The price of belonging]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691262</guid>
+            <pubDate>Thu, 06 Aug 2026 05:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Gvir crushes coalition rivals in new poll]]></title>
+            <description><![CDATA[Over 72% of coalition voters want National Security Minister Itamar Ben Gvir to remain in office, Channel 14 poll reveals.]]></description>
+            <link>https://www.israelnationalnews.com/news/431313</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431313</guid>
+            <pubDate>Thu, 06 Aug 2026 05:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Preparing for Rosh Hashanah]]></title>
+            <description><![CDATA[Preparing for Rosh Hashanah]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691260</guid>
+            <pubDate>Thu, 06 Aug 2026 04:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Freedom of Speech ends where public safety begins]]></title>
+            <description><![CDATA[New York City's Jews may face a “clear and present danger" due to their mayor's rhetoric. And too little is being done about it. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431312</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431312</guid>
+            <pubDate>Thu, 06 Aug 2026 04:17:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eli Yishai comeback? Former Shas leader weighs run with new haredi party]]></title>
             <description><![CDATA[The former Shas chairman is in talks with the "Haredi Public" party, which targets working haredim and advocates for enlisting haredim not engaged in full-time Torah study.]]></description>
@@ -48,9 +118,9 @@
         </item>
         <item>
             <title><![CDATA[Report: Trump clashed with Hegseth over missile shortages]]></title>
-            <description><![CDATA[Report: Trump clashed with Hegseth over missile shortages]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691253</guid>
+            <description><![CDATA[The Washington Post reports that tensions flared at Camp David as President Trump confronted War Secretary Hegseth over depleted US missile stockpiles constraining options against Iran.]]></description>
+            <link>https://www.israelnationalnews.com/news/431308</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431308</guid>
             <pubDate>Thu, 06 Aug 2026 02:17:00 GMT</pubDate>
         </item>
         <item>
@@ -62,9 +132,9 @@
         </item>
         <item>
             <title><![CDATA['A nice and frank conversation': Vance rejects reports of clash with Netanyahu]]></title>
-            <description><![CDATA['A nice and frank conversation': Vance rejects reports of clash with Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691251</guid>
+            <description><![CDATA[Vice President JD Vance rejects reports of a hostile confrontation with Netanyahu, characterizing their talks over Iran policy as frank but pleasant.]]></description>
+            <link>https://www.israelnationalnews.com/news/431306</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431306</guid>
             <pubDate>Thu, 06 Aug 2026 01:09:00 GMT</pubDate>
         </item>
         <item>
@@ -76,9 +146,9 @@
         </item>
         <item>
             <title><![CDATA[Yoaz Hendel: We will form a broad Zionist government without haredi and Arab parties]]></title>
-            <description><![CDATA[Yoaz Hendel: We will form a broad Zionist government without haredi and Arab parties]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691249</guid>
+            <description><![CDATA[In an interview with Arutz Sheva following his party’s launch, Yoaz Hendel says Netanyahu must take responsibility for the October 7 disaster, calls for the establishment of a broad Zionist government.]]></description>
+            <link>https://www.israelnationalnews.com/news/431305</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431305</guid>
             <pubDate>Thu, 06 Aug 2026 00:18:00 GMT</pubDate>
         </item>
         <item>
@@ -159,72 +229,72 @@ The incident is under review. No sirens were sounded in accordance with protocol
         </item>
         <item>
             <title><![CDATA[Israel successfully tests upgraded Arrow Missile Defense System]]></title>
-            <description><![CDATA[Defense establishment says successful launch test advances Israel's ability to counter future missile threats following operational successes against Iran and Yemen.]]></description>
-            <link>https://www.israelnationalnews.com/news/431299</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431299</guid>
+            <description><![CDATA[Israel successfully tests upgraded Arrow Missile Defense System]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691238</guid>
             <pubDate>Wed, 05 Aug 2026 19:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF strikes Hezbollah after ceasefire violation]]></title>
-            <description><![CDATA[The IDF launched targeted strikes in southern Lebanon after accusing Hezbollah of violating the ceasefire, while reports said military officials had urged a stronger response than the one ultimately approved by Israel's political leadership.]]></description>
-            <link>https://www.israelnationalnews.com/news/431298</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431298</guid>
+            <description><![CDATA[IDF strikes Hezbollah after ceasefire violation]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691237</guid>
             <pubDate>Wed, 05 Aug 2026 18:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Masochism: the gravest mental illness in the West]]></title>
-            <description><![CDATA[The West has turned its values - sexual freedom, gender equality, protection of minorities - into weapons against itself. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431297</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431297</guid>
+            <description><![CDATA[Masochism: the gravest mental illness in the West]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691236</guid>
             <pubDate>Wed, 05 Aug 2026 18:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Its own reward]]></title>
-            <description><![CDATA[Judaism affirms the tenet of reward and punishment. But we are not privy to the guidelines the Creator utilizes in implementing this principle.]]></description>
-            <link>https://www.israelnationalnews.com/news/431296</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431296</guid>
+            <description><![CDATA[Its own reward]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691235</guid>
             <pubDate>Wed, 05 Aug 2026 18:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Explosive-ladden drone discovered at German airport]]></title>
-            <description><![CDATA[German investigators are examining whether a drone carrying an explosive device and a separate midair collision involving a DHL cargo plane at Leipzig Airport were connected, amid reports officials are also exploring possible Russian involvement.]]></description>
-            <link>https://www.israelnationalnews.com/news/431295</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431295</guid>
+            <description><![CDATA[Explosive-ladden drone discovered at German airport]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691234</guid>
             <pubDate>Wed, 05 Aug 2026 17:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drama in Washington's skies: Trump's helicopter came close to passenger plane]]></title>
-            <description><![CDATA[The US Federal Aviation Administration has launched an investigation after President Trump's helicopter came into close proximity with a passenger aircraft during takeoff.]]></description>
-            <link>https://www.israelnationalnews.com/news/431294</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431294</guid>
+            <description><![CDATA[Drama in Washington's skies: Trump's helicopter came close to passenger plane]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691233</guid>
             <pubDate>Wed, 05 Aug 2026 17:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zamir in Gaza: We won't allow another October 7; We'll hunt every terrorist involved]]></title>
-            <description><![CDATA[Chief of Staff visits troops in the Gaza Strip, says the IDF has fundamentally changed the security reality and will continue pursuing every terrorist involved in the October 7 massacre.]]></description>
-            <link>https://www.israelnationalnews.com/news/431293</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431293</guid>
+            <description><![CDATA[Zamir in Gaza: We won't allow another October 7; We'll hunt every terrorist involved]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691232</guid>
             <pubDate>Wed, 05 Aug 2026 17:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dozens of Israelis. mostly minors, cross border into Lebanon]]></title>
-            <description><![CDATA[IDF and Israel Police forces launched a search operation to locate the group and return them to Israeli territory after they crossed the border illegally, putting their lives at risk.]]></description>
-            <link>https://www.israelnationalnews.com/news/431292</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431292</guid>
+            <description><![CDATA[Dozens of Israelis. mostly minors, cross border into Lebanon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691231</guid>
             <pubDate>Wed, 05 Aug 2026 16:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Detainee seeks apology over reports linking him to attack]]></title>
-            <description><![CDATA[Tal Yinon Dardik has demanded a public apology from the Defense Ministry and the ISA, claiming media leaks falsely portrayed him as a key suspect in an alleged attack on Palestinians to justify his administrative detention.]]></description>
-            <link>https://www.israelnationalnews.com/news/431291</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431291</guid>
+            <description><![CDATA[Detainee seeks apology over reports linking him to attack]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691230</guid>
             <pubDate>Wed, 05 Aug 2026 16:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canada: 96% of Jewish students experienced or witnessed antisemitism]]></title>
-            <description><![CDATA[The Office of the Special Envoy on Preserving Holocaust Remembrance and Combating Antisemitism released the Campus Antisemitism and Student Experiences report.]]></description>
-            <link>https://www.israelnationalnews.com/news/431290</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431290</guid>
+            <description><![CDATA[Canada: 96% of Jewish students experienced or witnessed antisemitism]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691229</guid>
             <pubDate>Wed, 05 Aug 2026 15:56:00 GMT</pubDate>
         </item>
         <item>
@@ -1395,55 +1465,6 @@ The incident is under review. No sirens were sounded in accordance with protocol
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691062</guid>
             <pubDate>Mon, 03 Aug 2026 07:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Study: 80% of soldiers improve with experimental PTSD therapy]]></title>
-            <description><![CDATA[Study: 80% of soldiers improve with experimental PTSD therapy]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691061</guid>
-            <pubDate>Mon, 03 Aug 2026 07:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Information Security: IDF soldiers used Lebanese eSIMs]]></title>
-            <description><![CDATA[Information Security: IDF soldiers used Lebanese eSIMs]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691060</guid>
-            <pubDate>Mon, 03 Aug 2026 07:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Now the Jews finally accepted us': Golan Druze mark new chapter]]></title>
-            <description><![CDATA['Now the Jews finally accepted us': Golan Druze mark new chapter]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691059</guid>
-            <pubDate>Mon, 03 Aug 2026 06:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spanish actor criticized after claiming Israel benefits from Spain's migrant crisis]]></title>
-            <description><![CDATA[Spanish actor criticized after claiming Israel benefits from Spain's migrant crisis]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691058</guid>
-            <pubDate>Mon, 03 Aug 2026 06:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Israel draws red line ahead of Lebanon talks]]></title>
-            <description><![CDATA[Report: Israel draws red line ahead of Lebanon talks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691057</guid>
-            <pubDate>Mon, 03 Aug 2026 05:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pro or anti-Israel? You just can't have it both ways]]></title>
-            <description><![CDATA[Pro or anti-Israel? You just can't have it both ways]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691056</guid>
-            <pubDate>Mon, 03 Aug 2026 05:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Approaching the August 16 primaries: A message for Jews in Florida - vote!]]></title>
-            <description><![CDATA[Approaching the August 16 primaries: A message for Jews in Florida - vote!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691055</guid>
-            <pubDate>Mon, 03 Aug 2026 05:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

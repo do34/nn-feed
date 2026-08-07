@@ -4,11 +4,22 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 15:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 16:55:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 15:56:02 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 16:55:34 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Shabbat Shalom from Israel!]]></title>
+            <description><![CDATA[Arutz Sheva-Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of Shabbat. Jerusalem candle lighting time is 18:51 on Friday. Our North American desk will keep you informed until the 19:46 EDT candle lighting time in New York.
+
+The updates from Israel will resume Saturday night, following the conclusion of Shabbat at 20:09 in Jerusalem.
+
+Shabbat Shalom!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
+            <pubDate>Fri, 07 Aug 2026 16:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Akunis cancels New York Times subscriptions at Israeli Consulate]]></title>
             <description><![CDATA[Israel's Consul General in New York, Ofir Akunis, orders the cancellation of all New York Times subscriptions at the Israeli Consulate, accusing the newspaper of publishing 'false blood libels' and consistently inciting against the Jewish state.]]></description>
@@ -220,9 +231,9 @@ According to a report by AFP, at least 10 students were wounded during the incid
         </item>
         <item>
             <title><![CDATA[Cruz links Abdul El-Sayed to Muslim Brotherhood]]></title>
-            <description><![CDATA[Senator Ted Cruz accuses Michigan Democratic Senate nominee Abdul El-Sayed of Muslim Brotherhood ties during Senate hearing.]]></description>
-            <link>https://www.israelnationalnews.com/news/431367</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431367</guid>
+            <description><![CDATA[Cruz links Abdul El-Sayed to Muslim Brotherhood]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691325</guid>
             <pubDate>Fri, 07 Aug 2026 02:53:00 GMT</pubDate>
         </item>
         <item>
@@ -1337,20 +1348,6 @@ According to a report by AFP, at least 10 students were wounded during the incid
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691166</guid>
             <pubDate>Tue, 04 Aug 2026 17:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dramatic change in Gaza strike policy]]></title>
-            <description><![CDATA[Dramatic change in Gaza strike policy]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691165</guid>
-            <pubDate>Tue, 04 Aug 2026 16:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A look into Israel's planned crocodile moats]]></title>
-            <description><![CDATA[A look into Israel's planned crocodile moats]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691164</guid>
-            <pubDate>Tue, 04 Aug 2026 16:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,20 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 20:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 21:39:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 20:40:44 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 21:39:01 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[United Airlines returns to Israel: Two daily flights to New York]]></title>
+            <description><![CDATA[American carrier United Airlines is resuming flights to Israel. Starting September 8, the airline will restart service on its Newark-Tel Aviv route.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431395</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431395</guid>
+            <pubDate>Fri, 07 Aug 2026 21:14:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['A deceptive scheme': Zini's warning to the Cabinet]]></title>
             <description><![CDATA[The head of the Shin Bet, the head of IDF Military Intelligence's Research Division, and senior ministers warn during a Cabinet meeting against the US-backed Gaza document.
@@ -236,9 +245,9 @@ United Airlines' first flight will depart from Newark to Ben Gurion Airport on S
         </item>
         <item>
             <title><![CDATA[Landmark ruling: Meta ordered to pay nearly $1 billion over child safety]]></title>
-            <description><![CDATA[New Mexico wins landmark case against Meta, court orders sweeping child safety reforms.]]></description>
-            <link>https://www.israelnationalnews.com/news/431372</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431372</guid>
+            <description><![CDATA[Landmark ruling: Meta ordered to pay nearly $1 billion over child safety]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691332</guid>
             <pubDate>Fri, 07 Aug 2026 05:41:00 GMT</pubDate>
         </item>
         <item>
@@ -1318,20 +1327,6 @@ United Airlines' first flight will depart from Newark to Ben Gurion Airport on S
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691178</guid>
             <pubDate>Tue, 04 Aug 2026 21:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[17-year-old loses consciousness at Tzfat pool, is in serious condition]]></title>
-            <description><![CDATA[17-year-old loses consciousness at Tzfat pool, is in serious condition]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691177</guid>
-            <pubDate>Tue, 04 Aug 2026 21:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF soldier severely injured by gunfire at military base]]></title>
-            <description><![CDATA[IDF soldier severely injured by gunfire at military base]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691176</guid>
-            <pubDate>Tue, 04 Aug 2026 20:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

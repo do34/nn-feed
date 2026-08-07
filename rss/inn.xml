@@ -4,11 +4,20 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 16:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 17:50:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 16:55:34 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 17:50:19 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Watch: The Israeli teen who impressed the US Ambassador]]></title>
+            <description><![CDATA[Amitai, a 12-year-old from Atlit on the autism spectrum who dreams of becoming a diplomat, visits US Ambassador Mike Huckabee and blows him away with his deep knowledge of history.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431390</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431390</guid>
+            <pubDate>Fri, 07 Aug 2026 17:18:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shabbat Shalom from Israel!]]></title>
             <description><![CDATA[Arutz Sheva-Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of Shabbat. Jerusalem candle lighting time is 18:51 on Friday. Our North American desk will keep you informed until the 19:46 EDT candle lighting time in New York.
@@ -224,9 +233,9 @@ According to a report by AFP, at least 10 students were wounded during the incid
         </item>
         <item>
             <title><![CDATA[Trump orders inquiries after media reports highlight drained US munitions]]></title>
-            <description><![CDATA[President Donald Trump orders fresh leak probes into Pentagon weapon disclosures following reports of depleted stockpiles.]]></description>
-            <link>https://www.israelnationalnews.com/news/431368</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431368</guid>
+            <description><![CDATA[Trump orders inquiries after media reports highlight drained US munitions]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691326</guid>
             <pubDate>Fri, 07 Aug 2026 03:15:00 GMT</pubDate>
         </item>
         <item>
@@ -1334,20 +1343,6 @@ According to a report by AFP, at least 10 students were wounded during the incid
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691168</guid>
             <pubDate>Tue, 04 Aug 2026 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protesters swarm haredi soldier, shout: "Traitor"]]></title>
-            <description><![CDATA[Protesters swarm haredi soldier, shout: "Traitor"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691167</guid>
-            <pubDate>Tue, 04 Aug 2026 17:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indian-flagged ship sinks in Red Sea after explosives attack]]></title>
-            <description><![CDATA[Indian-flagged ship sinks in Red Sea after explosives attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691166</guid>
-            <pubDate>Tue, 04 Aug 2026 17:20:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

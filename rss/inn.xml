@@ -4,11 +4,48 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 11:44:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 13:03:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 11:44:56 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 13:03:20 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Police: Body of missing person David Levy was found; no suspicion of criminal activity]]></title>
+            <description><![CDATA[Police: Body of missing person David Levy was found; no suspicion of criminal activity]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691347</guid>
+            <pubDate>Fri, 07 Aug 2026 13:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Gantz, Shaked in talks over joint election run]]></title>
+            <description><![CDATA[Benny Gantz, Ayelet Shaked, reportedly negotiating joint bid for the upcoming election, with proposed deal giving Gantz lead spot, Shaked first choice of Cabinet post.]]></description>
+            <link>https://www.israelnationalnews.com/news/431383</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431383</guid>
+            <pubDate>Fri, 07 Aug 2026 12:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taxi driver caught driving for 20 years without a license]]></title>
+            <description><![CDATA[A taxi driver from Ma'ale Adumim was arrested after authorities discovered he had been driving without a valid license for the past 20 years.]]></description>
+            <link>https://www.israelnationalnews.com/news/431384</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431384</guid>
+            <pubDate>Fri, 07 Aug 2026 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[United Airlines expected to resume flights to Israel]]></title>
+            <description><![CDATA[US airline United Airlines is expected to resume its flights to Israel on September 8, operating an extensive schedule of two daily flights on the Newark-Tel Aviv route.
+
+United Airlines' first flight will depart from Newark to Ben Gurion Airport on September 8. The following day, September 9, the first return flight will depart from Ben Gurion Airport back to Newark.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691344</guid>
+            <pubDate>Fri, 07 Aug 2026 12:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran reportedly receives 300 anti-aircraft missiles]]></title>
+            <description><![CDATA[Arabic-language report claims Iran received about 300 advanced shoulder-fired anti-aircraft missiles from Russia and China, bolstering air defenses following the recent conflict.]]></description>
+            <link>https://www.israelnationalnews.com/news/431382</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431382</guid>
+            <pubDate>Fri, 07 Aug 2026 12:02:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kariv delivers Arabic message on 'settler terrorism']]></title>
             <description><![CDATA[MK Gilad Kariv releases Arabic-language message, promising to classify attacks by 'extremist settlers' as acts of terrorism.]]></description>
@@ -25,9 +62,9 @@
         </item>
         <item>
             <title><![CDATA[Body recovered from waters off Bat Yam beach]]></title>
-            <description><![CDATA[Body recovered from waters off Bat Yam beach]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691340</guid>
+            <description><![CDATA[Man believed to be in his 20s pronounced dead after being pulled from the water near Jerusalem Beach in Bat Yam; police investigating.]]></description>
+            <link>https://www.israelnationalnews.com/news/431379</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431379</guid>
             <pubDate>Fri, 07 Aug 2026 10:12:00 GMT</pubDate>
         </item>
         <item>
@@ -190,39 +227,35 @@ The agency further noted that "the results of the Iranian naval forces' operatio
         </item>
         <item>
             <title><![CDATA[The suicidal significance of the Michigan Democratic primary]]></title>
-            <description><![CDATA[Anti-Zionism and hatred of Israel are a Trojan horse - the real goal is Islamization. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431360</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431360</guid>
+            <description><![CDATA[The suicidal significance of the Michigan Democratic primary]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691317</guid>
             <pubDate>Fri, 07 Aug 2026 00:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Podcast: Why ancient empires vanished while the Jewish nation survived]]></title>
-            <description><![CDATA[From the tears of Basel to the return to Zion: How an ancient longing shaped modern history.]]></description>
-            <link>https://www.israelnationalnews.com/news/431358</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431358</guid>
+            <description><![CDATA[Podcast: Why ancient empires vanished while the Jewish nation survived]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691316</guid>
             <pubDate>Fri, 07 Aug 2026 00:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soccer: Manor Solomon expected to complete transfer to West Ham]]></title>
-            <description><![CDATA[Israeli national team star Manor Solomon is expected to wrap up his three-year stint at Tottenham on Friday and complete a move to Championship side West Ham.
-
-The transfer fee will total slightly under £10 million - roughly half of what Tottenham initially hoped to secure. However, the final figure could rise if West Ham earns promotion back to the Premier League at the end of the season.]]></description>
+            <description><![CDATA[Soccer: Manor Solomon expected to complete transfer to West Ham]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691315</guid>
             <pubDate>Thu, 06 Aug 2026 23:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['We need to elect JD' | Report: Trump privately urges donors to back Vance for 2028]]></title>
-            <description><![CDATA[US President Donald Trump privately told donors "we need to elect JD" in 2028, though advisers caution no official endorsement is settled, according to The Washington Post.]]></description>
-            <link>https://www.israelnationalnews.com/news/431359</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431359</guid>
+            <description><![CDATA['We need to elect JD' | Report: Trump privately urges donors to back Vance for 2028]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691314</guid>
             <pubDate>Thu, 06 Aug 2026 23:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Turkey, Saudi Arabia, and Pakistan to sign joint defense pact]]></title>
-            <description><![CDATA[Turkey, Saudi Arabia, and Pakistan are set to sign a joint defense agreement during a ceremony in Saudi Arabia, two regional sources with direct knowledge of the matter told Reuters.
-
-The emerging tripartite agreement aims to deepen security, military, and strategic cooperation among the three nations, joining a broader wave of diplomatic alliances being forged across the region in recent months.]]></description>
+            <description><![CDATA[Report: Turkey, Saudi Arabia, and Pakistan to sign joint defense pact]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691313</guid>
             <pubDate>Thu, 06 Aug 2026 22:43:00 GMT</pubDate>
@@ -1367,34 +1400,6 @@ The emerging tripartite agreement aims to deepen security, military, and strateg
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691150</guid>
             <pubDate>Tue, 04 Aug 2026 13:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Yellow Line could collapse]]></title>
-            <description><![CDATA[How the Yellow Line could collapse]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691149</guid>
-            <pubDate>Tue, 04 Aug 2026 12:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Large fire near Ben Shemen Forest, Routes 1 & 6 closed to traffic]]></title>
-            <description><![CDATA[Large fire near Ben Shemen Forest, Routes 1 & 6 closed to traffic]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691148</guid>
-            <pubDate>Tue, 04 Aug 2026 12:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How did Qatar become so wealthy?]]></title>
-            <description><![CDATA[How did Qatar become so wealthy?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691147</guid>
-            <pubDate>Tue, 04 Aug 2026 12:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire closes eastbound Route 1 near Ben Shemen Interchange]]></title>
-            <description><![CDATA[Fire closes eastbound Route 1 near Ben Shemen Interchange]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691146</guid>
-            <pubDate>Tue, 04 Aug 2026 11:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

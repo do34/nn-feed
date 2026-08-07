@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 05:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 07:15:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 05:40:13 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 07:15:49 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Report: Fears grow over Mojtaba Khamenei's condition]]></title>
+            <description><![CDATA[Iranian opposition sources claim Supreme Leader Mojtaba Khamenei has not been seen by government ministers since February's attack on his compound.]]></description>
+            <link>https://www.israelnationalnews.com/news/431373</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431373</guid>
+            <pubDate>Fri, 07 Aug 2026 06:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Human corpse washes up on Bat Yam beach]]></title>
+            <description><![CDATA[Human corpse washes up on Bat Yam beach]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691333</guid>
+            <pubDate>Fri, 07 Aug 2026 05:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Landmark ruling: Meta ordered to pay nearly $1 billion over child safety]]></title>
+            <description><![CDATA[New Mexico wins landmark case against Meta, court orders sweeping child safety reforms.]]></description>
+            <link>https://www.israelnationalnews.com/news/431372</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431372</guid>
+            <pubDate>Fri, 07 Aug 2026 05:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maariv poll: Deadlock holds as coalition stuck at 49 seats]]></title>
             <description><![CDATA[New Maariv poll shows little movement in electoral map, with coalition remaining at 49 seats while the opposition maintains potential path to 61-seat majority.]]></description>
@@ -32,7 +53,9 @@
         </item>
         <item>
             <title><![CDATA[School shooting in Thailand: At least 10 students wounded, police suspect shooter is a student]]></title>
-            <description><![CDATA[School shooting in Thailand: At least 10 students wounded, police suspect shooter is a student]]></description>
+            <description><![CDATA[An active shooting incident took place at a school in the Bang Kruai district of Nonthaburi province, Thailand, north of the capital Bangkok.
+
+According to a report by AFP, at least 10 students were wounded during the incident. Local police suspect the shooter is a student at the school. Authorities confirmed there were casualties, but further details regarding the victims' identities and the circumstances surrounding the shooting have not yet been released.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691328</guid>
             <pubDate>Fri, 07 Aug 2026 03:56:00 GMT</pubDate>
@@ -46,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[Trump orders inquiries after media reports highlight drained US munitions]]></title>
-            <description><![CDATA[Trump orders inquiries after media reports highlight drained US munitions]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691326</guid>
+            <description><![CDATA[President Donald Trump orders fresh leak probes into Pentagon weapon disclosures following reports of depleted stockpiles.]]></description>
+            <link>https://www.israelnationalnews.com/news/431368</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431368</guid>
             <pubDate>Fri, 07 Aug 2026 03:15:00 GMT</pubDate>
         </item>
         <item>
@@ -208,23 +231,23 @@ Magen David Adom paramedics and EMTs dispatched to the scene found him with seve
         </item>
         <item>
             <title><![CDATA[Father parts from son: 'We felt that something bad was happening']]></title>
-            <description><![CDATA[Thousands pay final respects to Chief Master Sergeant (Res.) Tamir Vaknin, after he was killed during combat in southern Lebanon.]]></description>
-            <link>https://www.israelnationalnews.com/news/431350</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431350</guid>
+            <description><![CDATA[Father parts from son: 'We felt that something bad was happening']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691304</guid>
             <pubDate>Thu, 06 Aug 2026 19:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National Digital Agency warns: Hackers' new scam]]></title>
-            <description><![CDATA[The government's Cyber Defense Unit is warning of a campaign that displays a fake "I'm not a robot" screen designed to trick users into copying and pasting malicious commands.]]></description>
-            <link>https://www.israelnationalnews.com/news/431349</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431349</guid>
+            <description><![CDATA[National Digital Agency warns: Hackers' new scam]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691303</guid>
             <pubDate>Thu, 06 Aug 2026 19:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anthony Fauci made science friction]]></title>
-            <description><![CDATA[Covid Tsars the world over outdid him in pillage and mega rupture, proving that a pandemic has no peer for propagating greed and megalomania. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431348</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431348</guid>
+            <description><![CDATA[Anthony Fauci made science friction]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691302</guid>
             <pubDate>Thu, 06 Aug 2026 18:52:00 GMT</pubDate>
         </item>
         <item>
@@ -1465,41 +1488,6 @@ Magen David Adom paramedics and EMTs dispatched to the scene found him with seve
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691125</guid>
             <pubDate>Tue, 04 Aug 2026 07:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21-year-old Jerusalem Arab arrested on suspicion of incitement for terrorist organizations online]]></title>
-            <description><![CDATA[21-year-old Jerusalem Arab arrested on suspicion of incitement for terrorist organizations online]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691124</guid>
-            <pubDate>Tue, 04 Aug 2026 06:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ministry of Health: A rabies-infected calf died in a cowshed in Ma'ale Gamla, 4 exposed]]></title>
-            <description><![CDATA[Ministry of Health: A rabies-infected calf died in a cowshed in Ma'ale Gamla, 4 exposed]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691123</guid>
-            <pubDate>Tue, 04 Aug 2026 06:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deepseek's new AI model raises the bar for local computing]]></title>
-            <description><![CDATA[Deepseek's new AI model raises the bar for local computing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691122</guid>
-            <pubDate>Tue, 04 Aug 2026 06:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kazakhstan Rabbi speaks about "magnet" attracting thousands of Jews from around the world]]></title>
-            <description><![CDATA[Kazakhstan Rabbi speaks about "magnet" attracting thousands of Jews from around the world]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691121</guid>
-            <pubDate>Tue, 04 Aug 2026 05:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let the IDF win]]></title>
-            <description><![CDATA[Let the IDF win]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691120</guid>
-            <pubDate>Tue, 04 Aug 2026 05:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

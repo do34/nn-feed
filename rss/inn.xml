@@ -4,11 +4,53 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 03:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 05:40:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 03:12:25 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 05:40:13 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Maariv poll: Deadlock holds as coalition stuck at 49 seats]]></title>
+            <description><![CDATA[New Maariv poll shows little movement in electoral map, with coalition remaining at 49 seats while the opposition maintains potential path to 61-seat majority.]]></description>
+            <link>https://www.israelnationalnews.com/news/431371</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431371</guid>
+            <pubDate>Fri, 07 Aug 2026 05:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thailand: Four shot in school, including teachers and students]]></title>
+            <description><![CDATA[Thailand: Four shot in school, including teachers and students]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691330</guid>
+            <pubDate>Fri, 07 Aug 2026 05:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Podcast: Torah's most deliberate mystery]]></title>
+            <description><![CDATA[Torah's prohibition against excessive mourning: "You are children of Hashem".]]></description>
+            <link>https://www.israelnationalnews.com/news/431370</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431370</guid>
+            <pubDate>Fri, 07 Aug 2026 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[School shooting in Thailand: At least 10 students wounded, police suspect shooter is a student]]></title>
+            <description><![CDATA[School shooting in Thailand: At least 10 students wounded, police suspect shooter is a student]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691328</guid>
+            <pubDate>Fri, 07 Aug 2026 03:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German court jails Munich vehicle attacker for life for murders of mother and child]]></title>
+            <description><![CDATA[Munich court sentences 25-year-old to life in prison with a finding of severe guilt for a lethal 2025 car attack that killed two and injured dozens.]]></description>
+            <link>https://www.israelnationalnews.com/news/431369</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431369</guid>
+            <pubDate>Fri, 07 Aug 2026 03:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump orders inquiries after media reports highlight drained US munitions]]></title>
+            <description><![CDATA[Trump orders inquiries after media reports highlight drained US munitions]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691326</guid>
+            <pubDate>Fri, 07 Aug 2026 03:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cruz links Abdul El-Sayed to Muslim Brotherhood]]></title>
             <description><![CDATA[Senator Ted Cruz accuses Michigan Democratic Senate nominee Abdul El-Sayed of Muslim Brotherhood ties during Senate hearing.]]></description>
@@ -25,9 +67,9 @@
         </item>
         <item>
             <title><![CDATA[Syria: At least two dead, 13 injured in minibus explosion near Damascus]]></title>
-            <description><![CDATA[Syria: At least two dead, 13 injured in minibus explosion near Damascus]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691323</guid>
+            <description><![CDATA[A minibus bomb in the Damascus suburb of Jaramana kills two people and injures 13, highlighting persistent security threats under Syria's new leadership.]]></description>
+            <link>https://www.israelnationalnews.com/news/431365</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431365</guid>
             <pubDate>Fri, 07 Aug 2026 02:21:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[The essence of the Regalim]]></title>
-            <description><![CDATA[The essence of the Regalim]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691321</guid>
+            <description><![CDATA[Sefer Devarim does not replace the Torah given in the first four books; it illuminates it. The Regalim are an example.]]></description>
+            <link>https://www.israelnationalnews.com/news/431363</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431363</guid>
             <pubDate>Fri, 07 Aug 2026 02:08:00 GMT</pubDate>
         </item>
         <item>
@@ -53,9 +95,9 @@
         </item>
         <item>
             <title><![CDATA[Report: Oman and Iran reach framework to temporarily reopen Strait of Hormuz]]></title>
-            <description><![CDATA[Report: Oman and Iran reach framework to temporarily reopen Strait of Hormuz]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691319</guid>
+            <description><![CDATA[Oman and Iran have reached a framework agreement to temporarily reopen the Strait of Hormuz, establishing split shipping lanes to resume commercial traffic.]]></description>
+            <link>https://www.israelnationalnews.com/news/431361</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431361</guid>
             <pubDate>Fri, 07 Aug 2026 01:14:00 GMT</pubDate>
         </item>
         <item>
@@ -76,9 +118,9 @@ The agency further noted that "the results of the Iranian naval forces' operatio
         </item>
         <item>
             <title><![CDATA[Podcast: Why ancient empires vanished while the Jewish nation survived]]></title>
-            <description><![CDATA[Podcast: Why ancient empires vanished while the Jewish nation survived]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691316</guid>
+            <description><![CDATA[From the tears of Basel to the return to Zion: How an ancient longing shaped modern history.]]></description>
+            <link>https://www.israelnationalnews.com/news/431358</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431358</guid>
             <pubDate>Fri, 07 Aug 2026 00:07:00 GMT</pubDate>
         </item>
         <item>
@@ -145,9 +187,9 @@ Magen David Adom paramedics and EMTs dispatched to the scene found him with seve
         </item>
         <item>
             <title><![CDATA[Today and every day]]></title>
-            <description><![CDATA[Today and every day]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691307</guid>
+            <description><![CDATA[We need to make the choice between blessing and curse, and by our ethical conduct, we decide for ourselves which way our faces incline.]]></description>
+            <link>https://www.israelnationalnews.com/news/431353</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431353</guid>
             <pubDate>Thu, 06 Aug 2026 19:54:00 GMT</pubDate>
         </item>
         <item>
@@ -194,39 +236,37 @@ Magen David Adom paramedics and EMTs dispatched to the scene found him with seve
         </item>
         <item>
             <title><![CDATA[Mossad Chief removes Iran Desk Head, Intelligence Chief over failed plan]]></title>
-            <description><![CDATA[Channel 12 reports Mossad chief Roman Gofman dismissed two senior officials involved in a plan to bring down Iran's regime that was not implemented.]]></description>
-            <link>https://www.israelnationalnews.com/news/431346</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431346</guid>
+            <description><![CDATA[Mossad Chief removes Iran Desk Head, Intelligence Chief over failed plan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691300</guid>
             <pubDate>Thu, 06 Aug 2026 18:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Campaign of revenge": Sarah Netanyahu's legal battle]]></title>
-            <description><![CDATA[Sarah Netanyahu has filed a lawsuit against former Prime Minister's Residence employee Yechiel Ohev Ami, one week after he sued her, alleging workplace abuse.]]></description>
-            <link>https://www.israelnationalnews.com/news/431345</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431345</guid>
+            <description><![CDATA["Campaign of revenge": Sarah Netanyahu's legal battle]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691299</guid>
             <pubDate>Thu, 06 Aug 2026 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At least seven injured in explosion in Druze suburb of Damascus]]></title>
-            <description><![CDATA[Syrian emergency authorities reported that at least seven people were injured in an explosion in Jaramana, a Druze suburb of Damascus.
-
-According to the authorities, the casualty count is preliminary, while forensic teams are handling human remains found at the scene.]]></description>
+            <description><![CDATA[At least seven injured in explosion in Druze suburb of Damascus]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691298</guid>
             <pubDate>Thu, 06 Aug 2026 17:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The rise of the DSA’s Hitlerian America]]></title>
-            <description><![CDATA[Being a Nazi is not enough to be disqualified, as Democrats rush to support any antisemite who looks like he has a chance of winning. Even Chuck Schumer joined the list of Democrats who chose defeating the Republicans over Jewish children's lives. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431343</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431343</guid>
+            <description><![CDATA[The rise of the DSA’s Hitlerian America]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691297</guid>
             <pubDate>Thu, 06 Aug 2026 17:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Poll: Further decline in support for Bennett]]></title>
-            <description><![CDATA[An i24NEWS poll indicates that Naftali Bennett's "Together" party has lost another two seats. Gilad Erdan and Yuli Edelstein's new party fails to cross the electoral threshold.]]></description>
-            <link>https://www.israelnationalnews.com/news/431342</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431342</guid>
+            <description><![CDATA[Poll: Further decline in support for Bennett]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691296</guid>
             <pubDate>Thu, 06 Aug 2026 17:06:00 GMT</pubDate>
         </item>
         <item>
@@ -1460,55 +1500,6 @@ According to the authorities, the casualty count is preliminary, while forensic 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691120</guid>
             <pubDate>Tue, 04 Aug 2026 05:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Show your papers! The arugula Is subsidized]]></title>
-            <description><![CDATA[Show your papers! The arugula Is subsidized]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691119</guid>
-            <pubDate>Tue, 04 Aug 2026 05:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Show your papers! The Arugula Is subsidized]]></title>
-            <description><![CDATA[Show your papers! The Arugula Is subsidized]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691118</guid>
-            <pubDate>Tue, 04 Aug 2026 05:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Warehouse complex in Russia hit in drone attack]]></title>
-            <description><![CDATA[Warehouse complex in Russia hit in drone attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691117</guid>
-            <pubDate>Tue, 04 Aug 2026 05:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Spain occupying Arab territory?]]></title>
-            <description><![CDATA[Why is Spain occupying Arab territory?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691116</guid>
-            <pubDate>Tue, 04 Aug 2026 04:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Likud internal court rules: Incumbents banned from regional primary slots]]></title>
-            <description><![CDATA[Likud internal court rules: Incumbents banned from regional primary slots]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691115</guid>
-            <pubDate>Tue, 04 Aug 2026 03:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanon detains former PA envoy ahead of extradition over graft allegations]]></title>
-            <description><![CDATA[Lebanon detains former PA envoy ahead of extradition over graft allegations]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691114</guid>
-            <pubDate>Tue, 04 Aug 2026 03:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan pursues quiet diplomacy to ease US-Iran tensions]]></title>
-            <description><![CDATA[Pakistan pursues quiet diplomacy to ease US-Iran tensions]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691113</guid>
-            <pubDate>Tue, 04 Aug 2026 03:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

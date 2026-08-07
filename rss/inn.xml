@@ -4,11 +4,29 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 17:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 18:57:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 17:50:19 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 18:57:00 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Report: IDF concealed Hezbollah drone strike which violated ceasefire]]></title>
+            <description><![CDATA[Hezbollah launched an explosive drone at IDF troops in southern Lebanon in a ceasefire violation, which Israel's military chose not to publicize.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431392</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431392</guid>
+            <pubDate>Fri, 07 Aug 2026 18:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Houthis target Saudi-aligned troops with drone and missile strikes]]></title>
+            <description><![CDATA[Houthi forces launch missile and drone strikes on Marib's Sahn al-Jinn camp and residential areas, killing two and injuring 14 in the latest escalation.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431391</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431391</guid>
+            <pubDate>Fri, 07 Aug 2026 18:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: The Israeli teen who impressed the US Ambassador]]></title>
             <description><![CDATA[Amitai, a 12-year-old from Atlit on the autism spectrum who dreams of becoming a diplomat, visits US Ambassador Mike Huckabee and blows him away with his deep knowledge of history.
@@ -217,18 +235,16 @@ United Airlines' first flight will depart from Newark to Ben Gurion Airport on S
         </item>
         <item>
             <title><![CDATA[School shooting in Thailand: At least 10 students wounded, police suspect shooter is a student]]></title>
-            <description><![CDATA[An active shooting incident took place at a school in the Bang Kruai district of Nonthaburi province, Thailand, north of the capital Bangkok.
-
-According to a report by AFP, at least 10 students were wounded during the incident. Local police suspect the shooter is a student at the school. Authorities confirmed there were casualties, but further details regarding the victims' identities and the circumstances surrounding the shooting have not yet been released.]]></description>
+            <description><![CDATA[School shooting in Thailand: At least 10 students wounded, police suspect shooter is a student]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691328</guid>
             <pubDate>Fri, 07 Aug 2026 03:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[German court jails Munich vehicle attacker for life for murders of mother and child]]></title>
-            <description><![CDATA[Munich court sentences 25-year-old to life in prison with a finding of severe guilt for a lethal 2025 car attack that killed two and injured dozens.]]></description>
-            <link>https://www.israelnationalnews.com/news/431369</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431369</guid>
+            <description><![CDATA[German court jails Munich vehicle attacker for life for murders of mother and child]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691327</guid>
             <pubDate>Fri, 07 Aug 2026 03:54:00 GMT</pubDate>
         </item>
         <item>
@@ -1322,27 +1338,6 @@ According to a report by AFP, at least 10 students were wounded during the incid
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691171</guid>
             <pubDate>Tue, 04 Aug 2026 19:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mr. President, what "Deal" - and with whom?]]></title>
-            <description><![CDATA[Mr. President, what "Deal" - and with whom?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691170</guid>
-            <pubDate>Tue, 04 Aug 2026 18:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British MP under investigation for Israel trip]]></title>
-            <description><![CDATA[British MP under investigation for Israel trip]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691169</guid>
-            <pubDate>Tue, 04 Aug 2026 18:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: US faces missile shortfall after Iran war drained stockpiles]]></title>
-            <description><![CDATA[Report: US faces missile shortfall after Iran war drained stockpiles]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691168</guid>
-            <pubDate>Tue, 04 Aug 2026 18:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 14:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 15:56:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 14:53:03 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 15:56:02 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Akunis cancels New York Times subscriptions at Israeli Consulate]]></title>
+            <description><![CDATA[Israel's Consul General in New York, Ofir Akunis, orders the cancellation of all New York Times subscriptions at the Israeli Consulate, accusing the newspaper of publishing 'false blood libels' and consistently inciting against the Jewish state.]]></description>
+            <link>https://www.israelnationalnews.com/news/431389</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431389</guid>
+            <pubDate>Fri, 07 Aug 2026 15:02:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Child's hand gets caught in a mixer beater]]></title>
             <description><![CDATA[Fire and Rescue Service crews use a miniature cutting tool to carefully free a child's hand after it got trapped inside a metal mixer beater.]]></description>
@@ -39,7 +46,9 @@
         </item>
         <item>
             <title><![CDATA[4 men rescued after drifting on inflatable mattress in Sea of Galilee; two treated for dehydration]]></title>
-            <description><![CDATA[4 men rescued after drifting on inflatable mattress in Sea of Galilee; two treated for dehydration]]></description>
+            <description><![CDATA[Four men who drifted on the Sea of Galilee while on an inflatable mattress were rescued by Magen David Adom teams. Two of them suffered from dehydration and received initial fluid treatment aboard an MDA intensive care boat. After their condition improved, they did not require evacuation to a hospital.
+
+MDA said that a passerby who was engaged in water sports spotted the incident and alerted the emergency teams.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691349</guid>
             <pubDate>Fri, 07 Aug 2026 13:11:00 GMT</pubDate>
@@ -218,9 +227,9 @@ According to a report by AFP, at least 10 students were wounded during the incid
         </item>
         <item>
             <title><![CDATA[The assault that changes its form]]></title>
-            <description><![CDATA[For generations, some tried to frighten Jews away from their faith. Others tried to argue them out of it. The Malbim finds the strength to prevail prophesied in this week's Haftorah.]]></description>
-            <link>https://www.israelnationalnews.com/news/431366</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431366</guid>
+            <description><![CDATA[The assault that changes its form]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691324</guid>
             <pubDate>Fri, 07 Aug 2026 02:31:00 GMT</pubDate>
         </item>
         <item>
@@ -1342,41 +1351,6 @@ According to a report by AFP, at least 10 students were wounded during the incid
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691164</guid>
             <pubDate>Tue, 04 Aug 2026 16:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[€53 million-and Ireland's boycott of Israel could come at a high cost]]></title>
-            <description><![CDATA[€53 million-and Ireland's boycott of Israel could come at a high cost]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691163</guid>
-            <pubDate>Tue, 04 Aug 2026 15:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: IDF launches operation in Shechem, arrests Islamic Jihad terrorist]]></title>
-            <description><![CDATA[Watch: IDF launches operation in Shechem, arrests Islamic Jihad terrorist]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691162</guid>
-            <pubDate>Tue, 04 Aug 2026 15:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Disturbing footage: Russian drone chases vegetable vendor before exploding beside him]]></title>
-            <description><![CDATA[Disturbing footage: Russian drone chases vegetable vendor before exploding beside him]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691161</guid>
-            <pubDate>Tue, 04 Aug 2026 15:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben-Gvir confronts Bedouin resident: 'Whatever is illegal will be destroyed']]></title>
-            <description><![CDATA[Ben-Gvir confronts Bedouin resident: 'Whatever is illegal will be destroyed']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691160</guid>
-            <pubDate>Tue, 04 Aug 2026 15:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: US F-22 refuels over the Middle East]]></title>
-            <description><![CDATA[Watch: US F-22 refuels over the Middle East]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691159</guid>
-            <pubDate>Tue, 04 Aug 2026 15:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

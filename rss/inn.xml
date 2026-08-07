@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 10:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 11:44:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 10:07:00 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 11:44:56 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Kariv delivers Arabic message on 'settler terrorism']]></title>
+            <description><![CDATA[MK Gilad Kariv releases Arabic-language message, promising to classify attacks by 'extremist settlers' as acts of terrorism.]]></description>
+            <link>https://www.israelnationalnews.com/news/431381</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431381</guid>
+            <pubDate>Fri, 07 Aug 2026 11:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senior Biala rabbi Rabbi Avraham Wiener passes away at 93]]></title>
+            <description><![CDATA[Rabbi Avraham Wiener, senior figures of the Biala Hasidic dynasty and longtime close disciple of its rebbes, passes away at the age of 93.]]></description>
+            <link>https://www.israelnationalnews.com/news/431380</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431380</guid>
+            <pubDate>Fri, 07 Aug 2026 10:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Body recovered from waters off Bat Yam beach]]></title>
+            <description><![CDATA[Body recovered from waters off Bat Yam beach]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691340</guid>
+            <pubDate>Fri, 07 Aug 2026 10:12:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Campaign to fly Israelis home to vote sparks backlash]]></title>
             <description><![CDATA[Journalist Kalman Liebskind blasts efforts to fly Israelis home to vote, arguing that those who no longer live in Israel should not determine the country's future.]]></description>
@@ -208,25 +229,23 @@ The emerging tripartite agreement aims to deepen security, military, and strateg
         </item>
         <item>
             <title><![CDATA[11 civilians injured in Houthi strike in Saudi Arabia amid rising regional tensions]]></title>
-            <description><![CDATA[Houthi attack in city of Najran injures 11 civilians, amid intelligence reports of coordinated threat plans involving the IRGC and Iraqi militias against Saudi Arabia.]]></description>
-            <link>https://www.israelnationalnews.com/news/431357</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431357</guid>
+            <description><![CDATA[11 civilians injured in Houthi strike in Saudi Arabia amid rising regional tensions]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691312</guid>
             <pubDate>Thu, 06 Aug 2026 22:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Motorcyclist killed after being struck by vehicle in Eilat]]></title>
-            <description><![CDATA[A motorcyclist about 30 years old was struck by a vehicle in Eilat on Thursday evening.
-
-Magen David Adom paramedics and EMTs dispatched to the scene found him with severe multi-system trauma and were forced to pronounce him dead at the scene.]]></description>
+            <description><![CDATA[Motorcyclist killed after being struck by vehicle in Eilat]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691311</guid>
             <pubDate>Thu, 06 Aug 2026 21:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heading to Ra'am? Yoav Segalovitz resigns from Yesh Atid]]></title>
-            <description><![CDATA[Yesh Atid MK announces his resignation after seven years in office amid reports that Mansour Abbas is seeking to recruit him to Ra'am.]]></description>
-            <link>https://www.israelnationalnews.com/news/431356</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431356</guid>
+            <description><![CDATA[Heading to Ra'am? Yoav Segalovitz resigns from Yesh Atid]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691310</guid>
             <pubDate>Thu, 06 Aug 2026 21:10:00 GMT</pubDate>
         </item>
         <item>
@@ -1376,69 +1395,6 @@ Magen David Adom paramedics and EMTs dispatched to the scene found him with seve
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691146</guid>
             <pubDate>Tue, 04 Aug 2026 11:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lo Titgodedu: Different political parties, one family]]></title>
-            <description><![CDATA[Lo Titgodedu: Different political parties, one family]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691145</guid>
-            <pubDate>Tue, 04 Aug 2026 11:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Family establishes new outpost after son's murder]]></title>
-            <description><![CDATA[Family establishes new outpost after son's murder]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691144</guid>
-            <pubDate>Tue, 04 Aug 2026 11:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finance Committee approves nearly NIS 250 million for haredi education system]]></title>
-            <description><![CDATA[Finance Committee approves nearly NIS 250 million for haredi education system]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691143</guid>
-            <pubDate>Tue, 04 Aug 2026 11:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lawyer shot dead in Rishon Lezion]]></title>
-            <description><![CDATA[Lawyer shot dead in Rishon Lezion]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691142</guid>
-            <pubDate>Tue, 04 Aug 2026 11:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A letter to young Diaspora Jews]]></title>
-            <description><![CDATA[A letter to young Diaspora Jews]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691141</guid>
-            <pubDate>Tue, 04 Aug 2026 11:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pride of Lions]]></title>
-            <description><![CDATA[Pride of Lions]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691140</guid>
-            <pubDate>Tue, 04 Aug 2026 10:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Unity between sectors at IDF induction base at Tel Hashomer]]></title>
-            <description><![CDATA[Watch: Unity between sectors at IDF induction base at Tel Hashomer]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691139</guid>
-            <pubDate>Tue, 04 Aug 2026 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthis: We attacked a sensitive target at an airport in Saudi Arabia]]></title>
-            <description><![CDATA[Houthis: We attacked a sensitive target at an airport in Saudi Arabia]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691138</guid>
-            <pubDate>Tue, 04 Aug 2026 10:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A man in his 50s dies after being injured in a violent incident in Rishon Lezion]]></title>
-            <description><![CDATA[A man in his 50s dies after being injured in a violent incident in Rishon Lezion]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691137</guid>
-            <pubDate>Tue, 04 Aug 2026 10:27:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

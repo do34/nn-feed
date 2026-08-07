@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 08:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 10:07:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 08:59:03 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 10:07:00 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Campaign to fly Israelis home to vote sparks backlash]]></title>
+            <description><![CDATA[Journalist Kalman Liebskind blasts efforts to fly Israelis home to vote, arguing that those who no longer live in Israel should not determine the country's future.]]></description>
+            <link>https://www.israelnationalnews.com/news/431378</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431378</guid>
+            <pubDate>Fri, 07 Aug 2026 09:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Defense Minister left Security Cabinet meeting for wedding]]></title>
+            <description><![CDATA[Report claims Defense Minister Israel Katz left a crucial Security Cabinet session before it concluded, leaving Prime Minister Benjamin Netanyahu asking where he had gone.]]></description>
+            <link>https://www.israelnationalnews.com/news/431377</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431377</guid>
+            <pubDate>Fri, 07 Aug 2026 09:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mass shooting at Thai school leaves seven dead]]></title>
             <description><![CDATA[Authorities investigate after teenage student shot dead three classmates and three teachers before taking his own life.]]></description>
@@ -25,9 +39,9 @@
         </item>
         <item>
             <title><![CDATA[Explosive drones: The new terror threat Israel is racing to stop]]></title>
-            <description><![CDATA[Explosive drones: The new terror threat Israel is racing to stop]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691335</guid>
+            <description><![CDATA[New report says Israel's defense establishment increasingly worried terrorists could launch explosive drones from Israeli cities.]]></description>
+            <link>https://www.israelnationalnews.com/news/431374</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431374</guid>
             <pubDate>Fri, 07 Aug 2026 07:34:00 GMT</pubDate>
         </item>
         <item>
@@ -217,16 +231,16 @@ Magen David Adom paramedics and EMTs dispatched to the scene found him with seve
         </item>
         <item>
             <title><![CDATA[Re’eh: Is money a blessing or a curse?]]></title>
-            <description><![CDATA[The answer depends less on money than on us.]]></description>
-            <link>https://www.israelnationalnews.com/news/431355</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431355</guid>
+            <description><![CDATA[Re’eh: Is money a blessing or a curse?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691309</guid>
             <pubDate>Thu, 06 Aug 2026 20:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['War will end pretty soon': Trump expresses optimism on Iran deal]]></title>
-            <description><![CDATA[President Trump predicts the war with Iran will end soon, stating that negotiations are going well and a deal to secure the Strait of Hormuz could be near.]]></description>
-            <link>https://www.israelnationalnews.com/news/431354</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431354</guid>
+            <description><![CDATA['War will end pretty soon': Trump expresses optimism on Iran deal]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691308</guid>
             <pubDate>Thu, 06 Aug 2026 20:46:00 GMT</pubDate>
         </item>
         <item>
@@ -1425,27 +1439,6 @@ Magen David Adom paramedics and EMTs dispatched to the scene found him with seve
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691137</guid>
             <pubDate>Tue, 04 Aug 2026 10:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rabbi Shneor Glitzenstein: 'Every Shabbat at the Chabad House reawakens Am Yisrael's soul']]></title>
-            <description><![CDATA[Rabbi Shneor Glitzenstein: 'Every Shabbat at the Chabad House reawakens Am Yisrael's soul']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691136</guid>
-            <pubDate>Tue, 04 Aug 2026 10:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Medical miracle in Tzfat]]></title>
-            <description><![CDATA[Medical miracle in Tzfat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691135</guid>
-            <pubDate>Tue, 04 Aug 2026 09:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Courtroom chaos erupts: Benayahu's brother to suspects, 'Murderers, you took my brother']]></title>
-            <description><![CDATA[Courtroom chaos erupts: Benayahu's brother to suspects, 'Murderers, you took my brother']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691134</guid>
-            <pubDate>Tue, 04 Aug 2026 09:23:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

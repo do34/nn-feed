@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 10:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 11:29:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 10:33:18 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 11:29:05 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
@@ -1119,34 +1119,6 @@ United Airlines' first flight will depart from Newark to Ben Gurion Airport on S
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691216</guid>
             <pubDate>Wed, 05 Aug 2026 11:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police open investigation after body washed up on beach near Zichron Yaakov]]></title>
-            <description><![CDATA[Police open investigation after body washed up on beach near Zichron Yaakov]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691215</guid>
-            <pubDate>Wed, 05 Aug 2026 11:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran to Hamas: We'll back whatever you decide on Gaza]]></title>
-            <description><![CDATA[Iran to Hamas: We'll back whatever you decide on Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691214</guid>
-            <pubDate>Wed, 05 Aug 2026 11:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Retired general answers haredim who attacked him: 'I'm not afraid of you']]></title>
-            <description><![CDATA[Retired general answers haredim who attacked him: 'I'm not afraid of you']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691213</guid>
-            <pubDate>Wed, 05 Aug 2026 11:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hitler, Himmler, Mamdani]]></title>
-            <description><![CDATA[Hitler, Himmler, Mamdani]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691212</guid>
-            <pubDate>Wed, 05 Aug 2026 10:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

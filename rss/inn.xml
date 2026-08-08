@@ -4,11 +4,60 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 20:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 21:30:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 20:29:57 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 21:30:13 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Report: Israel discussing Gaza pullback despite public pledges]]></title>
+            <description><![CDATA[Israeli security officials reportedly discussing limited IDF withdrawals from Gaza, despite promises no pullback will occur before Hamas disarms.]]></description>
+            <link>https://www.israelnationalnews.com/news/431412</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431412</guid>
+            <pubDate>Sat, 08 Aug 2026 21:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s 2025 Plan demilitarized Gaza. The 2026 Roadmap doesn’t.]]></title>
+            <description><![CDATA[The difference between destroying weapons-production facilities and storing them under NCAG is not a drafting detail. It is the difference between genuine demilitarization and managed rearmament under a different name. It is also the difference between the 2025 plan and the 2026 roadmap.]]></description>
+            <link>https://www.israelnationalnews.com/news/431415</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431415</guid>
+            <pubDate>Sat, 08 Aug 2026 21:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kudos to those who show us who we are]]></title>
+            <description><![CDATA[Kudos to those who show us who we are]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691381</guid>
+            <pubDate>Sat, 08 Aug 2026 20:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben-Gvir accuses enforcement chief of blocking Negev crackdown]]></title>
+            <description><![CDATA[The minister claims Avi Cohen is undermining illegal construction enforcement, while the authority says ministry records contradict him.]]></description>
+            <link>https://www.israelnationalnews.com/news/431413</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431413</guid>
+            <pubDate>Sat, 08 Aug 2026 20:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British Columbia declares state of emergency as wildfires spread]]></title>
+            <description><![CDATA[British Columbia declares state of emergency as wildfires spread]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691379</guid>
+            <pubDate>Sat, 08 Aug 2026 20:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When religion Is based on lies, it becomes meaningless]]></title>
+            <description><![CDATA[Better an Ugly Truth than a Beautiful Lie.]]></description>
+            <link>https://www.israelnationalnews.com/news/431410</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431410</guid>
+            <pubDate>Sat, 08 Aug 2026 20:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The situation has changed': Montenegro's Jews face growing hostility]]></title>
+            <description><![CDATA['The situation has changed': Montenegro's Jews face growing hostility]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691377</guid>
+            <pubDate>Sat, 08 Aug 2026 20:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ex-Likud MK: I'd rather have Yair Golan than the haredim]]></title>
             <description><![CDATA[Former Likud MK Dan Illouz says he would prefer to see Yair Golan as minister rather than key portfolios remain in the hands of haredi parties.]]></description>
@@ -25,9 +74,9 @@
         </item>
         <item>
             <title><![CDATA[Hunter Biden reveals father’s struggle with advanced cancer]]></title>
-            <description><![CDATA[Hunter Biden reveals father’s struggle with advanced cancer]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691374</guid>
+            <description><![CDATA[Hunter Biden says Joe Biden is in significant pain as cancer spreads to his bones, but the former president continues to push forward.]]></description>
+            <link>https://www.israelnationalnews.com/news/431407</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431407</guid>
             <pubDate>Sat, 08 Aug 2026 19:45:00 GMT</pubDate>
         </item>
         <item>
@@ -206,34 +255,30 @@ The IDF Spokesperson's Unit stated, "A short time ago, forces were summoned to K
         </item>
         <item>
             <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Arutz Sheva-Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of Shabbat. Jerusalem candle lighting time is 18:51 on Friday. Our North American desk will keep you informed until the 19:46 EDT candle lighting time in New York.
-
-The updates from Israel will resume Saturday night, following the conclusion of Shabbat at 20:09 in Jerusalem.
-
-Shabbat Shalom!]]></description>
+            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
             <pubDate>Fri, 07 Aug 2026 16:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Akunis cancels New York Times subscriptions at Israeli Consulate]]></title>
-            <description><![CDATA[Israel's Consul General in New York, Ofir Akunis, orders the cancellation of all New York Times subscriptions at the Israeli Consulate, accusing the newspaper of publishing 'false blood libels' and consistently inciting against the Jewish state.]]></description>
-            <link>https://www.israelnationalnews.com/news/431389</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431389</guid>
+            <description><![CDATA[Akunis cancels New York Times subscriptions at Israeli Consulate]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691354</guid>
             <pubDate>Fri, 07 Aug 2026 15:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Child's hand gets caught in a mixer beater]]></title>
-            <description><![CDATA[Fire and Rescue Service crews use a miniature cutting tool to carefully free a child's hand after it got trapped inside a metal mixer beater.]]></description>
-            <link>https://www.israelnationalnews.com/news/431388</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431388</guid>
+            <description><![CDATA[Child's hand gets caught in a mixer beater]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691353</guid>
             <pubDate>Fri, 07 Aug 2026 14:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Revolution of the Resentful]]></title>
-            <description><![CDATA[Why and how Socialism is coming for every state while the GOP Is sleepwalking. Socialism wins by appealing to the lowest common denominators of any society: fear, greed, anger, jealousy, and laziness and it hands the resentful a villain and a voting booth.Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431387</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431387</guid>
+            <description><![CDATA[The Revolution of the Resentful]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691352</guid>
             <pubDate>Fri, 07 Aug 2026 14:37:00 GMT</pubDate>
         </item>
         <item>
@@ -245,16 +290,14 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[How strife can lay the seeds of Redemption]]></title>
-            <description><![CDATA[Moshe's call to choose blessing "today" reminds us that even in the challenging era before Moshiach, every sincere mitzvah has tremendous value and can help bring the final redemption.]]></description>
-            <link>https://www.israelnationalnews.com/news/431386</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431386</guid>
+            <description><![CDATA[How strife can lay the seeds of Redemption]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691350</guid>
             <pubDate>Fri, 07 Aug 2026 13:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[4 men rescued after drifting on inflatable mattress in Sea of Galilee; two treated for dehydration]]></title>
-            <description><![CDATA[Four men who drifted on the Sea of Galilee while on an inflatable mattress were rescued by Magen David Adom teams. Two of them suffered from dehydration and received initial fluid treatment aboard an MDA intensive care boat. After their condition improved, they did not require evacuation to a hospital.
-
-MDA said that a passerby who was engaged in water sports spotted the incident and alerted the emergency teams.]]></description>
+            <description><![CDATA[4 men rescued after drifting on inflatable mattress in Sea of Galilee; two treated for dehydration]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691349</guid>
             <pubDate>Fri, 07 Aug 2026 13:11:00 GMT</pubDate>
@@ -993,20 +1036,6 @@ MDA said that a passerby who was engaged in water sports spotted the incident an
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691244</guid>
             <pubDate>Wed, 05 Aug 2026 21:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Phase Two of Gaza agreement to span 210 days across five stages]]></title>
-            <description><![CDATA[Report: Phase Two of Gaza agreement to span 210 days across five stages]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691243</guid>
-            <pubDate>Wed, 05 Aug 2026 21:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[57-year-old motorcyclist seriously injured in crash near Or Yehuda]]></title>
-            <description><![CDATA[57-year-old motorcyclist seriously injured in crash near Or Yehuda]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691242</guid>
-            <pubDate>Wed, 05 Aug 2026 20:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

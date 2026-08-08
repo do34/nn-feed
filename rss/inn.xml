@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 18:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 19:30:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 18:37:02 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 19:30:00 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[CENTCOM chief arrives in Israel for high-level security talks]]></title>
+            <description><![CDATA[US Central Command chief Adm. Brad Cooper lands in Israel for meetings with IDF leaders, with Gaza and regional security expected to top the agenda.]]></description>
+            <link>https://www.israelnationalnews.com/news/431405</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431405</guid>
+            <pubDate>Sat, 08 Aug 2026 19:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Passenger refuses to fly due to Shabbat]]></title>
+            <description><![CDATA[A Wizz Air flight from Rome to Ben Gurion Airport, which was due to depart, was delayed by several hours after an unusual incident occurred on the ground, minutes before takeoff.]]></description>
+            <link>https://www.israelnationalnews.com/news/431404</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431404</guid>
+            <pubDate>Sat, 08 Aug 2026 18:42:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Attempted knife attack targets Israeli tent in Canada]]></title>
             <description><![CDATA[Suspect arrested after allegedly attempting to slash Israeli festival tent in Edmonton, where anti-Israel chants filled the air.]]></description>
@@ -247,16 +261,14 @@ MDA said that a passerby who was engaged in water sports spotted the incident an
         </item>
         <item>
             <title><![CDATA[Taxi driver caught driving for 20 years without a license]]></title>
-            <description><![CDATA[A taxi driver from Ma'ale Adumim was arrested after authorities discovered he had been driving without a valid license for the past 20 years.]]></description>
-            <link>https://www.israelnationalnews.com/news/431384</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431384</guid>
+            <description><![CDATA[Taxi driver caught driving for 20 years without a license]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691345</guid>
             <pubDate>Fri, 07 Aug 2026 12:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[United Airlines expected to resume flights to Israel]]></title>
-            <description><![CDATA[US airline United Airlines is expected to resume its flights to Israel on September 8, operating an extensive schedule of two daily flights on the Newark-Tel Aviv route.
-
-United Airlines' first flight will depart from Newark to Ben Gurion Airport on September 8. The following day, September 9, the first return flight will depart from Ben Gurion Airport back to Newark.]]></description>
+            <description><![CDATA[United Airlines expected to resume flights to Israel]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691344</guid>
             <pubDate>Fri, 07 Aug 2026 12:16:00 GMT</pubDate>
@@ -988,27 +1000,6 @@ United Airlines' first flight will depart from Newark to Ben Gurion Airport on S
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691240</guid>
             <pubDate>Wed, 05 Aug 2026 20:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: 'The long journey of the Herzl family ends today']]></title>
-            <description><![CDATA[Netanyahu: 'The long journey of the Herzl family ends today']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691239</guid>
-            <pubDate>Wed, 05 Aug 2026 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel successfully tests upgraded Arrow Missile Defense System]]></title>
-            <description><![CDATA[Israel successfully tests upgraded Arrow Missile Defense System]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691238</guid>
-            <pubDate>Wed, 05 Aug 2026 19:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF strikes Hezbollah after ceasefire violation]]></title>
-            <description><![CDATA[IDF strikes Hezbollah after ceasefire violation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691237</guid>
-            <pubDate>Wed, 05 Aug 2026 18:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 19:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 20:29:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 19:30:00 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 20:29:57 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Ex-Likud MK: I'd rather have Yair Golan than the haredim]]></title>
+            <description><![CDATA[Former Likud MK Dan Illouz says he would prefer to see Yair Golan as minister rather than key portfolios remain in the hands of haredi parties.]]></description>
+            <link>https://www.israelnationalnews.com/news/431406</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431406</guid>
+            <pubDate>Sat, 08 Aug 2026 20:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gadi Eisenkot: A general whose time has passed]]></title>
+            <description><![CDATA[I do not believe Gadi Eisenkot should be entrusted with leading Israel. In my view, the strategic decisions he championed contributed to weakening the country's military preparedness at a critical time. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431408</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431408</guid>
+            <pubDate>Sat, 08 Aug 2026 19:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hunter Biden reveals father’s struggle with advanced cancer]]></title>
+            <description><![CDATA[Hunter Biden reveals father’s struggle with advanced cancer]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691374</guid>
+            <pubDate>Sat, 08 Aug 2026 19:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CENTCOM chief arrives in Israel for high-level security talks]]></title>
             <description><![CDATA[US Central Command chief Adm. Brad Cooper lands in Israel for meetings with IDF leaders, with Gaza and regional security expected to top the agenda.]]></description>
@@ -240,9 +261,9 @@ MDA said that a passerby who was engaged in water sports spotted the incident an
         </item>
         <item>
             <title><![CDATA[Mamdani’s verdict came before the evidence]]></title>
-            <description><![CDATA[Throwing out the word Genociide when it negates the evidence trivializes and inverts the word itself. Mamdani did not establish a fact. He pronounced a verdict. And it was a lie. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431385</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431385</guid>
+            <description><![CDATA[Mamdani’s verdict came before the evidence]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691348</guid>
             <pubDate>Fri, 07 Aug 2026 13:09:00 GMT</pubDate>
         </item>
         <item>
@@ -254,9 +275,9 @@ MDA said that a passerby who was engaged in water sports spotted the incident an
         </item>
         <item>
             <title><![CDATA[Report: Gantz, Shaked in talks over joint election run]]></title>
-            <description><![CDATA[Benny Gantz, Ayelet Shaked, reportedly negotiating joint bid for the upcoming election, with proposed deal giving Gantz lead spot, Shaked first choice of Cabinet post.]]></description>
-            <link>https://www.israelnationalnews.com/news/431383</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431383</guid>
+            <description><![CDATA[Report: Gantz, Shaked in talks over joint election run]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691346</guid>
             <pubDate>Fri, 07 Aug 2026 12:37:00 GMT</pubDate>
         </item>
         <item>
@@ -986,20 +1007,6 @@ MDA said that a passerby who was engaged in water sports spotted the incident an
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691242</guid>
             <pubDate>Wed, 05 Aug 2026 20:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF: Interceptor mistakenly launched at friendly fire in southern Lebanon]]></title>
-            <description><![CDATA[IDF: Interceptor mistakenly launched at friendly fire in southern Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691241</guid>
-            <pubDate>Wed, 05 Aug 2026 20:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reservist Harel Birenstock, of Nokdim, fell in southern Lebanon]]></title>
-            <description><![CDATA[Reservist Harel Birenstock, of Nokdim, fell in southern Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691240</guid>
-            <pubDate>Wed, 05 Aug 2026 20:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

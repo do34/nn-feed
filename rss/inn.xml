@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 11:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 12:48:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 11:29:05 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 12:48:07 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
@@ -1084,41 +1084,6 @@ United Airlines' first flight will depart from Newark to Ben Gurion Airport on S
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691221</guid>
             <pubDate>Wed, 05 Aug 2026 13:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uproar after Yair Golan's remarks on Haredi conscription: "An uneducated population"]]></title>
-            <description><![CDATA[Uproar after Yair Golan's remarks on Haredi conscription: "An uneducated population"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691220</guid>
-            <pubDate>Wed, 05 Aug 2026 12:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerusalem father identified as Israeli who drowned in Cyprus]]></title>
-            <description><![CDATA[Jerusalem father identified as Israeli who drowned in Cyprus]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691219</guid>
-            <pubDate>Wed, 05 Aug 2026 12:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Court freezes NIS 250 million for haredi education]]></title>
-            <description><![CDATA[Supreme Court freezes NIS 250 million for haredi education]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691218</guid>
-            <pubDate>Wed, 05 Aug 2026 11:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police prevent disaster by rescuing toddler from locked car]]></title>
-            <description><![CDATA[Police prevent disaster by rescuing toddler from locked car]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691217</guid>
-            <pubDate>Wed, 05 Aug 2026 11:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When miracles prove nothing]]></title>
-            <description><![CDATA[When miracles prove nothing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691216</guid>
-            <pubDate>Wed, 05 Aug 2026 11:33:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

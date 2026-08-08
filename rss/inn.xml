@@ -4,11 +4,41 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 17:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 18:37:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 17:30:16 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 18:37:02 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Attempted knife attack targets Israeli tent in Canada]]></title>
+            <description><![CDATA[Suspect arrested after allegedly attempting to slash Israeli festival tent in Edmonton, where anti-Israel chants filled the air.]]></description>
+            <link>https://www.israelnationalnews.com/news/431403</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431403</guid>
+            <pubDate>Sat, 08 Aug 2026 18:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia, Turkey, Pakistan forge mutual defense pact]]></title>
+            <description><![CDATA[Saudi Arabia, Turkey, and Pakistan announce collective defense pact, signaling major new security partnership amid escalating tensions with Iran.]]></description>
+            <link>https://www.israelnationalnews.com/news/431402</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431402</guid>
+            <pubDate>Sat, 08 Aug 2026 18:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF soldier moderately injured in southern Lebanon]]></title>
+            <description><![CDATA[An IDF soldier was moderately wounded by shrapnel during an operational activity in southern Lebanon.
+
+The soldier was evacuated to a hospital for medical treatment, and his family has been notified.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691369</guid>
+            <pubDate>Sat, 08 Aug 2026 17:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Massive fire erupts at future BIG shopping complex]]></title>
+            <description><![CDATA[Firefighters battling major blaze in underground parking garage in Petah Tikva, thick smoke forces road closures.]]></description>
+            <link>https://www.israelnationalnews.com/news/431401</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431401</guid>
+            <pubDate>Sat, 08 Aug 2026 17:36:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Drama in Samaria town]]></title>
             <description><![CDATA[Sirens warn of suspected terrorist infiltration after suspicious vehicle breaks through Ofarim town fence.]]></description>
@@ -233,30 +263,30 @@ United Airlines' first flight will depart from Newark to Ben Gurion Airport on S
         </item>
         <item>
             <title><![CDATA[Iran reportedly receives 300 anti-aircraft missiles]]></title>
-            <description><![CDATA[Arabic-language report claims Iran received about 300 advanced shoulder-fired anti-aircraft missiles from Russia and China, bolstering air defenses following the recent conflict.]]></description>
-            <link>https://www.israelnationalnews.com/news/431382</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431382</guid>
+            <description><![CDATA[Iran reportedly receives 300 anti-aircraft missiles]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691343</guid>
             <pubDate>Fri, 07 Aug 2026 12:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kariv delivers Arabic message on 'settler terrorism']]></title>
-            <description><![CDATA[MK Gilad Kariv releases Arabic-language message, promising to classify attacks by 'extremist settlers' as acts of terrorism.]]></description>
-            <link>https://www.israelnationalnews.com/news/431381</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431381</guid>
+            <description><![CDATA[Kariv delivers Arabic message on 'settler terrorism']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691342</guid>
             <pubDate>Fri, 07 Aug 2026 11:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senior Biala rabbi Rabbi Avraham Wiener passes away at 93]]></title>
-            <description><![CDATA[Rabbi Avraham Wiener, senior figures of the Biala Hasidic dynasty and longtime close disciple of its rebbes, passes away at the age of 93.]]></description>
-            <link>https://www.israelnationalnews.com/news/431380</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431380</guid>
+            <description><![CDATA[Senior Biala rabbi Rabbi Avraham Wiener passes away at 93]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691341</guid>
             <pubDate>Fri, 07 Aug 2026 10:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Body recovered from waters off Bat Yam beach]]></title>
-            <description><![CDATA[Man believed to be in his 20s pronounced dead after being pulled from the water near Jerusalem Beach in Bat Yam; police investigating.]]></description>
-            <link>https://www.israelnationalnews.com/news/431379</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431379</guid>
+            <description><![CDATA[Body recovered from waters off Bat Yam beach]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691340</guid>
             <pubDate>Fri, 07 Aug 2026 10:12:00 GMT</pubDate>
         </item>
         <item>
@@ -979,27 +1009,6 @@ United Airlines' first flight will depart from Newark to Ben Gurion Airport on S
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691237</guid>
             <pubDate>Wed, 05 Aug 2026 18:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Masochism: the gravest mental illness in the West]]></title>
-            <description><![CDATA[Masochism: the gravest mental illness in the West]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691236</guid>
-            <pubDate>Wed, 05 Aug 2026 18:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Its own reward]]></title>
-            <description><![CDATA[Its own reward]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691235</guid>
-            <pubDate>Wed, 05 Aug 2026 18:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explosive-ladden drone discovered at German airport]]></title>
-            <description><![CDATA[Explosive-ladden drone discovered at German airport]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691234</guid>
-            <pubDate>Wed, 05 Aug 2026 17:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

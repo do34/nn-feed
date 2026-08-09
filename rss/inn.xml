@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 10:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 11:28:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 10:34:38 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 11:28:49 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Disturbing footage: Two M16 Rifles and IDF ammunition seized in the Negev]]></title>
+            <description><![CDATA[Southern District police officers and Border Police forces operating in Lakiya and Hura seized two M16 rifles, dozens of magazines, 19 explosive grenade launcher rounds, and hundreds of rounds of IDF ammunition.]]></description>
+            <link>https://www.israelnationalnews.com/news/431439</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431439</guid>
+            <pubDate>Sun, 09 Aug 2026 11:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five-year-old dies after being found in hot car in Lod]]></title>
+            <description><![CDATA[A five-year-old child was found unconscious in a vehicle in Lod and rushed to Shamir-Assaf Harofeh Hospital in critical condition, where doctors later declared his death.]]></description>
+            <link>https://www.israelnationalnews.com/news/431438</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431438</guid>
+            <pubDate>Sun, 09 Aug 2026 11:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[100,000 Immigrants: Nefesh B'Nefesh celebrates historic milestone]]></title>
+            <description><![CDATA[100,000 Immigrants: Nefesh B'Nefesh celebrates historic milestone]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691404</guid>
+            <pubDate>Sun, 09 Aug 2026 11:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Eggs thrown in Parliament as protest spirals out of control]]></title>
+            <description><![CDATA[A member of Kosovo's parliament was angered by the Prime Minister's announcement that he needed more time before naming a parliamentary speaker, and threw four eggs at him.]]></description>
+            <link>https://www.israelnationalnews.com/news/431436</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431436</guid>
+            <pubDate>Sun, 09 Aug 2026 10:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Likud attacks: "Fake Right"; Edelstein responds]]></title>
             <description><![CDATA[Likud attacked Gilad Erdan and Yuli Edelstein, claiming they are working to transfer votes to the left. Edelstein responded: "We will support only the formation of a broad Zionist government."]]></description>
@@ -195,30 +223,30 @@ Fire and Rescue Services reported that all seats of the fire in the underground 
         </item>
         <item>
             <title><![CDATA[Ex-Likud MK: I'd rather have Yair Golan than the haredim]]></title>
-            <description><![CDATA[Former Likud MK Dan Illouz says he would prefer to see Yair Golan as minister rather than key portfolios remain in the hands of haredi parties.]]></description>
-            <link>https://www.israelnationalnews.com/news/431406</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431406</guid>
+            <description><![CDATA[Ex-Likud MK: I'd rather have Yair Golan than the haredim]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691376</guid>
             <pubDate>Sat, 08 Aug 2026 20:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gadi Eisenkot: A general whose time has passed]]></title>
-            <description><![CDATA[I do not believe Gadi Eisenkot should be entrusted with leading Israel. In my view, the strategic decisions he championed contributed to weakening the country's military preparedness at a critical time. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431408</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431408</guid>
+            <description><![CDATA[Gadi Eisenkot: A general whose time has passed]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691375</guid>
             <pubDate>Sat, 08 Aug 2026 19:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hunter Biden reveals father’s struggle with advanced cancer]]></title>
-            <description><![CDATA[Hunter Biden says Joe Biden is in significant pain as cancer spreads to his bones, but the former president continues to push forward.]]></description>
-            <link>https://www.israelnationalnews.com/news/431407</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431407</guid>
+            <description><![CDATA[Hunter Biden reveals father’s struggle with advanced cancer]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691374</guid>
             <pubDate>Sat, 08 Aug 2026 19:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CENTCOM chief arrives in Israel for high-level security talks]]></title>
-            <description><![CDATA[US Central Command chief Adm. Brad Cooper lands in Israel for meetings with IDF leaders, with Gaza and regional security expected to top the agenda.]]></description>
-            <link>https://www.israelnationalnews.com/news/431405</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431405</guid>
+            <description><![CDATA[CENTCOM chief arrives in Israel for high-level security talks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691373</guid>
             <pubDate>Sat, 08 Aug 2026 19:22:00 GMT</pubDate>
         </item>
         <item>
@@ -906,20 +934,6 @@ Fire and Rescue Services reported that all seats of the fire in the underground 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691277</guid>
             <pubDate>Thu, 06 Aug 2026 11:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rabbis call for Temple Mount police recruits]]></title>
-            <description><![CDATA[Rabbis call for Temple Mount police recruits]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691276</guid>
-            <pubDate>Thu, 06 Aug 2026 11:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel doubles defense-tech orders amid wartime buildup]]></title>
-            <description><![CDATA[Israel doubles defense-tech orders amid wartime buildup]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691275</guid>
-            <pubDate>Thu, 06 Aug 2026 10:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

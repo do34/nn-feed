@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 12:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 13:50:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 12:50:36 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 13:50:09 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Teenager who went missing in Jordan River found dead]]></title>
+            <description><![CDATA[Teen found dead after rescue forces conduct extensive searches in Jordan River he fell from a boat and contact with him was lost.]]></description>
+            <link>https://www.israelnationalnews.com/news/431448</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431448</guid>
+            <pubDate>Sun, 09 Aug 2026 13:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Infiltrator found hiding in secret compartment in trunk]]></title>
+            <description><![CDATA[Border Police discovered a Palestinian Arab from Judea and Samaria hiding inside a concealed trunk compartment at a checkpoint east of Jerusalem.]]></description>
+            <link>https://www.israelnationalnews.com/news/431447</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431447</guid>
+            <pubDate>Sun, 09 Aug 2026 13:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marla Maples says Trump carries Zohar over his heart for protection]]></title>
+            <description><![CDATA[Marla Maples says Trump carries Zohar over his heart for protection]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691415</guid>
+            <pubDate>Sun, 09 Aug 2026 13:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[$5 million distributed to haredi institutions that reject government funding]]></title>
+            <description><![CDATA[במעמד שנערך במעונו של הרב משה שטרנבוך בירושלים חולקו מענקים בסך כולל של כ-5 מיליון דולר למנהלי מוסדות חרדיים הנמנעים מקבלת תקציבים ותמיכות מרשויות המדינה. החלוקה היא חלק מסיוע שנתי של כ-17 מיליון דולר.]]></description>
+            <link>https://www.israelnationalnews.com/news/431445</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431445</guid>
+            <pubDate>Sun, 09 Aug 2026 12:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: Trump eyeing way out of Iran war without nuclear agreement]]></title>
             <description><![CDATA[WSJ reports Trump could declare victory without a nuclear deal if Iran fully reopens the Strait of Hormuz and its nuclear threat remains contained.]]></description>
@@ -25,7 +53,7 @@
         </item>
         <item>
             <title><![CDATA[Sephora to open first stores in Israel this month]]></title>
-            <description><![CDATA[Sephora to open first stores in Israel this month]]></description>
+            <description><![CDATA[French beauty retailer Sephora will open its first stores in Israel on August 20. The initial locations will be at Azrieli Tel Aviv, Malha Mall, and Ayalon Mall, with three additional stores expected to open later.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691411</guid>
             <pubDate>Sun, 09 Aug 2026 12:29:00 GMT</pubDate>
@@ -39,7 +67,7 @@
         </item>
         <item>
             <title><![CDATA[Iranian media: Mojtaba Khamenei meets with Iranian President Pezeshkian]]></title>
-            <description><![CDATA[Iranian media: Mojtaba Khamenei meets with Iranian President Pezeshkian]]></description>
+            <description><![CDATA[Iranian media reported that Mojtaba Khamenei met with Iranian President Massoud Pezeshkian to mark three years of his presidency.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691408</guid>
             <pubDate>Sun, 09 Aug 2026 11:37:00 GMT</pubDate>
@@ -193,32 +221,30 @@
         </item>
         <item>
             <title><![CDATA[Pentagon orders defense firms to replenish depleted arsenals]]></title>
-            <description><![CDATA[The Pentagon has given defense contractors 21 days to submit plans for accelerating weapons production as conflict with Iran severely drains US missile stockpiles.]]></description>
-            <link>https://www.israelnationalnews.com/news/431417</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431417</guid>
+            <description><![CDATA[Pentagon orders defense firms to replenish depleted arsenals]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691386</guid>
             <pubDate>Sun, 09 Aug 2026 01:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fire at future commercial complex in Petah Tikva fully brought under control]]></title>
-            <description><![CDATA[Firefighters fully brought a blaze under control overnight at a subterranean construction site for the future BIG commercial complex in Petah Tikva, following hours of intensive firefighting efforts.
-
-Fire and Rescue Services reported that all seats of the fire in the underground parking facility, which spans approximately 2,000 square meters, have been completely extinguished. Following the incident, Central District Fire Commander, Fire Commissioner Roni Kedem, ordered the establishment of a special task force to investigate the cause of the fire.]]></description>
+            <description><![CDATA[Fire at future commercial complex in Petah Tikva fully brought under control]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691385</guid>
             <pubDate>Sun, 09 Aug 2026 01:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Antisemitic Incident at Manila Airport: “Hitler Was Right"]]></title>
-            <description><![CDATA[An antisemitic incident was reported at the international airport in Manila, Philippines. Severe antisemitic remarks were allegedly made by an American passenger directed at an Israeli traveler, leading to a physical confrontation between the two]]></description>
-            <link>https://www.israelnationalnews.com/news/431416</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431416</guid>
+            <description><![CDATA[Antisemitic Incident at Manila Airport: “Hitler Was Right"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691384</guid>
             <pubDate>Sat, 08 Aug 2026 22:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Israel discussing Gaza pullback despite public pledges]]></title>
-            <description><![CDATA[Israeli security officials reportedly discussing limited IDF withdrawals from Gaza, despite promises no pullback will occur before Hamas disarms.]]></description>
-            <link>https://www.israelnationalnews.com/news/431412</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431412</guid>
+            <description><![CDATA[Report: Israel discussing Gaza pullback despite public pledges]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691383</guid>
             <pubDate>Sat, 08 Aug 2026 21:13:00 GMT</pubDate>
         </item>
         <item>
@@ -913,20 +939,6 @@ Fire and Rescue Services reported that all seats of the fire in the underground 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691286</guid>
             <pubDate>Thu, 06 Aug 2026 13:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indictment: Ashkelon couple spied for Iran in exchange for crypto]]></title>
-            <description><![CDATA[Indictment: Ashkelon couple spied for Iran in exchange for crypto]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691285</guid>
-            <pubDate>Thu, 06 Aug 2026 13:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police arrest suspect over threat to murder MK Tzvi Sukkot]]></title>
-            <description><![CDATA[Police arrest suspect over threat to murder MK Tzvi Sukkot]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691284</guid>
-            <pubDate>Thu, 06 Aug 2026 13:18:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

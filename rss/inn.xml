@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 03:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 05:05:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 03:42:56 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 05:05:10 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[If Israel was on trial and you were a juror, what would you decide?]]></title>
+            <description><![CDATA[Six claims against Israel are refuted by a United States District Judge who treats the claims as testimony in a court of law and the reader of his book as a juror. Review.]]></description>
+            <link>https://www.israelnationalnews.com/news/431422</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431422</guid>
+            <pubDate>Sun, 09 Aug 2026 04:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistani Defense Minister demands united military front against ‘illegitimate’ Israel]]></title>
+            <description><![CDATA[Pakistan’s Defense Minister Khawaja Asif calls for a united Islamic military front against Israel, declaring it a threat to the entire Muslim world.]]></description>
+            <link>https://www.israelnationalnews.com/news/431421</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431421</guid>
+            <pubDate>Sun, 09 Aug 2026 03:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dear Jews: Grow a spine!]]></title>
+            <description><![CDATA[Dear Jews: Grow a spine!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691389</guid>
+            <pubDate>Sun, 09 Aug 2026 03:42:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fire extinguished at Saudi Aramco refinery amid escalating regional clash]]></title>
             <description><![CDATA[Blaze at Saudi Aramco's Jazan refinery doused as Houthi strikes and border clashes continue to inflame tensions between Saudi Arabia and Yemen.]]></description>
@@ -218,29 +239,23 @@ The IDF Spokesperson's Unit stated, "A short time ago, forces were summoned to K
         </item>
         <item>
             <title><![CDATA[Report: Lebanon and Israel select nations to monitor Hezbollah disarmament]]></title>
-            <description><![CDATA[Lebanon and Israel reportedly agree on candidate countries to monitor Hezbollah's disarmament, leaving the United States to select the final verification forces.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431396</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431396</guid>
+            <description><![CDATA[Report: Lebanon and Israel select nations to monitor Hezbollah disarmament]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691362</guid>
             <pubDate>Fri, 07 Aug 2026 21:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[United Airlines returns to Israel: Two daily flights to New York]]></title>
-            <description><![CDATA[American carrier United Airlines is resuming flights to Israel. Starting September 8, the airline will restart service on its Newark-Tel Aviv route.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431395</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431395</guid>
+            <description><![CDATA[United Airlines returns to Israel: Two daily flights to New York]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691361</guid>
             <pubDate>Fri, 07 Aug 2026 21:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['A deceptive scheme': Zini's warning to the Cabinet]]></title>
-            <description><![CDATA[The head of the Shin Bet, the head of IDF Military Intelligence's Research Division, and senior ministers warn during a Cabinet meeting against the US-backed Gaza document.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431394</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431394</guid>
+            <description><![CDATA['A deceptive scheme': Zini's warning to the Cabinet]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691360</guid>
             <pubDate>Fri, 07 Aug 2026 20:32:00 GMT</pubDate>
         </item>
         <item>
@@ -942,27 +957,6 @@ The IDF Spokesperson's Unit stated, "A short time ago, forces were summoned to K
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691261</guid>
             <pubDate>Thu, 06 Aug 2026 05:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Preparing for Rosh Hashanah]]></title>
-            <description><![CDATA[Preparing for Rosh Hashanah]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691260</guid>
-            <pubDate>Thu, 06 Aug 2026 04:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Freedom of Speech ends where public safety begins]]></title>
-            <description><![CDATA[Freedom of Speech ends where public safety begins]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691259</guid>
-            <pubDate>Thu, 06 Aug 2026 04:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eli Yishai comeback? Former Shas leader weighs run with new haredi party]]></title>
-            <description><![CDATA[Eli Yishai comeback? Former Shas leader weighs run with new haredi party]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691258</guid>
-            <pubDate>Thu, 06 Aug 2026 03:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

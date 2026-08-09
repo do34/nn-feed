@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 13:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 14:34:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 13:50:09 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 14:34:22 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Weapons cache uncovered in Binyamin region]]></title>
+            <description><![CDATA[A short while ago, a team from the Judea and Samaria District’s interagency headquarters operated in the Binyamin area and located a cache of weapons. Police bomb disposal experts were called to the scene, while a suspect who was present at the site attacked the officers and injured them. The suspect was arrested.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691419</guid>
+            <pubDate>Sun, 09 Aug 2026 14:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The new police desk leading charge against anti-Israel activists]]></title>
+            <description><![CDATA[A Judea and Samaria-based special police desk has helped deport 47 foreign activists and block 130 others from entering Israel amid a crackdown on BDS activity.]]></description>
+            <link>https://www.israelnationalnews.com/news/431449</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431449</guid>
+            <pubDate>Sun, 09 Aug 2026 14:12:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Teenager who went missing in Jordan River found dead]]></title>
             <description><![CDATA[Teen found dead after rescue forces conduct extensive searches in Jordan River he fell from a boat and contact with him was lost.]]></description>
@@ -25,9 +39,9 @@
         </item>
         <item>
             <title><![CDATA[Marla Maples says Trump carries Zohar over his heart for protection]]></title>
-            <description><![CDATA[Marla Maples says Trump carries Zohar over his heart for protection]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691415</guid>
+            <description><![CDATA[Donald Trump’s ex-wife says the president carries an Aramaic copy of the Zohar close to his heart, while sharing details of his spiritual side and her own connection to Judaism, Israel and Shabbat.]]></description>
+            <link>https://www.israelnationalnews.com/news/431446</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431446</guid>
             <pubDate>Sun, 09 Aug 2026 13:10:00 GMT</pubDate>
         </item>
         <item>
@@ -207,16 +221,16 @@
         </item>
         <item>
             <title><![CDATA[Fire extinguished at Saudi Aramco refinery amid escalating regional clash]]></title>
-            <description><![CDATA[Blaze at Saudi Aramco's Jazan refinery doused as Houthi strikes and border clashes continue to inflame tensions between Saudi Arabia and Yemen.]]></description>
-            <link>https://www.israelnationalnews.com/news/431419</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431419</guid>
+            <description><![CDATA[Fire extinguished at Saudi Aramco refinery amid escalating regional clash]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691388</guid>
             <pubDate>Sun, 09 Aug 2026 03:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran outlines strict conditions to restore Strait of Hormuz shipping lanes]]></title>
-            <description><![CDATA[Iran outlines strict demands - including an end to the US blockade, sanctions relief, and war reparations - as conditions to reopen the Strait of Hormuz.]]></description>
-            <link>https://www.israelnationalnews.com/news/431418</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431418</guid>
+            <description><![CDATA[Iran outlines strict conditions to restore Strait of Hormuz shipping lanes]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691387</guid>
             <pubDate>Sun, 09 Aug 2026 02:32:00 GMT</pubDate>
         </item>
         <item>
@@ -925,20 +939,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691288</guid>
             <pubDate>Thu, 06 Aug 2026 14:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Hard for me to say goodbye:' The chilling speech by Maj. Harel Birenstock to his troops]]></title>
-            <description><![CDATA['Hard for me to say goodbye:' The chilling speech by Maj. Harel Birenstock to his troops]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691287</guid>
-            <pubDate>Thu, 06 Aug 2026 14:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arab mob attempts to attack Israelis who accidentally entered Jenin]]></title>
-            <description><![CDATA[Arab mob attempts to attack Israelis who accidentally entered Jenin]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691286</guid>
-            <pubDate>Thu, 06 Aug 2026 13:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

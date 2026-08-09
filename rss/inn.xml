@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 20:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 21:32:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 20:32:32 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 21:32:11 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Houthi forces launch missiles and drones at Yemen’s port city of Mocha]]></title>
+            <description><![CDATA[Houthi forces renew missile and drone strikes on the Red Sea port city of Mocha, targeting Saudi-backed military assets amid mounting tensions.]]></description>
+            <link>https://www.israelnationalnews.com/news/431467</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431467</guid>
+            <pubDate>Sun, 09 Aug 2026 21:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former NY Governor David Paterson on fighting Mamdani’s antisemitism]]></title>
+            <description><![CDATA["I think that there is in some respects confusion in the black community. There are some people who hear things that Mamdani says and it reminds them of some things that happened to them at some point." Interview.]]></description>
+            <link>https://www.israelnationalnews.com/news/431466</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431466</guid>
+            <pubDate>Sun, 09 Aug 2026 20:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drama in New Jersey: F-16s scrambled near Trump’s golf club]]></title>
+            <description><![CDATA[Drama in New Jersey: F-16s scrambled near Trump’s golf club]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691438</guid>
+            <pubDate>Sun, 09 Aug 2026 20:40:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Montreal: Government blow to Hasidic institutions]]></title>
             <description><![CDATA[Three educational institutions affiliated with the Belz Hasidic movement in Montreal lost their licenses just before the start of the school year due to ongoing systemic failures.]]></description>
@@ -202,14 +223,14 @@ F-16 fighter jets were scrambled toward the aircraft and escorted them out of th
         </item>
         <item>
             <title><![CDATA['No 'Fatahstan' nor 'Hamastan'': Netanyahu rejects Trump's Board of Peace 15-point plan]]></title>
-            <description><![CDATA[Netanyahu rejects Board of Peace 15-point Gaza proposal, vows no IDF withdrawal before Hamas disarmament, and rules out a Palestinian state.]]></description>
-            <link>https://www.israelnationalnews.com/news/431441</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431441</guid>
+            <description><![CDATA['No 'Fatahstan' nor 'Hamastan'': Netanyahu rejects Trump's Board of Peace 15-point plan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691409</guid>
             <pubDate>Sun, 09 Aug 2026 12:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iranian media: Mojtaba Khamenei meets with Iranian President Pezeshkian]]></title>
-            <description><![CDATA[Iranian media reported that Mojtaba Khamenei met with Iranian President Massoud Pezeshkian to mark three years of his presidency.]]></description>
+            <description><![CDATA[Iranian media: Mojtaba Khamenei meets with Iranian President Pezeshkian]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691408</guid>
             <pubDate>Sun, 09 Aug 2026 11:37:00 GMT</pubDate>
@@ -906,27 +927,6 @@ F-16 fighter jets were scrambled toward the aircraft and escorted them out of th
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691311</guid>
             <pubDate>Thu, 06 Aug 2026 21:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heading to Ra'am? Yoav Segalovitz resigns from Yesh Atid]]></title>
-            <description><![CDATA[Heading to Ra'am? Yoav Segalovitz resigns from Yesh Atid]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691310</guid>
-            <pubDate>Thu, 06 Aug 2026 21:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Re’eh: Is money a blessing or a curse?]]></title>
-            <description><![CDATA[Re’eh: Is money a blessing or a curse?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691309</guid>
-            <pubDate>Thu, 06 Aug 2026 20:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['War will end pretty soon': Trump expresses optimism on Iran deal]]></title>
-            <description><![CDATA['War will end pretty soon': Trump expresses optimism on Iran deal]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691308</guid>
-            <pubDate>Thu, 06 Aug 2026 20:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

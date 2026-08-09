@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 22:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 23:31:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 22:31:12 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 23:31:06 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump names Jewish lawyer Will Scharf as next White House counsel]]></title>
+            <description><![CDATA[President Trump announces that White House staff secretary Will Scharf will take over as White House counsel on September 1, replacing David Warrington.]]></description>
+            <link>https://www.israelnationalnews.com/news/431469</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431469</guid>
+            <pubDate>Sun, 09 Aug 2026 23:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gafni refuses to pledge advance support for Netanyahu]]></title>
+            <description><![CDATA[The chairman of the Degel HaTorah party, MK Moshe Gafni, said at an event on Sunday evening, "Unlike in the past, I am not declaring in advance that we will go with Netanyahu."]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691443</guid>
+            <pubDate>Sun, 09 Aug 2026 22:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Secret revealed: Top Hamas commander held in Israel for two years]]></title>
             <description><![CDATA[Terrorist Basel Salahieh, a senior commander in Hamas's military wing, has been secretly detained in Israel for two years and is now set to face trial.]]></description>
@@ -211,16 +225,16 @@ F-16 fighter jets were scrambled toward the aircraft and escorted them out of th
         </item>
         <item>
             <title><![CDATA[$5 million distributed to haredi institutions that reject government funding]]></title>
-            <description><![CDATA[במעמד שנערך במעונו של הרב משה שטרנבוך בירושלים חולקו מענקים בסך כולל של כ-5 מיליון דולר למנהלי מוסדות חרדיים הנמנעים מקבלת תקציבים ותמיכות מרשויות המדינה. החלוקה היא חלק מסיוע שנתי של כ-17 מיליון דולר.]]></description>
-            <link>https://www.israelnationalnews.com/news/431445</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431445</guid>
+            <description><![CDATA[$5 million distributed to haredi institutions that reject government funding]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691414</guid>
             <pubDate>Sun, 09 Aug 2026 12:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Trump eyeing way out of Iran war without nuclear agreement]]></title>
-            <description><![CDATA[WSJ reports Trump could declare victory without a nuclear deal if Iran fully reopens the Strait of Hormuz and its nuclear threat remains contained.]]></description>
-            <link>https://www.israelnationalnews.com/news/431444</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431444</guid>
+            <description><![CDATA[Report: Trump eyeing way out of Iran war without nuclear agreement]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691413</guid>
             <pubDate>Sun, 09 Aug 2026 12:49:00 GMT</pubDate>
         </item>
         <item>
@@ -915,20 +929,6 @@ F-16 fighter jets were scrambled toward the aircraft and escorted them out of th
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691315</guid>
             <pubDate>Thu, 06 Aug 2026 23:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We need to elect JD' | Report: Trump privately urges donors to back Vance for 2028]]></title>
-            <description><![CDATA['We need to elect JD' | Report: Trump privately urges donors to back Vance for 2028]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691314</guid>
-            <pubDate>Thu, 06 Aug 2026 23:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Turkey, Saudi Arabia, and Pakistan to sign joint defense pact]]></title>
-            <description><![CDATA[Report: Turkey, Saudi Arabia, and Pakistan to sign joint defense pact]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691313</guid>
-            <pubDate>Thu, 06 Aug 2026 22:43:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

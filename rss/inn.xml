@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 15:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 16:35:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 15:31:55 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 16:35:03 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Bereaved father says minister's daughter evacuated from Nova before Hamas massacre]]></title>
+            <description><![CDATA[Nissim Louk, father of Shani Louk, murdered at the Nova festival, recounts his confrontation with Minister Miri Regev and calls for fundamental change and building bridges among the people.]]></description>
+            <link>https://www.israelnationalnews.com/news/431453</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431453</guid>
+            <pubDate>Sun, 09 Aug 2026 16:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Child who went missing in Jordan River found dead]]></title>
+            <description><![CDATA[Teen found dead after rescue forces conduct extensive searches in Jordan River he fell from a boat and contact with him was lost.]]></description>
+            <link>https://www.israelnationalnews.com/news/431448</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431448</guid>
+            <pubDate>Sun, 09 Aug 2026 15:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Efforts to rescue teen who fell while rappelling]]></title>
+            <description><![CDATA[16-year-old boy falls while rappelling in the Keshet Cave in northern Israel. Rescue forces currently have no access to him. Helicopter dispatched.]]></description>
+            <link>https://www.israelnationalnews.com/news/431452</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431452</guid>
+            <pubDate>Sun, 09 Aug 2026 15:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viral moment: Groom breaks glass with bride's prosthetic leg]]></title>
+            <description><![CDATA[Social media influencer Esty Segal lost her leg to cancer as a teenager. After standing at her side through a difficult rehabilitation process, her groom used her prosthetic leg to break the glass.]]></description>
+            <link>https://www.israelnationalnews.com/news/431451</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431451</guid>
+            <pubDate>Sun, 09 Aug 2026 15:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Underground | Hezbollah weapons tunnel destroyed in southern Lebanon]]></title>
             <description><![CDATA[The IDF uncovered and neutralized an underground facility used to store weapons belonging to the Lebanese terrorist organization Hezbollah. During the operation, anti-tank missiles, RPG rockets, and artillery weapons were located.]]></description>
@@ -29,13 +57,6 @@
             <link>https://www.israelnationalnews.com/news/431449</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/news/431449</guid>
             <pubDate>Sun, 09 Aug 2026 14:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Child who went missing in Jordan River found dead]]></title>
-            <description><![CDATA[Teen found dead after rescue forces conduct extensive searches in Jordan River he fell from a boat and contact with him was lost.]]></description>
-            <link>https://www.israelnationalnews.com/news/431448</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431448</guid>
-            <pubDate>Sun, 09 Aug 2026 13:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Infiltrator found hiding in secret compartment in trunk]]></title>
@@ -200,23 +221,23 @@
         </item>
         <item>
             <title><![CDATA[Outgoing Yahalom Commander: "The failure of October 7 is etched in our minds"]]></title>
-            <description><![CDATA[Lt. Col. H., of the Combat Engineering Corps' elite Yahalom unit, led the project to neutralize tunnels in the Beaufort area that Hezbollah had planned to use to infiltrate Israel.]]></description>
-            <link>https://www.israelnationalnews.com/news/431424</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431424</guid>
+            <description><![CDATA[Outgoing Yahalom Commander: "The failure of October 7 is etched in our minds"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691392</guid>
             <pubDate>Sun, 09 Aug 2026 05:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If Israel was on trial and you were a juror, what would you decide?]]></title>
-            <description><![CDATA[Six claims against Israel are refuted by a United States District Judge who treats the claims as testimony in a court of law and the reader of his book as a juror. Review.]]></description>
-            <link>https://www.israelnationalnews.com/news/431422</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431422</guid>
+            <description><![CDATA[If Israel was on trial and you were a juror, what would you decide?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691391</guid>
             <pubDate>Sun, 09 Aug 2026 04:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pakistani Defense Minister demands united military front against ‘illegitimate’ Israel]]></title>
-            <description><![CDATA[Pakistan’s Defense Minister Khawaja Asif calls for a united Islamic military front against Israel, declaring it a threat to the entire Muslim world.]]></description>
-            <link>https://www.israelnationalnews.com/news/431421</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431421</guid>
+            <description><![CDATA[Pakistani Defense Minister demands united military front against ‘illegitimate’ Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691390</guid>
             <pubDate>Sun, 09 Aug 2026 03:51:00 GMT</pubDate>
         </item>
         <item>
@@ -911,27 +932,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691293</guid>
             <pubDate>Thu, 06 Aug 2026 16:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Baby girl drowns in swimming pool in Ashkelon]]></title>
-            <description><![CDATA[Baby girl drowns in swimming pool in Ashkelon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691292</guid>
-            <pubDate>Thu, 06 Aug 2026 16:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Navy trains to protect against maritime infiltrations, attacks on gas rigs]]></title>
-            <description><![CDATA[Watch: Navy trains to protect against maritime infiltrations, attacks on gas rigs]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691291</guid>
-            <pubDate>Thu, 06 Aug 2026 16:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthi attack on Yemen forces leaves 45 dead, 80 wounded]]></title>
-            <description><![CDATA[Houthi attack on Yemen forces leaves 45 dead, 80 wounded]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691290</guid>
-            <pubDate>Thu, 06 Aug 2026 15:35:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

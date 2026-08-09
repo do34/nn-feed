@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 01:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 03:42:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 01:44:37 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 03:42:56 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Fire extinguished at Saudi Aramco refinery amid escalating regional clash]]></title>
+            <description><![CDATA[Blaze at Saudi Aramco's Jazan refinery doused as Houthi strikes and border clashes continue to inflame tensions between Saudi Arabia and Yemen.]]></description>
+            <link>https://www.israelnationalnews.com/news/431419</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431419</guid>
+            <pubDate>Sun, 09 Aug 2026 03:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran outlines strict conditions to restore Strait of Hormuz shipping lanes]]></title>
+            <description><![CDATA[Iran outlines strict demands - including an end to the US blockade, sanctions relief, and war reparations - as conditions to reopen the Strait of Hormuz.]]></description>
+            <link>https://www.israelnationalnews.com/news/431418</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431418</guid>
+            <pubDate>Sun, 09 Aug 2026 02:32:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pentagon orders defense firms to replenish depleted arsenals]]></title>
             <description><![CDATA[The Pentagon has given defense contractors 21 days to submit plans for accelerating weapons production as conflict with Iran severely drains US missile stockpiles.]]></description>
@@ -231,22 +245,16 @@ The IDF Spokesperson's Unit stated, "A short time ago, forces were summoned to K
         </item>
         <item>
             <title><![CDATA[US official reports progress in Strait of Hormuz accord]]></title>
-            <description><![CDATA[US official confirms progress in Oman-Iran talks to reopen the Strait of Hormuz, noting Washington will lift its blockade once a deal is finalized.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431393</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431393</guid>
+            <description><![CDATA[US official reports progress in Strait of Hormuz accord]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691359</guid>
             <pubDate>Fri, 07 Aug 2026 19:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF: We will not publish any information that could jeopardize our forces]]></title>
-            <description><![CDATA[The IDF Spokesperson’s Unit issued a statement on Friday evening following reports that it concealed a Hezbollah violation of the ceasefire in southern Lebanon.
-
-“The IDF releases information to the public based strictly on relevant operational considerations and situational assessments. The IDF Spokesperson’s Unit will not publish any information that, according to operational assessments, could jeopardize our forces operating in combat zones."
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431392</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431392</guid>
+            <description><![CDATA[IDF: We will not publish any information that could jeopardize our forces]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691358</guid>
             <pubDate>Fri, 07 Aug 2026 19:02:00 GMT</pubDate>
         </item>
         <item>
@@ -955,48 +963,6 @@ The IDF Spokesperson's Unit stated, "A short time ago, forces were summoned to K
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691258</guid>
             <pubDate>Thu, 06 Aug 2026 03:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthis target Saudi oil tankers in Red Sea and Gulf of Aden]]></title>
-            <description><![CDATA[Houthis target Saudi oil tankers in Red Sea and Gulf of Aden]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691257</guid>
-            <pubDate>Thu, 06 Aug 2026 03:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Footage of overnight strikes in Lebanon attributed to Israel]]></title>
-            <description><![CDATA[Footage of overnight strikes in Lebanon attributed to Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691256</guid>
-            <pubDate>Thu, 06 Aug 2026 03:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cleared for publication: IDF reservists Harel Birenstock and Tamir Vaknin fell in southern Lebanon]]></title>
-            <description><![CDATA[Cleared for publication: IDF reservists Harel Birenstock and Tamir Vaknin fell in southern Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691255</guid>
-            <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Following clash with Netanyahu: MK Dan Illouz joins Avigdor Liberman’s Yisrael Beytenu]]></title>
-            <description><![CDATA[Following clash with Netanyahu: MK Dan Illouz joins Avigdor Liberman’s Yisrael Beytenu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691254</guid>
-            <pubDate>Thu, 06 Aug 2026 02:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Trump clashed with Hegseth over missile shortages]]></title>
-            <description><![CDATA[Report: Trump clashed with Hegseth over missile shortages]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691253</guid>
-            <pubDate>Thu, 06 Aug 2026 02:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tanker and crew safe following explosions in Strait of Hormuz]]></title>
-            <description><![CDATA[Tanker and crew safe following explosions in Strait of Hormuz]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691252</guid>
-            <pubDate>Thu, 06 Aug 2026 01:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

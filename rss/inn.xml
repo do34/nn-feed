@@ -4,11 +4,60 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 17:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 18:40:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 17:31:30 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 18:40:30 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump: US 'low keying' Iran]]></title>
+            <description><![CDATA[Trump says US will maintain economic pressure on Iran for now, as Tehran delays a Strait of Hormuz agreement and demands an end to the war.]]></description>
+            <link>https://www.israelnationalnews.com/news/431463</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431463</guid>
+            <pubDate>Sun, 09 Aug 2026 18:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Central Command chief signs intent notice to destroy home of terrorist who murdered Yehuda Sherman]]></title>
+            <description><![CDATA[The head of IDF Central Command signed a notice of intent to confiscate and demolish the home of terrorist Duas Hasson, who carried out the attack in the Beit Imrin area in which Yehuda Sherman was killed and another civilian was wounded.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691434</guid>
+            <pubDate>Sun, 09 Aug 2026 18:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Son of former MK arrested with loaded pistol near Ramla]]></title>
+            <description><![CDATA[Watch: Son of former MK arrested with loaded pistol near Ramla]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691433</guid>
+            <pubDate>Sun, 09 Aug 2026 18:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump shares Hillary Clinton column backing his Gaza peace plan]]></title>
+            <description><![CDATA[Trump shares Clinton's defense of his Gaza plan as a former World Bank official challenges her view and warns Palestinian skepticism remains deep.]]></description>
+            <link>https://www.israelnationalnews.com/news/431461</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431461</guid>
+            <pubDate>Sun, 09 Aug 2026 17:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rambam Medical Center defended amid criticism: 'They were fighting alongside us']]></title>
+            <description><![CDATA[Rambam Medical Center defended amid criticism: 'They were fighting alongside us']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691431</guid>
+            <pubDate>Sun, 09 Aug 2026 17:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Government expands housing discounts for reservists nationwide]]></title>
+            <description><![CDATA[Netanyahu, Katz and Smotrich unveil housing plan offering 20,000 reservists apartments and land, with discounts topping NIS 500,000.]]></description>
+            <link>https://www.israelnationalnews.com/news/431459</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431459</guid>
+            <pubDate>Sun, 09 Aug 2026 17:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Syria: ISIS cell captured near Golan Heights]]></title>
+            <description><![CDATA[Syria: ISIS cell captured near Golan Heights]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691429</guid>
+            <pubDate>Sun, 09 Aug 2026 17:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arab parties unite for joint election run]]></title>
             <description><![CDATA[Hadash, Balad, and Ta'al join forces to run in the elections with the stated goal of 'toppling the fascist right-wing government.']]></description>
@@ -18,9 +67,9 @@
         </item>
         <item>
             <title><![CDATA[Elad deputy mayor: 'They threatened to stop treating my father']]></title>
-            <description><![CDATA[Elad deputy mayor: 'They threatened to stop treating my father']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691427</guid>
+            <description><![CDATA[Elad Deputy Mayor Yaniv Badalov files complaint against Ichilov staff, alleging elderly patient was left bleeding and his father's treatment was conditioned on his leaving the department.]]></description>
+            <link>https://www.israelnationalnews.com/news/431456</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431456</guid>
             <pubDate>Sun, 09 Aug 2026 17:14:00 GMT</pubDate>
         </item>
         <item>
@@ -32,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[Minister Chikli against UNESCO: Palestinian heritage? A joke!]]></title>
-            <description><![CDATA[Minister Chikli against UNESCO: Palestinian heritage? A joke!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691425</guid>
+            <description><![CDATA[Minister of Diaspora Affairs and Combating Antisemitism Amichai Chikli blasts UNESCO over recognition of Sebastia as Palestinian heritage site.]]></description>
+            <link>https://www.israelnationalnews.com/news/431455</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431455</guid>
             <pubDate>Sun, 09 Aug 2026 16:44:00 GMT</pubDate>
         </item>
         <item>
@@ -172,51 +221,51 @@
         </item>
         <item>
             <title><![CDATA[100,000 Immigrants: Nefesh B'Nefesh celebrates historic milestone]]></title>
-            <description><![CDATA[Nefesh B'Nefesh today celebrated the arrival of its 100,000th North American Oleh, a landmark achievement since the organization's founding in 2002, in a ceremony hosted by President Herzog.]]></description>
-            <link>https://www.israelnationalnews.com/news/431437</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431437</guid>
+            <description><![CDATA[100,000 Immigrants: Nefesh B'Nefesh celebrates historic milestone]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691404</guid>
             <pubDate>Sun, 09 Aug 2026 11:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Eggs thrown in Parliament as protest spirals out of control]]></title>
-            <description><![CDATA[A member of Kosovo's parliament was angered by the Prime Minister's announcement that he needed more time before naming a parliamentary speaker, and threw four eggs at him.]]></description>
-            <link>https://www.israelnationalnews.com/news/431436</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431436</guid>
+            <description><![CDATA[Watch: Eggs thrown in Parliament as protest spirals out of control]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691403</guid>
             <pubDate>Sun, 09 Aug 2026 10:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Likud attacks: "Fake Right"; Edelstein responds]]></title>
-            <description><![CDATA[Likud attacked Gilad Erdan and Yuli Edelstein, claiming they are working to transfer votes to the left. Edelstein responded: "We will support only the formation of a broad Zionist government."]]></description>
-            <link>https://www.israelnationalnews.com/news/431435</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431435</guid>
+            <description><![CDATA[Likud attacks: "Fake Right"; Edelstein responds]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691402</guid>
             <pubDate>Sun, 09 Aug 2026 10:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vehicle breaks through checkpoint, runs over spike strip, & crashes into car]]></title>
-            <description><![CDATA[Border Police officers at the Hizma Crossing signaled a suspicious vehicle to stop for inspection, but the driver attempted to flee.]]></description>
-            <link>https://www.israelnationalnews.com/news/431434</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431434</guid>
+            <description><![CDATA[Vehicle breaks through checkpoint, runs over spike strip, & crashes into car]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691401</guid>
             <pubDate>Sun, 09 Aug 2026 10:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New signs aim to prevent Israelis from entering Jenin]]></title>
-            <description><![CDATA[Following an attempted stoning of a mother and son who accidentally entered Jenin, new signs have been installed across northern Samaria to prevent navigation errors.]]></description>
-            <link>https://www.israelnationalnews.com/news/431433</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431433</guid>
+            <description><![CDATA[New signs aim to prevent Israelis from entering Jenin]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691400</guid>
             <pubDate>Sun, 09 Aug 2026 09:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rambam responds to accusations over treatment of wounded soldiers]]></title>
-            <description><![CDATA[Following allegations concerning the treatment of wounded soldiers, Rambam Medical Center said that every claim of inappropriate treatment is taken seriously and investigated.]]></description>
-            <link>https://www.israelnationalnews.com/news/431432</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431432</guid>
+            <description><![CDATA[Rambam responds to accusations over treatment of wounded soldiers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691399</guid>
             <pubDate>Sun, 09 Aug 2026 08:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former ISA chief rejects both Palestinian state and annexation]]></title>
-            <description><![CDATA[Yoram Cohen, a candidate in Gadi Eisenkot’s party, says Palestinian autonomy could be the maximum option while opposing full annexation of Judea and Samaria.]]></description>
-            <link>https://www.israelnationalnews.com/news/431430</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431430</guid>
+            <description><![CDATA[Former ISA chief rejects both Palestinian state and annexation]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691398</guid>
             <pubDate>Sun, 09 Aug 2026 07:19:00 GMT</pubDate>
         </item>
         <item>
@@ -904,41 +953,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691302</guid>
             <pubDate>Thu, 06 Aug 2026 18:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[USA vs ICC- Rubio vows to dismantle International Court “brick by brick"]]></title>
-            <description><![CDATA[USA vs ICC- Rubio vows to dismantle International Court “brick by brick"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691301</guid>
-            <pubDate>Thu, 06 Aug 2026 18:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mossad Chief removes Iran Desk Head, Intelligence Chief over failed plan]]></title>
-            <description><![CDATA[Mossad Chief removes Iran Desk Head, Intelligence Chief over failed plan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691300</guid>
-            <pubDate>Thu, 06 Aug 2026 18:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Campaign of revenge": Sarah Netanyahu's legal battle]]></title>
-            <description><![CDATA["Campaign of revenge": Sarah Netanyahu's legal battle]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691299</guid>
-            <pubDate>Thu, 06 Aug 2026 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least seven injured in explosion in Druze suburb of Damascus]]></title>
-            <description><![CDATA[At least seven injured in explosion in Druze suburb of Damascus]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691298</guid>
-            <pubDate>Thu, 06 Aug 2026 17:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of the DSA’s Hitlerian America]]></title>
-            <description><![CDATA[The rise of the DSA’s Hitlerian America]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691297</guid>
-            <pubDate>Thu, 06 Aug 2026 17:43:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

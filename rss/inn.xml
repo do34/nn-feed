@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 14:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 15:31:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 14:34:22 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 15:31:55 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Underground | Hezbollah weapons tunnel destroyed in southern Lebanon]]></title>
+            <description><![CDATA[The IDF uncovered and neutralized an underground facility used to store weapons belonging to the Lebanese terrorist organization Hezbollah. During the operation, anti-tank missiles, RPG rockets, and artillery weapons were located.]]></description>
+            <link>https://www.israelnationalnews.com/news/431450</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431450</guid>
+            <pubDate>Sun, 09 Aug 2026 15:21:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Weapons cache uncovered in Binyamin region]]></title>
             <description><![CDATA[A short while ago, a team from the Judea and Samaria District’s interagency headquarters operated in the Binyamin area and located a cache of weapons. Police bomb disposal experts were called to the scene, while a suspect who was present at the site attacked the officers and injured them. The suspect was arrested.]]></description>
@@ -24,7 +31,7 @@
             <pubDate>Sun, 09 Aug 2026 14:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Teenager who went missing in Jordan River found dead]]></title>
+            <title><![CDATA[Child who went missing in Jordan River found dead]]></title>
             <description><![CDATA[Teen found dead after rescue forces conduct extensive searches in Jordan River he fell from a boat and contact with him was lost.]]></description>
             <link>https://www.israelnationalnews.com/news/431448</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/news/431448</guid>
@@ -214,9 +221,9 @@
         </item>
         <item>
             <title><![CDATA[Dear Jews: Grow a spine!]]></title>
-            <description><![CDATA[The publishing industry Jews helped build has now decided that we’re the liability. Here is a way to fight back. Op-ed.]]></description>
-            <link>https://www.israelnationalnews.com/news/431420</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431420</guid>
+            <description><![CDATA[Dear Jews: Grow a spine!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691389</guid>
             <pubDate>Sun, 09 Aug 2026 03:42:00 GMT</pubDate>
         </item>
         <item>
@@ -925,20 +932,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691290</guid>
             <pubDate>Thu, 06 Aug 2026 15:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reports of an Israeli drone strike on a motorcycle in southern Lebanon]]></title>
-            <description><![CDATA[Reports of an Israeli drone strike on a motorcycle in southern Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691289</guid>
-            <pubDate>Thu, 06 Aug 2026 15:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Court releases Israelis who crossed into Lebanon]]></title>
-            <description><![CDATA[Court releases Israelis who crossed into Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691288</guid>
-            <pubDate>Thu, 06 Aug 2026 14:43:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

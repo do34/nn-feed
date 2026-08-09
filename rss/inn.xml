@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 18:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 19:33:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 18:40:30 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 19:33:43 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Montreal: Government blow to Hasidic institutions]]></title>
+            <description><![CDATA[Three educational institutions affiliated with the Belz Hasidic movement in Montreal lost their licenses just before the start of the school year due to ongoing systemic failures.]]></description>
+            <link>https://www.israelnationalnews.com/news/431464</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431464</guid>
+            <pubDate>Sun, 09 Aug 2026 19:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two aircraft entered restricted airspace over Trump's golf club over the weekend]]></title>
+            <description><![CDATA[US media reported that two civilian aircraft entered restricted airspace over Bedminster, New Jersey, where President Donald Trump’s golf club is located and where he was staying at the time.
+
+F-16 fighter jets were scrambled toward the aircraft and escorted them out of the restricted airspace.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691436</guid>
+            <pubDate>Sun, 09 Aug 2026 19:17:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump: US 'low keying' Iran]]></title>
             <description><![CDATA[Trump says US will maintain economic pressure on Iran for now, as Tehran delays a Strait of Hormuz agreement and demands an end to the war.]]></description>
@@ -25,9 +41,9 @@
         </item>
         <item>
             <title><![CDATA[Watch: Son of former MK arrested with loaded pistol near Ramla]]></title>
-            <description><![CDATA[Watch: Son of former MK arrested with loaded pistol near Ramla]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691433</guid>
+            <description><![CDATA[Police arrested the son of a former MK after finding a loaded FN pistol in his vehicle during a traffic stop on Route 44 near Ramla.]]></description>
+            <link>https://www.israelnationalnews.com/news/431462</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431462</guid>
             <pubDate>Sun, 09 Aug 2026 18:04:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +55,9 @@
         </item>
         <item>
             <title><![CDATA[Rambam Medical Center defended amid criticism: 'They were fighting alongside us']]></title>
-            <description><![CDATA[Rambam Medical Center defended amid criticism: 'They were fighting alongside us']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691431</guid>
+            <description><![CDATA[Didi Krieger, whose brother was critically wounded during the war, described his family's experience at the Rambam Medical Center: 'They did everything they could to save lives.']]></description>
+            <link>https://www.israelnationalnews.com/news/431460</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431460</guid>
             <pubDate>Sun, 09 Aug 2026 17:51:00 GMT</pubDate>
         </item>
         <item>
@@ -53,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[Syria: ISIS cell captured near Golan Heights]]></title>
-            <description><![CDATA[Syria: ISIS cell captured near Golan Heights]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691429</guid>
+            <description><![CDATA[Syrian security forces in Damascus arrested nine terrorists in the city of Khan Arnabeh, near the Golan Heights. The arrests come amid efforts to thwart the smuggling of drones and missiles to Hezbollah.]]></description>
+            <link>https://www.israelnationalnews.com/news/431458</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431458</guid>
             <pubDate>Sun, 09 Aug 2026 17:31:00 GMT</pubDate>
         </item>
         <item>
@@ -207,16 +223,16 @@
         </item>
         <item>
             <title><![CDATA[Disturbing footage: Two M16 Rifles and IDF ammunition seized in the Negev]]></title>
-            <description><![CDATA[Southern District police officers and Border Police forces operating in Lakiya and Hura seized two M16 rifles, dozens of magazines, 19 explosive grenade launcher rounds, and hundreds of rounds of IDF ammunition.]]></description>
-            <link>https://www.israelnationalnews.com/news/431439</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431439</guid>
+            <description><![CDATA[Disturbing footage: Two M16 Rifles and IDF ammunition seized in the Negev]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691406</guid>
             <pubDate>Sun, 09 Aug 2026 11:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five-year-old dies after being found in hot car in Lod]]></title>
-            <description><![CDATA[A five-year-old child was found unconscious in a vehicle in Lod and rushed to Shamir-Assaf Harofeh Hospital in critical condition, where doctors later declared his death.]]></description>
-            <link>https://www.israelnationalnews.com/news/431438</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431438</guid>
+            <description><![CDATA[Five-year-old dies after being found in hot car in Lod]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691405</guid>
             <pubDate>Sun, 09 Aug 2026 11:12:00 GMT</pubDate>
         </item>
         <item>
@@ -932,27 +948,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691305</guid>
             <pubDate>Thu, 06 Aug 2026 19:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Father parts from son: 'We felt that something bad was happening']]></title>
-            <description><![CDATA[Father parts from son: 'We felt that something bad was happening']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691304</guid>
-            <pubDate>Thu, 06 Aug 2026 19:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[National Digital Agency warns: Hackers' new scam]]></title>
-            <description><![CDATA[National Digital Agency warns: Hackers' new scam]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691303</guid>
-            <pubDate>Thu, 06 Aug 2026 19:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthony Fauci made science friction]]></title>
-            <description><![CDATA[Anthony Fauci made science friction]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691302</guid>
-            <pubDate>Thu, 06 Aug 2026 18:52:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

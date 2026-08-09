@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 21:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 22:31:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 21:32:11 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 22:31:12 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Secret revealed: Top Hamas commander held in Israel for two years]]></title>
+            <description><![CDATA[Terrorist Basel Salahieh, a senior commander in Hamas's military wing, has been secretly detained in Israel for two years and is now set to face trial.]]></description>
+            <link>https://www.israelnationalnews.com/news/431468</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431468</guid>
+            <pubDate>Sun, 09 Aug 2026 22:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Motorcyclist seriously injured after being struck by car in Jaljulia]]></title>
+            <description><![CDATA[A motorcyclist in his 20s was seriously injured after being hit by a car in Jaljulia.
+
+Magen David Adom (MDA) paramedics treated him at the scene and evacuated him to Beilinson Hospital in Petah Tikva.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691441</guid>
+            <pubDate>Sun, 09 Aug 2026 21:36:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Houthi forces launch missiles and drones at Yemen’s port city of Mocha]]></title>
             <description><![CDATA[Houthi forces renew missile and drone strikes on the Red Sea port city of Mocha, targeting Saudi-backed military assets amid mounting tensions.]]></description>
@@ -25,9 +41,9 @@
         </item>
         <item>
             <title><![CDATA[Drama in New Jersey: F-16s scrambled near Trump’s golf club]]></title>
-            <description><![CDATA[Drama in New Jersey: F-16s scrambled near Trump’s golf club]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691438</guid>
+            <description><![CDATA[NORAD F-16 fighter jets intercept two civilian planes that entered restricted airspace over President Trump’s Bedminster, New Jersey golf course.]]></description>
+            <link>https://www.israelnationalnews.com/news/431465</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431465</guid>
             <pubDate>Sun, 09 Aug 2026 20:40:00 GMT</pubDate>
         </item>
         <item>
@@ -209,14 +225,14 @@ F-16 fighter jets were scrambled toward the aircraft and escorted them out of th
         </item>
         <item>
             <title><![CDATA[Passengers panic as bus driver smashes window during route to Modi'in Illit]]></title>
-            <description><![CDATA[Driver allegedly lost his temper during confrontation with passenger after skipping a stop; Kavim suspended him pending investigation.]]></description>
-            <link>https://www.israelnationalnews.com/news/431443</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431443</guid>
+            <description><![CDATA[Passengers panic as bus driver smashes window during route to Modi'in Illit]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691412</guid>
             <pubDate>Sun, 09 Aug 2026 12:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sephora to open first stores in Israel this month]]></title>
-            <description><![CDATA[French beauty retailer Sephora will open its first stores in Israel on August 20. The initial locations will be at Azrieli Tel Aviv, Malha Mall, and Ayalon Mall, with three additional stores expected to open later.]]></description>
+            <description><![CDATA[Sephora to open first stores in Israel this month]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691411</guid>
             <pubDate>Sun, 09 Aug 2026 12:29:00 GMT</pubDate>
@@ -913,20 +929,6 @@ F-16 fighter jets were scrambled toward the aircraft and escorted them out of th
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691313</guid>
             <pubDate>Thu, 06 Aug 2026 22:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11 civilians injured in Houthi strike in Saudi Arabia amid rising regional tensions]]></title>
-            <description><![CDATA[11 civilians injured in Houthi strike in Saudi Arabia amid rising regional tensions]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691312</guid>
-            <pubDate>Thu, 06 Aug 2026 22:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motorcyclist killed after being struck by vehicle in Eilat]]></title>
-            <description><![CDATA[Motorcyclist killed after being struck by vehicle in Eilat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691311</guid>
-            <pubDate>Thu, 06 Aug 2026 21:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 17:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 18:57:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 17:51:41 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 18:57:32 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Poll: Good news for right-wing bloc]]></title>
+            <description><![CDATA[A Channel 14 News poll gives the right-wing bloc some good news.]]></description>
+            <link>https://www.israelnationalnews.com/news/431517</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431517</guid>
+            <pubDate>Mon, 10 Aug 2026 18:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Dangerous provocation': Satmar Rebbe sticks up for Mamdani]]></title>
+            <description><![CDATA[Satmar Grand Rebbe Rabbi Zalman Leib Teitelbaum condemned efforts to brand Zohran Mamdani an antisemite, warning they could provoke hostility.]]></description>
+            <link>https://www.israelnationalnews.com/news/431516</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431516</guid>
+            <pubDate>Mon, 10 Aug 2026 18:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Shin Bet's denial]]></title>
+            <description><![CDATA[The Shin Bet's denial]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691497</guid>
+            <pubDate>Mon, 10 Aug 2026 18:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump: 'Iran should be responsible for death in Lebanon, Syria, Yemen, and Gaza']]></title>
+            <description><![CDATA[Trump rejects Iran's compensation demands and says Iran should "be responsible for the damages and death caused to the people of Lebanon, Syria, Yemen, and Gaza!"]]></description>
+            <link>https://www.israelnationalnews.com/news/431514</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431514</guid>
+            <pubDate>Mon, 10 Aug 2026 17:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump rejects Iran's war reparations demand, makes his own]]></title>
             <description><![CDATA[Trump rejects Iran's compensation demands and orders US negotiators to seek payments for Americans killed or wounded in conflicts with Tehran.]]></description>
@@ -25,9 +53,9 @@
         </item>
         <item>
             <title><![CDATA[A special light to break the deepest darkness]]></title>
-            <description><![CDATA[A special light to break the deepest darkness]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691493</guid>
+            <description><![CDATA[Post-Tu b’Av Full Moon, a Special Shabbat Night, and the Rebbe’s Remarks in His Last Public Address.]]></description>
+            <link>https://www.israelnationalnews.com/news/431512</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431512</guid>
             <pubDate>Mon, 10 Aug 2026 17:18:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +67,9 @@
         </item>
         <item>
             <title><![CDATA[US CENTCOM chief attends IDF operations forum]]></title>
-            <description><![CDATA[US CENTCOM chief attends IDF operations forum]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691491</guid>
+            <description><![CDATA[IDF Chief of Staff Zamir: We are at a strategic crossroads, prepared to return to high-intensity combat.’]]></description>
+            <link>https://www.israelnationalnews.com/news/431510</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431510</guid>
             <pubDate>Mon, 10 Aug 2026 17:06:00 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +81,15 @@
         </item>
         <item>
             <title><![CDATA[Sa'ar: 'President of Colombia has demonstrated his leadership, values, and commitment to Israel']]></title>
-            <description><![CDATA[Sa'ar: 'President of Colombia has demonstrated his leadership, values, and commitment to Israel']]></description>
+            <description><![CDATA[Israeli Foreign Minister Gideon Sa'ar commended Colombia's decision to recognize Israel's sovereignty over the Golan Heights, calling it "historic," and thanking President De La Espriella and Minister of Foreign Affairs Omar Bula Escobar.
+
+Sa'ar noted that the decision follows his meeting with the President in Barranquilla, Colombia, last Thursday.
+
+"With this, the President of Colombia has demonstrated, in one of his first decisions in office, his leadership, his values, and his commitment to Israel and Israel's security," Sa'ar stated.
+
+"Israel is a small country without strategic depth. Having defensible borders is essential for Israel in order to guarantee the existence of the Jewish people in its historic homeland," he added.
+
+The Israeli Foreign Minister pledged to "continue to act so that more countries join the United States (under President Trump) and Colombia (under President De La Espriella) in recognizing Israel's sovereignty over the Golan, to which Israeli law was applied 45 years ago."]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691489</guid>
             <pubDate>Mon, 10 Aug 2026 16:34:00 GMT</pubDate>
@@ -67,9 +103,9 @@
         </item>
         <item>
             <title><![CDATA[Between Social Order and Tikkun Olam (Repairing the World)]]></title>
-            <description><![CDATA[Between Social Order and Tikkun Olam (Repairing the World)]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691487</guid>
+            <description><![CDATA[It is forbidden to harm Arabs or their property in order to deter them from harming Jews, or to expel them. It is forbidden for any person to break the law and take the law into his own hands.]]></description>
+            <link>https://www.israelnationalnews.com/news/431507</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431507</guid>
             <pubDate>Mon, 10 Aug 2026 16:06:00 GMT</pubDate>
         </item>
         <item>
@@ -193,30 +229,30 @@
         </item>
         <item>
             <title><![CDATA[Sanzer Rebbe: Most Israelis do not hate Torah learners]]></title>
-            <description><![CDATA[Sanzer Rebbe meet young haredi recently freed from military prison, praises his steadfastness, insisting 'most Jews in Israel' do not hate Torah students.]]></description>
-            <link>https://www.israelnationalnews.com/news/431490</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431490</guid>
+            <description><![CDATA[Sanzer Rebbe: Most Israelis do not hate Torah learners]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691469</guid>
             <pubDate>Mon, 10 Aug 2026 10:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Health Ministry official: 'BBC dropped interview after I questioned its reporting']]></title>
-            <description><![CDATA[Prof. Mitch Schwaber says he asked a senior BBC correspondent how the network would ensure accuracy in a report on Gaza's health situation after citing six examples of what he described as errors and journalistic negligence.]]></description>
-            <link>https://www.israelnationalnews.com/news/431489</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431489</guid>
+            <description><![CDATA[Health Ministry official: 'BBC dropped interview after I questioned its reporting']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691468</guid>
             <pubDate>Mon, 10 Aug 2026 08:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran: Strait of Hormuz won't reopen until US pays price]]></title>
-            <description><![CDATA[Tehran says Washington must end its military pressure and compensate Iran before the crucial shipping lane can be considered open again.]]></description>
-            <link>https://www.israelnationalnews.com/news/431487</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431487</guid>
+            <description><![CDATA[Iran: Strait of Hormuz won't reopen until US pays price]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691467</guid>
             <pubDate>Mon, 10 Aug 2026 08:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opposing Defense Min.: Maj.Gen. Avi Bluth expels Tal Yinon Dardik from Samaria]]></title>
-            <description><![CDATA[Central Command chief Maj. Gen. Avi Bluth decided, contrary to the Defense Minister’s request, to renew the administrative detention order against Tal Yinon Dardik, who is suspected of assaulting a Palestinian.]]></description>
-            <link>https://www.israelnationalnews.com/news/431488</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431488</guid>
+            <description><![CDATA[Opposing Defense Min.: Maj.Gen. Avi Bluth expels Tal Yinon Dardik from Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691466</guid>
             <pubDate>Mon, 10 Aug 2026 08:32:00 GMT</pubDate>
         </item>
         <item>
@@ -974,20 +1010,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691358</guid>
             <pubDate>Fri, 07 Aug 2026 19:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: IDF concealed Hezbollah drone strike which violated ceasefire]]></title>
-            <description><![CDATA[Report: IDF concealed Hezbollah drone strike which violated ceasefire]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691357</guid>
-            <pubDate>Fri, 07 Aug 2026 18:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthis target Saudi-aligned troops with drone and missile strikes]]></title>
-            <description><![CDATA[Houthis target Saudi-aligned troops with drone and missile strikes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691356</guid>
-            <pubDate>Fri, 07 Aug 2026 18:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 20:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 21:41:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 20:45:04 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 21:41:11 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Israel’s Arch-Enemy: The head of the Supreme National Security Council in Tehran]]></title>
+            <description><![CDATA[Rezaei was the first commander of the IRGC Intelligence Unit and later, in 1980, was appointed by Khomeini to command the IRGC itself. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431524</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431524</guid>
+            <pubDate>Mon, 10 Aug 2026 21:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Older Americans are showing up while the younger generation is Missing in Action]]></title>
+            <description><![CDATA[There seems to be a generation gap in awareness and action. Time to focus on those who come out to rallies and want to make their voices heard. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431523</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431523</guid>
+            <pubDate>Mon, 10 Aug 2026 21:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['You’ll find out': Trump teases escalation option with Iran]]></title>
+            <description><![CDATA[President Trump warns that military options remain open, rejects Iran's reparations demands, and declares US Navy control over the Strait of Hormuz.]]></description>
+            <link>https://www.israelnationalnews.com/news/431522</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431522</guid>
+            <pubDate>Mon, 10 Aug 2026 21:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IAEA to extract nuclear materials from clandestine Syrian 'Site 99']]></title>
             <description><![CDATA[The IAEA will extract nuclear material from a secret Syrian site following a US-brokered deal with Damascus and Israel to avert a regional escalation, reports Axios.]]></description>
@@ -208,23 +229,23 @@ The Israeli Foreign Minister pledged to "continue to act so that more countries 
         </item>
         <item>
             <title><![CDATA[Protecting Torah life in the digital age]]></title>
-            <description><![CDATA[We must protect our communities from online messages intended to weaken faith, normalize transgression, and influence others-particularly the young and vulnerable-to reject the sacred foundations of Jewish life.]]></description>
-            <link>https://www.israelnationalnews.com/news/431498</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431498</guid>
+            <description><![CDATA[Protecting Torah life in the digital age]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691476</guid>
             <pubDate>Mon, 10 Aug 2026 12:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Record number of illegal Palestinian structures demolished in Judea and Samaria]]></title>
-            <description><![CDATA[New Civil Administration data show record 536 illegal Arab structures demolished in just six months, as Israel steps up enforcement in Area C.]]></description>
-            <link>https://www.israelnationalnews.com/news/431496</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431496</guid>
+            <description><![CDATA[Record number of illegal Palestinian structures demolished in Judea and Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691475</guid>
             <pubDate>Mon, 10 Aug 2026 12:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Massive brush fire races toward Gush Etzion farm]]></title>
-            <description><![CDATA[Strong winds driving fast-moving wildfire toward farm in Gush Etzion, firefighting aircraft and ground crews battle to halt advance.]]></description>
-            <link>https://www.israelnationalnews.com/news/431494</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431494</guid>
+            <description><![CDATA[Massive brush fire races toward Gush Etzion farm]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691474</guid>
             <pubDate>Mon, 10 Aug 2026 11:45:00 GMT</pubDate>
         </item>
         <item>
@@ -1010,13 +1031,6 @@ The Israeli Foreign Minister pledged to "continue to act so that more countries 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691362</guid>
             <pubDate>Fri, 07 Aug 2026 21:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[United Airlines returns to Israel: Two daily flights to New York]]></title>
-            <description><![CDATA[United Airlines returns to Israel: Two daily flights to New York]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691361</guid>
-            <pubDate>Fri, 07 Aug 2026 21:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

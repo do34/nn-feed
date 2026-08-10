@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 07:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 09:21:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 07:41:27 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 09:21:33 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Health Ministry official: 'BBC dropped interview after I questioned its reporting']]></title>
+            <description><![CDATA[Prof. Mitch Schwaber says he asked a senior BBC correspondent how the network would ensure accuracy in a report on Gaza's health situation after citing six examples of what he described as errors and journalistic negligence.]]></description>
+            <link>https://www.israelnationalnews.com/news/431489</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431489</guid>
+            <pubDate>Mon, 10 Aug 2026 08:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran: Strait of Hormuz won't reopen until US pays price]]></title>
+            <description><![CDATA[Tehran says Washington must end its military pressure and compensate Iran before the crucial shipping lane can be considered open again.]]></description>
+            <link>https://www.israelnationalnews.com/news/431487</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431487</guid>
+            <pubDate>Mon, 10 Aug 2026 08:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opposing Defense Min.: Maj.Gen. Avi Bluth expels Tal Yinon Dardik from Samaria]]></title>
+            <description><![CDATA[Central Command chief Maj. Gen. Avi Bluth decided, contrary to the Defense Minister’s request, to renew the administrative detention order against Tal Yinon Dardik, who is suspected of assaulting a Palestinian.]]></description>
+            <link>https://www.israelnationalnews.com/news/431488</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431488</guid>
+            <pubDate>Mon, 10 Aug 2026 08:32:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel demands answers on Ron Arad, missing Jews in Lebanon talks]]></title>
             <description><![CDATA[Lebanese media say Israel used latest round of negotiations to press for answers on Ron Arad and other Jews missing since Lebanon's civil war.]]></description>
@@ -27,9 +48,9 @@ According to Israel Railways, the system is designed to enable an increase in tr
         </item>
         <item>
             <title><![CDATA[Study warns: Israel's eastern border could become 'next October 7']]></title>
-            <description><![CDATA[Study warns: Israel's eastern border could become 'next October 7']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691463</guid>
+            <description><![CDATA[A new study paints a troubling picture of the Jordanian border, urging Israel to strengthen ties with Jordan, accelerate construction of border and reinforce Jordan Valley communities.]]></description>
+            <link>https://www.israelnationalnews.com/news/431486</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431486</guid>
             <pubDate>Mon, 10 Aug 2026 06:53:00 GMT</pubDate>
         </item>
         <item>
@@ -41,9 +62,9 @@ According to Israel Railways, the system is designed to enable an increase in tr
         </item>
         <item>
             <title><![CDATA[Exclusive: Jurisdiction of Givat Harel officially approved]]></title>
-            <description><![CDATA[Exclusive: Jurisdiction of Givat Harel officially approved]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691461</guid>
+            <description><![CDATA[The jurisdiction of Givat Harel (Carmei Oz) over declared state lands has been officially approved, with Kida and Esh Kodesh receiving official recognition. Israel Ganz: 'A major step toward growth in Binyamin.']]></description>
+            <link>https://www.israelnationalnews.com/news/431485</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431485</guid>
             <pubDate>Mon, 10 Aug 2026 06:22:00 GMT</pubDate>
         </item>
         <item>
@@ -210,23 +231,21 @@ Magen David Adom (MDA) paramedics treated him at the scene and evacuated him to 
         </item>
         <item>
             <title><![CDATA[Drama in New Jersey: F-16s scrambled near Trump’s golf club]]></title>
-            <description><![CDATA[NORAD F-16 fighter jets intercept two civilian planes that entered restricted airspace over President Trump’s Bedminster, New Jersey golf course.]]></description>
-            <link>https://www.israelnationalnews.com/news/431465</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431465</guid>
+            <description><![CDATA[Drama in New Jersey: F-16s scrambled near Trump’s golf club]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691438</guid>
             <pubDate>Sun, 09 Aug 2026 20:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Montreal: Government blow to Hasidic institutions]]></title>
-            <description><![CDATA[Three educational institutions affiliated with the Belz Hasidic movement in Montreal lost their licenses just before the start of the school year due to ongoing systemic failures.]]></description>
-            <link>https://www.israelnationalnews.com/news/431464</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431464</guid>
+            <description><![CDATA[Montreal: Government blow to Hasidic institutions]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691437</guid>
             <pubDate>Sun, 09 Aug 2026 19:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two aircraft entered restricted airspace over Trump's golf club over the weekend]]></title>
-            <description><![CDATA[US media reported that two civilian aircraft entered restricted airspace over Bedminster, New Jersey, where President Donald Trump’s golf club is located and where he was staying at the time.
-
-F-16 fighter jets were scrambled toward the aircraft and escorted them out of the restricted airspace.]]></description>
+            <description><![CDATA[Two aircraft entered restricted airspace over Trump's golf club over the weekend]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691436</guid>
             <pubDate>Sun, 09 Aug 2026 19:17:00 GMT</pubDate>
@@ -916,27 +935,6 @@ F-16 fighter jets were scrambled toward the aircraft and escorted them out of th
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691339</guid>
             <pubDate>Fri, 07 Aug 2026 09:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Defense Minister left Security Cabinet meeting for wedding]]></title>
-            <description><![CDATA[Report: Defense Minister left Security Cabinet meeting for wedding]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691338</guid>
-            <pubDate>Fri, 07 Aug 2026 09:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mass shooting at Thai school leaves seven dead]]></title>
-            <description><![CDATA[Mass shooting at Thai school leaves seven dead]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691337</guid>
-            <pubDate>Fri, 07 Aug 2026 08:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oct. 7 terrorist caught driving Gaza aid truck]]></title>
-            <description><![CDATA[Oct. 7 terrorist caught driving Gaza aid truck]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691336</guid>
-            <pubDate>Fri, 07 Aug 2026 07:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,13 +4,41 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 13:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 14:58:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 13:07:37 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 14:58:33 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[Peace Council: Israel already implementing rejected Gaza plan]]></title>
+            <title><![CDATA[20 buildings collapse, at least 2 dead, in Colombia earthquake]]></title>
+            <description><![CDATA[At least two people have died and 20 buildings have collapsed in a powerful earthquake in the country of Colombia. Many people remain trapped under the debris.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691483</guid>
+            <pubDate>Mon, 10 Aug 2026 14:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 years after his death, Roi Klein's son follows in his father's footsteps]]></title>
+            <description><![CDATA[Twenty years after Major Roi Klein fell in Bint Jbeil, his eldest son Gilad enlisted in his father's Golani 51st Battalion alongside his brother.]]></description>
+            <link>https://www.israelnationalnews.com/news/431503</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431503</guid>
+            <pubDate>Mon, 10 Aug 2026 14:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu launches national AI program: ‘Israel will be a global power’]]></title>
+            <description><![CDATA[Netanyahu launches national AI program: ‘Israel will be a global power’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691481</guid>
+            <pubDate>Mon, 10 Aug 2026 14:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Blood-boiling': Historic Irgun outpost in Safed vandalized]]></title>
+            <description><![CDATA[Safed historian Yaakov Schenkman discovered an Irgun heritage site vandalized, with its Israeli flag torn down, gate ripped out and trash strewn inside.]]></description>
+            <link>https://www.israelnationalnews.com/news/431501</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431501</guid>
+            <pubDate>Mon, 10 Aug 2026 13:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Board of Peace: Israel already implementing rejected Gaza plan]]></title>
             <description><![CDATA[Senior officials behind US President Donald Trump's Gaza initiative say Israel's actions on the ground align with the 15-point proposal, despite Prime Minister Benjamin Netanyahu's public rejection of it.]]></description>
             <link>https://www.israelnationalnews.com/news/431495</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/news/431495</guid>
@@ -25,9 +53,9 @@
         </item>
         <item>
             <title><![CDATA[Europe's Odyssey]]></title>
-            <description><![CDATA[Europe's Odyssey]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691477</guid>
+            <description><![CDATA[Both Turkey and Qatar are strong supporters of the Muslim Brotherhood and collaborate to finance the construction of mosques in Europe.]]></description>
+            <link>https://www.israelnationalnews.com/news/431499</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431499</guid>
             <pubDate>Mon, 10 Aug 2026 12:52:00 GMT</pubDate>
         </item>
         <item>
@@ -195,32 +223,30 @@ According to Israel Railways, the system is designed to enable an increase in tr
         </item>
         <item>
             <title><![CDATA['Two different Americas' | El-Sayed hits back at Trump post after winning Michigan primary]]></title>
-            <description><![CDATA[Michigan Senate candidate Abdul El-Sayed pushes back against Trump’s social media post comparing their marriages and visions for the country.]]></description>
-            <link>https://www.israelnationalnews.com/news/431475</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431475</guid>
+            <description><![CDATA['Two different Americas' | El-Sayed hits back at Trump post after winning Michigan primary]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691453</guid>
             <pubDate>Mon, 10 Aug 2026 03:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lebanese report rules out September negotiations with Israel]]></title>
-            <description><![CDATA[Hezbollah-affiliated Lebanese network report indicates no Israel-Lebanon talks are scheduled for next month, following disagreements over pilot zones and border security.]]></description>
-            <link>https://www.israelnationalnews.com/news/431474</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431474</guid>
+            <description><![CDATA[Lebanese report rules out September negotiations with Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691452</guid>
             <pubDate>Mon, 10 Aug 2026 02:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yemen: 7 killed, dozens wounded in Houthi attack on port city of Mocha]]></title>
-            <description><![CDATA[The Yemeni military and local authorities announced that at least seven people were killed and 30 to 35 others were wounded in a large-scale missile and drone attack launched by Houthi rebels targeting the port city of Mocha.
-
-Earlier, the Houthis claimed responsibility for the incident, alleging the operation targeted weapons depots and Saudi military troop concentrations.]]></description>
+            <description><![CDATA[Yemen: 7 killed, dozens wounded in Houthi attack on port city of Mocha]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691451</guid>
             <pubDate>Mon, 10 Aug 2026 02:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hardliner Mohsen Rezaei to head Iran’s Supreme National Security Council]]></title>
-            <description><![CDATA[Iran appoints former Revolutionary Guards commander Mohsen Rezaei as secretary of the Supreme National Security Council following Mohammad Bagher Zolghadr's resignation.]]></description>
-            <link>https://www.israelnationalnews.com/news/431473</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431473</guid>
+            <description><![CDATA[Hardliner Mohsen Rezaei to head Iran’s Supreme National Security Council]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691450</guid>
             <pubDate>Mon, 10 Aug 2026 02:09:00 GMT</pubDate>
         </item>
         <item>
@@ -901,48 +927,6 @@ Earlier, the Houthis claimed responsibility for the incident, alleging the opera
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691354</guid>
             <pubDate>Fri, 07 Aug 2026 15:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Child's hand gets caught in a mixer beater]]></title>
-            <description><![CDATA[Child's hand gets caught in a mixer beater]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691353</guid>
-            <pubDate>Fri, 07 Aug 2026 14:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Revolution of the Resentful]]></title>
-            <description><![CDATA[The Revolution of the Resentful]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691352</guid>
-            <pubDate>Fri, 07 Aug 2026 14:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police: 'Contrary to false and irresponsible reports, no unusual incident in Tel Aviv District']]></title>
-            <description><![CDATA[Police: 'Contrary to false and irresponsible reports, no unusual incident in Tel Aviv District']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691351</guid>
-            <pubDate>Fri, 07 Aug 2026 13:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How strife can lay the seeds of Redemption]]></title>
-            <description><![CDATA[How strife can lay the seeds of Redemption]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691350</guid>
-            <pubDate>Fri, 07 Aug 2026 13:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 men rescued after drifting on inflatable mattress in Sea of Galilee; two treated for dehydration]]></title>
-            <description><![CDATA[4 men rescued after drifting on inflatable mattress in Sea of Galilee; two treated for dehydration]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691349</guid>
-            <pubDate>Fri, 07 Aug 2026 13:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mamdani’s verdict came before the evidence]]></title>
-            <description><![CDATA[Mamdani’s verdict came before the evidence]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691348</guid>
-            <pubDate>Fri, 07 Aug 2026 13:09:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

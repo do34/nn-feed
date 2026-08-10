@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 14:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 16:04:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 14:58:33 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 16:04:54 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Druze town cancels festival over fears of clashes and violence]]></title>
+            <description><![CDATA[Beit Jann's Yalla Ba'Galil festival, featuring Jewish and Druze artists, was canceled over fears of clashes, with reports saying Eden Ben-Zaken's planned performance sparked the dispute.]]></description>
+            <link>https://www.israelnationalnews.com/news/431506</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431506</guid>
+            <pubDate>Mon, 10 Aug 2026 16:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Promised reserved slot, then backtracked: Ex-hostage's mother slams Yair Golan]]></title>
+            <description><![CDATA[Einav Zangauker claims that during a meeting with Yair Golan in February, she was offered a reserved spot near the top of the Democrats’ Knesset slate and that the agreement was subsequently reaffirmed.]]></description>
+            <link>https://www.israelnationalnews.com/news/431505</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431505</guid>
+            <pubDate>Mon, 10 Aug 2026 15:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspect impersonated rival to threaten Ben-Gvir and MK Sukkot]]></title>
+            <description><![CDATA[Suspect impersonated rival to threaten Ben-Gvir and MK Sukkot]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691484</guid>
+            <pubDate>Mon, 10 Aug 2026 15:11:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[20 buildings collapse, at least 2 dead, in Colombia earthquake]]></title>
             <description><![CDATA[At least two people have died and 20 buildings have collapsed in a powerful earthquake in the country of Colombia. Many people remain trapped under the debris.]]></description>
@@ -25,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[Netanyahu launches national AI program: ‘Israel will be a global power’]]></title>
-            <description><![CDATA[Netanyahu launches national AI program: ‘Israel will be a global power’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691481</guid>
+            <description><![CDATA[In announcing AI program, PM Netanyahu says: “The future is not waiting for us; we are creating it."]]></description>
+            <link>https://www.israelnationalnews.com/news/431502</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431502</guid>
             <pubDate>Mon, 10 Aug 2026 14:04:00 GMT</pubDate>
         </item>
         <item>
@@ -202,23 +223,23 @@ According to Israel Railways, the system is designed to enable an increase in tr
         </item>
         <item>
             <title><![CDATA[Podcast: The smart way to invest a lump sum you don’t need yet]]></title>
-            <description><![CDATA[Before you chase dividends, crypto, or hot stocks, make sure your money has a clear purpose.]]></description>
-            <link>https://www.israelnationalnews.com/news/431477</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431477</guid>
+            <description><![CDATA[Podcast: The smart way to invest a lump sum you don’t need yet]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691456</guid>
             <pubDate>Mon, 10 Aug 2026 03:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blow to Gantz: Dedi Simhi weighs move to Likud]]></title>
-            <description><![CDATA[Dedi Simhi, tapped as the No. 2 candidate on Benny Gantz's slate, is reconsidering his political future and considering a jump to Likud if offered a guaranteed spot on their roster.]]></description>
-            <link>https://www.israelnationalnews.com/news/431478</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431478</guid>
+            <description><![CDATA[Blow to Gantz: Dedi Simhi weighs move to Likud]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691455</guid>
             <pubDate>Mon, 10 Aug 2026 03:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't wait for Babylon]]></title>
-            <description><![CDATA[Why Christians should examine our own backsliding before condemning Israel or the Jewish People.]]></description>
-            <link>https://www.israelnationalnews.com/news/431476</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431476</guid>
+            <description><![CDATA[Don't wait for Babylon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691454</guid>
             <pubDate>Mon, 10 Aug 2026 03:34:00 GMT</pubDate>
         </item>
         <item>
@@ -920,13 +941,6 @@ According to Israel Railways, the system is designed to enable an increase in tr
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
             <pubDate>Fri, 07 Aug 2026 16:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Akunis cancels New York Times subscriptions at Israeli Consulate]]></title>
-            <description><![CDATA[Akunis cancels New York Times subscriptions at Israeli Consulate]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691354</guid>
-            <pubDate>Fri, 07 Aug 2026 15:02:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

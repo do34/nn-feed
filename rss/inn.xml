@@ -4,11 +4,74 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 16:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 17:51:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 16:04:54 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 17:51:41 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump rejects Iran's war reparations demand, makes his own]]></title>
+            <description><![CDATA[Trump rejects Iran's compensation demands and orders US negotiators to seek payments for Americans killed or wounded in conflicts with Tehran.]]></description>
+            <link>https://www.israelnationalnews.com/news/431514</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431514</guid>
+            <pubDate>Mon, 10 Aug 2026 17:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least 77 dead in powerful Colombia earthquake]]></title>
+            <description><![CDATA[Colombian authorities report that at least 77 people have been killed in the 7.4-magnitude earthquake that struck the country.]]></description>
+            <link>https://www.israelnationalnews.com/news/431513</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431513</guid>
+            <pubDate>Mon, 10 Aug 2026 17:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A special light to break the deepest darkness]]></title>
+            <description><![CDATA[A special light to break the deepest darkness]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691493</guid>
+            <pubDate>Mon, 10 Aug 2026 17:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ahead of the New Year: IDF Chief presents shofar to CENTCOM Commander]]></title>
+            <description><![CDATA[IDF Chief Eyal Zamir presented CENTCOM Commander Admiral Brad Cooper with a shofar, praising the unprecedented strategic partnership between the militaries.]]></description>
+            <link>https://www.israelnationalnews.com/news/431511</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431511</guid>
+            <pubDate>Mon, 10 Aug 2026 17:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US CENTCOM chief attends IDF operations forum]]></title>
+            <description><![CDATA[US CENTCOM chief attends IDF operations forum]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691491</guid>
+            <pubDate>Mon, 10 Aug 2026 17:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bennett moved by new IDF recruits: 'An incredible generation']]></title>
+            <description><![CDATA[Former Prime Minister Naftali Bennett arrived at the IDF induction center to accompany new recruits joining the Golani Brigade and the Egoz Unit.]]></description>
+            <link>https://www.israelnationalnews.com/news/431509</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431509</guid>
+            <pubDate>Mon, 10 Aug 2026 16:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sa'ar: 'President of Colombia has demonstrated his leadership, values, and commitment to Israel']]></title>
+            <description><![CDATA[Sa'ar: 'President of Colombia has demonstrated his leadership, values, and commitment to Israel']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691489</guid>
+            <pubDate>Mon, 10 Aug 2026 16:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colombia recognizes Israeli sovereignty over the Golan Heights]]></title>
+            <description><![CDATA[Read more.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691488</guid>
+            <pubDate>Mon, 10 Aug 2026 16:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Between Social Order and Tikkun Olam (Repairing the World)]]></title>
+            <description><![CDATA[Between Social Order and Tikkun Olam (Repairing the World)]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691487</guid>
+            <pubDate>Mon, 10 Aug 2026 16:06:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Druze town cancels festival over fears of clashes and violence]]></title>
             <description><![CDATA[Beit Jann's Yalla Ba'Galil festival, featuring Jewish and Druze artists, was canceled over fears of clashes, with reports saying Eden Ben-Zaken's planned performance sparked the dispute.]]></description>
@@ -25,9 +88,9 @@
         </item>
         <item>
             <title><![CDATA[Suspect impersonated rival to threaten Ben-Gvir and MK Sukkot]]></title>
-            <description><![CDATA[Suspect impersonated rival to threaten Ben-Gvir and MK Sukkot]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691484</guid>
+            <description><![CDATA[An eastern Jerusalem man known as 'Tarzan' was indicted after allegedly impersonating a rival to send death threats and weapon images to Ben-Gvir and Sukkot.]]></description>
+            <link>https://www.israelnationalnews.com/news/431504</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431504</guid>
             <pubDate>Mon, 10 Aug 2026 15:11:00 GMT</pubDate>
         </item>
         <item>
@@ -158,67 +221,65 @@
         </item>
         <item>
             <title><![CDATA[Israel demands answers on Ron Arad, missing Jews in Lebanon talks]]></title>
-            <description><![CDATA[Lebanese media say Israel used latest round of negotiations to press for answers on Ron Arad and other Jews missing since Lebanon's civil war.]]></description>
-            <link>https://www.israelnationalnews.com/news/431483</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431483</guid>
+            <description><![CDATA[Israel demands answers on Ron Arad, missing Jews in Lebanon talks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691465</guid>
             <pubDate>Mon, 10 Aug 2026 07:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel Railways expands ETCS pilot to the north]]></title>
-            <description><![CDATA[Israel Railways has begun conducting passenger-free test runs on the Karmiel-Ahihud line using the ETCS control and signaling system, following the launch of the pilot in the Jerusalem area, Modi'in, and along the Ayalon corridor.
-
-According to Israel Railways, the system is designed to enable an increase in train frequency using the existing rail infrastructure, while improving safety and the management of train traffic.]]></description>
+            <description><![CDATA[Israel Railways expands ETCS pilot to the north]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691464</guid>
             <pubDate>Mon, 10 Aug 2026 07:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Study warns: Israel's eastern border could become 'next October 7']]></title>
-            <description><![CDATA[A new study paints a troubling picture of the Jordanian border, urging Israel to strengthen ties with Jordan, accelerate construction of border and reinforce Jordan Valley communities.]]></description>
-            <link>https://www.israelnationalnews.com/news/431486</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431486</guid>
+            <description><![CDATA[Study warns: Israel's eastern border could become 'next October 7']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691463</guid>
             <pubDate>Mon, 10 Aug 2026 06:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former Beit Shemesh mayor joins Erdan-Edelstein party]]></title>
-            <description><![CDATA[Aliza Bloch officially joins new political party founded by former ministers Gilad Erdan and Yuli Edelstein, after reportedly turning down reserved spot on Likud list.]]></description>
-            <link>https://www.israelnationalnews.com/news/431484</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431484</guid>
+            <description><![CDATA[Former Beit Shemesh mayor joins Erdan-Edelstein party]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691462</guid>
             <pubDate>Mon, 10 Aug 2026 06:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exclusive: Jurisdiction of Givat Harel officially approved]]></title>
-            <description><![CDATA[The jurisdiction of Givat Harel (Carmei Oz) over declared state lands has been officially approved, with Kida and Esh Kodesh receiving official recognition. Israel Ganz: 'A major step toward growth in Binyamin.']]></description>
-            <link>https://www.israelnationalnews.com/news/431485</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431485</guid>
+            <description><![CDATA[Exclusive: Jurisdiction of Givat Harel officially approved]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691461</guid>
             <pubDate>Mon, 10 Aug 2026 06:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No relief yet: Heat wave to continue through the week]]></title>
-            <description><![CDATA[Scorching conditions continue across Israel, with Jordan Valley expected to reach 44°C as forecasters warn of heavy to extreme heat stress.]]></description>
-            <link>https://www.israelnationalnews.com/news/431482</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431482</guid>
+            <description><![CDATA[No relief yet: Heat wave to continue through the week]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691460</guid>
             <pubDate>Mon, 10 Aug 2026 05:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Status Quo? The real implications of the 'Mecca Joint Defense Agreement']]></title>
-            <description><![CDATA[Deterrence replaces normalization: Riyadh has found a way to build real security architecture - with a NATO military power and with the only nuclear state in the Muslim world - without having to declare that it is actually abandoning Washington's normalization track.]]></description>
-            <link>https://www.israelnationalnews.com/news/431481</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431481</guid>
+            <description><![CDATA[What Status Quo? The real implications of the 'Mecca Joint Defense Agreement']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691459</guid>
             <pubDate>Mon, 10 Aug 2026 05:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israeli sovereignty NOW]]></title>
-            <description><![CDATA[Does Arab Palestinianism mean anything more than “Death to Israel!"? It does not seem so, meaning that Israeli sovereignty is the only practical solution.]]></description>
-            <link>https://www.israelnationalnews.com/news/431480</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431480</guid>
+            <description><![CDATA[Israeli sovereignty NOW]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691458</guid>
             <pubDate>Mon, 10 Aug 2026 04:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Put Israel to sleep': Secret recommendation concerning political echelon]]></title>
-            <description><![CDATA[Officials in a Middle Eastern country advised officials in another country to show flexibility, sign an agreement with Israel - and violate it if a large-scale military conflict breaks out. Is Israel once again falling victim to a “conception"?]]></description>
-            <link>https://www.israelnationalnews.com/news/431479</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431479</guid>
+            <description><![CDATA['Put Israel to sleep': Secret recommendation concerning political echelon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691457</guid>
             <pubDate>Mon, 10 Aug 2026 04:28:00 GMT</pubDate>
         </item>
         <item>
@@ -927,20 +988,6 @@ According to Israel Railways, the system is designed to enable an increase in tr
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691356</guid>
             <pubDate>Fri, 07 Aug 2026 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: The Israeli teen who impressed the US Ambassador]]></title>
-            <description><![CDATA[Watch: The Israeli teen who impressed the US Ambassador]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691355</guid>
-            <pubDate>Fri, 07 Aug 2026 17:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
-            <pubDate>Fri, 07 Aug 2026 16:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

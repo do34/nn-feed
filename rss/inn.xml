@@ -4,11 +4,55 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 05:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 07:41:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 05:26:43 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 07:41:27 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Israel demands answers on Ron Arad, missing Jews in Lebanon talks]]></title>
+            <description><![CDATA[Lebanese media say Israel used latest round of negotiations to press for answers on Ron Arad and other Jews missing since Lebanon's civil war.]]></description>
+            <link>https://www.israelnationalnews.com/news/431483</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431483</guid>
+            <pubDate>Mon, 10 Aug 2026 07:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel Railways expands ETCS pilot to the north]]></title>
+            <description><![CDATA[Israel Railways has begun conducting passenger-free test runs on the Karmiel-Ahihud line using the ETCS control and signaling system, following the launch of the pilot in the Jerusalem area, Modi'in, and along the Ayalon corridor.
+
+According to Israel Railways, the system is designed to enable an increase in train frequency using the existing rail infrastructure, while improving safety and the management of train traffic.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691464</guid>
+            <pubDate>Mon, 10 Aug 2026 07:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Study warns: Israel's eastern border could become 'next October 7']]></title>
+            <description><![CDATA[Study warns: Israel's eastern border could become 'next October 7']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691463</guid>
+            <pubDate>Mon, 10 Aug 2026 06:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former Beit Shemesh mayor joins Erdan-Edelstein party]]></title>
+            <description><![CDATA[Aliza Bloch officially joins new political party founded by former ministers Gilad Erdan and Yuli Edelstein, after reportedly turning down reserved spot on Likud list.]]></description>
+            <link>https://www.israelnationalnews.com/news/431484</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431484</guid>
+            <pubDate>Mon, 10 Aug 2026 06:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive: Jurisdiction of Givat Harel officially approved]]></title>
+            <description><![CDATA[Exclusive: Jurisdiction of Givat Harel officially approved]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691461</guid>
+            <pubDate>Mon, 10 Aug 2026 06:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No relief yet: Heat wave to continue through the week]]></title>
+            <description><![CDATA[Scorching conditions continue across Israel, with Jordan Valley expected to reach 44°C as forecasters warn of heavy to extreme heat stress.]]></description>
+            <link>https://www.israelnationalnews.com/news/431482</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431482</guid>
+            <pubDate>Mon, 10 Aug 2026 05:58:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Status Quo? The real implications of the 'Mecca Joint Defense Agreement']]></title>
             <description><![CDATA[Deterrence replaces normalization: Riyadh has found a way to build real security architecture - with a NATO military power and with the only nuclear state in the Muslim world - without having to declare that it is actually abandoning Washington's normalization track.]]></description>
@@ -25,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA['Put Israel to sleep': Secret recommendation concerning political echelon]]></title>
-            <description><![CDATA['Put Israel to sleep': Secret recommendation concerning political echelon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691457</guid>
+            <description><![CDATA[Officials in a Middle Eastern country advised officials in another country to show flexibility, sign an agreement with Israel - and violate it if a large-scale military conflict breaks out. Is Israel once again falling victim to a “conception"?]]></description>
+            <link>https://www.israelnationalnews.com/news/431479</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431479</guid>
             <pubDate>Mon, 10 Aug 2026 04:28:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +83,9 @@
         </item>
         <item>
             <title><![CDATA[Blow to Gantz: Dedi Simhi weighs move to Likud]]></title>
-            <description><![CDATA[Blow to Gantz: Dedi Simhi weighs move to Likud]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691455</guid>
+            <description><![CDATA[Dedi Simhi, tapped as the No. 2 candidate on Benny Gantz's slate, is reconsidering his political future and considering a jump to Likud if offered a guaranteed spot on their roster.]]></description>
+            <link>https://www.israelnationalnews.com/news/431478</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431478</guid>
             <pubDate>Mon, 10 Aug 2026 03:57:00 GMT</pubDate>
         </item>
         <item>
@@ -189,44 +233,44 @@ F-16 fighter jets were scrambled toward the aircraft and escorted them out of th
         </item>
         <item>
             <title><![CDATA[Trump: US 'low keying' Iran]]></title>
-            <description><![CDATA[Trump says US will maintain economic pressure on Iran for now, as Tehran delays a Strait of Hormuz agreement and demands an end to the war.]]></description>
-            <link>https://www.israelnationalnews.com/news/431463</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431463</guid>
+            <description><![CDATA[Trump: US 'low keying' Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691435</guid>
             <pubDate>Sun, 09 Aug 2026 18:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Central Command chief signs intent notice to destroy home of terrorist who murdered Yehuda Sherman]]></title>
-            <description><![CDATA[The head of IDF Central Command signed a notice of intent to confiscate and demolish the home of terrorist Duas Hasson, who carried out the attack in the Beit Imrin area in which Yehuda Sherman was killed and another civilian was wounded.]]></description>
+            <description><![CDATA[Central Command chief signs intent notice to destroy home of terrorist who murdered Yehuda Sherman]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691434</guid>
             <pubDate>Sun, 09 Aug 2026 18:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Son of former MK arrested with loaded pistol near Ramla]]></title>
-            <description><![CDATA[Police arrested the son of a former MK after finding a loaded FN pistol in his vehicle during a traffic stop on Route 44 near Ramla.]]></description>
-            <link>https://www.israelnationalnews.com/news/431462</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431462</guid>
+            <description><![CDATA[Watch: Son of former MK arrested with loaded pistol near Ramla]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691433</guid>
             <pubDate>Sun, 09 Aug 2026 18:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump shares Hillary Clinton column backing his Gaza peace plan]]></title>
-            <description><![CDATA[Trump shares Clinton's defense of his Gaza plan as a former World Bank official challenges her view and warns Palestinian skepticism remains deep.]]></description>
-            <link>https://www.israelnationalnews.com/news/431461</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431461</guid>
+            <description><![CDATA[Trump shares Hillary Clinton column backing his Gaza peace plan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691432</guid>
             <pubDate>Sun, 09 Aug 2026 17:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rambam Medical Center defended amid criticism: 'They were fighting alongside us']]></title>
-            <description><![CDATA[Didi Krieger, whose brother was critically wounded during the war, described his family's experience at the Rambam Medical Center: 'They did everything they could to save lives.']]></description>
-            <link>https://www.israelnationalnews.com/news/431460</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431460</guid>
+            <description><![CDATA[Rambam Medical Center defended amid criticism: 'They were fighting alongside us']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691431</guid>
             <pubDate>Sun, 09 Aug 2026 17:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Government expands housing discounts for reservists nationwide]]></title>
-            <description><![CDATA[Netanyahu, Katz and Smotrich unveil housing plan offering 20,000 reservists apartments and land, with discounts topping NIS 500,000.]]></description>
-            <link>https://www.israelnationalnews.com/news/431459</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431459</guid>
+            <description><![CDATA[Government expands housing discounts for reservists nationwide]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691430</guid>
             <pubDate>Sun, 09 Aug 2026 17:37:00 GMT</pubDate>
         </item>
         <item>
@@ -893,34 +937,6 @@ F-16 fighter jets were scrambled toward the aircraft and escorted them out of th
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691336</guid>
             <pubDate>Fri, 07 Aug 2026 07:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explosive drones: The new terror threat Israel is racing to stop]]></title>
-            <description><![CDATA[Explosive drones: The new terror threat Israel is racing to stop]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691335</guid>
-            <pubDate>Fri, 07 Aug 2026 07:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Fears grow over Mojtaba Khamenei's condition]]></title>
-            <description><![CDATA[Report: Fears grow over Mojtaba Khamenei's condition]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691334</guid>
-            <pubDate>Fri, 07 Aug 2026 06:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Human corpse washes up on Bat Yam beach]]></title>
-            <description><![CDATA[Human corpse washes up on Bat Yam beach]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691333</guid>
-            <pubDate>Fri, 07 Aug 2026 05:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Landmark ruling: Meta ordered to pay nearly $1 billion over child safety]]></title>
-            <description><![CDATA[Landmark ruling: Meta ordered to pay nearly $1 billion over child safety]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691332</guid>
-            <pubDate>Fri, 07 Aug 2026 05:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

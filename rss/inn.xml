@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 21:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 22:37:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 21:41:11 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 22:37:15 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Third suspect arrested in March synagogue shootings in Toronto area]]></title>
+            <description><![CDATA[Police charge a third suspect in March synagogue shootings in Toronto and Vaughan, resolving outstanding suspects as community leaders urge probe of foreign ties.]]></description>
+            <link>https://www.israelnationalnews.com/news/431525</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431525</guid>
+            <pubDate>Mon, 10 Aug 2026 22:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF strikes target in village of Al-Mansouri in southern Lebanon]]></title>
+            <description><![CDATA[The IDF carried out a strike on Monday evening in the southern Lebanese village of Al-Mansouri, located within the Israeli security zone.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691507</guid>
+            <pubDate>Mon, 10 Aug 2026 21:46:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel’s Arch-Enemy: The head of the Supreme National Security Council in Tehran]]></title>
             <description><![CDATA[Rezaei was the first commander of the IRGC Intelligence Unit and later, in 1980, was appointed by Khomeini to command the IRGC itself. Opinion.]]></description>
@@ -215,16 +229,16 @@ The Israeli Foreign Minister pledged to "continue to act so that more countries 
         </item>
         <item>
             <title><![CDATA[John Fetterman: 'Abdul El-Sayed has little-man syndrome energy']]></title>
-            <description><![CDATA[Pro-Israel Democratic Senator responds to radical Michigan Senate nominee who called to put his head 'on a pike.']]></description>
-            <link>https://www.israelnationalnews.com/news/431500</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431500</guid>
+            <description><![CDATA[John Fetterman: 'Abdul El-Sayed has little-man syndrome energy']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691478</guid>
             <pubDate>Mon, 10 Aug 2026 12:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Europe's Odyssey]]></title>
-            <description><![CDATA[Both Turkey and Qatar are strong supporters of the Muslim Brotherhood and collaborate to finance the construction of mosques in Europe.]]></description>
-            <link>https://www.israelnationalnews.com/news/431499</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431499</guid>
+            <description><![CDATA[Europe's Odyssey]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691477</guid>
             <pubDate>Mon, 10 Aug 2026 12:52:00 GMT</pubDate>
         </item>
         <item>
@@ -1017,20 +1031,6 @@ The Israeli Foreign Minister pledged to "continue to act so that more countries 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691364</guid>
             <pubDate>Fri, 07 Aug 2026 22:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF searching Kibbutz Zikim following breach discovered in perimeter fence]]></title>
-            <description><![CDATA[IDF searching Kibbutz Zikim following breach discovered in perimeter fence]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691363</guid>
-            <pubDate>Fri, 07 Aug 2026 22:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Lebanon and Israel select nations to monitor Hezbollah disarmament]]></title>
-            <description><![CDATA[Report: Lebanon and Israel select nations to monitor Hezbollah disarmament]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691362</guid>
-            <pubDate>Fri, 07 Aug 2026 21:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

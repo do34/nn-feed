@@ -738,5 +738,15 @@
     "description": "The IDF carried out a strike on Monday evening in the southern Lebanese village of Al-Mansouri, located within the Israeli security zone.",
     "link": "/flashes",
     "date": "Aug 11, 2026"
+  },
+  "flash_691510": {
+    "description": "Likud announces that its secretariat will be asked to approve guaranteed spots on its KNesset slate for Foreign Minister Sa'ar, Defense Minister Katz, and Central Committee chairman Haim Katz.",
+    "link": "/news/431526",
+    "date": "Aug 11, 2026"
+  },
+  "flash_691509": {
+    "description": "Libya's National Oil Corporation (NOC) announced that an unmanned aerial vehicle crashed near a primary oil storage tank and pipeline network at the Azzawiya refinery mixing facility. This marks the third such attack targeting the facility in just two days.\n\nThe corporation noted that no structural damage occurred and no casualties were reported. However, the company warned that if attacks on energy infrastructure persist, it will be forced to declare force majeure and initiate a total shutdown of the refinery's operations.",
+    "link": "/flashes",
+    "date": "Aug 11, 2026"
   }
 }

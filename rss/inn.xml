@@ -4,11 +4,36 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 21:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 22:41:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 21:46:57 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 22:41:49 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IDF interceptor mistakenly launched at friendly fire in southern Lebanon]]></title>
+            <description><![CDATA[A short while ago, an interceptor was mistakenly launched toward a target that was later identified as IDF fire from operations conducted within the Security Zone in southern Lebanon. No injuries were reported, the IDF Spokesperson's Unit said.
+
+The incident is under review. No sirens were sounded in accordance with protocol.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691577</guid>
+            <pubDate>Tue, 11 Aug 2026 22:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six dead as Houthi missiles strike commercial vessel in Bab el-Mandeb Strait]]></title>
+            <description><![CDATA[Houthi ballistic missile strike on a commercial vessel in the Bab el-Mandeb Strait kills six people, marking the first fatalities of this maritime conflict.]]></description>
+            <link>https://www.israelnationalnews.com/news/431579</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431579</guid>
+            <pubDate>Tue, 11 Aug 2026 22:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Likud: Oren Dobronsky granted reserved spot based on his experience]]></title>
+            <description><![CDATA[The Likud party is denying a report broadcast Tuesday evening on Channel 12 News claiming that Prime Minister Benjamin Netanyahu granted entrepreneur Oren Dobronsky a reserved spot on the election slate in order to undercut the political standing of Minister Nir Barkat.
+
+"The Prime Minister granted a reserved spot to Oren Dobronsky because he is a successful high-tech entrepreneur, philanthropist, and leading businessman who will bring his rich experience to developing Israel's economy, with a emphasis on the tech sector and advancing artificial intelligence in Israel," Likud said in a statement.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691575</guid>
+            <pubDate>Tue, 11 Aug 2026 21:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prosecutor recruitment failure: Why haven't the Nukhba terrorist trials begun?]]></title>
             <description><![CDATA[Despite recently allocated funding, the Military Advocate General's Corps has yet to fill the positions required to try hundreds of terrorists who participated in the October 7 massacre.]]></description>
@@ -204,25 +229,23 @@ Huckabee wrote on X: "Speaker of the Israeli Knesset Amir Ohana (a virtuoso guit
         </item>
         <item>
             <title><![CDATA[IDF eliminates Hamas sniper in Gaza]]></title>
-            <description><![CDATA[A short while ago, IDF troops identified a sniper from the Hamas terrorist organization who posed an immediate threat near the Yellow Line area, where IDF troops are operating in the northern Gaza Strip.
-
-Shortly after the identification, IDF troops fired toward the terrorist in order to remove the threat. A hit was identified.]]></description>
+            <description><![CDATA[IDF eliminates Hamas sniper in Gaza]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691547</guid>
             <pubDate>Tue, 11 Aug 2026 12:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hadar Muchtar won't run in Likud primaries]]></title>
-            <description><![CDATA[Prime Minister Benjamin Netanyahu approves seniority waivers allowing four candidates to run in the Likud primaries, denies same exemption to Hadar Muchtar.]]></description>
-            <link>https://www.israelnationalnews.com/news/431554</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431554</guid>
+            <description><![CDATA[Hadar Muchtar won't run in Likud primaries]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691546</guid>
             <pubDate>Tue, 11 Aug 2026 12:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former Mossad Chief: Mossad operatives toured Iran’s Fordow nuclear site ‘many times’]]></title>
-            <description><![CDATA[Former Mossad chief Yossi Cohen reveals operatives repeatedly visited Iran’s heavily fortified Fordow facility, calling the U.S. strike on the site 'the fulfillment of all my dreams.']]></description>
-            <link>https://www.israelnationalnews.com/news/431553</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431553</guid>
+            <description><![CDATA[Former Mossad Chief: Mossad operatives toured Iran’s Fordow nuclear site ‘many times’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691545</guid>
             <pubDate>Tue, 11 Aug 2026 12:04:00 GMT</pubDate>
         </item>
         <item>
@@ -1337,13 +1360,6 @@ Shortly after the identification, IDF troops fired toward the terrorist in order
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691385</guid>
             <pubDate>Sun, 09 Aug 2026 01:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antisemitic Incident at Manila Airport: “Hitler Was Right"]]></title>
-            <description><![CDATA[Antisemitic Incident at Manila Airport: “Hitler Was Right"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691384</guid>
-            <pubDate>Sat, 08 Aug 2026 22:27:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

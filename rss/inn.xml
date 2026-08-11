@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 22:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 23:40:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 22:41:49 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 23:40:02 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Danon at UN: Jewish communities will stay in Judea and Samaria]]></title>
+            <description><![CDATA[Israel’s UN Ambassador defends Jewish presence in Judea and Samaria at the Security Council, calling out anti-Israel bias over “settler violence".]]></description>
+            <link>https://www.israelnationalnews.com/news/431580</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431580</guid>
+            <pubDate>Tue, 11 Aug 2026 23:05:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IDF interceptor mistakenly launched at friendly fire in southern Lebanon]]></title>
             <description><![CDATA[A short while ago, an interceptor was mistakenly launched toward a target that was later identified as IDF fire from operations conducted within the Security Zone in southern Lebanon. No injuries were reported, the IDF Spokesperson's Unit said.
@@ -222,9 +229,9 @@ Huckabee wrote on X: "Speaker of the Israeli Knesset Amir Ohana (a virtuoso guit
         </item>
         <item>
             <title><![CDATA['No peace with such evil:' Be'eri resident's warning against Gaza deal]]></title>
-            <description><![CDATA[Be’eri resident and former head of the Eshkol Regional Council Haim Yellin warns about the plan for Gaza: Even with only a small portion of the territory, Hamas is capable of recreating October 7.]]></description>
-            <link>https://www.israelnationalnews.com/news/431557</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431557</guid>
+            <description><![CDATA['No peace with such evil:' Be'eri resident's warning against Gaza deal]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691548</guid>
             <pubDate>Tue, 11 Aug 2026 13:06:00 GMT</pubDate>
         </item>
         <item>

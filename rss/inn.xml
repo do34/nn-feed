@@ -4,11 +4,46 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 17:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 19:09:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 17:57:26 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 19:09:29 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Ben Gvir: Netanyahu planning unity government with Eisenkot]]></title>
+            <description><![CDATA[National Security Minister Itamar Ben Gvir slams Likud election slogan, warning government with Yashar! chair Gadi Eisenkot would 'bury the judicial reform,' grant victory to Attorney General Gali Baharav-Miara.]]></description>
+            <link>https://www.israelnationalnews.com/news/431570</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431570</guid>
+            <pubDate>Tue, 11 Aug 2026 19:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Our hands are tied': Terrorists approach fence, IDF refuses to approve strike]]></title>
+            <description><![CDATA[Soldiers reported that terrorists appeared to be preparing to cross the border and requested authorization to strike, but commanders refused.]]></description>
+            <link>https://www.israelnationalnews.com/news/431572</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431572</guid>
+            <pubDate>Tue, 11 Aug 2026 18:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF: Israelis tried to enter a PA village using an ambulance]]></title>
+            <description><![CDATA[IDF: Israelis tried to enter a PA village using an ambulance]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691565</guid>
+            <pubDate>Tue, 11 Aug 2026 18:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smotrich to Netanyahu: Don't let Abbas return to Ramallah]]></title>
+            <description><![CDATA[Finance Minister Bezalel Smotrich calls on Prime Minister Benjamin Netanyahu to bar Palestinian Authority Chairman Mahmoud Abbas from returning to Judea and Samaria following visit abroad. 'Palestinian Terrorist Authority must be dismantled.']]></description>
+            <link>https://www.israelnationalnews.com/news/431569</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431569</guid>
+            <pubDate>Tue, 11 Aug 2026 18:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report of explosions in Sirik, southern Iran]]></title>
+            <description><![CDATA[Report of explosions in Sirik, southern Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691563</guid>
+            <pubDate>Tue, 11 Aug 2026 18:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colombia earthquake: Jewish community hit]]></title>
             <description><![CDATA[Homes belonging to Jewish families collapsed and a synagogue was damaged.]]></description>
@@ -192,34 +227,30 @@ Erdan said he opposes both a commission appointed solely by the head of the judi
         </item>
         <item>
             <title><![CDATA[Yosef Haddad submits complaint against anti-Israel YouTuber after the brawl]]></title>
-            <description><![CDATA[Israeli-Arab advocacy activist Yoseph Haddad submits a complaint against Dennis Feitosa after the latter allegedly assaulted him during a debate.]]></description>
-            <link>https://www.israelnationalnews.com/news/431547</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431547</guid>
+            <description><![CDATA[Yosef Haddad submits complaint against anti-Israel YouTuber after the brawl]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691537</guid>
             <pubDate>Tue, 11 Aug 2026 09:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I am a father who sings': Former Hamas hostage debuts songs from captivity]]></title>
-            <description><![CDATA[Former Hamas hostage Sagui Dekel-Chen performed nine songs he composed during 498 days in captivity, returning to the Nir Oz lawn where he grew up.]]></description>
-            <link>https://www.israelnationalnews.com/news/431546</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431546</guid>
+            <description><![CDATA['I am a father who sings': Former Hamas hostage debuts songs from captivity]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691536</guid>
             <pubDate>Tue, 11 Aug 2026 09:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yosef Haddad files police complaint against far-right YouTuber who assaulted him]]></title>
-            <description><![CDATA[Following the violent assault last night (Monday) in Los Angeles, Israeli advocacy activist Yoseph Haddad filed an official police complaint against the attacker, Dennis Feitosa.
-
-Feitosa, a far-right activist, lost his temper during the recording of a podcast, cursed at Haddad, and attempted to attack him in the studio. He later ambushed Haddad in a parking lot and attacked him from behind.
-
-Haddad, a former Golani Brigade soldier, pushed back against and subdued the attacker. The matter is now also being handled as a criminal case by local law enforcement authorities in the United States.]]></description>
+            <description><![CDATA[Yosef Haddad files police complaint against far-right YouTuber who assaulted him]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691535</guid>
             <pubDate>Tue, 11 Aug 2026 08:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hared brigade completes first reservist exercise]]></title>
-            <description><![CDATA[The Shimon Battalion completed its first battalion-level exercise in the Golan Heights, marking the completion of its formation ahead of operational missions in the north.]]></description>
-            <link>https://www.israelnationalnews.com/news/431545</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431545</guid>
+            <description><![CDATA[Hared brigade completes first reservist exercise]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691534</guid>
             <pubDate>Tue, 11 Aug 2026 08:12:00 GMT</pubDate>
         </item>
         <item>
@@ -1341,27 +1372,6 @@ Haddad, a former Golani Brigade soldier, pushed back against and subdued the att
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691373</guid>
             <pubDate>Sat, 08 Aug 2026 19:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Passenger refuses to fly due to Shabbat]]></title>
-            <description><![CDATA[Passenger refuses to fly due to Shabbat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691372</guid>
-            <pubDate>Sat, 08 Aug 2026 18:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Attempted knife attack targets Israeli tent in Canada]]></title>
-            <description><![CDATA[Attempted knife attack targets Israeli tent in Canada]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691371</guid>
-            <pubDate>Sat, 08 Aug 2026 18:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia, Turkey, Pakistan forge mutual defense pact]]></title>
-            <description><![CDATA[Saudi Arabia, Turkey, Pakistan forge mutual defense pact]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691370</guid>
-            <pubDate>Sat, 08 Aug 2026 18:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

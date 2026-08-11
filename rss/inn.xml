@@ -4,11 +4,34 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 11:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 13:05:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 11:43:23 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 13:05:17 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IDF eliminates Hamas sniper in Gaza]]></title>
+            <description><![CDATA[A short while ago, IDF troops identified a sniper from the Hamas terrorist organization who posed an immediate threat near the Yellow Line area, where IDF troops are operating in the northern Gaza Strip.
+
+Shortly after the identification, IDF troops fired toward the terrorist in order to remove the threat. A hit was identified.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691547</guid>
+            <pubDate>Tue, 11 Aug 2026 12:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hadar Muchtar won't run in Likud primaries]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu approves seniority waivers allowing four candidates to run in the Likud primaries, denies same exemption to Hadar Muchtar.]]></description>
+            <link>https://www.israelnationalnews.com/news/431554</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431554</guid>
+            <pubDate>Tue, 11 Aug 2026 12:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former Mossad Chief: Mossad operatives toured Iran’s Fordow nuclear site ‘many times’]]></title>
+            <description><![CDATA[Former Mossad chief Yossi Cohen reveals operatives repeatedly visited Iran’s heavily fortified Fordow facility, calling the U.S. strike on the site 'the fulfillment of all my dreams.']]></description>
+            <link>https://www.israelnationalnews.com/news/431553</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431553</guid>
+            <pubDate>Tue, 11 Aug 2026 12:04:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cargo ship hit by projectile off the coast of Yemen, casualties reported]]></title>
             <description><![CDATA[UKMTO has been informed of an incident off the coast of Al Mokha, Yemen. It has been reported that a cargo vessel in the Southern Red Sea has been hit by an unknown projectile, resulting in casualties. Authorities are investigating.]]></description>
@@ -25,7 +48,9 @@
         </item>
         <item>
             <title><![CDATA[Erdan: Fundamental conditions for broad Zionist government is independent 10.7 commission]]></title>
-            <description><![CDATA[Erdan: Fundamental conditions for broad Zionist government is independent 10.7 commission]]></description>
+            <description><![CDATA[Gilad Erdan said that one of the fundamental conditions for forming a “broad Zionist government" would be the immediate establishment of an independent commission of inquiry into the events of October 7 that, he said, would have the public’s trust.
+
+Erdan said he opposes both a commission appointed solely by the head of the judicial system and a political commission appointed by politicians. According to Erdan, the commission’s composition should allow for an objective and professional investigation of all those involved in the failures that led to the massacre, including the political leadership, security establishment, and judicial system.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691542</guid>
             <pubDate>Tue, 11 Aug 2026 10:51:00 GMT</pubDate>
@@ -39,9 +64,9 @@
         </item>
         <item>
             <title><![CDATA[Oct. 7 fallen hero's brother follows him into Golani Brigade]]></title>
-            <description><![CDATA[Oct. 7 fallen hero's brother follows him into Golani Brigade]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691540</guid>
+            <description><![CDATA[The brother of Golani Sgt. Amichay Rubin, who fell fighting on Oct. 7, enlisted in the brigade, carrying on his brother's legacy despite the pain.]]></description>
+            <link>https://www.israelnationalnews.com/news/431551</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431551</guid>
             <pubDate>Tue, 11 Aug 2026 10:27:00 GMT</pubDate>
         </item>
         <item>
@@ -53,9 +78,9 @@
         </item>
         <item>
             <title><![CDATA[IDF demolishes home of terrorist who killed two soldiers]]></title>
-            <description><![CDATA[IDF demolishes home of terrorist who killed two soldiers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691538</guid>
+            <description><![CDATA[Security forces demolished the home of the terrorist responsible for the deadly attack near a village in Samaria, less than three weeks after the shooting that killed Yuval Ezra and Binyahu Mellet.]]></description>
+            <link>https://www.israelnationalnews.com/news/431548</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431548</guid>
             <pubDate>Tue, 11 Aug 2026 09:45:00 GMT</pubDate>
         </item>
         <item>
@@ -67,9 +92,9 @@
         </item>
         <item>
             <title><![CDATA['I am a father who sings': Former Hamas hostage debuts songs from captivity]]></title>
-            <description><![CDATA['I am a father who sings': Former Hamas hostage debuts songs from captivity]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691536</guid>
+            <description><![CDATA[Former Hamas hostage Sagui Dekel-Chen performed nine songs he composed during 498 days in captivity, returning to the Nir Oz lawn where he grew up.]]></description>
+            <link>https://www.israelnationalnews.com/news/431546</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431546</guid>
             <pubDate>Tue, 11 Aug 2026 09:02:00 GMT</pubDate>
         </item>
         <item>
@@ -208,23 +233,23 @@ The individual is being treated in isolation at Soroka Medical Center, while an 
         </item>
         <item>
             <title><![CDATA[The Spark and the Scalpel: Anatomy of a leaked Mossad operation]]></title>
-            <description><![CDATA[The Mossad just reassigned the men who promised to topple Tehran. The mission stands; the instrument was wrong.]]></description>
-            <link>https://www.israelnationalnews.com/news/431530</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431530</guid>
+            <description><![CDATA[The Spark and the Scalpel: Anatomy of a leaked Mossad operation]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691517</guid>
             <pubDate>Tue, 11 Aug 2026 02:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Houthis strike Yemeni city of Mocha for second consecutive day]]></title>
-            <description><![CDATA[Houthi rebels fire ballistic missiles at Mocha for a second straight day, targeting Saudi troops and arms depots with drones and projectiles.]]></description>
-            <link>https://www.israelnationalnews.com/news/431529</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431529</guid>
+            <description><![CDATA[Houthis strike Yemeni city of Mocha for second consecutive day]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691516</guid>
             <pubDate>Tue, 11 Aug 2026 02:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Catering truck and decoy jet: Secret mission to protect Trump from Iranian threat]]></title>
-            <description><![CDATA[The Washington Post reveals: US officials used a decoy Air Force One and a catering truck to secretly move Donald Trump onto a military jet in Turkey following an Iranian assassination threat.]]></description>
-            <link>https://www.israelnationalnews.com/news/431528</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431528</guid>
+            <description><![CDATA[Catering truck and decoy jet: Secret mission to protect Trump from Iranian threat]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691515</guid>
             <pubDate>Tue, 11 Aug 2026 01:55:00 GMT</pubDate>
         </item>
         <item>

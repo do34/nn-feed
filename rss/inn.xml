@@ -4,11 +4,62 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 01:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 03:44:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 01:44:26 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 03:44:20 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Iran rejects US sanctions: Harm chances for Middle East diplomacy]]></title>
+            <description><![CDATA[Iran rejects new US sanctions targeting its shadow banking network, warning Washington's pressure campaign undermines potential diplomatic solutions.]]></description>
+            <link>https://www.israelnationalnews.com/news/431533</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431533</guid>
+            <pubDate>Tue, 11 Aug 2026 03:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF detains three Israeli civilians who crossed the Syrian border from Mount Hermon]]></title>
+            <description><![CDATA[Overnight, three Israeli civilians arrived at the Mount Hermon area and crossed the border into Syrian territory. IDF soldiers were dispatched to the area to locate them and returned them to Israeli territory, said the IDF Spokesperson's Unit, which added that the detained civilians were transferred to the Israel Police for further handling.
+
+"The IDF strongly condemns such incidents, which constitute an additional incident that disturbs the soldiers’ operational activity in the area and puts them in danger.The law enforcement authorities are required to bring those involved to justice and to prevent those individuals from repeatedly engaging in this incident, which constitutes a criminal offense," said the statement.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691520</guid>
+            <pubDate>Tue, 11 Aug 2026 03:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palestinian Culture, Part 2: Without violence, what remains?]]></title>
+            <description><![CDATA[Palestinian Culture, Part 2: Without violence, what remains?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691519</guid>
+            <pubDate>Tue, 11 Aug 2026 02:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El-Sayed condemns Hamas war crimes while accusing Israel of genocide]]></title>
+            <description><![CDATA[Abdul El-Sayed condemns Hamas for war crimes while continue to criticize Israel and claim it committed genocide.]]></description>
+            <link>https://www.israelnationalnews.com/news/431531</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431531</guid>
+            <pubDate>Tue, 11 Aug 2026 02:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Spark and the Scalpel: Anatomy of a leaked Mossad operation]]></title>
+            <description><![CDATA[The Spark and the Scalpel: Anatomy of a leaked Mossad operation]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691517</guid>
+            <pubDate>Tue, 11 Aug 2026 02:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Houthis strike Yemeni city of Mocha for second consecutive day]]></title>
+            <description><![CDATA[Houthi rebels fire ballistic missiles at Mocha for a second straight day, targeting Saudi troops and arms depots with drones and projectiles.]]></description>
+            <link>https://www.israelnationalnews.com/news/431529</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431529</guid>
+            <pubDate>Tue, 11 Aug 2026 02:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Catering truck and decoy jet: Secret mission to protect Trump from Iranian threat]]></title>
+            <description><![CDATA[Catering truck and decoy jet: Secret mission to protect Trump from Iranian threat]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691515</guid>
+            <pubDate>Tue, 11 Aug 2026 01:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel identifies: Syrian Air Force is rebuilding]]></title>
             <description><![CDATA[The defense establishment has identified an acceleration in the rebuilding of the Syrian Air Force, roughly a year and eight months after the IDF declared its destruction.]]></description>
@@ -27,9 +78,9 @@ Magen David Adom (MDA) paramedics provided medical treatment at the scene and ev
         </item>
         <item>
             <title><![CDATA[Syria confirms cooperation with IAEA and US to neutralize Assad nuclear program]]></title>
-            <description><![CDATA[Syria confirms cooperation with IAEA and US to neutralize Assad nuclear program]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691512</guid>
+            <description><![CDATA[Following an Axios report detailing understandings reached between Israel, Syria, and the International Atomic Energy Agency (IAEA) to neutralize a covert nuclear site, the Syrian Atomic Energy Commission issued an official statement confirming the move. The statement emphasized that "Syria continues to cooperate transparently and closely with the IAEA, the United States, and friendly nations to address and dismantle the legacy covert nuclear program of the previous regime."]]></description>
+            <link>https://www.israelnationalnews.com/news/431521</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431521</guid>
             <pubDate>Tue, 11 Aug 2026 00:14:00 GMT</pubDate>
         </item>
         <item>
@@ -178,59 +229,51 @@ The corporation noted that no structural damage occurred and no casualties were 
         </item>
         <item>
             <title><![CDATA[US CENTCOM chief attends IDF operations forum]]></title>
-            <description><![CDATA[IDF Chief of Staff Zamir: We are at a strategic crossroads, prepared to return to high-intensity combat.’]]></description>
-            <link>https://www.israelnationalnews.com/news/431510</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431510</guid>
+            <description><![CDATA[US CENTCOM chief attends IDF operations forum]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691491</guid>
             <pubDate>Mon, 10 Aug 2026 17:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bennett moved by new IDF recruits: 'An incredible generation']]></title>
-            <description><![CDATA[Former Prime Minister Naftali Bennett arrived at the IDF induction center to accompany new recruits joining the Golani Brigade and the Egoz Unit.]]></description>
-            <link>https://www.israelnationalnews.com/news/431509</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431509</guid>
+            <description><![CDATA[Bennett moved by new IDF recruits: 'An incredible generation']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691490</guid>
             <pubDate>Mon, 10 Aug 2026 16:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sa'ar: 'President of Colombia has demonstrated his leadership, values, and commitment to Israel']]></title>
-            <description><![CDATA[Israeli Foreign Minister Gideon Sa'ar commended Colombia's decision to recognize Israel's sovereignty over the Golan Heights, calling it "historic," and thanking President De La Espriella and Minister of Foreign Affairs Omar Bula Escobar.
-
-Sa'ar noted that the decision follows his meeting with the President in Barranquilla, Colombia, last Thursday.
-
-"With this, the President of Colombia has demonstrated, in one of his first decisions in office, his leadership, his values, and his commitment to Israel and Israel's security," Sa'ar stated.
-
-"Israel is a small country without strategic depth. Having defensible borders is essential for Israel in order to guarantee the existence of the Jewish people in its historic homeland," he added.
-
-The Israeli Foreign Minister pledged to "continue to act so that more countries join the United States (under President Trump) and Colombia (under President De La Espriella) in recognizing Israel's sovereignty over the Golan, to which Israeli law was applied 45 years ago."]]></description>
+            <description><![CDATA[Sa'ar: 'President of Colombia has demonstrated his leadership, values, and commitment to Israel']]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691489</guid>
             <pubDate>Mon, 10 Aug 2026 16:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colombia recognizes Israeli sovereignty over the Golan Heights]]></title>
-            <description><![CDATA[Read more.]]></description>
+            <description><![CDATA[Colombia recognizes Israeli sovereignty over the Golan Heights]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691488</guid>
             <pubDate>Mon, 10 Aug 2026 16:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Between Social Order and Tikkun Olam (Repairing the World)]]></title>
-            <description><![CDATA[It is forbidden to harm Arabs or their property in order to deter them from harming Jews, or to expel them. It is forbidden for any person to break the law and take the law into his own hands.]]></description>
-            <link>https://www.israelnationalnews.com/news/431507</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431507</guid>
+            <description><![CDATA[Between Social Order and Tikkun Olam (Repairing the World)]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691487</guid>
             <pubDate>Mon, 10 Aug 2026 16:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Druze town cancels festival over fears of clashes and violence]]></title>
-            <description><![CDATA[Beit Jann's Yalla Ba'Galil festival, featuring Jewish and Druze artists, was canceled over fears of clashes, with reports saying Eden Ben-Zaken's planned performance sparked the dispute.]]></description>
-            <link>https://www.israelnationalnews.com/news/431506</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431506</guid>
+            <description><![CDATA[Druze town cancels festival over fears of clashes and violence]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691486</guid>
             <pubDate>Mon, 10 Aug 2026 16:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Promised reserved slot, then backtracked: Ex-hostage's mother slams Yair Golan]]></title>
-            <description><![CDATA[Einav Zangauker claims that during a meeting with Yair Golan in February, she was offered a reserved spot near the top of the Democrats’ Knesset slate and that the agreement was subsequently reaffirmed.]]></description>
-            <link>https://www.israelnationalnews.com/news/431505</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431505</guid>
+            <description><![CDATA[Promised reserved slot, then backtracked: Ex-hostage's mother slams Yair Golan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691485</guid>
             <pubDate>Mon, 10 Aug 2026 15:34:00 GMT</pubDate>
         </item>
         <item>

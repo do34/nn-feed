@@ -4,11 +4,46 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 10:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 11:45:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 10:05:10 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 11:45:59 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[COGAT's unusual warning to Gazans]]></title>
+            <description><![CDATA[Israel warns Gaza residents to stay away from the Yellow Line, accusing Hamas of deliberately pushing civilians toward the area despite the danger.]]></description>
+            <link>https://www.israelnationalnews.com/news/431604</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431604</guid>
+            <pubDate>Wed, 12 Aug 2026 11:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Father of Hostage: 'Terrorists at Nahal Oz spoke Farsi']]></title>
+            <description><![CDATA[Eyal Eshel says testimony from those at Nahal Oz indicates terrorists were heard speaking Persian during the October 7 attack.]]></description>
+            <link>https://www.israelnationalnews.com/news/431605</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431605</guid>
+            <pubDate>Wed, 12 Aug 2026 11:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hadar Muchtar after Likud setback: 'This isn't the end']]></title>
+            <description><![CDATA[Hadar Muchtar after Likud setback: 'This isn't the end']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691603</guid>
+            <pubDate>Wed, 12 Aug 2026 11:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dozens of illegal structures demolished in northern Samaria]]></title>
+            <description><![CDATA[Civil Administration forces carried out a major enforcement operation ahead of the planned return of Israeli families to Ganim and Kadim.]]></description>
+            <link>https://www.israelnationalnews.com/news/431603</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431603</guid>
+            <pubDate>Wed, 12 Aug 2026 10:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miri Regev: 'What hurts me is what they're saying about my daughter']]></title>
+            <description><![CDATA[Miri Regev: 'What hurts me is what they're saying about my daughter']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691601</guid>
+            <pubDate>Wed, 12 Aug 2026 10:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Details: How Trump secretly switched planes after Iran missile threat]]></title>
             <description><![CDATA[New details reveal how security officials quietly moved Trump to a smaller military aircraft after intelligence indicated a possible missile threat near the NATO summit in Turkey.]]></description>
@@ -25,9 +60,9 @@
         </item>
         <item>
             <title><![CDATA[Mystery deepens: Missing Israelis' belongings not in their apartment]]></title>
-            <description><![CDATA[Mystery deepens: Missing Israelis' belongings not in their apartment]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691598</guid>
+            <description><![CDATA[Concerns deepen after Mali and Liel Yahalomi, mother and daughter who went missing in Vienna, failed to board flight back to Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/431600</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431600</guid>
             <pubDate>Wed, 12 Aug 2026 08:29:00 GMT</pubDate>
         </item>
         <item>
@@ -192,39 +227,37 @@ The incident is under review. No sirens were sounded in accordance with protocol
         </item>
         <item>
             <title><![CDATA[Likud: Oren Dobronsky granted reserved spot based on his experience]]></title>
-            <description><![CDATA[The Likud party is denying a report broadcast Tuesday evening on Channel 12 News claiming that Prime Minister Benjamin Netanyahu granted entrepreneur Oren Dobronsky a reserved spot on the election slate in order to undercut the political standing of Minister Nir Barkat.
-
-"The Prime Minister granted a reserved spot to Oren Dobronsky because he is a successful high-tech entrepreneur, philanthropist, and leading businessman who will bring his rich experience to developing Israel's economy, with a emphasis on the tech sector and advancing artificial intelligence in Israel," Likud said in a statement.]]></description>
+            <description><![CDATA[Likud: Oren Dobronsky granted reserved spot based on his experience]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691575</guid>
             <pubDate>Tue, 11 Aug 2026 21:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prosecutor recruitment failure: Why haven't the Nukhba terrorist trials begun?]]></title>
-            <description><![CDATA[Despite recently allocated funding, the Military Advocate General's Corps has yet to fill the positions required to try hundreds of terrorists who participated in the October 7 massacre.]]></description>
-            <link>https://www.israelnationalnews.com/news/431578</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431578</guid>
+            <description><![CDATA[Prosecutor recruitment failure: Why haven't the Nukhba terrorist trials begun?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691574</guid>
             <pubDate>Tue, 11 Aug 2026 21:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US military helicopter strikes ship attempting to break Iran naval blockade]]></title>
-            <description><![CDATA[US Navy helicopter fires Hellfire missiles at a Panama-flagged cargo ship in the Gulf of Oman after its crew ignores warnings and attempts to enter Iran.]]></description>
-            <link>https://www.israelnationalnews.com/news/431577</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431577</guid>
+            <description><![CDATA[US military helicopter strikes ship attempting to break Iran naval blockade]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691573</guid>
             <pubDate>Tue, 11 Aug 2026 20:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yair Golan: 'No doubt about Mansour Abbas' good intentions']]></title>
-            <description><![CDATA[Democrats chairman praises the Ra'am leader MK Mansour Abbas, says it is 'clear' his party will receive more significant portfolios.]]></description>
-            <link>https://www.israelnationalnews.com/news/431573</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431573</guid>
+            <description><![CDATA[Yair Golan: 'No doubt about Mansour Abbas' good intentions']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691572</guid>
             <pubDate>Tue, 11 Aug 2026 19:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iceland, what happened to you?]]></title>
-            <description><![CDATA[I came to Iceland loving one of the most beautiful countries on earth. I leave after repeated harassment, two physical assaults and moments when I feared for my life as a Jew. Op-ed.]]></description>
-            <link>https://www.israelnationalnews.com/news/431576</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431576</guid>
+            <description><![CDATA[Iceland, what happened to you?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691571</guid>
             <pubDate>Tue, 11 Aug 2026 19:39:00 GMT</pubDate>
         </item>
         <item>
@@ -1353,62 +1386,6 @@ The incident is under review. No sirens were sounded in accordance with protocol
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691409</guid>
             <pubDate>Sun, 09 Aug 2026 12:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian media: Mojtaba Khamenei meets with Iranian President Pezeshkian]]></title>
-            <description><![CDATA[Iranian media: Mojtaba Khamenei meets with Iranian President Pezeshkian]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691408</guid>
-            <pubDate>Sun, 09 Aug 2026 11:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Trump is considering declaring "victory" in the war with Iran - even without a nuclear deal]]></title>
-            <description><![CDATA[Report: Trump is considering declaring "victory" in the war with Iran - even without a nuclear deal]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691407</guid>
-            <pubDate>Sun, 09 Aug 2026 11:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Disturbing footage: Two M16 Rifles and IDF ammunition seized in the Negev]]></title>
-            <description><![CDATA[Disturbing footage: Two M16 Rifles and IDF ammunition seized in the Negev]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691406</guid>
-            <pubDate>Sun, 09 Aug 2026 11:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five-year-old dies after being found in hot car in Lod]]></title>
-            <description><![CDATA[Five-year-old dies after being found in hot car in Lod]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691405</guid>
-            <pubDate>Sun, 09 Aug 2026 11:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[100,000 Immigrants: Nefesh B'Nefesh celebrates historic milestone]]></title>
-            <description><![CDATA[100,000 Immigrants: Nefesh B'Nefesh celebrates historic milestone]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691404</guid>
-            <pubDate>Sun, 09 Aug 2026 11:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Eggs thrown in Parliament as protest spirals out of control]]></title>
-            <description><![CDATA[Watch: Eggs thrown in Parliament as protest spirals out of control]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691403</guid>
-            <pubDate>Sun, 09 Aug 2026 10:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Likud attacks: "Fake Right"; Edelstein responds]]></title>
-            <description><![CDATA[Likud attacks: "Fake Right"; Edelstein responds]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691402</guid>
-            <pubDate>Sun, 09 Aug 2026 10:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vehicle breaks through checkpoint, runs over spike strip, & crashes into car]]></title>
-            <description><![CDATA[Vehicle breaks through checkpoint, runs over spike strip, & crashes into car]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691401</guid>
-            <pubDate>Sun, 09 Aug 2026 10:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

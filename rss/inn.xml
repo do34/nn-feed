@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 11:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 13:09:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 11:45:59 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 13:09:05 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Tragedy in Jerusalem: 3-year-old girl dies after choking on grape]]></title>
+            <description><![CDATA[Yael Rivka Betzalel, a three-year-old girl from Jerusalem, died at Shaare Zedek Medical Center after spending two weeks sedated and on a ventilator after choking on a grape.]]></description>
+            <link>https://www.israelnationalnews.com/news/431610</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431610</guid>
+            <pubDate>Wed, 12 Aug 2026 12:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four Palestinians face charges over attack on IDF soldier]]></title>
+            <description><![CDATA[Prosecutors move toward indictments after four suspects allegedly attacked a soldier near Susya, stole his weapon, and fled the scene.]]></description>
+            <link>https://www.israelnationalnews.com/news/431609</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431609</guid>
+            <pubDate>Wed, 12 Aug 2026 12:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[36 haredi tourists, including infants, rescued from Austrian Alps]]></title>
+            <description><![CDATA[36 haredi tourists, including infants, rescued from Austrian Alps]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691606</guid>
+            <pubDate>Wed, 12 Aug 2026 12:01:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[COGAT's unusual warning to Gazans]]></title>
             <description><![CDATA[Israel warns Gaza residents to stay away from the Yellow Line, accusing Hamas of deliberately pushing civilians toward the area despite the danger.]]></description>
@@ -25,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[Hadar Muchtar after Likud setback: 'This isn't the end']]></title>
-            <description><![CDATA[Hadar Muchtar after Likud setback: 'This isn't the end']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691603</guid>
+            <description><![CDATA[Likud activist Hadar Muchtar thanks supporters after being denied exemption needed to compete in upcoming primaries.]]></description>
+            <link>https://www.israelnationalnews.com/news/431602</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431602</guid>
             <pubDate>Wed, 12 Aug 2026 11:06:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +60,9 @@
         </item>
         <item>
             <title><![CDATA[Miri Regev: 'What hurts me is what they're saying about my daughter']]></title>
-            <description><![CDATA[Miri Regev: 'What hurts me is what they're saying about my daughter']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691601</guid>
+            <description><![CDATA[Transportation Minister Miri Regev rejects bereaved father Nissim Louk's claims, says her daughter 'rescued herself' from Nova massacre and informed her only later.]]></description>
+            <link>https://www.israelnationalnews.com/news/431599</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431599</guid>
             <pubDate>Wed, 12 Aug 2026 10:15:00 GMT</pubDate>
         </item>
         <item>
@@ -204,25 +225,23 @@ Shino Zuares, Chairman of the Israel Soccer Association, praised the club's pers
         </item>
         <item>
             <title><![CDATA[Danon at UN: Jewish communities will stay in Judea and Samaria]]></title>
-            <description><![CDATA[Israel’s UN Ambassador defends Jewish presence in Judea and Samaria at the Security Council, calling out anti-Israel bias over “settler violence".]]></description>
-            <link>https://www.israelnationalnews.com/news/431580</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431580</guid>
+            <description><![CDATA[Danon at UN: Jewish communities will stay in Judea and Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691578</guid>
             <pubDate>Tue, 11 Aug 2026 23:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF interceptor mistakenly launched at friendly fire in southern Lebanon]]></title>
-            <description><![CDATA[A short while ago, an interceptor was mistakenly launched toward a target that was later identified as IDF fire from operations conducted within the Security Zone in southern Lebanon. No injuries were reported, the IDF Spokesperson's Unit said.
-
-The incident is under review. No sirens were sounded in accordance with protocol.]]></description>
+            <description><![CDATA[IDF interceptor mistakenly launched at friendly fire in southern Lebanon]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691577</guid>
             <pubDate>Tue, 11 Aug 2026 22:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six dead as Houthi missiles strike commercial vessel in Bab el-Mandeb Strait]]></title>
-            <description><![CDATA[Houthi ballistic missile strike on a commercial vessel in the Bab el-Mandeb Strait kills six people, marking the first fatalities of this maritime conflict.]]></description>
-            <link>https://www.israelnationalnews.com/news/431579</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431579</guid>
+            <description><![CDATA[Six dead as Houthi missiles strike commercial vessel in Bab el-Mandeb Strait]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691576</guid>
             <pubDate>Tue, 11 Aug 2026 22:21:00 GMT</pubDate>
         </item>
         <item>
@@ -1351,41 +1370,6 @@ The incident is under review. No sirens were sounded in accordance with protocol
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691415</guid>
             <pubDate>Sun, 09 Aug 2026 13:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[$5 million distributed to haredi institutions that reject government funding]]></title>
-            <description><![CDATA[$5 million distributed to haredi institutions that reject government funding]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691414</guid>
-            <pubDate>Sun, 09 Aug 2026 12:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Trump eyeing way out of Iran war without nuclear agreement]]></title>
-            <description><![CDATA[Report: Trump eyeing way out of Iran war without nuclear agreement]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691413</guid>
-            <pubDate>Sun, 09 Aug 2026 12:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Passengers panic as bus driver smashes window during route to Modi'in Illit]]></title>
-            <description><![CDATA[Passengers panic as bus driver smashes window during route to Modi'in Illit]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691412</guid>
-            <pubDate>Sun, 09 Aug 2026 12:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sephora to open first stores in Israel this month]]></title>
-            <description><![CDATA[Sephora to open first stores in Israel this month]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691411</guid>
-            <pubDate>Sun, 09 Aug 2026 12:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['No 'Fatahstan' nor 'Hamastan'': Netanyahu rejects Trump's Board of Peace 15-point plan]]></title>
-            <description><![CDATA['No 'Fatahstan' nor 'Hamastan'': Netanyahu rejects Trump's Board of Peace 15-point plan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691409</guid>
-            <pubDate>Sun, 09 Aug 2026 12:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 20:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 21:44:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 20:43:52 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 21:44:58 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Netanyahu orders immediate dispatch of aid delegation to Colombia]]></title>
+            <description><![CDATA[Following a request from Colombian President Abelardo de la Espriella, Prime Minister Benjamin Netanyahu on Wednesday evening ordered the immediate dispatch of an aid delegation to Colombia following the earthquake disaster that struck the country.
+
+"The State of Israel shares in the grief of the families of those killed in the disaster and will provide full assistance to the Republic of Colombia," said the Prime Minister's Office.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691637</guid>
+            <pubDate>Wed, 12 Aug 2026 21:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two dead after army Apache attack helicopter crashes in Texas]]></title>
+            <description><![CDATA[Two aviators dead after an AH-64 Apache helicopter from Fort Hood crashes in Salado, Texas, sparking a large wildfire that triggered local evacuations.]]></description>
+            <link>https://www.israelnationalnews.com/news/431633</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431633</guid>
+            <pubDate>Wed, 12 Aug 2026 21:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Motorcyclist seriously injured in collision near Yarkon Interchange]]></title>
             <description><![CDATA[Motorcyclist seriously injured in collision near Yarkon Interchange]]></description>
@@ -25,7 +41,7 @@
         </item>
         <item>
             <title><![CDATA[White House Press Secretary Karoline Leavitt steps down]]></title>
-            <description><![CDATA[White House Press Secretary Karoline Leavitt steps down]]></description>
+            <description><![CDATA[US President Donald Trump announced that White House Press Secretary Karoline Leavitt will leave her position at the end of the month in order to spend more time with her family following the birth of her daughter.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691633</guid>
             <pubDate>Wed, 12 Aug 2026 19:59:00 GMT</pubDate>
@@ -209,16 +225,16 @@
         </item>
         <item>
             <title><![CDATA[Four Palestinians face charges over attack on IDF soldier]]></title>
-            <description><![CDATA[Prosecutors move toward indictments after four suspects allegedly attacked a soldier near Susya, stole his weapon, and fled the scene.]]></description>
-            <link>https://www.israelnationalnews.com/news/431609</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431609</guid>
+            <description><![CDATA[Four Palestinians face charges over attack on IDF soldier]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691607</guid>
             <pubDate>Wed, 12 Aug 2026 12:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[36 haredi tourists, including infants, rescued from Austrian Alps]]></title>
-            <description><![CDATA[Three families became stranded at 2,300 meters after straying from their route with baby carriages and no mountain equipment, prompting a massive helicopter rescue.]]></description>
-            <link>https://www.israelnationalnews.com/news/431606</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431606</guid>
+            <description><![CDATA[36 haredi tourists, including infants, rescued from Austrian Alps]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691606</guid>
             <pubDate>Wed, 12 Aug 2026 12:01:00 GMT</pubDate>
         </item>
         <item>
@@ -1368,27 +1384,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691442</guid>
             <pubDate>Sun, 09 Aug 2026 22:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motorcyclist seriously injured after being struck by car in Jaljulia]]></title>
-            <description><![CDATA[Motorcyclist seriously injured after being struck by car in Jaljulia]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691441</guid>
-            <pubDate>Sun, 09 Aug 2026 21:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthi forces launch missiles and drones at Yemen’s port city of Mocha]]></title>
-            <description><![CDATA[Houthi forces launch missiles and drones at Yemen’s port city of Mocha]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691440</guid>
-            <pubDate>Sun, 09 Aug 2026 21:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former NY Governor David Paterson on fighting Mamdani’s antisemitism]]></title>
-            <description><![CDATA[Former NY Governor David Paterson on fighting Mamdani’s antisemitism]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691439</guid>
-            <pubDate>Sun, 09 Aug 2026 20:48:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

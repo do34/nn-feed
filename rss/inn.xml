@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 06:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 08:17:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 06:14:34 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 08:17:26 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IDF clashes with activists at new outpost near Qusra]]></title>
+            <description><![CDATA[Security forces arrived to evacuate an outpost established days ago as Hilltop Youth activists blocked roads and attempted to delay the operation.]]></description>
+            <link>https://www.israelnationalnews.com/news/431597</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431597</guid>
+            <pubDate>Wed, 12 Aug 2026 07:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran between contiguous geography and fragmented polity]]></title>
+            <description><![CDATA[Iran today stands before a choice that involves not just the fate of the regime, but also the very structure of the state. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431596</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431596</guid>
+            <pubDate>Wed, 12 Aug 2026 06:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamas sniper couldn't stop him: Haredi soldier becomes IDF officer]]></title>
+            <description><![CDATA[Haim Treitel, who fought his way through more than a year of rehabilitation after being wounded in the leg during combat in Gaza, completes officers' course.]]></description>
+            <link>https://www.israelnationalnews.com/news/431594</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431594</guid>
+            <pubDate>Wed, 12 Aug 2026 06:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former US Marine freed from Russia after four years in prison]]></title>
+            <description><![CDATA[Robert Gilman, described by his family as being on the brink of death, was released in a humanitarian pardon and is returning to the US with his mother.]]></description>
+            <link>https://www.israelnationalnews.com/news/431595</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431595</guid>
+            <pubDate>Wed, 12 Aug 2026 06:35:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maybe God Is showing Trump why Israel cannot trust Hamas]]></title>
             <description><![CDATA[Negotiations with regimes and terrorist organizations are not normal business negotiations. You cannot assume that because someone agreed to or even signed something yesterday, they will honor it tomorrow. Op-ed.]]></description>
@@ -25,9 +53,9 @@
         </item>
         <item>
             <title><![CDATA[Levin to Supreme Court justices: 'You'll simply become extinct']]></title>
-            <description><![CDATA[Levin to Supreme Court justices: 'You'll simply become extinct']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691591</guid>
+            <description><![CDATA[Justice Minister Yariv Levin says two-thirds of Supreme Court could be replaced during the next government's term, says no need for judicial reform legislation.]]></description>
+            <link>https://www.israelnationalnews.com/news/431590</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431590</guid>
             <pubDate>Wed, 12 Aug 2026 05:44:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +67,9 @@
         </item>
         <item>
             <title><![CDATA[Senior US official: Progress made in Israel-Lebanon talks in Rome]]></title>
-            <description><![CDATA[Senior US official: Progress made in Israel-Lebanon talks in Rome]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691589</guid>
+            <description><![CDATA[Israeli, Lebanese, delegations agreed on operational standards, verification mechanisms aimed at neutralizing Hezbollah's presence, US State Department source says.]]></description>
+            <link>https://www.israelnationalnews.com/news/431589</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431589</guid>
             <pubDate>Wed, 12 Aug 2026 04:54:00 GMT</pubDate>
         </item>
         <item>
@@ -201,32 +229,30 @@ The incident is under review. No sirens were sounded in accordance with protocol
         </item>
         <item>
             <title><![CDATA[Ben Gvir: Netanyahu planning unity government with Eisenkot]]></title>
-            <description><![CDATA[National Security Minister Itamar Ben Gvir slams Likud election slogan, warning government with Yashar! chair Gadi Eisenkot would 'bury the judicial reform,' grant victory to Attorney General Gali Baharav-Miara.]]></description>
-            <link>https://www.israelnationalnews.com/news/431570</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431570</guid>
+            <description><![CDATA[Ben Gvir: Netanyahu planning unity government with Eisenkot]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691567</guid>
             <pubDate>Tue, 11 Aug 2026 19:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Our hands are tied': Terrorists approach fence, IDF refuses to approve strike]]></title>
-            <description><![CDATA[Soldiers reported that terrorists appeared to be preparing to cross the border and requested authorization to strike, but commanders refused.]]></description>
-            <link>https://www.israelnationalnews.com/news/431572</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431572</guid>
+            <description><![CDATA['Our hands are tied': Terrorists approach fence, IDF refuses to approve strike]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691566</guid>
             <pubDate>Tue, 11 Aug 2026 18:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF: Israelis tried to enter a PA village using an ambulance]]></title>
-            <description><![CDATA[The IDF claimed that Israeli civilians attempted yesterday (Monday) to enter the area of ​​the village of Qusra, which is under a closed military zone order, by using an ambulance.
-
-"Upon the ambulance’s arrival at the checkpoint, IDF soldiers identified Israeli civilians inside who attempted to enter the area subject to the closed military zone order under the ambulance’s cover. As a result, the IDF soldiers operating at the checkpoint conducted an inspection of the ambulance. Subsequently, the ambulance was inspected by the Israel Police," the IDF Spokesperson's Unit said.]]></description>
+            <description><![CDATA[IDF: Israelis tried to enter a PA village using an ambulance]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691565</guid>
             <pubDate>Tue, 11 Aug 2026 18:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smotrich to Netanyahu: Don't let Abbas return to Ramallah]]></title>
-            <description><![CDATA[Finance Minister Bezalel Smotrich calls on Prime Minister Benjamin Netanyahu to bar Palestinian Authority Chairman Mahmoud Abbas from returning to Judea and Samaria following visit abroad. 'Palestinian Terrorist Authority must be dismantled.']]></description>
-            <link>https://www.israelnationalnews.com/news/431569</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431569</guid>
+            <description><![CDATA[Smotrich to Netanyahu: Don't let Abbas return to Ramallah]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691564</guid>
             <pubDate>Tue, 11 Aug 2026 18:33:00 GMT</pubDate>
         </item>
         <item>
@@ -1376,34 +1402,6 @@ The incident is under review. No sirens were sounded in accordance with protocol
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691399</guid>
             <pubDate>Sun, 09 Aug 2026 08:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former ISA chief rejects both Palestinian state and annexation]]></title>
-            <description><![CDATA[Former ISA chief rejects both Palestinian state and annexation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691398</guid>
-            <pubDate>Sun, 09 Aug 2026 07:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The night at Rambam Hospital that outraged a soldier's family]]></title>
-            <description><![CDATA[The night at Rambam Hospital that outraged a soldier's family]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691397</guid>
-            <pubDate>Sun, 09 Aug 2026 07:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learning to See: From Blessing to Divine Presence]]></title>
-            <description><![CDATA[Learning to See: From Blessing to Divine Presence]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691396</guid>
-            <pubDate>Sun, 09 Aug 2026 06:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["It's a shame you didn't die": Outrage at haredi protester's words to wounded soldier]]></title>
-            <description><![CDATA["It's a shame you didn't die": Outrage at haredi protester's words to wounded soldier]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691395</guid>
-            <pubDate>Sun, 09 Aug 2026 06:17:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

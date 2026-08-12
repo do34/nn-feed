@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 21:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 22:40:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 21:44:58 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 22:40:44 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[US rejects Katz’s announcement of long-term troops in southern Lebanon]]></title>
+            <description><![CDATA[The US criticizes Defense Minister Katz’s call for a long-term presence in southern Lebanon, urging adherence to the agreed security framework.]]></description>
+            <link>https://www.israelnationalnews.com/news/431634</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431634</guid>
+            <pubDate>Wed, 12 Aug 2026 22:09:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netanyahu orders immediate dispatch of aid delegation to Colombia]]></title>
             <description><![CDATA[Following a request from Colombian President Abelardo de la Espriella, Prime Minister Benjamin Netanyahu on Wednesday evening ordered the immediate dispatch of an aid delegation to Colombia following the earthquake disaster that struck the country.
@@ -218,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[Tragedy in Jerusalem: 3-year-old girl dies after choking on grape]]></title>
-            <description><![CDATA[Yael Rivka Betzalel, a three-year-old girl from Jerusalem, died at Shaare Zedek Medical Center after spending two weeks sedated and on a ventilator after choking on a grape.]]></description>
-            <link>https://www.israelnationalnews.com/news/431610</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431610</guid>
+            <description><![CDATA[Tragedy in Jerusalem: 3-year-old girl dies after choking on grape]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691608</guid>
             <pubDate>Wed, 12 Aug 2026 12:24:00 GMT</pubDate>
         </item>
         <item>
@@ -1370,20 +1377,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691444</guid>
             <pubDate>Sun, 09 Aug 2026 23:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gafni refuses to pledge advance support for Netanyahu]]></title>
-            <description><![CDATA[Gafni refuses to pledge advance support for Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691443</guid>
-            <pubDate>Sun, 09 Aug 2026 22:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secret revealed: Top Hamas commander held in Israel for two years]]></title>
-            <description><![CDATA[Secret revealed: Top Hamas commander held in Israel for two years]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691442</guid>
-            <pubDate>Sun, 09 Aug 2026 22:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

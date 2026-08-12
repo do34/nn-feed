@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 19:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 20:43:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 19:06:58 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 20:43:52 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Motorcyclist seriously injured in collision near Yarkon Interchange]]></title>
+            <description><![CDATA[Motorcyclist seriously injured in collision near Yarkon Interchange]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691635</guid>
+            <pubDate>Wed, 12 Aug 2026 20:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surprise departure: Karoline Leavitt to exit White House Press Secretary role]]></title>
+            <description><![CDATA[Karoline Leavitt will step down as White House Press Secretary at month's end to spend time with her family while continuing as an outside advisor to Trump.]]></description>
+            <link>https://www.israelnationalnews.com/news/431632</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431632</guid>
+            <pubDate>Wed, 12 Aug 2026 20:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[White House Press Secretary Karoline Leavitt steps down]]></title>
+            <description><![CDATA[White House Press Secretary Karoline Leavitt steps down]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691633</guid>
+            <pubDate>Wed, 12 Aug 2026 19:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yair Golan reveals which portfolios he seeks in next government]]></title>
+            <description><![CDATA[The Democrats chairman pledges to work to take significant action to combat violence in the Arab sector and will seek the ministerial portfolios to do so.]]></description>
+            <link>https://www.israelnationalnews.com/news/431631</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431631</guid>
+            <pubDate>Wed, 12 Aug 2026 19:34:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NYPD refuses security detail for Mamdani's wife on Syria, Lebanon trip]]></title>
             <description><![CDATA[NYPD says it will not send officers with Rama Duwaji on her planned Syria and Lebanon trip, citing Level 4 US travel advisories for both countries.]]></description>
@@ -32,9 +60,9 @@
         </item>
         <item>
             <title><![CDATA[Mossad involved in search for missing Israeli women]]></title>
-            <description><![CDATA[Mossad involved in search for missing Israeli women]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691628</guid>
+            <description><![CDATA[Israeli officials assess that the disappearance is not a terrorist incident or nationalist-motivated. Vienna police also clarified that “there is no suspicion of a criminal incident."]]></description>
+            <link>https://www.israelnationalnews.com/news/431627</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431627</guid>
             <pubDate>Wed, 12 Aug 2026 17:59:00 GMT</pubDate>
         </item>
         <item>
@@ -195,30 +223,30 @@
         </item>
         <item>
             <title><![CDATA[COGAT's unusual warning to Gazans]]></title>
-            <description><![CDATA[Israel warns Gaza residents to stay away from the Yellow Line, accusing Hamas of deliberately pushing civilians toward the area despite the danger.]]></description>
-            <link>https://www.israelnationalnews.com/news/431604</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431604</guid>
+            <description><![CDATA[COGAT's unusual warning to Gazans]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691605</guid>
             <pubDate>Wed, 12 Aug 2026 11:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Father of Hostage: 'Terrorists at Nahal Oz spoke Farsi']]></title>
-            <description><![CDATA[Eyal Eshel says testimony from those at Nahal Oz indicates terrorists were heard speaking Persian during the October 7 attack.]]></description>
-            <link>https://www.israelnationalnews.com/news/431605</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431605</guid>
+            <description><![CDATA[Father of Hostage: 'Terrorists at Nahal Oz spoke Farsi']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691604</guid>
             <pubDate>Wed, 12 Aug 2026 11:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hadar Muchtar after Likud setback: 'This isn't the end']]></title>
-            <description><![CDATA[Likud activist Hadar Muchtar thanks supporters after being denied exemption needed to compete in upcoming primaries.]]></description>
-            <link>https://www.israelnationalnews.com/news/431602</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431602</guid>
+            <description><![CDATA[Hadar Muchtar after Likud setback: 'This isn't the end']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691603</guid>
             <pubDate>Wed, 12 Aug 2026 11:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dozens of illegal structures demolished in northern Samaria]]></title>
-            <description><![CDATA[Civil Administration forces carried out a major enforcement operation ahead of the planned return of Israeli families to Ganim and Kadim.]]></description>
-            <link>https://www.israelnationalnews.com/news/431603</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431603</guid>
+            <description><![CDATA[Dozens of illegal structures demolished in northern Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691602</guid>
             <pubDate>Wed, 12 Aug 2026 10:17:00 GMT</pubDate>
         </item>
         <item>
@@ -1361,27 +1389,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691439</guid>
             <pubDate>Sun, 09 Aug 2026 20:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drama in New Jersey: F-16s scrambled near Trump’s golf club]]></title>
-            <description><![CDATA[Drama in New Jersey: F-16s scrambled near Trump’s golf club]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691438</guid>
-            <pubDate>Sun, 09 Aug 2026 20:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Montreal: Government blow to Hasidic institutions]]></title>
-            <description><![CDATA[Montreal: Government blow to Hasidic institutions]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691437</guid>
-            <pubDate>Sun, 09 Aug 2026 19:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two aircraft entered restricted airspace over Trump's golf club over the weekend]]></title>
-            <description><![CDATA[Two aircraft entered restricted airspace over Trump's golf club over the weekend]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691436</guid>
-            <pubDate>Sun, 09 Aug 2026 19:17:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

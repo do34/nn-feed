@@ -4,11 +4,29 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 22:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 23:41:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 22:40:44 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 23:41:14 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Bereaved families to Cabinet: Attack in Gaza]]></title>
+            <description><![CDATA[The Gvura Forum issues an urgent demand to the Prime Minister and ministers to immediately resume offensive strikes in the Gaza Strip, warning against putting IDF troops at risk.]]></description>
+            <link>https://www.israelnationalnews.com/news/431635</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431635</guid>
+            <pubDate>Wed, 12 Aug 2026 23:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family of missing women in Vienna: Nationalistic motive cannot be ruled out]]></title>
+            <description><![CDATA[The family of Mali and Liel Yahalomi, the Israeli mother and daughter missing in Vienna, is sharply criticizing recent publications and briefings by police and investigative officials.
+
+In an official statement, the family clarified: "We view with utmost severity the briefings circulated in recent hours, which create the public impression that a conclusion has already been established regarding the circumstances of Mali and Liel's disappearance. The family possesses information that fundamentally contradicts several of the claims raised in these reports."
+
+According to the family, the information provided to them by the police shows no unusual activity on the bank accounts of either woman: "We unequivocally clarify that at this stage, there is no basis for ruling out the possibility of a nationalistically motivated terrorist incident."]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691639</guid>
+            <pubDate>Wed, 12 Aug 2026 22:51:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US rejects Katz’s announcement of long-term troops in southern Lebanon]]></title>
             <description><![CDATA[The US criticizes Defense Minister Katz’s call for a long-term presence in southern Lebanon, urging adherence to the agreed security framework.]]></description>
@@ -211,16 +229,16 @@
         </item>
         <item>
             <title><![CDATA[Liberman: 50 Hamas Nukhba terrorists trained to invade Israeli town]]></title>
-            <description><![CDATA[Yisrael Beytenu chairman MK Avigdor Liberman says 50 Hamas Nukhba terrorists practiced a raid and takeover, IDF commanders were denied permission to strike them.]]></description>
-            <link>https://www.israelnationalnews.com/news/431608</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431608</guid>
+            <description><![CDATA[Liberman: 50 Hamas Nukhba terrorists trained to invade Israeli town]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691610</guid>
             <pubDate>Wed, 12 Aug 2026 13:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mladenov: Claims of Board of Peace-Hamas deal are false]]></title>
-            <description><![CDATA[Board of Peace envoy Nickolay Mladenov rejects claims of a Hamas funding deal, saying Hamas will have no role in Gaza's governance or access to funds.]]></description>
-            <link>https://www.israelnationalnews.com/news/431611</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431611</guid>
+            <description><![CDATA[Mladenov: Claims of Board of Peace-Hamas deal are false]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691609</guid>
             <pubDate>Wed, 12 Aug 2026 13:16:00 GMT</pubDate>
         </item>
         <item>
@@ -1370,13 +1388,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691445</guid>
             <pubDate>Sun, 09 Aug 2026 23:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump names Jewish lawyer Will Scharf as next White House counsel]]></title>
-            <description><![CDATA[Trump names Jewish lawyer Will Scharf as next White House counsel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691444</guid>
-            <pubDate>Sun, 09 Aug 2026 23:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

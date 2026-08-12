@@ -4,11 +4,46 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 01:56:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 04:11:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 01:56:42 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 04:11:11 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Rights groups sue Trump administration over ICC sanctions]]></title>
+            <description><![CDATA[Human Rights Watch and several others file federal lawsuit challenging Trump administration sanctions on the ICC, alleging the measures violate constitutional rights.]]></description>
+            <link>https://www.israelnationalnews.com/news/431588</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431588</guid>
+            <pubDate>Wed, 12 Aug 2026 03:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish tourist wearing kippah assaulted in consecutive Rome attacks]]></title>
+            <description><![CDATA[French Jewish tourist attacked twice in central Rome over two days, leading Italian police to arrest a suspect on hate crime charges.]]></description>
+            <link>https://www.israelnationalnews.com/news/431587</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431587</guid>
+            <pubDate>Wed, 12 Aug 2026 03:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tehran demands US meet conditions before Hormuz is reopened]]></title>
+            <description><![CDATA[Tehran demands US meet conditions before Hormuz is reopened]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691586</guid>
+            <pubDate>Wed, 12 Aug 2026 02:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu hails Colombia’s Golan decision: The Israeli flag will continue to fly here]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu thanks Colombia for recognizing Israeli sovereignty over the Golan Heights, declaring the plateau will remain Israeli land.]]></description>
+            <link>https://www.israelnationalnews.com/news/431585</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431585</guid>
+            <pubDate>Wed, 12 Aug 2026 02:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US official hails 'constructive' Israel-Lebanon talks despite friction]]></title>
+            <description><![CDATA[US official hails 'constructive' Israel-Lebanon talks despite friction]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691584</guid>
+            <pubDate>Wed, 12 Aug 2026 01:59:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump: I’m the last person to trust Iran, they’ve lied constantly]]></title>
             <description><![CDATA[President Trump rejects assertions he trusts Iran, claims total US control of Strait of Hormuz.]]></description>
@@ -25,7 +60,9 @@
         </item>
         <item>
             <title><![CDATA[Two killed in accident south of Beit Shemesh]]></title>
-            <description><![CDATA[Two killed in accident south of Beit Shemesh]]></description>
+            <description><![CDATA[Two men in their 40s were killed in a two-vehicle collision on Route 383, south of Beit Shemesh.
+
+Magen David Adom (MDA) paramedics pronounced the men dead at the scene and evacuated a woman in her 40s to Shaare Zedek Hospital in Jerusalem in moderate condition. Police have opened an investigation into the crash, and the road has been closed to traffic.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691581</guid>
             <pubDate>Wed, 12 Aug 2026 00:41:00 GMT</pubDate>
@@ -194,37 +231,37 @@ The incident is under review. No sirens were sounded in accordance with protocol
         </item>
         <item>
             <title><![CDATA['How can someone just disappear in Vienna?']]></title>
-            <description><![CDATA[Five days after Israeli mother and daughter vanish during trip to Europe, local Chabad emissary says there is still 'not a single lead' despite an intensive search.]]></description>
-            <link>https://www.israelnationalnews.com/news/431564</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431564</guid>
+            <description><![CDATA['How can someone just disappear in Vienna?']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691558</guid>
             <pubDate>Tue, 11 Aug 2026 16:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flights grounded as drone enters Ben Gurion Airport's airspace]]></title>
-            <description><![CDATA[Following the detection of the aircraft, flights were temporarily halted.]]></description>
-            <link>https://www.israelnationalnews.com/news/431563</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431563</guid>
+            <description><![CDATA[Flights grounded as drone enters Ben Gurion Airport's airspace]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691557</guid>
             <pubDate>Tue, 11 Aug 2026 15:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Gaza 'day after' plan delayed until after elections]]></title>
-            <description><![CDATA[Entry of multinational force, Green Rafah initiative, and technocratic government face delays leaving postwar plan far from implementation.]]></description>
-            <link>https://www.israelnationalnews.com/news/431561</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431561</guid>
+            <description><![CDATA[Report: Gaza 'day after' plan delayed until after elections]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691556</guid>
             <pubDate>Tue, 11 Aug 2026 15:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[After 38 days: Court orders Tal Yinon Dardik released]]></title>
-            <description><![CDATA[After 38 days in detention, the court has decided to release Tal Yinon Dardik, who is suspected of abusing a Palestinian Arab, without any restrictive conditions.]]></description>
-            <link>https://www.israelnationalnews.com/news/431562</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431562</guid>
+            <description><![CDATA[After 38 days: Court orders Tal Yinon Dardik released]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691555</guid>
             <pubDate>Tue, 11 Aug 2026 15:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel unveils plans for next generation of attack drones]]></title>
-            <description><![CDATA[New Defense Ministry contract to fund development of low-cost autonomous strike drones intended for widespread deployment across IDF frontline units.]]></description>
-            <link>https://www.israelnationalnews.com/news/431560</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431560</guid>
+            <description><![CDATA[Israel unveils plans for next generation of attack drones]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691554</guid>
             <pubDate>Tue, 11 Aug 2026 14:46:00 GMT</pubDate>
         </item>
         <item>
@@ -1360,34 +1397,6 @@ The incident is under review. No sirens were sounded in accordance with protocol
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691391</guid>
             <pubDate>Sun, 09 Aug 2026 04:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistani Defense Minister demands united military front against ‘illegitimate’ Israel]]></title>
-            <description><![CDATA[Pakistani Defense Minister demands united military front against ‘illegitimate’ Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691390</guid>
-            <pubDate>Sun, 09 Aug 2026 03:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dear Jews: Grow a spine!]]></title>
-            <description><![CDATA[Dear Jews: Grow a spine!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691389</guid>
-            <pubDate>Sun, 09 Aug 2026 03:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire extinguished at Saudi Aramco refinery amid escalating regional clash]]></title>
-            <description><![CDATA[Fire extinguished at Saudi Aramco refinery amid escalating regional clash]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691388</guid>
-            <pubDate>Sun, 09 Aug 2026 03:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran outlines strict conditions to restore Strait of Hormuz shipping lanes]]></title>
-            <description><![CDATA[Iran outlines strict conditions to restore Strait of Hormuz shipping lanes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691387</guid>
-            <pubDate>Sun, 09 Aug 2026 02:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

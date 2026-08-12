@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 08:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 10:05:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 08:17:26 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 10:05:10 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[New Details: How Trump secretly switched planes after Iran missile threat]]></title>
+            <description><![CDATA[New details reveal how security officials quietly moved Trump to a smaller military aircraft after intelligence indicated a possible missile threat near the NATO summit in Turkey.]]></description>
+            <link>https://www.israelnationalnews.com/news/431601</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431601</guid>
+            <pubDate>Wed, 12 Aug 2026 09:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Balad candidate: Negev is 60% of 'historic Palestine']]></title>
+            <description><![CDATA[Fourth-ranked Balad candidate Hassan al-Nasasra prioritizes battle over land at the heart of his election message, accusing Israel of seeking to harm its Arab population.]]></description>
+            <link>https://www.israelnationalnews.com/news/431598</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431598</guid>
+            <pubDate>Wed, 12 Aug 2026 09:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mystery deepens: Missing Israelis' belongings not in their apartment]]></title>
+            <description><![CDATA[Mystery deepens: Missing Israelis' belongings not in their apartment]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691598</guid>
+            <pubDate>Wed, 12 Aug 2026 08:29:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IDF clashes with activists at new outpost near Qusra]]></title>
             <description><![CDATA[Security forces arrived to evacuate an outpost established days ago as Hilltop Youth activists blocked roads and attempted to delay the operation.]]></description>
@@ -208,23 +229,23 @@ The incident is under review. No sirens were sounded in accordance with protocol
         </item>
         <item>
             <title><![CDATA[OU Executive: After October 7, Jewish teens Aren’t are asking what it means to be Jewish]]></title>
-            <description><![CDATA[OU leader Rabbi Dr. Josh Joseph says soaring antisemitism has triggered an unexpected Jewish awakening, with thousands of teenagers searching for identity, pride and connection.]]></description>
-            <link>https://www.israelnationalnews.com/news/431571</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431571</guid>
+            <description><![CDATA[OU Executive: After October 7, Jewish teens Aren’t are asking what it means to be Jewish]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691570</guid>
             <pubDate>Tue, 11 Aug 2026 19:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rabbi Arush: 'Flights abroad should only be to graves of the righteous']]></title>
-            <description><![CDATA[At his 4-year-old grandson's funeral, Rabbi Arush said haredi students do not have a 'vacation from the Torah' during the yeshiva's vacations.]]></description>
-            <link>https://www.israelnationalnews.com/news/431575</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431575</guid>
+            <description><![CDATA[Rabbi Arush: 'Flights abroad should only be to graves of the righteous']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691569</guid>
             <pubDate>Tue, 11 Aug 2026 19:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The emergence of a new Islamic military bloc]]></title>
-            <description><![CDATA[The nightmare scenario is not necessarily that the Mecca agreement immediately becomes an Islamic NATO. The nightmare is that it gradually becomes one. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431574</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431574</guid>
+            <description><![CDATA[The emergence of a new Islamic military bloc]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691568</guid>
             <pubDate>Tue, 11 Aug 2026 19:15:00 GMT</pubDate>
         </item>
         <item>
@@ -1388,20 +1409,6 @@ The incident is under review. No sirens were sounded in accordance with protocol
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691401</guid>
             <pubDate>Sun, 09 Aug 2026 10:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New signs aim to prevent Israelis from entering Jenin]]></title>
-            <description><![CDATA[New signs aim to prevent Israelis from entering Jenin]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691400</guid>
-            <pubDate>Sun, 09 Aug 2026 09:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rambam responds to accusations over treatment of wounded soldiers]]></title>
-            <description><![CDATA[Rambam responds to accusations over treatment of wounded soldiers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691399</guid>
-            <pubDate>Sun, 09 Aug 2026 08:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

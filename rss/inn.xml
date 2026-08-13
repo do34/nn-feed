@@ -4,11 +4,34 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 21:44:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 22:41:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 21:44:39 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 22:41:33 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Report: US military has lost roughly 45 attack and reconnaissance drones since war began]]></title>
+            <description><![CDATA[The Washington Post reports that the US military has lost approximately 45 advanced MQ-9 Reaper drones out of the 185 it possessed prior to the outbreak of the war.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691709</guid>
+            <pubDate>Thu, 13 Aug 2026 22:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vance: US aims to stabilize oil prices and stop Iranian nuke capability]]></title>
+            <description><![CDATA[VP JD Vance tells Fox News that US strategy in Iran centers on stabilizing energy costs and barring Tehran from developing nuclear weapons.]]></description>
+            <link>https://www.israelnationalnews.com/news/431689</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431689</guid>
+            <pubDate>Thu, 13 Aug 2026 22:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The Reservists' attack Smotrich: You chose to represent draft evaders and forgot those who serve]]></title>
+            <description><![CDATA[The Zionist Home - The Reservists party slammed Bezalel Smotrich's "Reservists Plan," arguing that reducing the number of reserve duty days fails to address the underlying soldier shortage.
+
+"You chose to represent draft evaders and forgot those who serve - the serving public will not forget this," the party stated.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691707</guid>
+            <pubDate>Thu, 13 Aug 2026 21:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rock-throwing attack near Kiryat Arba leaves five lightly injured]]></title>
             <description><![CDATA[Club-wielding terrorists ambush a resident walking in the area. Security forces rushed to the scene come under a barrage of rocks, leaving five people with minor injuries.]]></description>
@@ -204,7 +227,7 @@ Additionally, the soldiers located RPG rockets and additional weapons.
         </item>
         <item>
             <title><![CDATA[Target of Khan Yunis strike: Hamas company commander]]></title>
-            <description><![CDATA[The IDF conducted an airstrike in the Khan Yunis area targeting the commander of a Hamas military wing company, who, according to the military, planned to carry out terror attacks against troops operating in the Gaza Strip. The strike was conducted to remove the threat.]]></description>
+            <description><![CDATA[Target of Khan Yunis strike: Hamas company commander]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691679</guid>
             <pubDate>Thu, 13 Aug 2026 13:10:00 GMT</pubDate>
@@ -218,9 +241,9 @@ Additionally, the soldiers located RPG rockets and additional weapons.
         </item>
         <item>
             <title><![CDATA[Haaretz against Ben Gvir: Red Cross visits have not resumed]]></title>
-            <description><![CDATA[A procedure formulated by the Israel Prison Service imposing restrictions on visits by Red Cross representatives to meet with terrorists has angered the Association for Civil Rights in Israel and the Haaretz newspaper.]]></description>
-            <link>https://www.israelnationalnews.com/news/431665</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431665</guid>
+            <description><![CDATA[Haaretz against Ben Gvir: Red Cross visits have not resumed]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691677</guid>
             <pubDate>Thu, 13 Aug 2026 12:59:00 GMT</pubDate>
         </item>
         <item>
@@ -271,27 +294,6 @@ Additionally, the soldiers located RPG rockets and additional weapons.
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691670</guid>
             <pubDate>Thu, 13 Aug 2026 11:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Binyamin governor denounces Qusra outpost]]></title>
-            <description><![CDATA[Binyamin governor denounces Qusra outpost]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691669</guid>
-            <pubDate>Thu, 13 Aug 2026 11:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Historic moment: 21 years later, first families reestablish their homes in Ganim]]></title>
-            <description><![CDATA[Historic moment: 21 years later, first families reestablish their homes in Ganim]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691668</guid>
-            <pubDate>Thu, 13 Aug 2026 10:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI pushes Israeli teachers to bring exams back into the classroom]]></title>
-            <description><![CDATA[AI pushes Israeli teachers to bring exams back into the classroom]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691667</guid>
-            <pubDate>Thu, 13 Aug 2026 10:39:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

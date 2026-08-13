@@ -4,11 +4,60 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 13:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 14:57:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 13:10:13 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 14:57:41 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[“No concern of embezzlement" | Bank issues message to customers following rumors]]></title>
+            <description><![CDATA[Bank of Jerusalem sent a clarification to customers following rumors surrounding the disappearance of employee Mali Yahalomi.]]></description>
+            <link>https://www.israelnationalnews.com/news/431671</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431671</guid>
+            <pubDate>Thu, 13 Aug 2026 14:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Footage from the scene: Gaza District Police Chief eliminated in strike on vehicle]]></title>
+            <description><![CDATA[Commander of the Gaza District Police, Jamal Mahmoud Abu Kamil, was eliminated in an IDF strike on his car. Earlier in the day, the IDF eliminated a Hamas commander in Khan Yunis.]]></description>
+            <link>https://www.israelnationalnews.com/news/431670</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431670</guid>
+            <pubDate>Thu, 13 Aug 2026 14:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anti-Zionists' fantasies create reality in which Jewish children are under threat]]></title>
+            <description><![CDATA[Anti-Zionists' fantasies create reality in which Jewish children are under threat]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691683</guid>
+            <pubDate>Thu, 13 Aug 2026 14:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Austrian report: Mossad joins search for two missing Israelis]]></title>
+            <description><![CDATA[Austrian report: Mossad joins search for two missing Israelis]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691682</guid>
+            <pubDate>Thu, 13 Aug 2026 14:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Survey: Majority of Australians fear for religious safety after Bondi]]></title>
+            <description><![CDATA[Survey: Majority of Australians fear for religious safety after Bondi]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691681</guid>
+            <pubDate>Thu, 13 Aug 2026 14:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF changes course: Lawsuits of up to NIS 100,000 against outpost builders]]></title>
+            <description><![CDATA[The State Attorney’s Office and the IDF are advancing a new initiative under which those who establish illegal outposts will be required to bear the costs of their evacuation. Two lawsuits have been filed so far.]]></description>
+            <link>https://www.israelnationalnews.com/news/431666</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431666</guid>
+            <pubDate>Thu, 13 Aug 2026 13:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Target of Khan Yunis strike: Hamas company commander]]></title>
+            <description><![CDATA[Target of Khan Yunis strike: Hamas company commander]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691679</guid>
+            <pubDate>Thu, 13 Aug 2026 13:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israeli drone strike on vehicle in southern Gaza City]]></title>
             <description><![CDATA[Israeli drone strike on vehicle in southern Gaza City]]></description>
@@ -180,57 +229,51 @@ IDF troops under the Southern Command remain deployed in the area in accordance 
         </item>
         <item>
             <title><![CDATA[Theories about October 7th]]></title>
-            <description><![CDATA[Operational blindness or a deliberate strategic plan that went wrong? Will we ever know? Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431647</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431647</guid>
+            <description><![CDATA[Theories about October 7th]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691655</guid>
             <pubDate>Thu, 13 Aug 2026 06:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[October 7 survivors mark a full circle ahead of wedding]]></title>
-            <description><![CDATA[Ziv survived the Re'im shelter attack while Eliya spent 505 days in Gaza. Now, ahead of their wedding, a fellow victim's father will write their marriage contract.]]></description>
-            <link>https://www.israelnationalnews.com/news/431646</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431646</guid>
+            <description><![CDATA[October 7 survivors mark a full circle ahead of wedding]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691654</guid>
             <pubDate>Thu, 13 Aug 2026 06:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gush Etzion: Dozens of Palestinian Arabs riot, nine arrested]]></title>
-            <description><![CDATA[Judea and Samaria District Police arrest nine Palestinian Arabs after dozens attack Jews at Mikneh Avraham Farm.]]></description>
-            <link>https://www.israelnationalnews.com/news/431645</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431645</guid>
+            <description><![CDATA[Gush Etzion: Dozens of Palestinian Arabs riot, nine arrested]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691653</guid>
             <pubDate>Thu, 13 Aug 2026 06:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iranian President Pezeshkian meets incoming Basij commander]]></title>
-            <description><![CDATA[Iranian President Masoud Pezeshkian met with Hossein Taeb, who was appointed commander of the Basij organization of the Islamic Revolutionary Guard Corps (IRGC). During the meeting, Pezeshkian congratulated Taeb on his appointment.
-
-Taeb, who previously served as head of the IRGC's Intelligence Organization and as commander of the Basij during the suppression of the 2009 protests, was appointed to the position by order of Supreme Leader Mojtaba Khamenei, following the death of the previous commander, Gholam-Reza Soleimani.]]></description>
+            <description><![CDATA[Iranian President Pezeshkian meets incoming Basij commander]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691652</guid>
             <pubDate>Thu, 13 Aug 2026 05:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gag order imposed on investigation into disappearance of Mali and Liel Yahalomi.]]></title>
-            <description><![CDATA[The family of Mali and Liel Yahalomi has pushed back against police briefings regarding their disappearance, saying there is no evidence to rule out a nationalistically motivated terror attack.
-
-The family said they provided Lahav 433 investigators with all information in their possession and warned that some reports about the case contradict information they have received.
-
-Read More]]></description>
+            <description><![CDATA[Gag order imposed on investigation into disappearance of Mali and Liel Yahalomi.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691651</guid>
             <pubDate>Thu, 13 Aug 2026 04:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jewish business leaders Josh Kushner and Bob Iger to buy LA Lakers for record $12.5B]]></title>
-            <description><![CDATA[Jewish investors Joshua Kushner and Bob Iger agree to acquire the LA Lakers for a record $12.5 billion, subject to NBA approval.]]></description>
-            <link>https://www.israelnationalnews.com/news/431643</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431643</guid>
+            <description><![CDATA[Jewish business leaders Josh Kushner and Bob Iger to buy LA Lakers for record $12.5B]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691650</guid>
             <pubDate>Thu, 13 Aug 2026 03:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hamas announces intention to run in PA elections]]></title>
-            <description><![CDATA[Terror group Hamas announces plans to participate in upcoming PA legislative elections, opposing pre-conditions and aiming to challenge Fatah's political control.]]></description>
-            <link>https://www.israelnationalnews.com/news/431642</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431642</guid>
+            <description><![CDATA[Hamas announces intention to run in PA elections]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691649</guid>
             <pubDate>Thu, 13 Aug 2026 03:16:00 GMT</pubDate>
         </item>
         <item>
@@ -253,55 +296,6 @@ Read More]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691646</guid>
             <pubDate>Thu, 13 Aug 2026 01:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Four nations shortlisted to oversee Hezbollah disarmament]]></title>
-            <description><![CDATA[Report: Four nations shortlisted to oversee Hezbollah disarmament]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691645</guid>
-            <pubDate>Thu, 13 Aug 2026 01:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Huckabee: Trump is willing to 'bankrupt' Iran]]></title>
-            <description><![CDATA[Huckabee: Trump is willing to 'bankrupt' Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691644</guid>
-            <pubDate>Thu, 13 Aug 2026 01:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colombia: Earthquake death toll rises to 265, hundreds still missing]]></title>
-            <description><![CDATA[Colombia: Earthquake death toll rises to 265, hundreds still missing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691643</guid>
-            <pubDate>Thu, 13 Aug 2026 00:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alleged non-response to terrorist exercise: Likud and IDF respond to Liberman]]></title>
-            <description><![CDATA[Alleged non-response to terrorist exercise: Likud and IDF respond to Liberman]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691642</guid>
-            <pubDate>Thu, 13 Aug 2026 00:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany grants intelligence services new powers to hack digital communications]]></title>
-            <description><![CDATA[Germany grants intelligence services new powers to hack digital communications]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691641</guid>
-            <pubDate>Wed, 12 Aug 2026 23:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bereaved families to Cabinet: Attack in Gaza]]></title>
-            <description><![CDATA[Bereaved families to Cabinet: Attack in Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691640</guid>
-            <pubDate>Wed, 12 Aug 2026 23:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Family of missing women in Vienna: Nationalistic motive cannot be ruled out]]></title>
-            <description><![CDATA[Family of missing women in Vienna: Nationalistic motive cannot be ruled out]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691639</guid>
-            <pubDate>Wed, 12 Aug 2026 22:51:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

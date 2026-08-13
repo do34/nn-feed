@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 20:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 21:44:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 20:42:34 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 21:44:39 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Rock-throwing attack near Kiryat Arba leaves five lightly injured]]></title>
+            <description><![CDATA[Club-wielding terrorists ambush a resident walking in the area. Security forces rushed to the scene come under a barrage of rocks, leaving five people with minor injuries.]]></description>
+            <link>https://www.israelnationalnews.com/news/431688</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431688</guid>
+            <pubDate>Thu, 13 Aug 2026 21:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Kushner planning Israel visit to advance Trump Gaza plan]]></title>
+            <description><![CDATA[Jared Kushner is set to travel to Israel next week to coordinate the White House's Gaza transition plan with Prime Minister Netanyahu, sources tell Axios.]]></description>
+            <link>https://www.israelnationalnews.com/news/431687</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431687</guid>
+            <pubDate>Thu, 13 Aug 2026 20:42:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gaza lookouts warn of October 7 echoes as Hamas tests IDF response]]></title>
             <description><![CDATA[IDF lookouts warn Hamas terrorists are approaching Gaza's yellow line daily and say troops face delays obtaining authorization to open fire.]]></description>
@@ -211,16 +225,16 @@ Additionally, the soldiers located RPG rockets and additional weapons.
         </item>
         <item>
             <title><![CDATA[Police chase footage: Suspects flee officer, slip, and attempt to run away]]></title>
-            <description><![CDATA[Motor scooter driver and rider attempt to flee inspection in Beit Hanina, but slip. Police arrest driver following chase.]]></description>
-            <link>https://www.israelnationalnews.com/news/431664</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431664</guid>
+            <description><![CDATA[Police chase footage: Suspects flee officer, slip, and attempt to run away]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691676</guid>
             <pubDate>Thu, 13 Aug 2026 12:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blow to Houthi propaganda apparatus]]></title>
-            <description><![CDATA[X has suspended the account of Houthi military spokesman Yahya Saree, which was used to disseminate the organization’s propaganda and claim responsibility for attacks and launches.]]></description>
-            <link>https://www.israelnationalnews.com/news/431663</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431663</guid>
+            <description><![CDATA[Blow to Houthi propaganda apparatus]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691675</guid>
             <pubDate>Thu, 13 Aug 2026 12:27:00 GMT</pubDate>
         </item>
         <item>
@@ -278,20 +292,6 @@ Additionally, the soldiers located RPG rockets and additional weapons.
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691667</guid>
             <pubDate>Thu, 13 Aug 2026 10:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tal Dardik returns to Temple Mount after release from detention]]></title>
-            <description><![CDATA[Tal Dardik returns to Temple Mount after release from detention]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691666</guid>
-            <pubDate>Thu, 13 Aug 2026 09:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank of Jerusalem CEO to employees: No connection between Mali Yahalomi's disappearance and the bank]]></title>
-            <description><![CDATA[Bank of Jerusalem CEO to employees: No connection between Mali Yahalomi's disappearance and the bank]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691665</guid>
-            <pubDate>Thu, 13 Aug 2026 09:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

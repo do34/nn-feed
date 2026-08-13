@@ -4,11 +4,67 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 11:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 13:10:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 11:46:45 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 13:10:13 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Israeli drone strike on vehicle in southern Gaza City]]></title>
+            <description><![CDATA[Israeli drone strike on vehicle in southern Gaza City]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691678</guid>
+            <pubDate>Thu, 13 Aug 2026 13:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haaretz against Ben Gvir: Red Cross visits have not resumed]]></title>
+            <description><![CDATA[A procedure formulated by the Israel Prison Service imposing restrictions on visits by Red Cross representatives to meet with terrorists has angered the Association for Civil Rights in Israel and the Haaretz newspaper.]]></description>
+            <link>https://www.israelnationalnews.com/news/431665</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431665</guid>
+            <pubDate>Thu, 13 Aug 2026 12:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police chase footage: Suspects flee officer, slip, and attempt to run away]]></title>
+            <description><![CDATA[Motor scooter driver and rider attempt to flee inspection in Beit Hanina, but slip. Police arrest driver following chase.]]></description>
+            <link>https://www.israelnationalnews.com/news/431664</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431664</guid>
+            <pubDate>Thu, 13 Aug 2026 12:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blow to Houthi propaganda apparatus]]></title>
+            <description><![CDATA[X has suspended the account of Houthi military spokesman Yahya Saree, which was used to disseminate the organization’s propaganda and claim responsibility for attacks and launches.]]></description>
+            <link>https://www.israelnationalnews.com/news/431663</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431663</guid>
+            <pubDate>Thu, 13 Aug 2026 12:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One killed, several injured in explosion in Rotterdam Port, Netherlands]]></title>
+            <description><![CDATA[One killed, several injured in explosion in Rotterdam Port, Netherlands]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691674</guid>
+            <pubDate>Thu, 13 Aug 2026 12:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Families warn of mounting distress aboard USS Abraham Lincoln]]></title>
+            <description><![CDATA[After more than 250 days without docking, families of sailors aboard the USS Abraham Lincoln are raising alarm over severe burnout, harsh conditions and reported suicide attempts.]]></description>
+            <link>https://www.israelnationalnews.com/news/431662</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431662</guid>
+            <pubDate>Thu, 13 Aug 2026 12:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gazan media: One killed in strike on Khan Yunis]]></title>
+            <description><![CDATA[Gazan media: One killed in strike on Khan Yunis]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691672</guid>
+            <pubDate>Thu, 13 Aug 2026 12:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ra’am chairman meets with former MK Segalovitz over possible joint political run]]></title>
+            <description><![CDATA[Ra’am chairman meets with former MK Segalovitz, and the two agreed to continue discussions on a joint run. Otzma Yehudit: 'A fire sale-with the backing of the Left.']]></description>
+            <link>https://www.israelnationalnews.com/news/431661</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431661</guid>
+            <pubDate>Thu, 13 Aug 2026 11:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rome: Jewish tourist attacked twice in 24 hours]]></title>
             <description><![CDATA[Yitzhak Dahan from Paris, who was visiting Rome on a family vacation, was pepper-sprayed near the Jewish Ghetto and, less than 24 hours later, was attacked by four unidentified individuals.]]></description>
@@ -25,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[Historic moment: 21 years later, first families reestablish their homes in Ganim]]></title>
-            <description><![CDATA[Historic moment: 21 years later, first families reestablish their homes in Ganim]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691668</guid>
+            <description><![CDATA['Today, we are bringing life back to Ganim,' Samaria Regional Council head Yossi Dagan said at a ceremony marking the reestablishment of the community, 21 years after the Disengagement. 'Ganim will become a huge community-10 times its current size!']]></description>
+            <link>https://www.israelnationalnews.com/news/431658</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431658</guid>
             <pubDate>Thu, 13 Aug 2026 10:53:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +95,9 @@
         </item>
         <item>
             <title><![CDATA[Tal Dardik returns to Temple Mount after release from detention]]></title>
-            <description><![CDATA[Tal Dardik returns to Temple Mount after release from detention]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691666</guid>
+            <description><![CDATA[Welcomed by singing worshippers, Tal Dardik returned to the Temple Mount after his release from detention and received blessings for himself, his wife, and their newborn son.]]></description>
+            <link>https://www.israelnationalnews.com/news/431655</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431655</guid>
             <pubDate>Thu, 13 Aug 2026 09:42:00 GMT</pubDate>
         </item>
         <item>
@@ -64,7 +120,11 @@ Read More]]></description>
         </item>
         <item>
             <title><![CDATA[IDF troops operating in southern Gaza yesterday identified a terrorist who crossed the Yellow Line]]></title>
-            <description><![CDATA[IDF troops operating in southern Gaza yesterday identified a terrorist who crossed the Yellow Line]]></description>
+            <description><![CDATA[IDF: Yesterday (Wednesday), IDF troops operating in the southern Gaza Strip identified a terrorist who crossed the Yellow Line and approached the troops in a manner that posed an immediate threat to them.
+
+Following the identification, the troops responded with fire in order to respond to the threat. A hit was identified.
+
+IDF troops under the Southern Command remain deployed in the area in accordance with the agreement and will continue to operate to remove any immediate threat.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691663</guid>
             <pubDate>Thu, 13 Aug 2026 08:49:00 GMT</pubDate>
@@ -78,9 +138,9 @@ Read More]]></description>
         </item>
         <item>
             <title><![CDATA[Psychological warfare by lecturers against Israeli students]]></title>
-            <description><![CDATA[Psychological warfare by lecturers against Israeli students]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691661</guid>
+            <description><![CDATA[The Anti-Defamation League holds confidential briefing for students and staff, to expose how hatred toward Jews and Israelis has seeped into academic networks.]]></description>
+            <link>https://www.israelnationalnews.com/news/431652</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431652</guid>
             <pubDate>Thu, 13 Aug 2026 08:32:00 GMT</pubDate>
         </item>
         <item>
@@ -99,9 +159,9 @@ Read More]]></description>
         </item>
         <item>
             <title><![CDATA[ISA blocks recruits from combat service]]></title>
-            <description><![CDATA[ISA blocks recruits from combat service]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691658</guid>
+            <description><![CDATA[Calls received by MK Son Har-Melech indicate that candidates destined for service in combat units were informed only on their draft day that the ISA opposes their serving in the army.]]></description>
+            <link>https://www.israelnationalnews.com/news/431650</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431650</guid>
             <pubDate>Thu, 13 Aug 2026 07:21:00 GMT</pubDate>
         </item>
         <item>
@@ -175,58 +235,56 @@ Read More]]></description>
         </item>
         <item>
             <title><![CDATA[Erdogan accuses Israel of trying to 'erase' Palestinian issue]]></title>
-            <description><![CDATA[Turkish President Erdogan meets PA chairman Mahmoud Abbas in Ankara, accusing Israel of exploiting regional turmoil and pledging support for Palestinian statehood.]]></description>
-            <link>https://www.israelnationalnews.com/news/431641</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431641</guid>
+            <description><![CDATA[Erdogan accuses Israel of trying to 'erase' Palestinian issue]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691648</guid>
             <pubDate>Thu, 13 Aug 2026 02:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: US officials questioned Israeli intelligence behind Trump’s clandestine flight]]></title>
-            <description><![CDATA[According to The Washington Post, US Intelligence officials doubted Israeli reports of an Iranian plot against Trump, but a covert plane swap was executed out of extra caution.]]></description>
-            <link>https://www.israelnationalnews.com/news/431640</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431640</guid>
+            <description><![CDATA[Report: US officials questioned Israeli intelligence behind Trump’s clandestine flight]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691647</guid>
             <pubDate>Thu, 13 Aug 2026 02:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grand jury indicts Nick Reiner for murder of parents]]></title>
-            <description><![CDATA[Nick Reiner pleads not guilty after a grand jury indicts him on murder charges for the fatal stabbing of his parents, Rob and Michele Singer Reiner.]]></description>
-            <link>https://www.israelnationalnews.com/news/431639</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431639</guid>
+            <description><![CDATA[Grand jury indicts Nick Reiner for murder of parents]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691646</guid>
             <pubDate>Thu, 13 Aug 2026 01:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Four nations shortlisted to oversee Hezbollah disarmament]]></title>
-            <description><![CDATA[According to Reuters, Israel and Lebanon have agreed on four nations - Britain, Italy, Switzerland, and Indonesia - as potential foreign observers to verify Hezbollah's disarmament.]]></description>
-            <link>https://www.israelnationalnews.com/news/431638</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431638</guid>
+            <description><![CDATA[Report: Four nations shortlisted to oversee Hezbollah disarmament]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691645</guid>
             <pubDate>Thu, 13 Aug 2026 01:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Huckabee: Trump is willing to 'bankrupt' Iran]]></title>
-            <description><![CDATA[Speaking on Newsmax, US Ambassador Mike Huckabee praises Secret Service agents and Mossad intelligence for thwarting Iranian threats against President Trump.]]></description>
-            <link>https://www.israelnationalnews.com/news/431637</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431637</guid>
+            <description><![CDATA[Huckabee: Trump is willing to 'bankrupt' Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691644</guid>
             <pubDate>Thu, 13 Aug 2026 01:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colombia: Earthquake death toll rises to 265, hundreds still missing]]></title>
-            <description><![CDATA[The death toll from the powerful earthquake that struck Colombia has risen to 265.
-
-Additionally, at least 496 people remain listed as missing as search and rescue operations continue.]]></description>
+            <description><![CDATA[Colombia: Earthquake death toll rises to 265, hundreds still missing]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691643</guid>
             <pubDate>Thu, 13 Aug 2026 00:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alleged non-response to terrorist exercise: Likud and IDF respond to Liberman]]></title>
-            <description><![CDATA[Likud issues sharp response to Yisrael Beytenu chairman after he claimed that dozens of Nukhba terrorists practiced a raid on an Israeli community and that political leadership prevented the IDF from taking action.]]></description>
-            <link>https://www.israelnationalnews.com/news/431636</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431636</guid>
+            <description><![CDATA[Alleged non-response to terrorist exercise: Likud and IDF respond to Liberman]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691642</guid>
             <pubDate>Thu, 13 Aug 2026 00:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Germany grants intelligence services new powers to hack digital communications]]></title>
-            <description><![CDATA[The German government has approved measures granting intelligence services new authority to hack digital communications and disrupt the activities of hostile actors abroad.]]></description>
+            <description><![CDATA[Germany grants intelligence services new powers to hack digital communications]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691641</guid>
             <pubDate>Wed, 12 Aug 2026 23:44:00 GMT</pubDate>
@@ -244,62 +302,6 @@ Additionally, at least 496 people remain listed as missing as search and rescue 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691639</guid>
             <pubDate>Wed, 12 Aug 2026 22:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US rejects Katz’s announcement of long-term troops in southern Lebanon]]></title>
-            <description><![CDATA[US rejects Katz’s announcement of long-term troops in southern Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691638</guid>
-            <pubDate>Wed, 12 Aug 2026 22:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu orders immediate dispatch of aid delegation to Colombia]]></title>
-            <description><![CDATA[Netanyahu orders immediate dispatch of aid delegation to Colombia]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691637</guid>
-            <pubDate>Wed, 12 Aug 2026 21:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two dead after army Apache attack helicopter crashes in Texas]]></title>
-            <description><![CDATA[Two dead after army Apache attack helicopter crashes in Texas]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691636</guid>
-            <pubDate>Wed, 12 Aug 2026 21:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motorcyclist seriously injured in collision near Yarkon Interchange]]></title>
-            <description><![CDATA[Motorcyclist seriously injured in collision near Yarkon Interchange]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691635</guid>
-            <pubDate>Wed, 12 Aug 2026 20:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Surprise departure: Karoline Leavitt to exit White House Press Secretary role]]></title>
-            <description><![CDATA[Surprise departure: Karoline Leavitt to exit White House Press Secretary role]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691634</guid>
-            <pubDate>Wed, 12 Aug 2026 20:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White House Press Secretary Karoline Leavitt steps down]]></title>
-            <description><![CDATA[White House Press Secretary Karoline Leavitt steps down]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691633</guid>
-            <pubDate>Wed, 12 Aug 2026 19:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yair Golan reveals which portfolios he seeks in next government]]></title>
-            <description><![CDATA[Yair Golan reveals which portfolios he seeks in next government]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691632</guid>
-            <pubDate>Wed, 12 Aug 2026 19:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYPD refuses security detail for Mamdani's wife on Syria, Lebanon trip]]></title>
-            <description><![CDATA[NYPD refuses security detail for Mamdani's wife on Syria, Lebanon trip]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691631</guid>
-            <pubDate>Wed, 12 Aug 2026 18:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

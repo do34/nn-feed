@@ -4,11 +4,57 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 01:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 04:10:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 01:56:14 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 04:10:43 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Podcast: Welcoming the amazing month of Elul!]]></title>
+            <description><![CDATA["Judges and officers you shall appoint at all your gates": The gates of consciousness.]]></description>
+            <link>https://www.israelnationalnews.com/news/431698</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431698</guid>
+            <pubDate>Fri, 14 Aug 2026 04:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maariv poll: Coalition drops to 48 seats]]></title>
+            <description><![CDATA[A Maariv poll published on Friday morning shows the coalition bloc weakening by one seat this week, standing at just 48 seats. The coalition's decline is a direct result of Likud losing one seat, dropping to 21.
+
+Seat breakdown in the poll: Yashar (led by Eisenkot) 23, Likud 21, Together (led by Bennett) 14, Yisrael Beytenu 10, The Democrats 10, Otzma Yehudit 8, United Torah Judaism 8, Shas 7, Hadash-Ta'al 6, Ra'am 5, Religious Zionist party 4, Zionist Home (led by Tropper and Hendel) 4.
+
+The Zionist opposition bloc reaches 57 seats, and together with Chili Tropper and Yoaz Hendel could form a majority of 61 seats. The Arab parties account for an additional 11 seats.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691720</guid>
+            <pubDate>Fri, 14 Aug 2026 04:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mansour Abbas sets election goal: Ra'am will be the decisive kingmaker]]></title>
+            <description><![CDATA[Mansour Abbas sets election goal: Ra'am will be the decisive kingmaker]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691719</guid>
+            <pubDate>Fri, 14 Aug 2026 03:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will United Torah Judaism split after the elections?]]></title>
+            <description><![CDATA[According to haredi analyst Yaakov Rivlin, United Torah Judaism is expected to break up into two independent factions following the elections and conduct separate coalition negotiations.]]></description>
+            <link>https://www.israelnationalnews.com/news/431696</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431696</guid>
+            <pubDate>Fri, 14 Aug 2026 03:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New poll: Likud surges as coalition gains ground]]></title>
+            <description><![CDATA[New poll: Likud surges as coalition gains ground]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691717</guid>
+            <pubDate>Fri, 14 Aug 2026 02:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Idan Amedi breaks down in tears as he dedicates song to Hadar Goldin's parents]]></title>
+            <description><![CDATA[During his performance at the Sultan's Pool, Amedi addresses Simcha and Leah Goldin in the audience, reflecting on their bond over the years and thanking them for their dedicated service to the nation.]]></description>
+            <link>https://www.israelnationalnews.com/news/431694</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431694</guid>
+            <pubDate>Fri, 14 Aug 2026 02:18:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Young woman abducted from central Israel group home, rescued in Hebron]]></title>
             <description><![CDATA[Woman in her 20s forcibly taken in a vehicle by her family members from the Dan region. A joint operation by police and IDF forces leads to her rescue in Hebron.]]></description>
@@ -25,7 +71,9 @@
         </item>
         <item>
             <title><![CDATA[Motorcyclist in his 40s seriously injured in Holon crash]]></title>
-            <description><![CDATA[Motorcyclist in his 40s seriously injured in Holon crash]]></description>
+            <description><![CDATA[A motorcyclist in his 40s was seriously injured in a collision with a vehicle in Holon.
+
+Magen David Adom (MDA) teams provided medical treatment at the scene and evacuated him to Wolfson Hospital.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691713</guid>
             <pubDate>Fri, 14 Aug 2026 00:40:00 GMT</pubDate>
@@ -39,7 +87,9 @@
         </item>
         <item>
             <title><![CDATA[Saudi Crown Prince meets with CENTCOM commander]]></title>
-            <description><![CDATA[Saudi Crown Prince meets with CENTCOM commander]]></description>
+            <description><![CDATA[Saudi Crown Prince and de facto ruler, Prince Mohammed bin Salman, met with the commander of the United States Central Command (CENTCOM), Admiral Brad Cooper, the Saudi state news agency reported.
+
+According to the report, the two discussed bolstering military and defense cooperation between Washington and Riyadh, as well as reviewing joint efforts to curb escalation and maintain regional stability and security in the Middle East.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691711</guid>
             <pubDate>Thu, 13 Aug 2026 23:53:00 GMT</pubDate>
@@ -181,48 +231,44 @@
         </item>
         <item>
             <title><![CDATA[Security concerns force El Al to cancel direct Hanoi flights]]></title>
-            <description><![CDATA[El Al canceled its planned direct Hanoi route after Israeli security officials declined to approve flights with Israeli aircraft and crews.]]></description>
-            <link>https://www.israelnationalnews.com/news/431676</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431676</guid>
+            <description><![CDATA[Security concerns force El Al to cancel direct Hanoi flights]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691691</guid>
             <pubDate>Thu, 13 Aug 2026 16:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hegseth: 'We have capability, will, & patience to maintain blockade indefinitely']]></title>
-            <description><![CDATA[US Secretary of War Pete Hegseth tells Congress the blockade against Iran will be maintained 'as long as needed.']]></description>
-            <link>https://www.israelnationalnews.com/news/431675</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431675</guid>
+            <description><![CDATA[Hegseth: 'We have capability, will, & patience to maintain blockade indefinitely']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691690</guid>
             <pubDate>Thu, 13 Aug 2026 16:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rare August rain and thunderstorms: Surprising weekend Israel weather forcast]]></title>
-            <description><![CDATA[Israel will get relief from the August heat as temperatures are expected to drop over the weekend, with a chance of rainfall in parts of the country.]]></description>
-            <link>https://www.israelnationalnews.com/news/431674</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431674</guid>
+            <description><![CDATA[Rare August rain and thunderstorms: Surprising weekend Israel weather forcast]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691689</guid>
             <pubDate>Thu, 13 Aug 2026 15:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Settlers' returning to their Biblical status]]></title>
-            <description><![CDATA[The word "settlers" is often used as a pejorative, but a study of the Torah, the Sages, and the words of our Rabbis reveals the central place of "inheritance" in the Jewish story.]]></description>
-            <link>https://www.israelnationalnews.com/news/431673</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431673</guid>
+            <description><![CDATA['Settlers' returning to their Biblical status]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691688</guid>
             <pubDate>Thu, 13 Aug 2026 15:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF locates numerous weapons in the Security Zone in southern Lebanon]]></title>
-            <description><![CDATA[Yesterday (Wednesday), during an operation in the area of Mrah el Aaqbe, IDF soldiers of the 55th Brigade located and dismantled a booby-trapped structure belonging to the Hezbollah terrorist organization.
-
-Additionally, the soldiers located RPG rockets and additional weapons.
-
-"The IDF will not allow the Hezbollah terrorist organization to harm Israeli civilians and its soldiers, and will continue to operate in order to remove threats in accordance with the ceasefire agreement," the military said.]]></description>
+            <description><![CDATA[IDF locates numerous weapons in the Security Zone in southern Lebanon]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691687</guid>
             <pubDate>Thu, 13 Aug 2026 15:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu ordered to remove video after petition over minors]]></title>
-            <description><![CDATA[Election Committee Chairman Justice Noam Sohlberg ordered Netanyahu's video removed after a petition alleged it improperly featured children in a campaign.]]></description>
-            <link>https://www.israelnationalnews.com/news/431672</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431672</guid>
+            <description><![CDATA[Netanyahu ordered to remove video after petition over minors]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691686</guid>
             <pubDate>Thu, 13 Aug 2026 15:00:00 GMT</pubDate>
         </item>
         <item>
@@ -252,48 +298,6 @@ Additionally, the soldiers located RPG rockets and additional weapons.
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691682</guid>
             <pubDate>Thu, 13 Aug 2026 14:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Survey: Majority of Australians fear for religious safety after Bondi]]></title>
-            <description><![CDATA[Survey: Majority of Australians fear for religious safety after Bondi]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691681</guid>
-            <pubDate>Thu, 13 Aug 2026 14:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF changes course: Lawsuits of up to NIS 100,000 against outpost builders]]></title>
-            <description><![CDATA[IDF changes course: Lawsuits of up to NIS 100,000 against outpost builders]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691680</guid>
-            <pubDate>Thu, 13 Aug 2026 13:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Target of Khan Yunis strike: Hamas company commander]]></title>
-            <description><![CDATA[Target of Khan Yunis strike: Hamas company commander]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691679</guid>
-            <pubDate>Thu, 13 Aug 2026 13:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli drone strike on vehicle in southern Gaza City]]></title>
-            <description><![CDATA[Israeli drone strike on vehicle in southern Gaza City]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691678</guid>
-            <pubDate>Thu, 13 Aug 2026 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Haaretz against Ben Gvir: Red Cross visits have not resumed]]></title>
-            <description><![CDATA[Haaretz against Ben Gvir: Red Cross visits have not resumed]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691677</guid>
-            <pubDate>Thu, 13 Aug 2026 12:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police chase footage: Suspects flee officer, slip, and attempt to run away]]></title>
-            <description><![CDATA[Police chase footage: Suspects flee officer, slip, and attempt to run away]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691676</guid>
-            <pubDate>Thu, 13 Aug 2026 12:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,46 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 13:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 14:51:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 13:05:41 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 14:51:47 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Attorney General sends message to haredi educational networks]]></title>
+            <description><![CDATA[The Attorney General submitted the state’s response to the High Court of Justice, indicating that funding for haredi education networks would be conditional on meeting full core objectives and on close supervision.]]></description>
+            <link>https://www.israelnationalnews.com/news/431722</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431722</guid>
+            <pubDate>Fri, 14 Aug 2026 14:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moments before his phone died, a tourist was rescued in the Judean Desert]]></title>
+            <description><![CDATA[The 20-year-old left a festival near Tekoa, lost his way toward the Judean Desert, and reported to police that he had no water. Volunteers from the Etzion-Yehuda rescue unit rescued him from the Tekoa riverbed.]]></description>
+            <link>https://www.israelnationalnews.com/news/431721</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431721</guid>
+            <pubDate>Fri, 14 Aug 2026 14:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspected: Chinese money used to support pro-Palestinian protests]]></title>
+            <description><![CDATA[US officials are examining allegations that funds from a network linked to China reached bodies involved in pro-Palestinian protests in the UK.]]></description>
+            <link>https://www.israelnationalnews.com/news/431720</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431720</guid>
+            <pubDate>Fri, 14 Aug 2026 13:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Initial report: Vehicle explodes in Ashdod, incident appears to be criminal in nature]]></title>
+            <description><![CDATA[Initial report: Vehicle explodes in Ashdod, incident appears to be criminal in nature]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691752</guid>
+            <pubDate>Fri, 14 Aug 2026 13:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[90,000 passengers and an unusual backlog of flights]]></title>
+            <description><![CDATA[Unusual backlog of 90 flights within three hours causes congestion at Ben Gurion Int'l Airport. Israel Airports Authority blames restrictions in Europe and US refueling aircraft, 'There is no shortage of workers.']]></description>
+            <link>https://www.israelnationalnews.com/news/431719</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431719</guid>
+            <pubDate>Fri, 14 Aug 2026 13:07:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New evidence in case of missing Israelis in Vienna]]></title>
             <description><![CDATA[Security cameras captured the mother and daughter leaving the apartment where they were staying in Vienna, carrying their belongings and with no one else accompanying them.]]></description>
@@ -194,39 +229,37 @@ The ministry stressed that, at this time, no confirmed case of Ebola has been di
         </item>
         <item>
             <title><![CDATA[Gaslighting on steroids]]></title>
-            <description><![CDATA[The libels against Israel are all falling apart. The libels are not acknowledged because they are driven by the incontrovertible antisemitic - if insane - belief that Israel is a unique force for evil in the world. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431701</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431701</guid>
+            <description><![CDATA[Gaslighting on steroids]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691725</guid>
             <pubDate>Fri, 14 Aug 2026 06:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: China suspected of funding anti-Israel protests in UK]]></title>
-            <description><![CDATA[American politicians are examining suspicions of covert Chinese funding for the activities of Code Pink in Britain, which has held pro-Palestinian demonstrations in the country, according to a report in The Telegraph.
-
-As part of the investigation, payments totaling approximately £250,000 to a company linked to the organization are being examined. The funds were allegedly received from companies connected to technology mogul Neville Roy Singham.]]></description>
+            <description><![CDATA[Report: China suspected of funding anti-Israel protests in UK]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691724</guid>
             <pubDate>Fri, 14 Aug 2026 06:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Piers Morgan raked over the coals after calling Netanyahu 'Idiot']]></title>
-            <description><![CDATA[Piers Morgan calls Netanyahu 'idiot' after referring to UK as 'Islamic Republic,' but thousands of commenters back up Prime Minister with facts.]]></description>
-            <link>https://www.israelnationalnews.com/news/431700</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431700</guid>
+            <description><![CDATA[Piers Morgan raked over the coals after calling Netanyahu 'Idiot']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691723</guid>
             <pubDate>Fri, 14 Aug 2026 06:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The X-factor against drones: IDF revives elite weapons course]]></title>
-            <description><![CDATA[The month-long course returns with lessons from combat, training on specialized weapons, and new tools to help elite units counter the growing drone threat.]]></description>
-            <link>https://www.israelnationalnews.com/news/431699</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431699</guid>
+            <description><![CDATA[The X-factor against drones: IDF revives elite weapons course]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691722</guid>
             <pubDate>Fri, 14 Aug 2026 05:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Podcast: Welcoming the amazing month of Elul!]]></title>
-            <description><![CDATA["Judges and officers you shall appoint at all your gates": The gates of consciousness.]]></description>
-            <link>https://www.israelnationalnews.com/news/431698</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431698</guid>
+            <description><![CDATA[Podcast: Welcoming the amazing month of Elul!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691721</guid>
             <pubDate>Fri, 14 Aug 2026 04:08:00 GMT</pubDate>
         </item>
         <item>
@@ -263,41 +296,6 @@ As part of the investigation, payments totaling approximately £250,000 to a com
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691716</guid>
             <pubDate>Fri, 14 Aug 2026 02:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Young woman abducted from central Israel group home, rescued in Hebron]]></title>
-            <description><![CDATA[Young woman abducted from central Israel group home, rescued in Hebron]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691715</guid>
-            <pubDate>Fri, 14 Aug 2026 01:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US slaps tariffs on imported drones and components, including from key allies]]></title>
-            <description><![CDATA[US slaps tariffs on imported drones and components, including from key allies]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691714</guid>
-            <pubDate>Fri, 14 Aug 2026 01:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motorcyclist in his 40s seriously injured in Holon crash]]></title>
-            <description><![CDATA[Motorcyclist in his 40s seriously injured in Holon crash]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691713</guid>
-            <pubDate>Fri, 14 Aug 2026 00:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Treasury Secretary warns Iran of 'unprecedented' economic isolation]]></title>
-            <description><![CDATA[US Treasury Secretary warns Iran of 'unprecedented' economic isolation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691712</guid>
-            <pubDate>Fri, 14 Aug 2026 00:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Crown Prince meets with CENTCOM commander]]></title>
-            <description><![CDATA[Saudi Crown Prince meets with CENTCOM commander]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691711</guid>
-            <pubDate>Thu, 13 Aug 2026 23:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

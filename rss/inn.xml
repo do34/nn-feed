@@ -4,11 +4,31 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 16:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 17:52:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 16:52:49 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 17:52:51 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Reports in Austria: Missing Israelis may have fled voluntarily to South America]]></title>
+            <description><![CDATA[Austrian reports suggest the two missing Israelis left voluntarily, as police map their timeline and the family urges authorities to investigate all possibilities.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431725</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431725</guid>
+            <pubDate>Fri, 14 Aug 2026 17:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shabbat Shalom from Israel!]]></title>
+            <description><![CDATA[Arutz Sheva-Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of Shabbat. Jerusalem candle lighting time is 18:44 on Friday. Our North American desk will keep you informed until the 19:37 EDT candle lighting time in New York.
+
+The updates from Israel will resume Saturday night, following the conclusion of Shabbat at 20:01 in Jerusalem.
+
+Shabbat Shalom!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
+            <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Amb. Leiter: “What we saw in the village of Qusra is not what it means to settle the land"]]></title>
             <description><![CDATA[Israel’s Ambassador to the US Yechiel Leiter condemned violence in Qusra, saying settling the Land of Israel must be rooted in justice and the rule of law.]]></description>
@@ -217,16 +237,16 @@ According to the authority, an unusually large backlog of approximately 90 fligh
         </item>
         <item>
             <title><![CDATA[Hilltop activists re-erect tent in Qusra]]></title>
-            <description><![CDATA[Hilltop anarchists re-erected a tent in Qusra this morning at the same location where it had previously stood, after the IDF deployed an additional battalion to the village and the Border Police reinforced its forces in the area.]]></description>
+            <description><![CDATA[Hilltop activists re-erect tent in Qusra]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691731</guid>
             <pubDate>Fri, 14 Aug 2026 07:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF confirms: Terrorist who held numerous hostages eliminated]]></title>
-            <description><![CDATA[IDF confirms elimination of Muhammad Mushtaha, who infiltrated Israel and held Tsachi Idan, Corporal Noa Marciano, Ziv Berman, Omri Miran, Ori Megidish, Naama Levy, and Matan Angrerst hostage.]]></description>
-            <link>https://www.israelnationalnews.com/news/431704</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431704</guid>
+            <description><![CDATA[IDF confirms: Terrorist who held numerous hostages eliminated]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691730</guid>
             <pubDate>Fri, 14 Aug 2026 07:11:00 GMT</pubDate>
         </item>
         <item>
@@ -284,20 +304,6 @@ According to the authority, an unusually large backlog of approximately 90 fligh
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691722</guid>
             <pubDate>Fri, 14 Aug 2026 05:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: Welcoming the amazing month of Elul!]]></title>
-            <description><![CDATA[Podcast: Welcoming the amazing month of Elul!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691721</guid>
-            <pubDate>Fri, 14 Aug 2026 04:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Maariv poll: Coalition drops to 48 seats]]></title>
-            <description><![CDATA[Maariv poll: Coalition drops to 48 seats]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691720</guid>
-            <pubDate>Fri, 14 Aug 2026 04:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

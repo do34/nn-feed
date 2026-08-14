@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 11:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 13:05:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 11:43:08 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 13:05:41 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[New evidence in case of missing Israelis in Vienna]]></title>
+            <description><![CDATA[Security cameras captured the mother and daughter leaving the apartment where they were staying in Vienna, carrying their belongings and with no one else accompanying them.]]></description>
+            <link>https://www.israelnationalnews.com/news/431718</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431718</guid>
+            <pubDate>Fri, 14 Aug 2026 12:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yisrael Beytenu: Another murder threat directed at Liberman on TikTok]]></title>
+            <description><![CDATA[The Yisrael Beytenu party announced that another murder threat was made on TikTok against the party's chairman, MK Avigdor Liberman. Following the threat, a complaint was filed with the Knesset officer and the police. The party claims that a "wave of threats" has recently been made against Liberman and his family.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691749</guid>
+            <pubDate>Fri, 14 Aug 2026 12:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MK Elazar Stern resigns from Knesset]]></title>
+            <description><![CDATA[Elazar Stern informed Lapid that he will resign from the Knesset after 11 years as a Yesh Atid MK, apparently ahead of a possible run with Eisenkot's party.]]></description>
+            <link>https://www.israelnationalnews.com/news/431717</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431717</guid>
+            <pubDate>Fri, 14 Aug 2026 11:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MK Simcha Rothman: 'Reserve duty burden must be shared by more people']]></title>
             <description><![CDATA[Religious Zionism MK says gradual haredi enlistment could ease burden on reservists and enable more soldiers to return to their families, calls for 61-seat right-wing majority that is loyal to the national camp.]]></description>
@@ -25,7 +46,11 @@
         </item>
         <item>
             <title><![CDATA[Troops bust attempt to smuggle 50 kg of drugs across eastern border]]></title>
-            <description><![CDATA[Troops bust attempt to smuggle 50 kg of drugs across eastern border]]></description>
+            <description><![CDATA[More than 50 kilograms of drugs, estimated to be worth millions of shekels, were discovered yesterday during searches along Israel’s eastern border in the Jordan Valley area.
+
+According to the IDF, the drugs were found in sacks by troops from the Lions of the Jordan Battalion and trackers from the Jordan Valley and Emekim Brigade. They were handed over to police for further investigation.
+
+In recent months, security forces have foiled smuggling attempts involving more than 200 kilograms of drugs in the area.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691745</guid>
             <pubDate>Fri, 14 Aug 2026 10:28:00 GMT</pubDate>
@@ -76,9 +101,9 @@ According to the authority, an unusually large backlog of approximately 90 fligh
         </item>
         <item>
             <title><![CDATA[Shoplifting erodes the fabric of society]]></title>
-            <description><![CDATA[Shoplifting erodes the fabric of society]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691738</guid>
+            <description><![CDATA[The Torah teaches that stealing from the community is not less serious than stealing from an individual. In some ways, it is even more dangerous.]]></description>
+            <link>https://www.israelnationalnews.com/news/431710</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431710</guid>
             <pubDate>Fri, 14 Aug 2026 08:57:00 GMT</pubDate>
         </item>
         <item>
@@ -206,27 +231,23 @@ As part of the investigation, payments totaling approximately £250,000 to a com
         </item>
         <item>
             <title><![CDATA[Maariv poll: Coalition drops to 48 seats]]></title>
-            <description><![CDATA[A Maariv poll published on Friday morning shows the coalition bloc weakening by one seat this week, standing at just 48 seats. The coalition's decline is a direct result of Likud losing one seat, dropping to 21.
-
-Seat breakdown in the poll: Yashar (led by Eisenkot) 23, Likud 21, Together (led by Bennett) 14, Yisrael Beytenu 10, The Democrats 10, Otzma Yehudit 8, United Torah Judaism 8, Shas 7, Hadash-Ta'al 6, Ra'am 5, Religious Zionist party 4, Zionist Home (led by Tropper and Hendel) 4.
-
-The Zionist opposition bloc reaches 57 seats, and together with Chili Tropper and Yoaz Hendel could form a majority of 61 seats. The Arab parties account for an additional 11 seats.]]></description>
+            <description><![CDATA[Maariv poll: Coalition drops to 48 seats]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691720</guid>
             <pubDate>Fri, 14 Aug 2026 04:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mansour Abbas sets election goal: Ra'am will be the decisive kingmaker]]></title>
-            <description><![CDATA[Ra'am chairman Mansour Abbas declares that his party aims to be at the center of decision-making following the elections: "No one will dictate our role in politics."]]></description>
-            <link>https://www.israelnationalnews.com/news/431697</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431697</guid>
+            <description><![CDATA[Mansour Abbas sets election goal: Ra'am will be the decisive kingmaker]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691719</guid>
             <pubDate>Fri, 14 Aug 2026 03:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will United Torah Judaism split after the elections?]]></title>
-            <description><![CDATA[According to haredi analyst Yaakov Rivlin, United Torah Judaism is expected to break up into two independent factions following the elections and conduct separate coalition negotiations.]]></description>
-            <link>https://www.israelnationalnews.com/news/431696</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431696</guid>
+            <description><![CDATA[Will United Torah Judaism split after the elections?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691718</guid>
             <pubDate>Fri, 14 Aug 2026 03:25:00 GMT</pubDate>
         </item>
         <item>
@@ -277,27 +298,6 @@ The Zionist opposition bloc reaches 57 seats, and together with Chili Tropper an
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691711</guid>
             <pubDate>Thu, 13 Aug 2026 23:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two UAE state vessels targeted in Strait of Hormuz]]></title>
-            <description><![CDATA[Two UAE state vessels targeted in Strait of Hormuz]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691710</guid>
-            <pubDate>Thu, 13 Aug 2026 23:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: US military has lost roughly 45 attack and reconnaissance drones since war began]]></title>
-            <description><![CDATA[Report: US military has lost roughly 45 attack and reconnaissance drones since war began]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691709</guid>
-            <pubDate>Thu, 13 Aug 2026 22:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vance: US aims to stabilize oil prices and stop Iranian nuke capability]]></title>
-            <description><![CDATA[Vance: US aims to stabilize oil prices and stop Iranian nuke capability]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691708</guid>
-            <pubDate>Thu, 13 Aug 2026 22:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

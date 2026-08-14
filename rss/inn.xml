@@ -4,11 +4,29 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 17:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 18:54:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 17:52:51 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 18:54:00 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Austrian police confirm: Missing Israelis left the country voluntarily]]></title>
+            <description><![CDATA[Austrian police officially confirmed on Friday evening that the two missing Israelis, Mali and Liel Yaalomi, left the country independently. At this time, there is no suspicion of a violent crime.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431725</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431725</guid>
+            <pubDate>Fri, 14 Aug 2026 18:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF strikes Khan Yunis, eliminates senior Hamas commander]]></title>
+            <description><![CDATA[IDF eliminates Hamas commander Hudhaifa Qawari, who was involved in training, arms transport, and planning imminent attacks, in a southern Gaza strike.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431726</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431726</guid>
+            <pubDate>Fri, 14 Aug 2026 17:56:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reports in Austria: Missing Israelis may have fled voluntarily to South America]]></title>
             <description><![CDATA[Austrian reports suggest the two missing Israelis left voluntarily, as police map their timeline and the family urges authorities to investigate all possibilities.
@@ -223,16 +241,16 @@ According to the authority, an unusually large backlog of approximately 90 fligh
         </item>
         <item>
             <title><![CDATA[Wholeheartedness is the key]]></title>
-            <description><![CDATA[Hashem adjures us to ‘cleave to Him’ - and as Hashem is upright and righteous, one who wants to cleave to Him, has to also be ‘upright and righteous’.]]></description>
-            <link>https://www.israelnationalnews.com/news/431706</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431706</guid>
+            <description><![CDATA[Wholeheartedness is the key]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691733</guid>
             <pubDate>Fri, 14 Aug 2026 07:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A note on the Catholic Church's mini-October 7th]]></title>
-            <description><![CDATA[The outcry over Hamel’s killing lasted only as long as it took for the ink on the page the following day to dry. And Pope Francis, after Hamel’s murder, said: “If I speak of Islamic violence I must also speak of Catholic violence." He really said that. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431705</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431705</guid>
+            <description><![CDATA[A note on the Catholic Church's mini-October 7th]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691732</guid>
             <pubDate>Fri, 14 Aug 2026 07:27:00 GMT</pubDate>
         </item>
         <item>
@@ -290,20 +308,6 @@ According to the authority, an unusually large backlog of approximately 90 fligh
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691724</guid>
             <pubDate>Fri, 14 Aug 2026 06:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piers Morgan raked over the coals after calling Netanyahu 'Idiot']]></title>
-            <description><![CDATA[Piers Morgan raked over the coals after calling Netanyahu 'Idiot']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691723</guid>
-            <pubDate>Fri, 14 Aug 2026 06:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The X-factor against drones: IDF revives elite weapons course]]></title>
-            <description><![CDATA[The X-factor against drones: IDF revives elite weapons course]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691722</guid>
-            <pubDate>Fri, 14 Aug 2026 05:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

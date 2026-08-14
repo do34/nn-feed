@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 04:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 06:13:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 04:10:43 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 06:13:53 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The X-factor against drones: IDF revives elite weapons course]]></title>
+            <description><![CDATA[The month-long course returns with lessons from combat, training on specialized weapons, and new tools to help elite units counter the growing drone threat.]]></description>
+            <link>https://www.israelnationalnews.com/news/431699</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431699</guid>
+            <pubDate>Fri, 14 Aug 2026 05:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Podcast: Welcoming the amazing month of Elul!]]></title>
             <description><![CDATA["Judges and officers you shall appoint at all your gates": The gates of consciousness.]]></description>
@@ -29,9 +36,9 @@ The Zionist opposition bloc reaches 57 seats, and together with Chili Tropper an
         </item>
         <item>
             <title><![CDATA[Mansour Abbas sets election goal: Ra'am will be the decisive kingmaker]]></title>
-            <description><![CDATA[Mansour Abbas sets election goal: Ra'am will be the decisive kingmaker]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691719</guid>
+            <description><![CDATA[Ra'am chairman Mansour Abbas declares that his party aims to be at the center of decision-making following the elections: "No one will dictate our role in politics."]]></description>
+            <link>https://www.israelnationalnews.com/news/431697</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431697</guid>
             <pubDate>Fri, 14 Aug 2026 03:50:00 GMT</pubDate>
         </item>
         <item>
@@ -43,9 +50,9 @@ The Zionist opposition bloc reaches 57 seats, and together with Chili Tropper an
         </item>
         <item>
             <title><![CDATA[New poll: Likud surges as coalition gains ground]]></title>
-            <description><![CDATA[New poll: Likud surges as coalition gains ground]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691717</guid>
+            <description><![CDATA[A new Direct Polls survey projects 30 Knesset seats for Likud and 23 for Gadi Eisenkot’s slate. The governing coalition reaches 59 seats, while the center-left bloc stands at 50.]]></description>
+            <link>https://www.israelnationalnews.com/news/431695</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431695</guid>
             <pubDate>Fri, 14 Aug 2026 02:49:00 GMT</pubDate>
         </item>
         <item>
@@ -224,9 +231,9 @@ According to the report, the two discussed bolstering military and defense coope
         </item>
         <item>
             <title><![CDATA[Yahalomi family breaks silence on rumors surrounding Vienna disappearance]]></title>
-            <description><![CDATA[The Yahalomi family urged authorities to keep every avenue open in the search for Mali and Liel, while rejecting unverified reports about their disappearance.]]></description>
-            <link>https://www.israelnationalnews.com/news/431677</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431677</guid>
+            <description><![CDATA[Yahalomi family breaks silence on rumors surrounding Vienna disappearance]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691692</guid>
             <pubDate>Thu, 13 Aug 2026 17:23:00 GMT</pubDate>
         </item>
         <item>
@@ -291,13 +298,6 @@ According to the report, the two discussed bolstering military and defense coope
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691683</guid>
             <pubDate>Thu, 13 Aug 2026 14:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Austrian report: Mossad joins search for two missing Israelis]]></title>
-            <description><![CDATA[Austrian report: Mossad joins search for two missing Israelis]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691682</guid>
-            <pubDate>Thu, 13 Aug 2026 14:05:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

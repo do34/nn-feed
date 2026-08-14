@@ -4,11 +4,106 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 06:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 08:15:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 06:13:53 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 08:15:43 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Not a toy: Police find M-16 hiding in preschool sandbox]]></title>
+            <description><![CDATA[After receiving a report of gunfire on a vehicle, police raid complex and find M-16 assault rifle hiding in preschool sandbox.]]></description>
+            <link>https://www.israelnationalnews.com/news/431708</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431708</guid>
+            <pubDate>Fri, 14 Aug 2026 08:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: IDF embarks on humanitarian operation in Colombia]]></title>
+            <description><![CDATA[Home Front Command delegation departs for Colombia following logistical preparations.]]></description>
+            <link>https://www.israelnationalnews.com/news/431707</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431707</guid>
+            <pubDate>Fri, 14 Aug 2026 07:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wholeheartedness is the key]]></title>
+            <description><![CDATA[Hashem adjures us to ‘cleave to Him’ - and as Hashem is upright and righteous, one who wants to cleave to Him, has to also be ‘upright and righteous’.]]></description>
+            <link>https://www.israelnationalnews.com/news/431706</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431706</guid>
+            <pubDate>Fri, 14 Aug 2026 07:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A note on the Catholic Church's mini-October 7th]]></title>
+            <description><![CDATA[The outcry over Hamel’s killing lasted only as long as it took for the ink on the page the following day to dry. And Pope Francis, after Hamel’s murder, said: “If I speak of Islamic violence I must also speak of Catholic violence." He really said that. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431705</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431705</guid>
+            <pubDate>Fri, 14 Aug 2026 07:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hilltop activists re-erect tent in Qusra]]></title>
+            <description><![CDATA[Hilltop anarchists re-erected a tent in Qusra this morning at the same location where it had previously stood, after the IDF deployed an additional battalion to the village and the Border Police reinforced its forces in the area.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691731</guid>
+            <pubDate>Fri, 14 Aug 2026 07:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF confirms: Terrorist who held numerous hostages eliminated]]></title>
+            <description><![CDATA[IDF confirms elimination of Muhammad Mushtaha, who infiltrated Israel and held Tsachi Idan, Corporal Noa Marciano, Ziv Berman, Omri Miran, Ori Megidish, Naama Levy, and Matan Angrerst hostage.]]></description>
+            <link>https://www.israelnationalnews.com/news/431704</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431704</guid>
+            <pubDate>Fri, 14 Aug 2026 07:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[August. Everyone is on Vacation. Hamas isn't.]]></title>
+            <description><![CDATA[During the past week, more than 65 incidents of crossings into the yellow zone in the Gaza Strip were recorded, and in none of them was fire opened. Warning.]]></description>
+            <link>https://www.israelnationalnews.com/news/431703</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431703</guid>
+            <pubDate>Fri, 14 Aug 2026 07:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ebola concern in Israel ruled out]]></title>
+            <description><![CDATA[The Health Ministry announced that tests for Ebola conducted on a person who returned from the Democratic Republic of the Congo after being suspected of contracting the virus came back negative.
+
+The ministry stressed that, at this time, no confirmed case of Ebola has been diagnosed in Israel.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691728</guid>
+            <pubDate>Fri, 14 Aug 2026 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arab reports: Three fishermen injured by Israeli Navy gunfire off the coast of Gaza]]></title>
+            <description><![CDATA[Palestinian Arab sources are reporting that three fishermen were wounded as a result of gunfire from an Israeli naval vessel off the coast of Gaza City.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691727</guid>
+            <pubDate>Fri, 14 Aug 2026 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Katz orders IDF to transfer civilian enforcement in Judea and Samaria to police]]></title>
+            <description><![CDATA[Defense Minister Israel Katz orders a plan to shift civilian enforcement in Judea and Samaria from the IDF to police as the military focuses on security.]]></description>
+            <link>https://www.israelnationalnews.com/news/431702</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431702</guid>
+            <pubDate>Fri, 14 Aug 2026 06:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gaslighting on steroids]]></title>
+            <description><![CDATA[The libels against Israel are all falling apart. The libels are not acknowledged because they are driven by the incontrovertible antisemitic - if insane - belief that Israel is a unique force for evil in the world. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431701</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431701</guid>
+            <pubDate>Fri, 14 Aug 2026 06:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: China suspected of funding anti-Israel protests in UK]]></title>
+            <description><![CDATA[American politicians are examining suspicions of covert Chinese funding for the activities of Code Pink in Britain, which has held pro-Palestinian demonstrations in the country, according to a report in The Telegraph.
+
+As part of the investigation, payments totaling approximately £250,000 to a company linked to the organization are being examined. The funds were allegedly received from companies connected to technology mogul Neville Roy Singham.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691724</guid>
+            <pubDate>Fri, 14 Aug 2026 06:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Piers Morgan raked over the coals after calling Netanyahu 'Idiot']]></title>
+            <description><![CDATA[Piers Morgan calls Netanyahu 'idiot' after referring to UK as 'Islamic Republic,' but thousands of commenters back up Prime Minister with facts.]]></description>
+            <link>https://www.israelnationalnews.com/news/431700</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431700</guid>
+            <pubDate>Fri, 14 Aug 2026 06:25:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The X-factor against drones: IDF revives elite weapons course]]></title>
             <description><![CDATA[The month-long course returns with lessons from combat, training on specialized weapons, and new tools to help elite units counter the growing drone threat.]]></description>
@@ -140,164 +235,73 @@ According to the report, the two discussed bolstering military and defense coope
         </item>
         <item>
             <title><![CDATA[Report: Kushner planning Israel visit to advance Trump Gaza plan]]></title>
-            <description><![CDATA[Jared Kushner is set to travel to Israel next week to coordinate the White House's Gaza transition plan with Prime Minister Netanyahu, sources tell Axios.]]></description>
-            <link>https://www.israelnationalnews.com/news/431687</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431687</guid>
+            <description><![CDATA[Report: Kushner planning Israel visit to advance Trump Gaza plan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691705</guid>
             <pubDate>Thu, 13 Aug 2026 20:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gaza lookouts warn of October 7 echoes as Hamas tests IDF response]]></title>
-            <description><![CDATA[IDF lookouts warn Hamas terrorists are approaching Gaza's yellow line daily and say troops face delays obtaining authorization to open fire.]]></description>
-            <link>https://www.israelnationalnews.com/news/431686</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431686</guid>
+            <description><![CDATA[Gaza lookouts warn of October 7 echoes as Hamas tests IDF response]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691704</guid>
             <pubDate>Thu, 13 Aug 2026 19:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israeli aid delegation departs for Colombia after earthquake]]></title>
-            <description><![CDATA[The joint humanitarian delegation of the IDF, the Ministry of Defense and the Ministry of Foreign Affairs, “Alliance of Brothers", will depart tonight for Columbia following the earthquake.]]></description>
-            <link>https://www.israelnationalnews.com/news/431685</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431685</guid>
+            <description><![CDATA[Israeli aid delegation departs for Colombia after earthquake]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691703</guid>
             <pubDate>Thu, 13 Aug 2026 19:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five injured in rock attack near Kiryat Arba]]></title>
-            <description><![CDATA[Five people were lightly injured in a rock attack in the Orot Netanel neighborhood in the area of Hilltop 26 near Kiryat Arba. According to Judea and Samaria Rescuers Without Borders, two civilians and three members of the security forces were injured.]]></description>
+            <description><![CDATA[Five injured in rock attack near Kiryat Arba]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691702</guid>
             <pubDate>Thu, 13 Aug 2026 19:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Huckabee defends Jews of Judea and Samaria: 'Unsettlers' are the problem]]></title>
-            <description><![CDATA[US Ambassador Mike Huckabee defended Judea and Samaria communities while condemning Israelis involved in the Qusra incident as a harmful minority.]]></description>
-            <link>https://www.israelnationalnews.com/news/431684</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431684</guid>
+            <description><![CDATA[Huckabee defends Jews of Judea and Samaria: 'Unsettlers' are the problem]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691701</guid>
             <pubDate>Thu, 13 Aug 2026 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US Antisemitism Envoy praises Saudi efforts to reform school curricula]]></title>
-            <description><![CDATA[Ambassador Rabbi Yehuda Kaploun welcomed Saudi Arabia's efforts to address concerning material in school textbooks, calling for further steps toward peace and coexistence in the spirit of the Abraham Accords.]]></description>
-            <link>https://www.israelnationalnews.com/news/431683</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431683</guid>
+            <description><![CDATA[US Antisemitism Envoy praises Saudi efforts to reform school curricula]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691700</guid>
             <pubDate>Thu, 13 Aug 2026 18:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['We can do it again': Kushner marks six years of Abraham Accords]]></title>
-            <description><![CDATA[Jared Kushner and Israeli President Isaac Herzog marked six years of the Abraham Accords, urging expanded regional cooperation, security and prosperity.]]></description>
-            <link>https://www.israelnationalnews.com/news/431682</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431682</guid>
+            <description><![CDATA['We can do it again': Kushner marks six years of Abraham Accords]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691699</guid>
             <pubDate>Thu, 13 Aug 2026 18:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The land-for-peace travesty]]></title>
-            <description><![CDATA[Giving enemies, who are sworn to our destruction, parts of Israel is equally emphatically not the Jewish way of relating to them.]]></description>
-            <link>https://www.israelnationalnews.com/news/431681</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431681</guid>
+            <description><![CDATA[The land-for-peace travesty]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691698</guid>
             <pubDate>Thu, 13 Aug 2026 18:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Do we need a king?]]></title>
-            <description><![CDATA[As Jews, our national mission requires that certain individual preferences be sacrificed for the sake of societal good.]]></description>
-            <link>https://www.israelnationalnews.com/news/431680</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431680</guid>
+            <description><![CDATA[Do we need a king?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691697</guid>
             <pubDate>Thu, 13 Aug 2026 17:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF confirms: Terrorist who infiltrated Israel on 10/7 eliminated]]></title>
-            <description><![CDATA[IDF confirms that it eliminated Jamal Mahmoud Abu Kamil, a commander in the Hamas terrorist organization who infiltrated Israeli territory during the October 7th Massacre, in an IDF strike on his car.]]></description>
-            <link>https://www.israelnationalnews.com/news/431670</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431670</guid>
+            <description><![CDATA[IDF confirms: Terrorist who infiltrated Israel on 10/7 eliminated]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691696</guid>
             <pubDate>Thu, 13 Aug 2026 17:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smotrich launches plan: Fewer reserve duty days]]></title>
-            <description><![CDATA[Minister Bezalel Smotrich launched the “Reservists Home" plan, centered on a goal of reducing reserve service to 30 days a year as early as 2027.]]></description>
-            <link>https://www.israelnationalnews.com/news/431679</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431679</guid>
-            <pubDate>Thu, 13 Aug 2026 17:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nearly a week with no leads: Israeli mother, daughter may have left austria]]></title>
-            <description><![CDATA[Nearly a week after Mali and Liel Yahalomi vanished in Vienna, Israeli police are pursuing several possibilities as Austria considers whether they left the country.]]></description>
-            <link>https://www.israelnationalnews.com/news/431677</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431677</guid>
-            <pubDate>Thu, 13 Aug 2026 17:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The catalyst for Jew-hatred]]></title>
-            <description><![CDATA[“Islamophobia" is a crock of drivel as a real phenomenon, but it is employed as armor against any criticism of even the most radical Muslims, and in turn is used as a weapon that has intimidated many Americans into acquiescence in the transformation of their country. Op-ed.]]></description>
-            <link>https://www.israelnationalnews.com/news/431678</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431678</guid>
-            <pubDate>Thu, 13 Aug 2026 17:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yahalomi family breaks silence on rumors surrounding Vienna disappearance]]></title>
-            <description><![CDATA[Yahalomi family breaks silence on rumors surrounding Vienna disappearance]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691692</guid>
-            <pubDate>Thu, 13 Aug 2026 17:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Security concerns force El Al to cancel direct Hanoi flights]]></title>
-            <description><![CDATA[Security concerns force El Al to cancel direct Hanoi flights]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691691</guid>
-            <pubDate>Thu, 13 Aug 2026 16:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hegseth: 'We have capability, will, & patience to maintain blockade indefinitely']]></title>
-            <description><![CDATA[Hegseth: 'We have capability, will, & patience to maintain blockade indefinitely']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691690</guid>
-            <pubDate>Thu, 13 Aug 2026 16:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rare August rain and thunderstorms: Surprising weekend Israel weather forcast]]></title>
-            <description><![CDATA[Rare August rain and thunderstorms: Surprising weekend Israel weather forcast]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691689</guid>
-            <pubDate>Thu, 13 Aug 2026 15:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Settlers' returning to their Biblical status]]></title>
-            <description><![CDATA['Settlers' returning to their Biblical status]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691688</guid>
-            <pubDate>Thu, 13 Aug 2026 15:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF locates numerous weapons in the Security Zone in southern Lebanon]]></title>
-            <description><![CDATA[IDF locates numerous weapons in the Security Zone in southern Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691687</guid>
-            <pubDate>Thu, 13 Aug 2026 15:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu ordered to remove video after petition over minors]]></title>
-            <description><![CDATA[Netanyahu ordered to remove video after petition over minors]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691686</guid>
-            <pubDate>Thu, 13 Aug 2026 15:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“No concern of embezzlement" | Bank issues message to customers following rumors]]></title>
-            <description><![CDATA[“No concern of embezzlement" | Bank issues message to customers following rumors]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691685</guid>
-            <pubDate>Thu, 13 Aug 2026 14:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Footage from the scene: Gaza District Police Chief eliminated in strike on vehicle]]></title>
-            <description><![CDATA[Footage from the scene: Gaza District Police Chief eliminated in strike on vehicle]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691684</guid>
-            <pubDate>Thu, 13 Aug 2026 14:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anti-Zionists' fantasies create reality in which Jewish children are under threat]]></title>
-            <description><![CDATA[Anti-Zionists' fantasies create reality in which Jewish children are under threat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691683</guid>
-            <pubDate>Thu, 13 Aug 2026 14:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 23:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 01:13:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 23:21:21 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 01:13:12 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
@@ -31,9 +31,11 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[Hezbollah chief slams Lebanese government over accord with Israel]]></title>
-            <description><![CDATA[Hezbollah chief slams Lebanese government over accord with Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691774</guid>
+            <description><![CDATA[Hezbollah leader Naim Qassem criticizes Lebanese officials for "exposing the army to pressure" by implementing a US-backed framework agreement with Israel.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/431732</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431732</guid>
             <pubDate>Fri, 14 Aug 2026 22:39:00 GMT</pubDate>
         </item>
         <item>

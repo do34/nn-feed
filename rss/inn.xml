@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 18:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 19:21:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 18:29:03 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 19:21:33 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Bullet lands near Psagot synagogue]]></title>
+            <description><![CDATA[Gunfire towards Jewish community and bullet found near synagogue, as Jewish shepherd assaulted and dozens of masked Arabs riot nearby.]]></description>
+            <link>https://www.israelnationalnews.com/news/431740</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431740</guid>
+            <pubDate>Sat, 15 Aug 2026 19:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rom Braslavski to Ben Gvir: 'Let me execute the terrorists myself']]></title>
+            <description><![CDATA[Former hostage Rom Braslavski makes extraordinary request to National Security Minister Itamar Ben Gvir, who responds by promising to 'move heaven and earth to make that happen.']]></description>
+            <link>https://www.israelnationalnews.com/news/431739</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431739</guid>
+            <pubDate>Sat, 15 Aug 2026 18:59:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Summer surprise: Thunderstorms, flooding hit Israel]]></title>
             <description><![CDATA[Unseasonable rain swept parts of Israel, with 18.4 mm falling in Maaleh Adumim, flooding in Jerusalem, and key highway temporarily closed amid fears of flash floods.]]></description>
@@ -25,9 +39,9 @@
         </item>
         <item>
             <title><![CDATA[Hamas plants bomb under IDF tank in Gaza ceasefire violation]]></title>
-            <description><![CDATA[Hamas plants bomb under IDF tank in Gaza ceasefire violation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691777</guid>
+            <description><![CDATA[IDF tank drives over Hamas explosive device near the Yellow Line; terrorists cross Yellow Line, attempting to sabotage IDF weapons.]]></description>
+            <link>https://www.israelnationalnews.com/news/431735</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431735</guid>
             <pubDate>Sat, 15 Aug 2026 17:32:00 GMT</pubDate>
         </item>
         <item>
@@ -241,9 +255,9 @@ Full name: Eli Trozman ben Louiza]]></description>
         </item>
         <item>
             <title><![CDATA[Suspected: Chinese money used to support pro-Palestinian protests]]></title>
-            <description><![CDATA[US officials are examining allegations that funds from a network linked to China reached bodies involved in pro-Palestinian protests in the UK.]]></description>
-            <link>https://www.israelnationalnews.com/news/431720</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431720</guid>
+            <description><![CDATA[Suspected: Chinese money used to support pro-Palestinian protests]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691753</guid>
             <pubDate>Fri, 14 Aug 2026 13:53:00 GMT</pubDate>
         </item>
         <item>
@@ -308,20 +322,6 @@ Full name: Eli Trozman ben Louiza]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691744</guid>
             <pubDate>Fri, 14 Aug 2026 09:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airports Authority explains major delays at Ben Gurion Airport]]></title>
-            <description><![CDATA[Airports Authority explains major delays at Ben Gurion Airport]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691743</guid>
-            <pubDate>Fri, 14 Aug 2026 09:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spanish broadcasters snubbed Israeli runner on live TV]]></title>
-            <description><![CDATA[Spanish broadcasters snubbed Israeli runner on live TV]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691742</guid>
-            <pubDate>Fri, 14 Aug 2026 09:39:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

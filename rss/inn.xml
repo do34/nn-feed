@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 21:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 22:20:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 21:21:18 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 22:20:59 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Why cheapening Shoah vocabulary threatens American democracy]]></title>
+            <description><![CDATA[When critics hurl Nazi labels at progressive politicians, they fail to address the actual substance of the threat. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431747</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431747</guid>
+            <pubDate>Sat, 15 Aug 2026 21:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran warns: We will respond to any IDF operation on Ali Al-Taher Ridge]]></title>
+            <description><![CDATA[Iran warns: We will respond to any IDF operation on Ali Al-Taher Ridge]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691789</guid>
+            <pubDate>Sat, 15 Aug 2026 21:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I'll go with you anywhere' | Why Mali and Liel vanished]]></title>
+            <description><![CDATA['I'll go with you anywhere' | Why Mali and Liel vanished]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691788</guid>
+            <pubDate>Sat, 15 Aug 2026 21:24:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran says missing pilots are alive - in Qatar]]></title>
             <description><![CDATA[After months of uncertainty, Tehran claims three pilots thought missing since their jets were shot down are alive and being held by Qatari forces.]]></description>
@@ -25,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[Chairs fly as massive brawl erupts at Israeli water park]]></title>
-            <description><![CDATA[Chairs fly as massive brawl erupts at Israeli water park]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691785</guid>
+            <description><![CDATA[A dispute over loud music spiraled into a violent brawl at Holon’s Yamit 2000, leaving two security guards injured and 12 suspects under arrest.]]></description>
+            <link>https://www.israelnationalnews.com/news/431745</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431745</guid>
             <pubDate>Sat, 15 Aug 2026 20:51:00 GMT</pubDate>
         </item>
         <item>
@@ -222,29 +243,21 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[IDF strikes Khan Yunis, eliminates senior Hamas commander]]></title>
-            <description><![CDATA[IDF eliminates Hamas commander Hudhaifa Qawari, who was involved in training, arms transport, and planning imminent attacks, in a southern Gaza strike.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431726</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431726</guid>
+            <description><![CDATA[IDF strikes Khan Yunis, eliminates senior Hamas commander]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691761</guid>
             <pubDate>Fri, 14 Aug 2026 17:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reports in Austria: Missing Israelis may have fled voluntarily to South America]]></title>
-            <description><![CDATA[Austrian reports suggest the two missing Israelis left voluntarily, as police map their timeline and the family urges authorities to investigate all possibilities.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431725</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431725</guid>
+            <description><![CDATA[Reports in Austria: Missing Israelis may have fled voluntarily to South America]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691760</guid>
             <pubDate>Fri, 14 Aug 2026 17:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Arutz Sheva-Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of Shabbat. Jerusalem candle lighting time is 18:44 on Friday. Our North American desk will keep you informed until the 19:37 EDT candle lighting time in New York.
-
-The updates from Israel will resume Saturday night, following the conclusion of Shabbat at 20:01 in Jerusalem.
-
-Shabbat Shalom!]]></description>
+            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
             <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
@@ -297,27 +310,6 @@ Shabbat Shalom!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691753</guid>
             <pubDate>Fri, 14 Aug 2026 13:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Initial report: Vehicle explodes in Ashdod, incident appears to be criminal in nature]]></title>
-            <description><![CDATA[Initial report: Vehicle explodes in Ashdod, incident appears to be criminal in nature]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691752</guid>
-            <pubDate>Fri, 14 Aug 2026 13:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[90,000 passengers and an unusual backlog of flights]]></title>
-            <description><![CDATA[90,000 passengers and an unusual backlog of flights]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691751</guid>
-            <pubDate>Fri, 14 Aug 2026 13:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New evidence in case of missing Israelis in Vienna]]></title>
-            <description><![CDATA[New evidence in case of missing Israelis in Vienna]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691750</guid>
-            <pubDate>Fri, 14 Aug 2026 12:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

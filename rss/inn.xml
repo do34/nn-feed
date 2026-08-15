@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 19:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 20:22:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 19:21:33 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 20:22:04 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The race against time in Colombia]]></title>
+            <description><![CDATA['Alliance of Brothers' delegation arrives in Colombia, begins working to locate and rescue people trapped under rubble after the recent earthquake.]]></description>
+            <link>https://www.israelnationalnews.com/news/431741</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431741</guid>
+            <pubDate>Sat, 15 Aug 2026 20:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mansour Abbas makes surprise announcement]]></title>
+            <description><![CDATA[Ra'am chairman MK Mansour Abbas says upcoming elections will be his last, declares, 'The Palestinian state has already been established.']]></description>
+            <link>https://www.israelnationalnews.com/news/431738</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431738</guid>
+            <pubDate>Sat, 15 Aug 2026 19:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bullet lands near Psagot synagogue]]></title>
             <description><![CDATA[Gunfire towards Jewish community and bullet found near synagogue, as Jewish shepherd assaulted and dozens of masked Arabs riot nearby.]]></description>
@@ -241,16 +255,16 @@ Full name: Eli Trozman ben Louiza]]></description>
         </item>
         <item>
             <title><![CDATA[Attorney General sends message to haredi educational networks]]></title>
-            <description><![CDATA[The Attorney General submitted the state’s response to the High Court of Justice, indicating that funding for haredi education networks would be conditional on meeting full core objectives and on close supervision.]]></description>
-            <link>https://www.israelnationalnews.com/news/431722</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431722</guid>
+            <description><![CDATA[Attorney General sends message to haredi educational networks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691755</guid>
             <pubDate>Fri, 14 Aug 2026 14:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moments before his phone died, a tourist was rescued in the Judean Desert]]></title>
-            <description><![CDATA[The 20-year-old left a festival near Tekoa, lost his way toward the Judean Desert, and reported to police that he had no water. Volunteers from the Etzion-Yehuda rescue unit rescued him from the Tekoa riverbed.]]></description>
-            <link>https://www.israelnationalnews.com/news/431721</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431721</guid>
+            <description><![CDATA[Moments before his phone died, a tourist was rescued in the Judean Desert]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691754</guid>
             <pubDate>Fri, 14 Aug 2026 14:43:00 GMT</pubDate>
         </item>
         <item>
@@ -308,20 +322,6 @@ Full name: Eli Trozman ben Louiza]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691746</guid>
             <pubDate>Fri, 14 Aug 2026 11:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Troops bust attempt to smuggle 50 kg of drugs across eastern border]]></title>
-            <description><![CDATA[Troops bust attempt to smuggle 50 kg of drugs across eastern border]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691745</guid>
-            <pubDate>Fri, 14 Aug 2026 10:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After 11 years: Elazar Stern to resign from the Knesset]]></title>
-            <description><![CDATA[After 11 years: Elazar Stern to resign from the Knesset]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691744</guid>
-            <pubDate>Fri, 14 Aug 2026 09:51:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

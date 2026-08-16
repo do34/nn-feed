@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 22:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 23:19:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 22:20:37 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 23:19:37 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Hamas demands Board of Peace compel Israel to honor Gaza peace plan]]></title>
+            <description><![CDATA[Following high-level talks in Egypt with US envoy Jared Kushner, Hamas demands the Board of Peace compel Israel to fulfill its commitments under the Gaza plan.]]></description>
+            <link>https://www.israelnationalnews.com/news/431797</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431797</guid>
+            <pubDate>Sun, 16 Aug 2026 23:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man moderately injured in accident near Regba Junction]]></title>
+            <description><![CDATA[A man in his 50s was moderately injured in a two-car collision on Highway 4 near Regba Junction.
+
+Magen David Adom EMTs and paramedics provided medical treatment at the scene and evacuated him to the Galilee Medical Center in Nahariya.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691855</guid>
+            <pubDate>Sun, 16 Aug 2026 22:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Citing relations with Kim, Trump directs Pentagon to cut back drills with South Korea]]></title>
             <description><![CDATA[Citing high expenses and his relationship with North Korean leader Kim Jong Un, President Donald Trump orders Secretary of War Pete Hegseth to scale back drills with South Korea.]]></description>
@@ -223,16 +239,16 @@ Prior to the strikes, steps were taken to mitigate harm to civilians, including 
         </item>
         <item>
             <title><![CDATA[Why did Mali and Liel disappear? Police scratching their heads]]></title>
-            <description><![CDATA[Police say they still do not know why Mali and Liel Yahalomi disappeared, despite a complex international investigation that found no unusual event.]]></description>
-            <link>https://www.israelnationalnews.com/news/431776</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431776</guid>
+            <description><![CDATA[Why did Mali and Liel disappear? Police scratching their heads]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691826</guid>
             <pubDate>Sun, 16 Aug 2026 12:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hamas documents reveal long-term plan to open a northern front against Israel]]></title>
-            <description><![CDATA[Captured Hamas documents reveal more than a decade of efforts to establish a military infrastructure in Lebanon in coordination with Hezbollah and Iran, including plans for rockets, a 2,000-man fighting force and more.]]></description>
-            <link>https://www.israelnationalnews.com/news/431775</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431775</guid>
+            <description><![CDATA[Hamas documents reveal long-term plan to open a northern front against Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691825</guid>
             <pubDate>Sun, 16 Aug 2026 12:40:00 GMT</pubDate>
         </item>
         <item>
@@ -290,20 +306,6 @@ Prior to the strikes, steps were taken to mitigate harm to civilians, including 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691817</guid>
             <pubDate>Sun, 16 Aug 2026 10:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hundreds of students visit Rabbi Kook’s gravesite]]></title>
-            <description><![CDATA[Hundreds of students visit Rabbi Kook’s gravesite]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691816</guid>
-            <pubDate>Sun, 16 Aug 2026 10:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['This time we won't stop:' Coalition chairman's vow on judicial reform]]></title>
-            <description><![CDATA['This time we won't stop:' Coalition chairman's vow on judicial reform]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691815</guid>
-            <pubDate>Sun, 16 Aug 2026 08:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

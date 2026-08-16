@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 09:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 10:22:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 09:27:16 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 10:22:42 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Hundreds of students visit Rabbi Kook’s gravesite]]></title>
+            <description><![CDATA[Students from the Beit El Yeshiva, together with Rosh Yeshiva Rabbi Zalman Baruch Melamed and the yeshiva’s rabbis, gathered to pray at the gravesite of Rabbi Abraham Isaac Kook.]]></description>
+            <link>https://www.israelnationalnews.com/news/431768</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431768</guid>
+            <pubDate>Sun, 16 Aug 2026 10:11:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['This time we won't stop:' Coalition chairman's vow on judicial reform]]></title>
             <description><![CDATA[Coalition chairman Ofir Katz declares that if Likud forms the next government, the judicial reform will return to the Knesset agenda.]]></description>
@@ -25,9 +32,9 @@
         </item>
         <item>
             <title><![CDATA[What Jason Arday teaches us About Israel’s predicament]]></title>
-            <description><![CDATA[What Jason Arday teaches us About Israel’s predicament]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691813</guid>
+            <description><![CDATA[The interesting question is not simply how Arday behaved. It is how institutions behaved around him. And how the pattern fits the post October 7th mendacity. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431762</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431762</guid>
             <pubDate>Sun, 16 Aug 2026 08:44:00 GMT</pubDate>
         </item>
         <item>
@@ -222,9 +229,9 @@ According to the spokesman, the terrorist organization "bears sole responsibilit
         </item>
         <item>
             <title><![CDATA[Israeli found lifeless in Bangkok hotel]]></title>
-            <description><![CDATA[Israeli man, aged 35, found dead in Thailand hotel room.]]></description>
-            <link>https://www.israelnationalnews.com/news/431743</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431743</guid>
+            <description><![CDATA[Israeli found lifeless in Bangkok hotel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691786</guid>
             <pubDate>Sat, 15 Aug 2026 20:59:00 GMT</pubDate>
         </item>
         <item>
@@ -289,13 +296,6 @@ According to the spokesman, the terrorist organization "bears sole responsibilit
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691777</guid>
             <pubDate>Sat, 15 Aug 2026 17:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three IDF soldiers injured by explosive drone in Lebanon]]></title>
-            <description><![CDATA[Three IDF soldiers injured by explosive drone in Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691776</guid>
-            <pubDate>Sat, 15 Aug 2026 17:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

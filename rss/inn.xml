@@ -4,11 +4,29 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 13:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 14:22:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 13:31:26 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 14:22:14 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IDF confirms: Two terrorists who advanced terrorist attacks eliminated in Gaza Strip]]></title>
+            <description><![CDATA[Earlier today (Sunday), the IDF struck an Islamic Jihad terrorist in the Khan Yunis area and a Hamas terrorist in the Nuseirat area in the Gaza Strip.
+
+The terrorists advanced terror attacks and were struck in precise aerial strikes to remove the threat.
+
+Prior to the strikes, steps were taken to mitigate harm to civilians, including the use of precise munitions and aerial surveillance.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691833</guid>
+            <pubDate>Sun, 16 Aug 2026 14:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel, Honduras forge deeper defense partnership amid regional threats]]></title>
+            <description><![CDATA[Defense Ministers Israel Katz and Enrique Rodríguez Burchard signed an agreement expanding security cooperation and strategic ties between Israel and Honduras.]]></description>
+            <link>https://www.israelnationalnews.com/news/431780</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431780</guid>
+            <pubDate>Sun, 16 Aug 2026 13:59:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: Trump's secret channel to Iran's IRGC]]></title>
             <description><![CDATA[The Trump administration reportedly turned to Kurdistan President Nechirvan Barzani for a secret channel to Iran's IRGC during efforts to end the war.]]></description>
@@ -39,9 +57,9 @@
         </item>
         <item>
             <title><![CDATA[i24NEWS crew attacked in Northern Ireland while filming report on antisemitism]]></title>
-            <description><![CDATA[i24NEWS crew attacked in Northern Ireland while filming report on antisemitism]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691827</guid>
+            <description><![CDATA[i24NEWS Channel correspondent Yonatan Raveh and videographer Nadav Abas were assaulted in Belfast. The cameraman sustained a head injury from a thrown glass.]]></description>
+            <link>https://www.israelnationalnews.com/news/431777</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431777</guid>
             <pubDate>Sun, 16 Aug 2026 13:03:00 GMT</pubDate>
         </item>
         <item>
@@ -53,9 +71,9 @@
         </item>
         <item>
             <title><![CDATA[Hamas documents reveal long-term plan to open a northern front against Israel]]></title>
-            <description><![CDATA[Hamas documents reveal long-term plan to open a northern front against Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691825</guid>
+            <description><![CDATA[Captured Hamas documents reveal more than a decade of efforts to establish a military infrastructure in Lebanon in coordination with Hezbollah and Iran, including plans for rockets, a 2,000-man fighting force and more.]]></description>
+            <link>https://www.israelnationalnews.com/news/431775</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431775</guid>
             <pubDate>Sun, 16 Aug 2026 12:40:00 GMT</pubDate>
         </item>
         <item>
@@ -211,16 +229,16 @@ The program is part of the national response to the Bondi Beach shooting attack 
         </item>
         <item>
             <title><![CDATA[Towards tomorrow's primaries: Likud and ideology]]></title>
-            <description><![CDATA[The 2026 Mattot Arim Parliamentary Achievement Report highlights those Likud MKs who produced more ideological achievements than their colleagues. Op-ed.]]></description>
-            <link>https://www.israelnationalnews.com/news/431756</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431756</guid>
+            <description><![CDATA[Towards tomorrow's primaries: Likud and ideology]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691803</guid>
             <pubDate>Sun, 16 Aug 2026 06:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jared Kushner’s naivete about Israel’s wars]]></title>
-            <description><![CDATA[Jared Kushner once claimed he read 25 books on the Israel-Palestine conflict, defending his role as an ‘expert’ forging the Trump administration's Middle East peace plan. We can relax now. Op-ed.]]></description>
-            <link>https://www.israelnationalnews.com/news/431755</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431755</guid>
+            <description><![CDATA[Jared Kushner’s naivete about Israel’s wars]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691802</guid>
             <pubDate>Sun, 16 Aug 2026 06:15:00 GMT</pubDate>
         </item>
         <item>
@@ -278,20 +296,6 @@ The program is part of the national response to the Bondi Beach shooting attack 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691794</guid>
             <pubDate>Sun, 16 Aug 2026 03:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran MP warns Trump over Hormuz threats: He should worry about his own security]]></title>
-            <description><![CDATA[Iran MP warns Trump over Hormuz threats: He should worry about his own security]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691793</guid>
-            <pubDate>Sun, 16 Aug 2026 03:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CENTCOM chief concludes Middle East visit as Lincoln carrier strike group operates]]></title>
-            <description><![CDATA[CENTCOM chief concludes Middle East visit as Lincoln carrier strike group operates]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691792</guid>
-            <pubDate>Sun, 16 Aug 2026 02:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 05:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 06:39:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 05:28:33 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 06:39:00 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Towards tomorrow's primaries: Likud and ideology]]></title>
+            <description><![CDATA[The 2026 Mattot Arim Parliamentary Achievement Report highlights those Likud MKs who produced more ideological achievements than their colleagues. Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/431756</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431756</guid>
+            <pubDate>Sun, 16 Aug 2026 06:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jared Kushner’s naivete about Israel’s wars]]></title>
+            <description><![CDATA[Jared Kushner once claimed he read 25 books on the Israel-Palestine conflict, defending his role as an ‘expert’ forging the Trump administration's Middle East peace plan. We can relax now. Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/431755</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431755</guid>
+            <pubDate>Sun, 16 Aug 2026 06:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli universities rank among world’s top 100]]></title>
+            <description><![CDATA[Israeli universities rank among world’s top 100]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691801</guid>
+            <pubDate>Sun, 16 Aug 2026 05:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hezbollah terrorist eliminated: Wave of strikes in Lebanon after soldiers' injuries]]></title>
             <description><![CDATA[The IDF carried out strikes overnight Sunday in the Ali Taher Ridge area of Lebanon, while also eliminating terrorist Abu Hassan Alaa, a senior commander in Hezbollah's Badr Unit.]]></description>
@@ -25,7 +46,9 @@
         </item>
         <item>
             <title><![CDATA[Iran executed man covicted of running over police during protest]]></title>
-            <description><![CDATA[Iran executed man covicted of running over police during protest]]></description>
+            <description><![CDATA[Iran announced that it has executed Shahram Sadeghi, who was convicted of running over seven police officers during a wave of anti-regime protests. The execution was carried out following a ruling by a court in the city of Karaj.
+
+The Iranian court convicted Sadeqi on serious charges of "operational activity in favor of the Zionist regime, the United States, and hostile groups."]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691798</guid>
             <pubDate>Sun, 16 Aug 2026 04:39:00 GMT</pubDate>
@@ -210,29 +233,23 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[Hezbollah chief slams Lebanese government over accord with Israel]]></title>
-            <description><![CDATA[Hezbollah leader Naim Qassem criticizes Lebanese officials for "exposing the army to pressure" by implementing a US-backed framework agreement with Israel.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431732</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431732</guid>
+            <description><![CDATA[Hezbollah chief slams Lebanese government over accord with Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691774</guid>
             <pubDate>Fri, 14 Aug 2026 22:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['The Strait will remain Iranian': Iran unfazed by Trump’s threat to claim Hormuz]]></title>
-            <description><![CDATA[Iranian officials assert control over the Strait of Hormuz, say there are no active US talks after President Trump vows to declare the waterway a US territory.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431731</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431731</guid>
+            <description><![CDATA['The Strait will remain Iranian': Iran unfazed by Trump’s threat to claim Hormuz]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691773</guid>
             <pubDate>Fri, 14 Aug 2026 22:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six dead as Houthis launch drone attack on Yemen’s Mocha port]]></title>
-            <description><![CDATA[Houthi drones target Yemen's Mocha port, killing six. A Saudi Aramco site in Najran is targeted as well.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431730</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431730</guid>
+            <description><![CDATA[Six dead as Houthis launch drone attack on Yemen’s Mocha port]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691772</guid>
             <pubDate>Fri, 14 Aug 2026 21:45:00 GMT</pubDate>
         </item>
         <item>
@@ -283,27 +300,6 @@ Shabbat Shalom!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691765</guid>
             <pubDate>Fri, 14 Aug 2026 19:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli rescue mission lands in Colombia following devastating earthquake]]></title>
-            <description><![CDATA[Israeli rescue mission lands in Colombia following devastating earthquake]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691764</guid>
-            <pubDate>Fri, 14 Aug 2026 19:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Missing Israelis left Vienna for Argentina via Germany, reports say]]></title>
-            <description><![CDATA[Missing Israelis left Vienna for Argentina via Germany, reports say]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691763</guid>
-            <pubDate>Fri, 14 Aug 2026 18:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Austrian police confirm: Missing Israelis left the country voluntarily]]></title>
-            <description><![CDATA[Austrian police confirm: Missing Israelis left the country voluntarily]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691762</guid>
-            <pubDate>Fri, 14 Aug 2026 18:24:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

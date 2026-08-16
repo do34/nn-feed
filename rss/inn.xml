@@ -4,11 +4,34 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 19:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 20:21:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 19:21:10 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 20:21:28 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Police open investigation after flags defaced in Binyamin]]></title>
+            <description><![CDATA[Israeli flags displayed at Rawabi Square, near the community of Ateret in the Binyamin region, were vandalized. Officers from the Binyamin police station collected evidence at the scene and launched an investigation to identify those responsible.
+
+Police said they view any damage to Israeli flags and state symbols with utmost seriousness.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691850</guid>
+            <pubDate>Sun, 16 Aug 2026 19:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jared Kushner arrives in Israel]]></title>
+            <description><![CDATA[US President Donald Trump’s envoy Jared Kushner landed in Israel ahead of talks with Prime Minister Benjamin Netanyahu on Gaza.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691849</guid>
+            <pubDate>Sun, 16 Aug 2026 19:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Regional police chief: 'Place Judea and Samaria Border Police under district authority']]></title>
+            <description><![CDATA[Regional police chief: 'Place Judea and Samaria Border Police under district authority']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691848</guid>
+            <pubDate>Sun, 16 Aug 2026 19:25:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IDF prepares for days of combat as Hezbollah terrorists trapped underground]]></title>
             <description><![CDATA[Dozens of Hezbollah terrorists are believed trapped underground as the IDF strikes senior commanders and prepares for several days of combat after ceasefire violation.]]></description>
@@ -214,21 +237,21 @@ Prior to the strikes, steps were taken to mitigate harm to civilians, including 
         </item>
         <item>
             <title><![CDATA[Everything is computerized, so why do elections rely on paper ballots?]]></title>
-            <description><![CDATA[Shutting down the economy on Election Day costs the Israeli economy between two and three billion shekels. So why not save billions and vote from home? Prof. Orr Dunkelman explains why the traditional ballot box is still preferable.]]></description>
-            <link>https://www.israelnationalnews.com/news/431772</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431772</guid>
+            <description><![CDATA[Everything is computerized, so why do elections rely on paper ballots?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691820</guid>
             <pubDate>Sun, 16 Aug 2026 11:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MK reveals his demands for the next Israeli government]]></title>
-            <description><![CDATA[MK Simcha Rothman tells Arutz Sheva he wants to continue judicial reform, overhaul the attorney general's powers and help shape the next right-wing government.]]></description>
-            <link>https://www.israelnationalnews.com/news/431770</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431770</guid>
+            <description><![CDATA[MK reveals his demands for the next Israeli government]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691819</guid>
             <pubDate>Sun, 16 Aug 2026 11:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recovery after the Iran War: GDP jumps 15.4%]]></title>
-            <description><![CDATA[The Central Bureau of Statistics publishes a preliminary estimate according to which GDP jumped in the second quarter of 2026 by 15.4% on an annualized basis, which is 3.6% compared to the previous quarter. The figure reflects a sharp recovery from the war against Iran, but may still be updated.]]></description>
+            <description><![CDATA[Recovery after the Iran War: GDP jumps 15.4%]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691818</guid>
             <pubDate>Sun, 16 Aug 2026 10:55:00 GMT</pubDate>
@@ -281,27 +304,6 @@ Prior to the strikes, steps were taken to mitigate harm to civilians, including 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691811</guid>
             <pubDate>Sun, 16 Aug 2026 08:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live: Memorial for Rabbi Kook in Jerusalem]]></title>
-            <description><![CDATA[Live: Memorial for Rabbi Kook in Jerusalem]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691810</guid>
-            <pubDate>Sun, 16 Aug 2026 07:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian Foreign Minister: No intention of returning to negotiations with US]]></title>
-            <description><![CDATA[Iranian Foreign Minister: No intention of returning to negotiations with US]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691809</guid>
-            <pubDate>Sun, 16 Aug 2026 07:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli arrested in Greece: Barbecue sparks wildfire]]></title>
-            <description><![CDATA[Israeli arrested in Greece: Barbecue sparks wildfire]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691808</guid>
-            <pubDate>Sun, 16 Aug 2026 07:50:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 21:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 22:20:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 21:20:09 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 22:20:37 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Citing relations with Kim, Trump directs Pentagon to cut back drills with South Korea]]></title>
+            <description><![CDATA[Citing high expenses and his relationship with North Korean leader Kim Jong Un, President Donald Trump orders Secretary of War Pete Hegseth to scale back drills with South Korea.]]></description>
+            <link>https://www.israelnationalnews.com/news/431796</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431796</guid>
+            <pubDate>Sun, 16 Aug 2026 22:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man seriously injured in accident near Moshe Dayan Interchange]]></title>
+            <description><![CDATA[A 31-year-old man was seriously injured in a road accident near the Moshe Dayan Interchange.
+
+Magen David Adom paramedics evacuated him to Wolfson Hospital in Holon.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691853</guid>
+            <pubDate>Sun, 16 Aug 2026 21:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tragedy in Finland: Missing Israeli cyclist found dead]]></title>
             <description><![CDATA[The body of a 66-year-old Israeli citizen who went missing during a solo cycling trip in Finland last week has been discovered by the roadside.]]></description>
@@ -221,18 +237,16 @@ Prior to the strikes, steps were taken to mitigate harm to civilians, including 
         </item>
         <item>
             <title><![CDATA[PM Netanyahu congratulates Israeli men's marathon team European Athletics Championships gold]]></title>
-            <description><![CDATA[Prime Minister Benjamin Netanyahu congratulated the Israeli men's marathon team on their historic win of the team gold medal at the European Athletics Championships in Birmingham.
-
-"Our athletes displayed extraordinary determination, dedication, and teamwork, bringing immense honor and a great source of national pride to the State of Israel. Well done!" the Prime Minister proclaimed.]]></description>
+            <description><![CDATA[PM Netanyahu congratulates Israeli men's marathon team European Athletics Championships gold]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691824</guid>
             <pubDate>Sun, 16 Aug 2026 12:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The donkey was always the point]]></title>
-            <description><![CDATA[Democratic socialism is an oxymoronic trojan horse. Socialism is not and cannot be democratic. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431774</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431774</guid>
+            <description><![CDATA[The donkey was always the point]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691823</guid>
             <pubDate>Sun, 16 Aug 2026 12:21:00 GMT</pubDate>
         </item>
         <item>
@@ -290,20 +304,6 @@ Prior to the strikes, steps were taken to mitigate harm to civilians, including 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691815</guid>
             <pubDate>Sun, 16 Aug 2026 08:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben-Gvir: 8 top Likud figures asked to join Otzma Yehudit]]></title>
-            <description><![CDATA[Ben-Gvir: 8 top Likud figures asked to join Otzma Yehudit]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691814</guid>
-            <pubDate>Sun, 16 Aug 2026 08:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Jason Arday teaches us About Israel’s predicament]]></title>
-            <description><![CDATA[What Jason Arday teaches us About Israel’s predicament]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691813</guid>
-            <pubDate>Sun, 16 Aug 2026 08:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

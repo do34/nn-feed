@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 01:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 03:00:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 01:18:01 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 03:00:21 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[CENTCOM chief concludes Middle East visit as Lincoln carrier strike group operates]]></title>
+            <description><![CDATA[CENTCOM’s Adm. Brad Cooper concludes visit to six Middle East nations, including Israel, and visits the USS Abraham Lincoln, praising troops for their intense deployment.]]></description>
+            <link>https://www.israelnationalnews.com/news/431749</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431749</guid>
+            <pubDate>Sun, 16 Aug 2026 02:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Tens of thousands at Western Wall Plaza for year’s first Selichot service]]></title>
+            <description><![CDATA[Selichot season opens at the Western Wall Plaza with tens of thousands of worshipers in attendance.]]></description>
+            <link>https://www.israelnationalnews.com/news/431748</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431748</guid>
+            <pubDate>Sun, 16 Aug 2026 01:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why cheapening Shoah vocabulary threatens American democracy]]></title>
             <description><![CDATA[When critics hurl Nazi labels at progressive politicians, they fail to address the actual substance of the threat. Opinion.]]></description>
@@ -225,20 +239,16 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[Missing Israelis left Vienna for Argentina via Germany, reports say]]></title>
-            <description><![CDATA[Missing Israelis Mali and Liel Yahalomi left Austria voluntarily, taking a train to Germany before flying to Argentina, according to Israeli media reports.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431725</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431725</guid>
+            <description><![CDATA[Missing Israelis left Vienna for Argentina via Germany, reports say]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691763</guid>
             <pubDate>Fri, 14 Aug 2026 18:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Austrian police confirm: Missing Israelis left the country voluntarily]]></title>
-            <description><![CDATA[Austrian police officially confirmed on Friday evening that the two missing Israelis, Mali and Liel Yaalomi, left the country independently. At this time, there is no suspicion of a violent crime.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431725</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431725</guid>
+            <description><![CDATA[Austrian police confirm: Missing Israelis left the country voluntarily]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691762</guid>
             <pubDate>Fri, 14 Aug 2026 18:24:00 GMT</pubDate>
         </item>
         <item>
@@ -296,20 +306,6 @@ Shabbat Shalom!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691755</guid>
             <pubDate>Fri, 14 Aug 2026 14:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moments before his phone died, a tourist was rescued in the Judean Desert]]></title>
-            <description><![CDATA[Moments before his phone died, a tourist was rescued in the Judean Desert]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691754</guid>
-            <pubDate>Fri, 14 Aug 2026 14:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspected: Chinese money used to support pro-Palestinian protests]]></title>
-            <description><![CDATA[Suspected: Chinese money used to support pro-Palestinian protests]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691753</guid>
-            <pubDate>Fri, 14 Aug 2026 13:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

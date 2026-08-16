@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 20:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 21:20:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 20:21:28 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 21:20:09 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Tragedy in Finland: Missing Israeli cyclist found dead]]></title>
+            <description><![CDATA[The body of a 66-year-old Israeli citizen who went missing during a solo cycling trip in Finland last week has been discovered by the roadside.]]></description>
+            <link>https://www.israelnationalnews.com/news/431795</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431795</guid>
+            <pubDate>Sun, 16 Aug 2026 21:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Secret documents reveal: How mechanism for transferring Qatari funds to Hamas was approved]]></title>
+            <description><![CDATA[Documents from 2021 reveal backchannel talks and the approved mechanism to transfer millions of dollars through fuel sales.]]></description>
+            <link>https://www.israelnationalnews.com/news/431794</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431794</guid>
+            <pubDate>Sun, 16 Aug 2026 20:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Police open investigation after flags defaced in Binyamin]]></title>
             <description><![CDATA[Israeli flags displayed at Rawabi Square, near the community of Ateret in the Binyamin region, were vandalized. Officers from the Binyamin police station collected evidence at the scene and launched an investigation to identify those responsible.
@@ -27,9 +41,9 @@ Police said they view any damage to Israeli flags and state symbols with utmost 
         </item>
         <item>
             <title><![CDATA[Regional police chief: 'Place Judea and Samaria Border Police under district authority']]></title>
-            <description><![CDATA[Regional police chief: 'Place Judea and Samaria Border Police under district authority']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691848</guid>
+            <description><![CDATA[Judea and Samaria police chief Moshe Pinchi says plan to transfer civilian law enforcement powers from IDF to police requires resources, deploying forces, and placing Judea and Samaria Border Police under the district's authority.]]></description>
+            <link>https://www.israelnationalnews.com/news/431793</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431793</guid>
             <pubDate>Sun, 16 Aug 2026 19:25:00 GMT</pubDate>
         </item>
         <item>
@@ -223,16 +237,16 @@ Prior to the strikes, steps were taken to mitigate harm to civilians, including 
         </item>
         <item>
             <title><![CDATA[The donkey was always the point]]></title>
-            <description><![CDATA[Democratic socialism is an oxymoronic trojan horse. Socialism is not and cannot be democratic. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431774</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431774</guid>
+            <description><![CDATA[The donkey was always the point]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691822</guid>
             <pubDate>Sun, 16 Aug 2026 12:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Haredi party could shake up Shas and UTJ]]></title>
-            <description><![CDATA[A haredi politician met with senior rabbis opposed to IDF conscription, as part of talks to establish a new party aimed at restoring the deferment for yeshiva students.]]></description>
-            <link>https://www.israelnationalnews.com/news/431773</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431773</guid>
+            <description><![CDATA[New Haredi party could shake up Shas and UTJ]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691821</guid>
             <pubDate>Sun, 16 Aug 2026 12:06:00 GMT</pubDate>
         </item>
         <item>
@@ -290,20 +304,6 @@ Prior to the strikes, steps were taken to mitigate harm to civilians, including 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691813</guid>
             <pubDate>Sun, 16 Aug 2026 08:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hamas: Meetings in Egypt are intended to advance the roadmap for a ceasefire]]></title>
-            <description><![CDATA[Hamas: Meetings in Egypt are intended to advance the roadmap for a ceasefire]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691812</guid>
-            <pubDate>Sun, 16 Aug 2026 08:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Following the Bondi Beach attack: Australia will buy back weapons from civilians]]></title>
-            <description><![CDATA[Following the Bondi Beach attack: Australia will buy back weapons from civilians]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691811</guid>
-            <pubDate>Sun, 16 Aug 2026 08:09:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

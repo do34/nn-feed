@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 16:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 17:19:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 16:24:24 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 17:19:04 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[On anniversary of death: US Ambassador Huckabee visits Rabbi Kook's home]]></title>
+            <description><![CDATA[US Ambassador Mike Huckabee visits Rabbi Abraham Isaac HaCohen Kook’s Jerusalem home and opens an exhibit highlighting Chief Rabbis’ historic White House visits.]]></description>
+            <link>https://www.israelnationalnews.com/news/431789</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431789</guid>
+            <pubDate>Sun, 16 Aug 2026 17:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Just me, my thoughts, and G-d': Omer Shem Tov recounts Hamas captivity]]></title>
+            <description><![CDATA[Omer Shem Tov releases a new book recounting his 505 days in Hamas captivity, including 50 days alone, and the faith that helped him endure.]]></description>
+            <link>https://www.israelnationalnews.com/news/431788</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431788</guid>
+            <pubDate>Sun, 16 Aug 2026 16:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It could end in terror': Arabs deface Israeli flags in Binyamin region]]></title>
+            <description><![CDATA[Israeli flags at the Rawabi junction were vandalized with paint after months without incident. Binyamin Council head Yisrael Ganz demands a firm IDF response and warns of escalation.]]></description>
+            <link>https://www.israelnationalnews.com/news/431787</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431787</guid>
+            <pubDate>Sun, 16 Aug 2026 16:24:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jared Kushner meets with senior Hamas officials in Egypt]]></title>
             <description><![CDATA[US President Donald Trump’s advisor, Jared Kushner, met with senior Hamas officials in Egypt today and pressed them to begin fulfilling their commitment to disarm.
@@ -27,9 +48,9 @@ Read more.]]></description>
         </item>
         <item>
             <title><![CDATA[Katzrin unites to commemorate Yehonatan Klimian z"l]]></title>
-            <description><![CDATA[Katzrin unites to commemorate Yehonatan Klimian z"l]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691837</guid>
+            <description><![CDATA[Hundreds of residents, family members, and rabbis gathered for a memorial evening in memory of Yehonatan Klimian z"l, who was killed while rappelling in the Keshet Cave in northern Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/431783</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431783</guid>
             <pubDate>Sun, 16 Aug 2026 15:24:00 GMT</pubDate>
         </item>
         <item>
@@ -210,25 +231,23 @@ Prior to the strikes, steps were taken to mitigate harm to civilians, including 
         </item>
         <item>
             <title><![CDATA[Hamas: Meetings in Egypt are intended to advance the roadmap for a ceasefire]]></title>
-            <description><![CDATA[Hamas spokesman Hazem Qassem claims that the meetings in Egypt were intended to update the mediators on "Israeli violations" and advance the roadmap.]]></description>
+            <description><![CDATA[Hamas: Meetings in Egypt are intended to advance the roadmap for a ceasefire]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691812</guid>
             <pubDate>Sun, 16 Aug 2026 08:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Following the Bondi Beach attack: Australia will buy back weapons from civilians]]></title>
-            <description><![CDATA[Australian Prime Minister Anthony Albanese announced today that the state of New South Wales will launch a program to purchase weapons from citizens.
-
-The program is part of the national response to the Bondi Beach shooting attack last year in which 15 people were murdered at a Hanukkah event.]]></description>
+            <description><![CDATA[Following the Bondi Beach attack: Australia will buy back weapons from civilians]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691811</guid>
             <pubDate>Sun, 16 Aug 2026 08:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Live: Memorial for Rabbi Kook in Jerusalem]]></title>
-            <description><![CDATA[Today, on Tuesday, 3 Elul, a memorial for Rabbi Avraham Yitzhak HaKohen Kook is held at the Mount of Olives in Jerusalem and is broadcast live to the general public.]]></description>
-            <link>https://www.israelnationalnews.com/news/431761</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431761</guid>
+            <description><![CDATA[Live: Memorial for Rabbi Kook in Jerusalem]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691810</guid>
             <pubDate>Sun, 16 Aug 2026 07:55:00 GMT</pubDate>
         </item>
         <item>
@@ -279,27 +298,6 @@ The program is part of the national response to the Bondi Beach shooting attack 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691803</guid>
             <pubDate>Sun, 16 Aug 2026 06:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jared Kushner’s naivete about Israel’s wars]]></title>
-            <description><![CDATA[Jared Kushner’s naivete about Israel’s wars]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691802</guid>
-            <pubDate>Sun, 16 Aug 2026 06:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli universities rank among world’s top 100]]></title>
-            <description><![CDATA[Israeli universities rank among world’s top 100]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691801</guid>
-            <pubDate>Sun, 16 Aug 2026 05:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hezbollah terrorist eliminated: Wave of strikes in Lebanon after soldiers' injuries]]></title>
-            <description><![CDATA[Hezbollah terrorist eliminated: Wave of strikes in Lebanon after soldiers' injuries]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691800</guid>
-            <pubDate>Sun, 16 Aug 2026 05:15:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

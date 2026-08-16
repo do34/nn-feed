@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 08:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 09:27:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 08:28:46 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 09:27:16 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA['This time we won't stop:' Coalition chairman's vow on judicial reform]]></title>
+            <description><![CDATA[Coalition chairman Ofir Katz declares that if Likud forms the next government, the judicial reform will return to the Knesset agenda.]]></description>
+            <link>https://www.israelnationalnews.com/news/431764</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431764</guid>
+            <pubDate>Sun, 16 Aug 2026 08:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben-Gvir: 8 top Likud figures asked to join Otzma Yehudit]]></title>
+            <description><![CDATA[Minister Itamar Ben-Gvir says four Likud ministers and four MKs approached him about joining Otzma Yehudit in light of its rising poll numbers.]]></description>
+            <link>https://www.israelnationalnews.com/news/431763</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431763</guid>
+            <pubDate>Sun, 16 Aug 2026 08:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Jason Arday teaches us About Israel’s predicament]]></title>
+            <description><![CDATA[What Jason Arday teaches us About Israel’s predicament]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691813</guid>
+            <pubDate>Sun, 16 Aug 2026 08:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamas: Meetings in Egypt are intended to advance the roadmap for a ceasefire]]></title>
+            <description><![CDATA[Hamas spokesman Hazem Qassem claims that the meetings in Egypt were intended to update the mediators on "Israeli violations" and advance the roadmap.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691812</guid>
+            <pubDate>Sun, 16 Aug 2026 08:30:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Following the Bondi Beach attack: Australia will buy back weapons from civilians]]></title>
             <description><![CDATA[Australian Prime Minister Anthony Albanese announced today that the state of New South Wales will launch a program to purchase weapons from citizens.
@@ -27,7 +55,7 @@ The program is part of the national response to the Bondi Beach shooting attack 
         </item>
         <item>
             <title><![CDATA[Iranian Foreign Minister: No intention of returning to negotiations with US]]></title>
-            <description><![CDATA[Iranian Foreign Minister: No intention of returning to negotiations with US]]></description>
+            <description><![CDATA[Iranian Foreign Minister Abbas Araghchi said that "60 days have passed since the agreement signed with the US, we have no intention at the moment to return to negotiations with the United States."]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691809</guid>
             <pubDate>Sun, 16 Aug 2026 07:53:00 GMT</pubDate>
@@ -41,9 +69,9 @@ The program is part of the national response to the Bondi Beach shooting attack 
         </item>
         <item>
             <title><![CDATA[Rabbi Avraham HaCohen Kook ZT"L and the Balfour Declaration]]></title>
-            <description><![CDATA[Rabbi Avraham HaCohen Kook ZT"L and the Balfour Declaration]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691807</guid>
+            <description><![CDATA[Excerpted from the biography “Above the Stream" by Tzvi Fishman,]]></description>
+            <link>https://www.israelnationalnews.com/news/431759</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431759</guid>
             <pubDate>Sun, 16 Aug 2026 07:46:00 GMT</pubDate>
         </item>
         <item>
@@ -55,9 +83,9 @@ The program is part of the national response to the Bondi Beach shooting attack 
         </item>
         <item>
             <title><![CDATA[Our war today]]></title>
-            <description><![CDATA[Our war today]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691805</guid>
+            <description><![CDATA[Chazon Ish: “It appears that what we learned in the Mishnah, that in an obligatory war even a groom goes out from his chamber, does not refer to a situation in which their assistance is needed to win the war, for it is obvious that for the sake of saving lives and saving the nation, everyone is obligated."]]></description>
+            <link>https://www.israelnationalnews.com/news/431758</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431758</guid>
             <pubDate>Sun, 16 Aug 2026 07:32:00 GMT</pubDate>
         </item>
         <item>
@@ -201,30 +229,30 @@ According to the spokesman, the terrorist organization "bears sole responsibilit
         </item>
         <item>
             <title><![CDATA[Chairs fly as massive brawl erupts at Israeli water park]]></title>
-            <description><![CDATA[A dispute over loud music spiraled into a violent brawl at Holon’s Yamit 2000, leaving two security guards injured and 12 suspects under arrest.]]></description>
-            <link>https://www.israelnationalnews.com/news/431745</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431745</guid>
+            <description><![CDATA[Chairs fly as massive brawl erupts at Israeli water park]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691785</guid>
             <pubDate>Sat, 15 Aug 2026 20:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: New footage of Mali and Liel in Argentina]]></title>
-            <description><![CDATA[New footage shows the emotional moment Mali and Liel Yahalomi were found in Argentina. 'An entire country was worried about you.']]></description>
-            <link>https://www.israelnationalnews.com/news/431742</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431742</guid>
+            <description><![CDATA[Watch: New footage of Mali and Liel in Argentina]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691784</guid>
             <pubDate>Sat, 15 Aug 2026 20:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The race against time in Colombia]]></title>
-            <description><![CDATA['Alliance of Brothers' delegation arrives in Colombia, begins working to locate and rescue people trapped under rubble after the recent earthquake.]]></description>
-            <link>https://www.israelnationalnews.com/news/431741</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431741</guid>
+            <description><![CDATA[The race against time in Colombia]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691783</guid>
             <pubDate>Sat, 15 Aug 2026 20:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mansour Abbas makes surprise announcement]]></title>
-            <description><![CDATA[Ra'am chairman MK Mansour Abbas says upcoming elections will be his last, declares, 'The Palestinian state has already been established.']]></description>
-            <link>https://www.israelnationalnews.com/news/431738</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431738</guid>
+            <description><![CDATA[Mansour Abbas makes surprise announcement]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691782</guid>
             <pubDate>Sat, 15 Aug 2026 19:43:00 GMT</pubDate>
         </item>
         <item>
@@ -268,34 +296,6 @@ According to the spokesman, the terrorist organization "bears sole responsibilit
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691776</guid>
             <pubDate>Sat, 15 Aug 2026 17:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shabbat Shalom!]]></title>
-            <description><![CDATA[Shabbat Shalom!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_629916</guid>
-            <pubDate>Fri, 14 Aug 2026 23:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saskatoon synagogue vandalism leads to mischief charges for 31-year-old]]></title>
-            <description><![CDATA[Saskatoon synagogue vandalism leads to mischief charges for 31-year-old]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691775</guid>
-            <pubDate>Fri, 14 Aug 2026 23:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hezbollah chief slams Lebanese government over accord with Israel]]></title>
-            <description><![CDATA[Hezbollah chief slams Lebanese government over accord with Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691774</guid>
-            <pubDate>Fri, 14 Aug 2026 22:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The Strait will remain Iranian': Iran unfazed by Trump’s threat to claim Hormuz]]></title>
-            <description><![CDATA['The Strait will remain Iranian': Iran unfazed by Trump’s threat to claim Hormuz]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691773</guid>
-            <pubDate>Fri, 14 Aug 2026 22:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

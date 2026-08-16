@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 10:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 11:19:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 10:22:42 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 11:19:45 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Recovery after the Iran War: GDP jumps 15.4%]]></title>
+            <description><![CDATA[The Central Bureau of Statistics publishes a preliminary estimate according to which GDP jumped in the second quarter of 2026 by 15.4% on an annualized basis, which is 3.6% compared to the previous quarter. The figure reflects a sharp recovery from the war against Iran, but may still be updated.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691818</guid>
+            <pubDate>Sun, 16 Aug 2026 10:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Children ate chocolate on vacation and began hallucinating]]></title>
+            <description><![CDATA[Two children, ages five and six, were exposed during a family vacation to chocolate containing hallucinogenic mushrooms and hospitalized.]]></description>
+            <link>https://www.israelnationalnews.com/news/431769</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431769</guid>
+            <pubDate>Sun, 16 Aug 2026 10:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hundreds of students visit Rabbi Kook’s gravesite]]></title>
             <description><![CDATA[Students from the Beit El Yeshiva, together with Rosh Yeshiva Rabbi Zalman Baruch Melamed and the yeshiva’s rabbis, gathered to pray at the gravesite of Rabbi Abraham Isaac Kook.]]></description>
@@ -215,16 +229,16 @@ According to the spokesman, the terrorist organization "bears sole responsibilit
         </item>
         <item>
             <title><![CDATA['I'll go with you anywhere' | Why Mali and Liel vanished]]></title>
-            <description><![CDATA[New evidence suggests Mali and Liel Yahalomi meticulously planned disappearance, with cash withdrawn, phones wiped, and AI allegedly used to help evade detection.]]></description>
-            <link>https://www.israelnationalnews.com/news/431744</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431744</guid>
+            <description><![CDATA['I'll go with you anywhere' | Why Mali and Liel vanished]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691788</guid>
             <pubDate>Sat, 15 Aug 2026 21:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran says missing pilots are alive - in Qatar]]></title>
-            <description><![CDATA[After months of uncertainty, Tehran claims three pilots thought missing since their jets were shot down are alive and being held by Qatari forces.]]></description>
-            <link>https://www.israelnationalnews.com/news/431746</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431746</guid>
+            <description><![CDATA[Iran says missing pilots are alive - in Qatar]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691787</guid>
             <pubDate>Sat, 15 Aug 2026 21:18:00 GMT</pubDate>
         </item>
         <item>
@@ -282,20 +296,6 @@ According to the spokesman, the terrorist organization "bears sole responsibilit
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691779</guid>
             <pubDate>Sat, 15 Aug 2026 18:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man charged with hate crimes after synagogue attack in NYC]]></title>
-            <description><![CDATA[Man charged with hate crimes after synagogue attack in NYC]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691778</guid>
-            <pubDate>Sat, 15 Aug 2026 17:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hamas plants bomb under IDF tank in Gaza ceasefire violation]]></title>
-            <description><![CDATA[Hamas plants bomb under IDF tank in Gaza ceasefire violation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691777</guid>
-            <pubDate>Sat, 15 Aug 2026 17:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

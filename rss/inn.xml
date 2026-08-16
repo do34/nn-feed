@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 04:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 05:28:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 04:35:43 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 05:28:33 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Hezbollah terrorist eliminated: Wave of strikes in Lebanon after soldiers' injuries]]></title>
+            <description><![CDATA[The IDF carried out strikes overnight Sunday in the Ali Taher Ridge area of Lebanon, while also eliminating terrorist Abu Hassan Alaa, a senior commander in Hezbollah's Badr Unit.]]></description>
+            <link>https://www.israelnationalnews.com/news/431753</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431753</guid>
+            <pubDate>Sun, 16 Aug 2026 05:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainian drones hit Russian retail giant site near Moscow]]></title>
+            <description><![CDATA[Ukrainian drones last night struck the huge logistics complex of the Russian retail giant WildBreeze in the village of Koldino in the Podolsk region, south of Moscow.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691799</guid>
+            <pubDate>Sun, 16 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran executed man covicted of running over police during protest]]></title>
+            <description><![CDATA[Iran executed man covicted of running over police during protest]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691798</guid>
+            <pubDate>Sun, 16 Aug 2026 04:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Suspected grenade thrown in Tel Aviv, causing explosion]]></title>
             <description><![CDATA[The police have opened an investigation into a suspected grenade attack in south Tel Aviv after receiving a report of hearing an explosion near a residential building in the Kiryat Shalom neighborhood.
@@ -29,9 +50,9 @@ According to the spokesman, the terrorist organization "bears sole responsibilit
         </item>
         <item>
             <title><![CDATA[Intra-Muslim carnage dwarfs the Israel-Palestinian Arab conflict]]></title>
-            <description><![CDATA[Intra-Muslim carnage dwarfs the Israel-Palestinian Arab conflict]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691795</guid>
+            <description><![CDATA[The immensity of the intra-Muslim carnage dwarfs the regional and global significance of the Arab-Israeli conflict and the Palestinian Arab issue. Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/431752</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431752</guid>
             <pubDate>Sun, 16 Aug 2026 03:58:00 GMT</pubDate>
         </item>
         <item>
@@ -216,27 +237,23 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[Police official: Mali and Liel Yahalomi decided to leave Israel due to financial debts]]></title>
-            <description><![CDATA[(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431728</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431728</guid>
+            <description><![CDATA[Police official: Mali and Liel Yahalomi decided to leave Israel due to financial debts]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691771</guid>
             <pubDate>Fri, 14 Aug 2026 21:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yahalomi family: Immense relief that Mali and Liel have been located and are alive]]></title>
-            <description><![CDATA[The Yahalomi family welcomed the news that Mali and Liel had been located safe and sound, saying in a statement, “Above all, the family feels immense relief that Mali and Liel have been located and are alive."
-
-“The family wishes to thank the Israeli public for their concern and goodwill, as well as the Israel Police, the Israeli Consul in Vienna, Magen Search and Rescue, and the rescue team members."
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431728</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431728</guid>
+            <description><![CDATA[Yahalomi family: Immense relief that Mali and Liel have been located and are alive]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691770</guid>
             <pubDate>Fri, 14 Aug 2026 20:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Trump says he will declare the Strait of Hormuz US territory]]></title>
-            <description><![CDATA[(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/431729</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431729</guid>
+            <description><![CDATA[Watch: Trump says he will declare the Strait of Hormuz US territory]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691769</guid>
             <pubDate>Fri, 14 Aug 2026 20:49:00 GMT</pubDate>
         </item>
         <item>
@@ -287,27 +304,6 @@ Shabbat Shalom!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691762</guid>
             <pubDate>Fri, 14 Aug 2026 18:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF strikes Khan Yunis, eliminates senior Hamas commander]]></title>
-            <description><![CDATA[IDF strikes Khan Yunis, eliminates senior Hamas commander]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691761</guid>
-            <pubDate>Fri, 14 Aug 2026 17:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reports in Austria: Missing Israelis may have fled voluntarily to South America]]></title>
-            <description><![CDATA[Reports in Austria: Missing Israelis may have fled voluntarily to South America]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691760</guid>
-            <pubDate>Fri, 14 Aug 2026 17:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
-            <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

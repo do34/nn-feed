@@ -4,11 +4,53 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 11:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 12:42:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 11:25:36 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 12:42:55 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump on Israeli elections: I should stay out, but may endorse someone]]></title>
+            <description><![CDATA[US President declines to endorse a candidate in Israel's upcoming elections, but leaves open possibility he could do so later.]]></description>
+            <link>https://www.israelnationalnews.com/news/431829</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431829</guid>
+            <pubDate>Mon, 17 Aug 2026 12:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teshuvah and improving the world]]></title>
+            <description><![CDATA[The power of teshuvah is not limited, it encompasses every domain of life, that of the individual and that of civilization as a whole.]]></description>
+            <link>https://www.israelnationalnews.com/news/431827</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431827</guid>
+            <pubDate>Mon, 17 Aug 2026 12:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Houthis claim to have fired ballistic missiles at Saudi ships in Bab al-Mandeb Strait]]></title>
+            <description><![CDATA[The Houthi military spokesman, Yahya Saree, confirmed that the rebel organization attacked a Saudi naval landing ship and four other military boats in the Bab al-Mandeb Strait with ballistic missiles.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691890</guid>
+            <pubDate>Mon, 17 Aug 2026 12:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump: Hamas agreed to disarm, Israel must cease strikes on Gaza]]></title>
+            <description><![CDATA[US President Donald Trump tells Fox News that he will bomb Oman if they 'get in the way,' insists Hamas will disarm.]]></description>
+            <link>https://www.israelnationalnews.com/news/431826</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431826</guid>
+            <pubDate>Mon, 17 Aug 2026 11:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tunnel to Israel? Suspect caught digging near security fence]]></title>
+            <description><![CDATA[Border Police arrest Qalandiya resident suspected of working to dig tunnel to infiltrate Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/431825</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431825</guid>
+            <pubDate>Mon, 17 Aug 2026 11:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shas officials jump ship]]></title>
+            <description><![CDATA[Three members of Shas' Kiryat Gat slate defect to rival Ahi party, citing Shas' opposition to IDF enlistment for haredim not studying in yeshiva.]]></description>
+            <link>https://www.israelnationalnews.com/news/431822</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431822</guid>
+            <pubDate>Mon, 17 Aug 2026 11:33:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[40 minutes of fear: Jews attacked in Barcelona]]></title>
             <description><![CDATA[Seven Jewish tourists from France were attacked by hundreds at the port of Barcelona and subjected to 40 minutes of curses, spitting, and chants against Jews and Israel.]]></description>
@@ -185,48 +227,42 @@ US media outlets reporting her death did not provide details regarding the cause
         </item>
         <item>
             <title><![CDATA[Iranian Speaker claims war victory after Trump threatens to take control of Hormuz]]></title>
-            <description><![CDATA[Iran's parliament speaker declares victory over the US and Israel, after officials reject Donald Trump's assertion that the US will control the Strait of Hormuz.]]></description>
-            <link>https://www.israelnationalnews.com/news/431800</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431800</guid>
+            <description><![CDATA[Iranian Speaker claims war victory after Trump threatens to take control of Hormuz]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691862</guid>
             <pubDate>Mon, 17 Aug 2026 02:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5.8-magnitude earthquake felt in Indonesia]]></title>
-            <description><![CDATA[A 5.8-magnitude earthquake struck off the coast of Flores Island in Indonesia.
-
-No injuries or damage have been reported so far.]]></description>
+            <description><![CDATA[5.8-magnitude earthquake felt in Indonesia]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691861</guid>
             <pubDate>Mon, 17 Aug 2026 01:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strait of Hormuz traffic drops to near standstill following tanker attacks]]></title>
-            <description><![CDATA[Ship tracking data shows transit through the Strait of Hormuz nearly stopped over the weekend following attacks on UAE vessels and stalled US-Iran talks.]]></description>
-            <link>https://www.israelnationalnews.com/news/431799</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431799</guid>
+            <description><![CDATA[Strait of Hormuz traffic drops to near standstill following tanker attacks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691860</guid>
             <pubDate>Mon, 17 Aug 2026 01:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[South Korea clarifies: Joint military exercises with US will proceed as planned]]></title>
-            <description><![CDATA[South Korea's Ministry of Defense announced that joint military exercises with the United States military "will take place as scheduled."
-
-The announcement comes as a direct response to statements by US President Donald Trump, who announced he had ordered a significant scale-back of joint training due to his relationship with North Korean leader Kim Jong Un.]]></description>
+            <description><![CDATA[South Korea clarifies: Joint military exercises with US will proceed as planned]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691859</guid>
             <pubDate>Mon, 17 Aug 2026 00:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Too many Jews': France launches probe over antisemitic refusal of service at resort stand]]></title>
-            <description><![CDATA[French police launch a criminal probe into a resort cafeteria owner filmed telling a Jewish customer there were "too many Jews" and denying service.]]></description>
-            <link>https://www.israelnationalnews.com/news/431798</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431798</guid>
+            <description><![CDATA['Too many Jews': France launches probe over antisemitic refusal of service at resort stand]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691858</guid>
             <pubDate>Mon, 17 Aug 2026 00:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump praises Saudi Arabia, Turkey and Pakistan over joint defense agreement]]></title>
-            <description><![CDATA[US President Donald Trump on Sunday praised Saudi Arabia, Turkey and Pakistan for the joint defense agreement they recently signed.
-
-"Very happy to see that Saudi Arabia, Turkey, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement. It shows how the Middle East is coming together, and how Countries will finally be able to defend themselves in a more meaningful way. Congratulations to the Great Leadership of the three Nations mentioned. THIS IS A BIG, BOLD, AND IMPORTANT FIRST STEP - WOW!" wrote Trump in a post on Truth Social.]]></description>
+            <description><![CDATA[Trump praises Saudi Arabia, Turkey and Pakistan over joint defense agreement]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691857</guid>
             <pubDate>Sun, 16 Aug 2026 23:44:00 GMT</pubDate>
@@ -258,48 +294,6 @@ The announcement comes as a direct response to statements by US President Donald
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691853</guid>
             <pubDate>Sun, 16 Aug 2026 21:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tragedy in Finland: Missing Israeli cyclist found dead]]></title>
-            <description><![CDATA[Tragedy in Finland: Missing Israeli cyclist found dead]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691852</guid>
-            <pubDate>Sun, 16 Aug 2026 21:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secret documents reveal: How mechanism for transferring Qatari funds to Hamas was approved]]></title>
-            <description><![CDATA[Secret documents reveal: How mechanism for transferring Qatari funds to Hamas was approved]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691851</guid>
-            <pubDate>Sun, 16 Aug 2026 20:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police open investigation after flags defaced in Binyamin]]></title>
-            <description><![CDATA[Police open investigation after flags defaced in Binyamin]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691850</guid>
-            <pubDate>Sun, 16 Aug 2026 19:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jared Kushner arrives in Israel]]></title>
-            <description><![CDATA[Jared Kushner arrives in Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691849</guid>
-            <pubDate>Sun, 16 Aug 2026 19:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Regional police chief: 'Place Judea and Samaria Border Police under district authority']]></title>
-            <description><![CDATA[Regional police chief: 'Place Judea and Samaria Border Police under district authority']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691848</guid>
-            <pubDate>Sun, 16 Aug 2026 19:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF prepares for days of combat as Hezbollah terrorists trapped underground]]></title>
-            <description><![CDATA[IDF prepares for days of combat as Hezbollah terrorists trapped underground]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691847</guid>
-            <pubDate>Sun, 16 Aug 2026 18:52:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 20:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 21:26:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 20:27:04 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 21:26:17 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump rules out extending Iran framework agreement]]></title>
+            <description><![CDATA[President Trump declares he will not extend the framework deal with Iran, while maintaining the US holds "total control" over the Strait of Hormuz.]]></description>
+            <link>https://www.israelnationalnews.com/news/431850</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431850</guid>
+            <pubDate>Mon, 17 Aug 2026 21:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Footage from Qabatiya | Duvdevan Unit thwarts terror attacks, arrests wanted suspects]]></title>
+            <description><![CDATA[In a targeted operation, IDF searches roughly 100 structures and detains suspects. Simultaneously, elite Duvdevan unit apprehends two wanted individuals suspected of planning and executing terror attacks.]]></description>
+            <link>https://www.israelnationalnews.com/news/431849</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431849</guid>
+            <pubDate>Mon, 17 Aug 2026 20:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jews who funded Zohran Mamdani and Mahmoud Khalil]]></title>
             <description><![CDATA[Forty-four percent of American Jews view Mamdani favorably. That did not happen organically. It is due to the work of a progressive Jewish infrastructure funded by Diaspora liberal Jews. Report.]]></description>
@@ -211,16 +225,16 @@ The official claimed that Iran has set a deadline of several weeks for the US to
         </item>
         <item>
             <title><![CDATA[Israeli study reveals: Attention can regulate acute inflammation in humans]]></title>
-            <description><![CDATA[Directing attention toward bodily sensations reduces inflammation, accelerates recovery in healthy volunteers, new study shows.]]></description>
-            <link>https://www.israelnationalnews.com/news/431828</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431828</guid>
+            <description><![CDATA[Israeli study reveals: Attention can regulate acute inflammation in humans]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691893</guid>
             <pubDate>Mon, 17 Aug 2026 12:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump on Israeli elections: I should stay out, but may endorse someone]]></title>
-            <description><![CDATA[US President declines to endorse a candidate in Israel's upcoming elections, but leaves open possibility he could do so later.]]></description>
-            <link>https://www.israelnationalnews.com/news/431829</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431829</guid>
+            <description><![CDATA[Trump on Israeli elections: I should stay out, but may endorse someone]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691892</guid>
             <pubDate>Mon, 17 Aug 2026 12:26:00 GMT</pubDate>
         </item>
         <item>
@@ -278,20 +292,6 @@ The official claimed that Iran has set a deadline of several weeks for the US to
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691884</guid>
             <pubDate>Mon, 17 Aug 2026 10:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[80 cattle seized after disrupting IDF training]]></title>
-            <description><![CDATA[80 cattle seized after disrupting IDF training]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691883</guid>
-            <pubDate>Mon, 17 Aug 2026 09:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arab leaders upset by Jewish visits to Temple Mount]]></title>
-            <description><![CDATA[Arab leaders upset by Jewish visits to Temple Mount]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691882</guid>
-            <pubDate>Mon, 17 Aug 2026 08:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

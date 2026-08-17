@@ -4,11 +4,55 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 13:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 14:27:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 13:38:57 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 14:27:39 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Kushner warns Netanyahu to 'not create obstacles']]></title>
+            <description><![CDATA[In 4-hour meeting with Israeli PM, US envoy Jared Kushner presses Israel to implement the 15-point Gaza peace plan.]]></description>
+            <link>https://www.israelnationalnews.com/news/431837</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431837</guid>
+            <pubDate>Mon, 17 Aug 2026 14:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Herzog to Kushner: Next stages in Gaza must guarantee Israel's security]]></title>
+            <description><![CDATA[President Isaac Herzog meets Jared Kushner and Nickolay Mladenov in Jerusalem, stresses Israel's security must remain central to Gaza plan.]]></description>
+            <link>https://www.israelnationalnews.com/news/431836</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431836</guid>
+            <pubDate>Mon, 17 Aug 2026 14:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu meets US envoy Jared Kushner]]></title>
+            <description><![CDATA[Netanyahu meets US envoy Jared Kushner]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691904</guid>
+            <pubDate>Mon, 17 Aug 2026 14:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2 children injured in Beit Shemesh, 1 unconscious]]></title>
+            <description><![CDATA[2 children injured in Beit Shemesh, 1 unconscious]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691903</guid>
+            <pubDate>Mon, 17 Aug 2026 14:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peru: Israeli man dies after years of imprisonment]]></title>
+            <description><![CDATA[A 62-year-old Israeli citizen, a resident of Petah Tikva, died in Peru after being imprisoned in the country for about three and a half years.
+
+Upon receiving the report, ZAKA's international unit began working together with the Foreign Ministry, the family, and local authorities in Peru, with the aim of arranging all the necessary procedures and bringing his coffin for burial in Israel.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691902</guid>
+            <pubDate>Mon, 17 Aug 2026 13:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liberman lays out coalition red lines ahead of Israeli elections]]></title>
+            <description><![CDATA[Yisrael Beytenu Chairman Avigdor Liberman sets coalition red lines, ruling out a minority government and demanding military or civilian service for all Israelis.]]></description>
+            <link>https://www.israelnationalnews.com/news/431834</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431834</guid>
+            <pubDate>Mon, 17 Aug 2026 13:40:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The hidden crisis facing haredi education]]></title>
             <description><![CDATA[As government pushes core curriculum, severe teacher shortage prompting haredi leaders to confront deeper problem.]]></description>
@@ -25,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[No single official can decide what Jewish children learn]]></title>
-            <description><![CDATA[No single official can decide what Jewish children learn]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691898</guid>
+            <description><![CDATA[Who gave one unelected official, Gali Baharav-Miara, this much power? Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431832</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431832</guid>
             <pubDate>Mon, 17 Aug 2026 13:05:00 GMT</pubDate>
         </item>
         <item>
@@ -181,44 +225,44 @@ The official claimed that Iran has set a deadline of several weeks for the US to
         </item>
         <item>
             <title><![CDATA[Couple marry at hospital so bride's critically ill mother can attend the ceremony]]></title>
-            <description><![CDATA[Michal and Tal had planned to get married a year from now, but Michal’s mother’s medical condition led them to move up the wedding and hold it at Shaare Zedek Medical Center.]]></description>
-            <link>https://www.israelnationalnews.com/news/431811</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431811</guid>
+            <description><![CDATA[Couple marry at hospital so bride's critically ill mother can attend the ceremony]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691876</guid>
             <pubDate>Mon, 17 Aug 2026 07:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Residents accuse: Tefillin, cash stolen after Samaria outpost demolition]]></title>
-            <description><![CDATA[Residents returning to Givat Tel Talpiot following violent demolition say religious items, credit card, and thousands of shekels missing, and belongings destroyed.]]></description>
-            <link>https://www.israelnationalnews.com/news/431806</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431806</guid>
+            <description><![CDATA[Residents accuse: Tefillin, cash stolen after Samaria outpost demolition]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691875</guid>
             <pubDate>Mon, 17 Aug 2026 07:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[After robot hit, commander takes initiative: daring rescue under Russian drone threat]]></title>
-            <description><![CDATA[After two soldiers were wounded by FPV drones and the rescue robot was hit, company commander Vladislav Polsky went in without body armor, loaded them into a civilian pickup, and brought them to safety.]]></description>
-            <link>https://www.israelnationalnews.com/news/431810</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431810</guid>
+            <description><![CDATA[After robot hit, commander takes initiative: daring rescue under Russian drone threat]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691874</guid>
             <pubDate>Mon, 17 Aug 2026 06:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WSJ reveals: Iran's secret plan to escalate the war]]></title>
-            <description><![CDATA[Extremist elements in Iranian leadership decided to utilize ceasefire period granted by Iran-US memorandum of understanding to prepare for future conflict, Wall Street Journal report reveals.]]></description>
-            <link>https://www.israelnationalnews.com/news/431807</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431807</guid>
+            <description><![CDATA[WSJ reveals: Iran's secret plan to escalate the war]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691873</guid>
             <pubDate>Mon, 17 Aug 2026 05:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The war we cannot afford to lose]]></title>
-            <description><![CDATA[Israel needs a doctrine of strategic prevention and overwhelming deterrence. We need to ensure that no potential coalition can ever become sufficiently confident in its ability to overwhelm Israel that it concludes an attack is worth the risk.]]></description>
-            <link>https://www.israelnationalnews.com/news/431808</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431808</guid>
+            <description><![CDATA[The war we cannot afford to lose]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691872</guid>
             <pubDate>Mon, 17 Aug 2026 05:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NY synagogues rethink security after attack]]></title>
-            <description><![CDATA[Jewish watchdog urges NYPD to increase officers in hot spots after synagogue attack.]]></description>
-            <link>https://www.israelnationalnews.com/news/431805</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431805</guid>
+            <description><![CDATA[NY synagogues rethink security after attack]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691871</guid>
             <pubDate>Mon, 17 Aug 2026 05:23:00 GMT</pubDate>
         </item>
         <item>
@@ -248,48 +292,6 @@ The official claimed that Iran has set a deadline of several weeks for the US to
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691867</guid>
             <pubDate>Mon, 17 Aug 2026 04:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fox News poll: Republican Mike Rogers leads progressive Abdul El-Sayed in Michigan]]></title>
-            <description><![CDATA[Fox News poll: Republican Mike Rogers leads progressive Abdul El-Sayed in Michigan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691866</guid>
-            <pubDate>Mon, 17 Aug 2026 03:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[American actress Hayden Panettiere passes away at 36]]></title>
-            <description><![CDATA[American actress Hayden Panettiere passes away at 36]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691865</guid>
-            <pubDate>Mon, 17 Aug 2026 03:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran advances law imposing prison terms for interviews with 'hostile' media]]></title>
-            <description><![CDATA[Iran advances law imposing prison terms for interviews with 'hostile' media]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691864</guid>
-            <pubDate>Mon, 17 Aug 2026 03:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zvi Yehezkeli slams Kushner’s meeting with Hamas officials: A slap in Israel's face]]></title>
-            <description><![CDATA[Zvi Yehezkeli slams Kushner’s meeting with Hamas officials: A slap in Israel's face]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691863</guid>
-            <pubDate>Mon, 17 Aug 2026 02:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian Speaker claims war victory after Trump threatens to take control of Hormuz]]></title>
-            <description><![CDATA[Iranian Speaker claims war victory after Trump threatens to take control of Hormuz]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691862</guid>
-            <pubDate>Mon, 17 Aug 2026 02:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5.8-magnitude earthquake felt in Indonesia]]></title>
-            <description><![CDATA[5.8-magnitude earthquake felt in Indonesia]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691861</guid>
-            <pubDate>Mon, 17 Aug 2026 01:51:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

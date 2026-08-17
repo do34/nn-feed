@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 05:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 06:54:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 05:34:37 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 06:54:48 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[After robot hit, commander takes initiative: daring rescue under Russian drone threat]]></title>
+            <description><![CDATA[After two soldiers were wounded by FPV drones and the rescue robot was hit, company commander Vladislav Polsky went in without body armor, loaded them into a civilian pickup, and brought them to safety.]]></description>
+            <link>https://www.israelnationalnews.com/news/431810</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431810</guid>
+            <pubDate>Mon, 17 Aug 2026 06:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WSJ reveals: Iran's secret plan to escalate the war]]></title>
+            <description><![CDATA[Extremist elements in Iranian leadership decided to utilize ceasefire period granted by Iran-US memorandum of understanding to prepare for future conflict, Wall Street Journal report reveals.]]></description>
+            <link>https://www.israelnationalnews.com/news/431807</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431807</guid>
+            <pubDate>Mon, 17 Aug 2026 05:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The war we cannot afford to lose]]></title>
+            <description><![CDATA[The war we cannot afford to lose]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691872</guid>
+            <pubDate>Mon, 17 Aug 2026 05:49:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NY synagogues rethink security after attack]]></title>
             <description><![CDATA[Jewish watchdog urges NYPD to increase officers in hot spots after synagogue attack.]]></description>
@@ -27,7 +48,9 @@ During the incident, several statues in the church compound were knocked over an
         </item>
         <item>
             <title><![CDATA[Reports in Lebanon of Israeli strikes in the south of the country]]></title>
-            <description><![CDATA[Reports in Lebanon of Israeli strikes in the south of the country]]></description>
+            <description><![CDATA[Lebanese Al Mayadeen TV, which is affiliated with the Hezbollah terrorist organization, reported a strike in the village of Al-Qantara in southern Lebanon overnight.
+
+Artillery strikes were also reported in the area of the village of Al-Mansouri and in the Wadi al-Saluki area in southern Lebanon.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691869</guid>
             <pubDate>Mon, 17 Aug 2026 05:12:00 GMT</pubDate>
@@ -41,9 +64,9 @@ During the incident, several statues in the church compound were knocked over an
         </item>
         <item>
             <title><![CDATA[Far-right leader, called 'most dangerous man in Germany,' could become state premier]]></title>
-            <description><![CDATA[Far-right leader, called 'most dangerous man in Germany,' could become state premier]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691867</guid>
+            <description><![CDATA[German weekly Der Spiegel calls AfD candidate Ulrich Siegmund 'Germany’s most dangerous man,' who could become the far-right party’s first state premier in Saxony-Anhalt, marking a historic turning point in German politics.]]></description>
+            <link>https://www.israelnationalnews.com/news/431804</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431804</guid>
             <pubDate>Mon, 17 Aug 2026 04:54:00 GMT</pubDate>
         </item>
         <item>
@@ -220,23 +243,23 @@ According to the report, Israel is determined to destroy terrorist infrastructur
         </item>
         <item>
             <title><![CDATA[Israeli officer describes finding missing mother and daughter in Argentina]]></title>
-            <description><![CDATA[Israel Police representative Walter Alejandro Kogan recounts the operation that led him to missing Israelis Mali and Liel Yahalomi in Argentina, a week after they were last seen in Vienna.]]></description>
-            <link>https://www.israelnationalnews.com/news/431791</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431791</guid>
+            <description><![CDATA[Israeli officer describes finding missing mother and daughter in Argentina]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691844</guid>
             <pubDate>Sun, 16 Aug 2026 17:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US pressure mounts: Kushner arrives in Israel demanding Netanyahu implement Gaza plan]]></title>
-            <description><![CDATA[After meeting Hamas leaders in Egypt, Jared Kushner arrives in Israel to meet Netanyahu. Washington believes PM has agreed in principle to the framework and is demanding its implementation.]]></description>
-            <link>https://www.israelnationalnews.com/news/431790</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431790</guid>
+            <description><![CDATA[US pressure mounts: Kushner arrives in Israel demanding Netanyahu implement Gaza plan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691843</guid>
             <pubDate>Sun, 16 Aug 2026 17:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On anniversary of death: US Ambassador Huckabee visits Rabbi Kook's home]]></title>
-            <description><![CDATA[US Ambassador Mike Huckabee visits Rabbi Abraham Isaac HaCohen Kook’s Jerusalem home and opens an exhibit highlighting Chief Rabbis’ historic White House visits.]]></description>
-            <link>https://www.israelnationalnews.com/news/431789</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431789</guid>
+            <description><![CDATA[On anniversary of death: US Ambassador Huckabee visits Rabbi Kook's home]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691842</guid>
             <pubDate>Sun, 16 Aug 2026 17:01:00 GMT</pubDate>
         </item>
         <item>
@@ -287,27 +310,6 @@ According to the report, Israel is determined to destroy terrorist infrastructur
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691835</guid>
             <pubDate>Sun, 16 Aug 2026 14:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Col. (res.) Hezi Nehama, one of the authors of the “Generals’ Plan" to defeat Hamas, joins Erdan]]></title>
-            <description><![CDATA[Col. (res.) Hezi Nehama, one of the authors of the “Generals’ Plan" to defeat Hamas, joins Erdan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691834</guid>
-            <pubDate>Sun, 16 Aug 2026 14:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF confirms: Two terrorists who advanced terrorist attacks eliminated in Gaza Strip]]></title>
-            <description><![CDATA[IDF confirms: Two terrorists who advanced terrorist attacks eliminated in Gaza Strip]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691833</guid>
-            <pubDate>Sun, 16 Aug 2026 14:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel, Honduras forge deeper defense partnership amid regional threats]]></title>
-            <description><![CDATA[Israel, Honduras forge deeper defense partnership amid regional threats]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691832</guid>
-            <pubDate>Sun, 16 Aug 2026 13:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

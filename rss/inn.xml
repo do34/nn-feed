@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 10:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 11:25:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 10:32:29 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 11:25:36 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[40 minutes of fear: Jews attacked in Barcelona]]></title>
+            <description><![CDATA[Seven Jewish tourists from France were attacked by hundreds at the port of Barcelona and subjected to 40 minutes of curses, spitting, and chants against Jews and Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/431824</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431824</guid>
+            <pubDate>Mon, 17 Aug 2026 11:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Public urged to pray for beloved rabbi]]></title>
+            <description><![CDATA[Family calls on the public to pray and increase Torah study and good deeds for Rabbi Shalom Pinchas Burstein. 'He is in need of great Heavenly mercy.']]></description>
+            <link>https://www.israelnationalnews.com/news/431820</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431820</guid>
+            <pubDate>Mon, 17 Aug 2026 10:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Likud primaries: The battle heats up, Gotliv claims missing voting slips]]></title>
             <description><![CDATA[14,307 Likud members already exercised their right to vote in Likud primaries. Gotliv claims ballots without her name, Yoni Yosef withdraws candidacy, and Netanyahu expresses support for Osnat Zohar.]]></description>
@@ -219,16 +233,14 @@ The announcement comes as a direct response to statements by US President Donald
         </item>
         <item>
             <title><![CDATA[Hamas demands Board of Peace compel Israel to honor Gaza peace plan]]></title>
-            <description><![CDATA[Following high-level talks in Egypt with US envoy Jared Kushner, Hamas demands the Board of Peace compel Israel to fulfill its commitments under the Gaza plan.]]></description>
-            <link>https://www.israelnationalnews.com/news/431797</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431797</guid>
+            <description><![CDATA[Hamas demands Board of Peace compel Israel to honor Gaza peace plan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691856</guid>
             <pubDate>Sun, 16 Aug 2026 23:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man moderately injured in accident near Regba Junction]]></title>
-            <description><![CDATA[A man in his 50s was moderately injured in a two-car collision on Highway 4 near Regba Junction.
-
-Magen David Adom EMTs and paramedics provided medical treatment at the scene and evacuated him to the Galilee Medical Center in Nahariya.]]></description>
+            <description><![CDATA[Man moderately injured in accident near Regba Junction]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691855</guid>
             <pubDate>Sun, 16 Aug 2026 22:39:00 GMT</pubDate>
@@ -288,20 +300,6 @@ Magen David Adom EMTs and paramedics provided medical treatment at the scene and
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691847</guid>
             <pubDate>Sun, 16 Aug 2026 18:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu ahead of Likud primaries: I am not interfering in the national slate]]></title>
-            <description><![CDATA[Netanyahu ahead of Likud primaries: I am not interfering in the national slate]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691846</guid>
-            <pubDate>Sun, 16 Aug 2026 18:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Israel preparing for several days of fighting against Hezbollah]]></title>
-            <description><![CDATA[Report: Israel preparing for several days of fighting against Hezbollah]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691845</guid>
-            <pubDate>Sun, 16 Aug 2026 17:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

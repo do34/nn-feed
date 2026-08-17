@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 07:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 08:42:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 07:53:12 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 08:42:49 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Despite war, record crowds head for Uman]]></title>
+            <description><![CDATA[Over 45,000 Israelis expected to make annual pilgrimage to Uman Ukraine, despite closed Ukrainian airspace, martial law, and a grueling journey across the border.]]></description>
+            <link>https://www.israelnationalnews.com/news/431815</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431815</guid>
+            <pubDate>Mon, 17 Aug 2026 08:17:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Arab vote in Israel-Legality, Morality and Security]]></title>
             <description><![CDATA[The Israeli High Court has a long record of flouting the law when it comes to Arab parties’ participation in Knesset elections. But in the post-October 7th era, in which the vulnerability of the state was so vividly exposed, it is essential to vigorously enforce both the spirit and the letter of Clause 7(a) of the Basic Law: The Knesset. Opinion.]]></description>
@@ -25,9 +32,9 @@
         </item>
         <item>
             <title><![CDATA[The forthcoming elections and the unity of Am Yisrael]]></title>
-            <description><![CDATA[The forthcoming elections and the unity of Am Yisrael]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691878</guid>
+            <description><![CDATA[A house can contain people who are different from one another, each with his own character and his own way, and yet they are all living under the same roof. That is the picture we should have of Am Yisrael.]]></description>
+            <link>https://www.israelnationalnews.com/news/431813</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431813</guid>
             <pubDate>Mon, 17 Aug 2026 07:13:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[Couple marry at hospital so bride's critically ill mother can attend the ceremony]]></title>
-            <description><![CDATA[Couple marry at hospital so bride's critically ill mother can attend the ceremony]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691876</guid>
+            <description><![CDATA[Michal and Tal had planned to get married a year from now, but Michal’s mother’s medical condition led them to move up the wedding and hold it at Shaare Zedek Medical Center.]]></description>
+            <link>https://www.israelnationalnews.com/news/431811</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431811</guid>
             <pubDate>Mon, 17 Aug 2026 07:01:00 GMT</pubDate>
         </item>
         <item>
@@ -230,9 +237,9 @@ Magen David Adom paramedics evacuated him to Wolfson Hospital in Holon.]]></desc
         </item>
         <item>
             <title><![CDATA[Secret documents reveal: How mechanism for transferring Qatari funds to Hamas was approved]]></title>
-            <description><![CDATA[Documents from 2021 reveal backchannel talks and the approved mechanism to transfer millions of dollars through fuel sales.]]></description>
-            <link>https://www.israelnationalnews.com/news/431794</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431794</guid>
+            <description><![CDATA[Secret documents reveal: How mechanism for transferring Qatari funds to Hamas was approved]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691851</guid>
             <pubDate>Sun, 16 Aug 2026 20:37:00 GMT</pubDate>
         </item>
         <item>
@@ -297,13 +304,6 @@ Magen David Adom paramedics evacuated him to Wolfson Hospital in Holon.]]></desc
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691842</guid>
             <pubDate>Sun, 16 Aug 2026 17:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Just me, my thoughts, and G-d': Omer Shem Tov recounts Hamas captivity]]></title>
-            <description><![CDATA['Just me, my thoughts, and G-d': Omer Shem Tov recounts Hamas captivity]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691841</guid>
-            <pubDate>Sun, 16 Aug 2026 16:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

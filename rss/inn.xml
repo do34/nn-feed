@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 15:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 16:27:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 15:24:49 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 16:27:25 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Four-year-old boy killed in traffic accident in Beit Shemesh]]></title>
+            <description><![CDATA[A four-year-old boy was critically injured after being struck by a car in Beit Shemesh. Magen David Adom teams dispatched to the scene performed resuscitation efforts, but were ultimately forced to pronounce him dead.]]></description>
+            <link>https://www.israelnationalnews.com/news/431841</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431841</guid>
+            <pubDate>Mon, 17 Aug 2026 16:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish venue admits discriminating against Jewish comedian]]></title>
+            <description><![CDATA[An Edinburgh venue admits it unlawfully discriminated against Jewish comedian Philip Simon after cancelling his Fringe show over his views on Israel and Gaza.]]></description>
+            <link>https://www.israelnationalnews.com/news/431840</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431840</guid>
+            <pubDate>Mon, 17 Aug 2026 15:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Child injured in stabbing declared dead]]></title>
             <description><![CDATA[One of the two children who were stabbed in Beit Shemesh has been declared dead.]]></description>
@@ -25,7 +39,7 @@
         </item>
         <item>
             <title><![CDATA[Netanyahu, Board of Peace agree to establish 2 working groups for Gaza peace plan]]></title>
-            <description><![CDATA[Netanyahu, Board of Peace agree to establish 2 working groups for Gaza peace plan]]></description>
+            <description><![CDATA[The Prime Minister's Office stated: "The Prime Minister and Board of Peace had deep and constructive discussions. It was agreed to establish two working groups, one on disarmament and demilitarisation of Gaza, which both Israel and the Board of Peace are determined should be prompt and completed before any reconstruction happens in Gaza. A second working group will focus on sanitation, clean water and other public health issues for the people of Gaza and which also impact the people of Israel."]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691909</guid>
             <pubDate>Mon, 17 Aug 2026 14:49:00 GMT</pubDate>
@@ -211,16 +225,16 @@ The official claimed that Iran has set a deadline of several weeks for the US to
         </item>
         <item>
             <title><![CDATA[Arab leaders upset by Jewish visits to Temple Mount]]></title>
-            <description><![CDATA[High Follow-Up Committee delegation visits Temple Mount, Islamic Movement leader shares religious justification for Ra'am's efforts to join center-left government after elections.]]></description>
-            <link>https://www.israelnationalnews.com/news/431817</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431817</guid>
+            <description><![CDATA[Arab leaders upset by Jewish visits to Temple Mount]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691882</guid>
             <pubDate>Mon, 17 Aug 2026 08:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Despite war, record crowds head for Uman]]></title>
-            <description><![CDATA[Over 45,000 Israelis expected to make annual pilgrimage to Uman Ukraine, despite closed Ukrainian airspace, martial law, and a grueling journey across the border.]]></description>
-            <link>https://www.israelnationalnews.com/news/431815</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431815</guid>
+            <description><![CDATA[Despite war, record crowds head for Uman]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691881</guid>
             <pubDate>Mon, 17 Aug 2026 08:17:00 GMT</pubDate>
         </item>
         <item>
@@ -278,20 +292,6 @@ The official claimed that Iran has set a deadline of several weeks for the US to
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691873</guid>
             <pubDate>Mon, 17 Aug 2026 05:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The war we cannot afford to lose]]></title>
-            <description><![CDATA[The war we cannot afford to lose]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691872</guid>
-            <pubDate>Mon, 17 Aug 2026 05:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NY synagogues rethink security after attack]]></title>
-            <description><![CDATA[NY synagogues rethink security after attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691871</guid>
-            <pubDate>Mon, 17 Aug 2026 05:23:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,57 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 01:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 02:55:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 01:12:30 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 02:55:33 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[UK PM Andy Burnham targeted in security breach involving fake Trump aide]]></title>
+            <description><![CDATA[British Prime Minister Andy Burnham exchanged text messages with an imposter claiming to be White House chief of staff Susie Wiles before suspecting a fraud.]]></description>
+            <link>https://www.israelnationalnews.com/news/431857</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431857</guid>
+            <pubDate>Tue, 18 Aug 2026 02:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bipartisan leaders condemn Florida candidate’s antisemitic attacks]]></title>
+            <description><![CDATA[Congressional leaders from both parties condemn Dan Bilzerian's antisemitic attacks against Jewish Rep. Randy Fine as primary contests heat up across Florida.]]></description>
+            <link>https://www.israelnationalnews.com/news/431856</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431856</guid>
+            <pubDate>Tue, 18 Aug 2026 02:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Likud primaries | 50% of votes counted]]></title>
+            <description><![CDATA[With approximately 50% of the votes cast by party members in the primary to determine the Knesset list counted, Minister Eli Cohen is in first place, followed by Minister Yariv Levin, Knesset Speaker Amir Ohana, Minister Miri Regev, and Coalition Chairman Ofir Katz.
+
+Rounding out the top 10 are Minister Miki Zohar, Minister Yoav Kisch, Almog Cohen, Minister Amichai Chikli, and MK Moshe Saada.]]></description>
+            <link>https://www.israelnationalnews.com/news/431854</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431854</guid>
+            <pubDate>Tue, 18 Aug 2026 02:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Likud primaries | With 45% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana still lead]]></title>
+            <description><![CDATA[Likud primaries | With 45% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana still lead]]></description>
+            <link>https://www.israelnationalnews.com/news/431854</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431854</guid>
+            <pubDate>Tue, 18 Aug 2026 01:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Likud primaries | With 35% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana lead]]></title>
+            <description><![CDATA[With approximately 35% of the votes cast by Likud party members in the primary to determine the Knesset slate counted, Eli Cohen, Yariv Levin, and Amir Ohana are leading the list, followed by Miri Regev, Ofir Katz, Miki Zohar, Yoav Kisch, Almog Cohen, Amichai Chikli, and Moshe Saada.
+
+Places 11 through 15 are held by Dudi Amsalem, Tally Gotliv, Shlomo Karhi, David Bitan, and Nir Barkat.]]></description>
+            <link>https://www.israelnationalnews.com/news/431854</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431854</guid>
+            <pubDate>Tue, 18 Aug 2026 01:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump claims Kim Jong Un responded to his overtures]]></title>
+            <description><![CDATA[President Donald Trump claims North Korea's leader responded to his overtures after ordering a scale-back of joint US military exercises with South Korea.]]></description>
+            <link>https://www.israelnationalnews.com/news/431855</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431855</guid>
+            <pubDate>Tue, 18 Aug 2026 01:18:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Likud primaries | With 25% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana lead]]></title>
             <description><![CDATA[With approximately 25% of the Likud primary votes counted, Eli Cohen, Yariv Levin, and Amir Ohana lead the standings, followed by Miri Regev, Miki Zohar, Yoav Kisch, Ofir Katz, Almog Cohen, Amichai Chikli, Dudi Amsalem, Moshe Saada, Tally Gotliv, David Bitan, Nir Barkat, Avihai Boaron, Shlomo Karhi, and Boaz Bismuth.]]></description>
@@ -32,7 +78,9 @@
         </item>
         <item>
             <title><![CDATA[Man moderately injured after car overturns in Tayibe]]></title>
-            <description><![CDATA[Man moderately injured after car overturns in Tayibe]]></description>
+            <description><![CDATA[A 31-year-old man was moderately injured when his car overturned on Route 444 at the entrance to Tayibe.
+
+Magen David Adom EMTs and paramedics treated him at the scene and evacuated him to Meir Hospital in Kfar Saba.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691929</guid>
             <pubDate>Mon, 17 Aug 2026 23:54:00 GMT</pubDate>
@@ -185,30 +233,30 @@ The two are demanding an immediate halt to the counting process at the site, poi
         </item>
         <item>
             <title><![CDATA[Netanyahu, Board of Peace agree to establish 2 working groups for Gaza peace plan]]></title>
-            <description><![CDATA[The Prime Minister's Office stated: "The Prime Minister and Board of Peace had deep and constructive discussions. It was agreed to establish two working groups, one on disarmament and demilitarisation of Gaza, which both Israel and the Board of Peace are determined should be prompt and completed before any reconstruction happens in Gaza. A second working group will focus on sanitation, clean water and other public health issues for the people of Gaza and which also impact the people of Israel."]]></description>
+            <description><![CDATA[Netanyahu, Board of Peace agree to establish 2 working groups for Gaza peace plan]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691909</guid>
             <pubDate>Mon, 17 Aug 2026 14:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Central Synagogue was attacked during Shabbat]]></title>
-            <description><![CDATA[Another antisemitic attack on American Jews at prayer. This one happened inside the most politically connected Reform synagogue in the country, a place where Israel has been condemned.]]></description>
-            <link>https://www.israelnationalnews.com/news/431838</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431838</guid>
+            <description><![CDATA[Central Synagogue was attacked during Shabbat]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691907</guid>
             <pubDate>Mon, 17 Aug 2026 14:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kushner warns Netanyahu to 'not create obstacles']]></title>
-            <description><![CDATA[In 4-hour meeting with Israeli PM, US envoy Jared Kushner presses Israel to implement the 15-point Gaza peace plan.]]></description>
-            <link>https://www.israelnationalnews.com/news/431837</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431837</guid>
+            <description><![CDATA[Kushner warns Netanyahu to 'not create obstacles']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691906</guid>
             <pubDate>Mon, 17 Aug 2026 14:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Herzog to Kushner: Next stages in Gaza must guarantee Israel's security]]></title>
-            <description><![CDATA[President Isaac Herzog meets Jared Kushner and Nickolay Mladenov in Jerusalem, stresses Israel's security must remain central to Gaza plan.]]></description>
-            <link>https://www.israelnationalnews.com/news/431836</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431836</guid>
+            <description><![CDATA[Herzog to Kushner: Next stages in Gaza must guarantee Israel's security]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691905</guid>
             <pubDate>Mon, 17 Aug 2026 14:16:00 GMT</pubDate>
         </item>
         <item>
@@ -252,48 +300,6 @@ The two are demanding an immediate halt to the counting process at the site, poi
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691899</guid>
             <pubDate>Mon, 17 Aug 2026 13:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No single official can decide what Jewish children learn]]></title>
-            <description><![CDATA[No single official can decide what Jewish children learn]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691898</guid>
-            <pubDate>Mon, 17 Aug 2026 13:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senior Iranian official: 'Iran is moving from defense to completely offensive']]></title>
-            <description><![CDATA[Senior Iranian official: 'Iran is moving from defense to completely offensive']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691897</guid>
-            <pubDate>Mon, 17 Aug 2026 13:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Flights, 11 Days in Israel, or $18,000 Cash, One Ticket]]></title>
-            <description><![CDATA[7 Flights, 11 Days in Israel, or $18,000 Cash, One Ticket]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691896</guid>
-            <pubDate>Mon, 17 Aug 2026 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Hamas outsmarted the West’s media, universities and NGOs]]></title>
-            <description><![CDATA[How Hamas outsmarted the West’s media, universities and NGOs]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691895</guid>
-            <pubDate>Mon, 17 Aug 2026 12:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miri Regev accuses: 'El Al decided to try to take me down']]></title>
-            <description><![CDATA[Miri Regev accuses: 'El Al decided to try to take me down']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691894</guid>
-            <pubDate>Mon, 17 Aug 2026 12:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli study reveals: Attention can regulate acute inflammation in humans]]></title>
-            <description><![CDATA[Israeli study reveals: Attention can regulate acute inflammation in humans]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691893</guid>
-            <pubDate>Mon, 17 Aug 2026 12:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

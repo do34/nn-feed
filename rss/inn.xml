@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 11:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 12:45:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 11:25:45 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 12:45:39 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Witness blasts NYTimes for downplaying synagogue attack]]></title>
+            <description><![CDATA[Congregant Harry Zimmerman accuses New York Times of failing to accurately report on and downplaying an antisemitic attack in an NYC synagogue.]]></description>
+            <link>https://www.israelnationalnews.com/news/431884</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431884</guid>
+            <pubDate>Tue, 18 Aug 2026 12:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harsh sentence for terrorist who tried to murder elderly woman in Jerusalem]]></title>
+            <description><![CDATA[Jerusalem court sentences Nabil Shaabani to prison and compensation for attempted nationalistically motivated murder and theft.]]></description>
+            <link>https://www.israelnationalnews.com/news/431883</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431883</guid>
+            <pubDate>Tue, 18 Aug 2026 12:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspect detained for praising the October 7th massacre]]></title>
+            <description><![CDATA[Security forces raided a Hebron home after midnight and arrested a 37-year-old woman accused of severe incitement, supporting terrorism and glorifying terrorists in social media posts.]]></description>
+            <link>https://www.israelnationalnews.com/news/431882</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431882</guid>
+            <pubDate>Tue, 18 Aug 2026 12:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Not so light, but so impactful summer reading]]></title>
+            <description><![CDATA[Suggestions for summer reading that are relevant and even hopefully impactful. Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/431881</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431881</guid>
+            <pubDate>Tue, 18 Aug 2026 12:02:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump posts map labeling Strait of Hormuz as 'New US Territory']]></title>
             <description><![CDATA[Trump posts map labeling Strait of Hormuz as 'New US Territory']]></description>
@@ -43,9 +71,9 @@ Barrack said the Al-Sharra government has not adopted a “predatory posture" or
         </item>
         <item>
             <title><![CDATA[FBI report: Jews account for 64% of US religion-based hate crimes]]></title>
-            <description><![CDATA[FBI report: Jews account for 64% of US religion-based hate crimes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691963</guid>
+            <description><![CDATA[FBI data shows Jews remained the most targeted religious group in US hate crimes in 2025, accounting for 64% of religion-based incidents.]]></description>
+            <link>https://www.israelnationalnews.com/news/431876</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431876</guid>
             <pubDate>Tue, 18 Aug 2026 10:32:00 GMT</pubDate>
         </item>
         <item>
@@ -204,33 +232,29 @@ There is no risk of a security incident. The incident is under review.]]></descr
         <item>
             <title><![CDATA[Likud primaries: Ohana rises to second place instead of Levin, Amsalem in 9th]]></title>
             <description><![CDATA[Likud primaries: Ohana rises to second place instead of Levin, Amsalem in 9th]]></description>
-            <link>https://www.israelnationalnews.com/news/431854</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431854</guid>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691941</guid>
             <pubDate>Tue, 18 Aug 2026 03:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['A delusion': IRGC rejects Trump claims of backchannel talks]]></title>
-            <description><![CDATA[Iran's IRGC dismisses Trump's claims of backchannel talks, as Trump rules out extending the June framework deal.]]></description>
-            <link>https://www.israelnationalnews.com/news/431858</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431858</guid>
+            <description><![CDATA['A delusion': IRGC rejects Trump claims of backchannel talks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691940</guid>
             <pubDate>Tue, 18 Aug 2026 03:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Likud primaries | 65% of votes counted]]></title>
-            <description><![CDATA[With approximately 65% of the votes cast by Likud party members in the primary to determine the Knesset list counted, Minister Eli Cohen is in first place, followed by Minister Yariv Levin, Knesset Speaker Amir Ohana, Minister Miri Regev, and Coalition Chairman Ofir Katz.
-
-Rounding out the top 10 are Minister Yoav Kisch, Minister Miki Zohar, Almog Cohen, MK Dudi Amsalem, and Minister Amichai Chikli.
-
-In places 11 through 16 are MK Moshe Saada, MK Tally Gotliv, MK David Bitan, Minister Shlomo Karhi, Minister Nir Barkat, and MK Boaz Bismuth.]]></description>
-            <link>https://www.israelnationalnews.com/news/431854</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431854</guid>
+            <description><![CDATA[Likud primaries | 65% of votes counted]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691939</guid>
             <pubDate>Tue, 18 Aug 2026 03:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK PM Andy Burnham targeted in security breach involving fake Trump aide]]></title>
-            <description><![CDATA[British Prime Minister Andy Burnham exchanged text messages with an imposter claiming to be White House chief of staff Susie Wiles before suspecting a fraud.]]></description>
-            <link>https://www.israelnationalnews.com/news/431857</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431857</guid>
+            <description><![CDATA[UK PM Andy Burnham targeted in security breach involving fake Trump aide]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691938</guid>
             <pubDate>Tue, 18 Aug 2026 02:38:00 GMT</pubDate>
         </item>
         <item>
@@ -274,34 +298,6 @@ In places 11 through 16 are MK Moshe Saada, MK Tally Gotliv, MK David Bitan, Min
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691932</guid>
             <pubDate>Tue, 18 Aug 2026 00:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Likud primaries | With 20% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana lead]]></title>
-            <description><![CDATA[Likud primaries | With 20% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana lead]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691931</guid>
-            <pubDate>Tue, 18 Aug 2026 00:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new Likud battle: After the 'New Likudniks,' haredi members are next]]></title>
-            <description><![CDATA[The new Likud battle: After the 'New Likudniks,' haredi members are next]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691930</guid>
-            <pubDate>Tue, 18 Aug 2026 00:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man moderately injured after car overturns in Tayibe]]></title>
-            <description><![CDATA[Man moderately injured after car overturns in Tayibe]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691929</guid>
-            <pubDate>Mon, 17 Aug 2026 23:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11% of votes counted in Likud primaries: Eli Cohen leads, Yariv Levin and Miri Regev at the top]]></title>
-            <description><![CDATA[11% of votes counted in Likud primaries: Eli Cohen leads, Yariv Levin and Miri Regev at the top]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691928</guid>
-            <pubDate>Mon, 17 Aug 2026 23:19:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

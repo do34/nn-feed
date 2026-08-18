@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 19:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 20:23:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 19:27:30 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 20:23:40 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Food for thought]]></title>
+            <description><![CDATA[Why are we allowed to kill animals for food?]]></description>
+            <link>https://www.israelnationalnews.com/news/431902</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431902</guid>
+            <pubDate>Tue, 18 Aug 2026 20:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The encounter with a wounded soldier that moved Netanyahu]]></title>
+            <description><![CDATA[During a visit to Ariel University, Netanyahu met Amit, who was wounded by sniper fire in Gaza: “A moment that moved me deeply."]]></description>
+            <link>https://www.israelnationalnews.com/news/431901</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431901</guid>
+            <pubDate>Tue, 18 Aug 2026 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Before you tell me to "Free Palestine", I have some questions for you]]></title>
+            <description><![CDATA[And also some information: The Jewish people are not foreign tourists or colonizers in Judea. We did not name ourselves after this land. This land was named after us.]]></description>
+            <link>https://www.israelnationalnews.com/news/431900</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431900</guid>
+            <pubDate>Tue, 18 Aug 2026 19:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After the Likud primaries: Two polls put Netanyahu in first place by a wide margin]]></title>
+            <description><![CDATA[After the Likud primaries: Two polls put Netanyahu in first place by a wide margin]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691990</guid>
+            <pubDate>Tue, 18 Aug 2026 19:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Har Hevron surprises with a record 80% voter turnout in Likud primaries]]></title>
             <description><![CDATA[The number of Likud members in Har Hevron surged from around 150 to approximately 600, with 80% of them voting in the primaries. Erez Tadmor received the highest support.]]></description>
@@ -207,30 +235,30 @@ Barrack said the Al-Sharra government has not adopted a “predatory posture" or
         </item>
         <item>
             <title><![CDATA[FBI report: Jews account for 64% of US religion-based hate crimes]]></title>
-            <description><![CDATA[FBI data shows Jews remained the most targeted religious group in US hate crimes in 2025, accounting for 64% of religion-based incidents.]]></description>
-            <link>https://www.israelnationalnews.com/news/431876</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431876</guid>
+            <description><![CDATA[FBI report: Jews account for 64% of US religion-based hate crimes]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691963</guid>
             <pubDate>Tue, 18 Aug 2026 10:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Complaint alleges brutal Border Police violence and theft]]></title>
-            <description><![CDATA[A new complaint accuses Border Police officers of assaulting a minor, using gas at protesters, and allegedly taking a credit card during the evacuation of the Tel Talpiyot outpost.]]></description>
-            <link>https://www.israelnationalnews.com/news/431875</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431875</guid>
+            <description><![CDATA[Complaint alleges brutal Border Police violence and theft]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691962</guid>
             <pubDate>Tue, 18 Aug 2026 10:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bank Leumi files lawsuit against Meta over fake bank scams]]></title>
-            <description><![CDATA[Bank Leumi sues Meta for NIS 26.6 million, alleging Facebook and Instagram allowed fraudulent ads impersonating the bank and targeting customers.]]></description>
-            <link>https://www.israelnationalnews.com/news/431874</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431874</guid>
+            <description><![CDATA[Bank Leumi files lawsuit against Meta over fake bank scams]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691961</guid>
             <pubDate>Tue, 18 Aug 2026 10:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rabbi Yuval Cherlow reflects on soldier’s return after 44 years]]></title>
-            <description><![CDATA[After 44 years of uncertainty, Rabbi Yuval Cherlow reflects on the identification of Yehuda Katz’s remains, describing a moment of profound pain, consolation and renewed hope for his family.]]></description>
-            <link>https://www.israelnationalnews.com/news/431872</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431872</guid>
+            <description><![CDATA[Rabbi Yuval Cherlow reflects on soldier’s return after 44 years]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691960</guid>
             <pubDate>Tue, 18 Aug 2026 08:42:00 GMT</pubDate>
         </item>
         <item>
@@ -274,34 +302,6 @@ Barrack said the Al-Sharra government has not adopted a “predatory posture" or
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691954</guid>
             <pubDate>Tue, 18 Aug 2026 06:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF: Increased aircraft activity this afternoon; no concern of a security incident]]></title>
-            <description><![CDATA[IDF: Increased aircraft activity this afternoon; no concern of a security incident]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691953</guid>
-            <pubDate>Tue, 18 Aug 2026 06:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tanya/ Iggeres Ha’Kodesh - The Holy Epistle]]></title>
-            <description><![CDATA[Tanya/ Iggeres Ha’Kodesh - The Holy Epistle]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691952</guid>
-            <pubDate>Tue, 18 Aug 2026 06:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After 44 years: Remains of missing IDF soldier Yehuda Katz located]]></title>
-            <description><![CDATA[After 44 years: Remains of missing IDF soldier Yehuda Katz located]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691951</guid>
-            <pubDate>Tue, 18 Aug 2026 05:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The High Holidays as the Language of Love]]></title>
-            <description><![CDATA[The High Holidays as the Language of Love]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691950</guid>
-            <pubDate>Tue, 18 Aug 2026 05:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

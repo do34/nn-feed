@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 08:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 09:33:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 08:36:36 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 09:33:26 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Rabbi Yuval Cherlow reflects on soldier’s return after 44 years]]></title>
+            <description><![CDATA[After 44 years of uncertainty, Rabbi Yuval Cherlow reflects on the identification of Yehuda Katz’s remains, describing a moment of profound pain, consolation and renewed hope for his family.]]></description>
+            <link>https://www.israelnationalnews.com/news/431872</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431872</guid>
+            <pubDate>Tue, 18 Aug 2026 08:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police foil alleged ISIS attack plot targeting Be’er Sheva nightclub]]></title>
+            <description><![CDATA[A 20-year-old Negev resident is indicted for allegedly planning an ISIS-inspired attack on a Be’er Sheva nightclub and seeking to join the terror group in Syria.]]></description>
+            <link>https://www.israelnationalnews.com/news/431873</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431873</guid>
+            <pubDate>Tue, 18 Aug 2026 08:40:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Negev resident arrested for planning terror attack in Be'er Sheva]]></title>
             <description><![CDATA[The Israel Police and Shin Bet arrested a resident of the Negev who is suspected of having contact with a foreign agent, possessing weapons, and planning terrorist activity and an attack in Be’er Sheva.
@@ -221,16 +235,14 @@ Places 11 through 15 are held by Dudi Amsalem, Tally Gotliv, Shlomo Karhi, David
         </item>
         <item>
             <title><![CDATA[The new Likud battle: After the 'New Likudniks,' haredi members are next]]></title>
-            <description><![CDATA[Associates of the Prime Minister plan to screen and disqualify haredi party members who do not support Likud once the primary election process concludes.]]></description>
-            <link>https://www.israelnationalnews.com/news/431853</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431853</guid>
+            <description><![CDATA[The new Likud battle: After the 'New Likudniks,' haredi members are next]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691930</guid>
             <pubDate>Tue, 18 Aug 2026 00:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man moderately injured after car overturns in Tayibe]]></title>
-            <description><![CDATA[A 31-year-old man was moderately injured when his car overturned on Route 444 at the entrance to Tayibe.
-
-Magen David Adom EMTs and paramedics treated him at the scene and evacuated him to Meir Hospital in Kfar Saba.]]></description>
+            <description><![CDATA[Man moderately injured after car overturns in Tayibe]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691929</guid>
             <pubDate>Mon, 17 Aug 2026 23:54:00 GMT</pubDate>
@@ -290,20 +302,6 @@ Magen David Adom EMTs and paramedics treated him at the scene and evacuated him 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691921</guid>
             <pubDate>Mon, 17 Aug 2026 20:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kushner: Hamas has 60-90 days to hand over weapons]]></title>
-            <description><![CDATA[Kushner: Hamas has 60-90 days to hand over weapons]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691920</guid>
-            <pubDate>Mon, 17 Aug 2026 19:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZOA President: Spielberg Foundation funding of anti-Israel groups 'despicable, shameful']]></title>
-            <description><![CDATA[ZOA President: Spielberg Foundation funding of anti-Israel groups 'despicable, shameful']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691919</guid>
-            <pubDate>Mon, 17 Aug 2026 19:05:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

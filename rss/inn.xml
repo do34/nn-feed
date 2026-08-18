@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 14:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 15:31:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 14:33:43 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 15:31:48 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Sweden’s betrayal of Raoul Wallenberg]]></title>
+            <description><![CDATA[He rescued tens of thousands of Jews, redeemed Sweden’s compromised wartime reputation, and became one of history’s greatest humanitarians. Then Stockholm abandoned its own diplomat to Stalin’s prisons-and left his desperate mother to fight largely alone. Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/431890</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431890</guid>
+            <pubDate>Tue, 18 Aug 2026 15:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspected cyber attack on dozens of Israeli companies]]></title>
+            <description><![CDATA[Ashkelon resident for alleged cyber attacks on dozens of Israeli companies.]]></description>
+            <link>https://www.israelnationalnews.com/news/431889</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431889</guid>
+            <pubDate>Tue, 18 Aug 2026 15:21:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Syria admits to possessing nuclear material]]></title>
             <description><![CDATA[Syrian Foreign Minister announces that the IAEA will receive access to a site in Deir ez-Zor after more than 18 years, effectively confirming the presence of nuclear material in the country.]]></description>
@@ -17,7 +31,7 @@
             <pubDate>Tue, 18 Aug 2026 14:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Puah Institute responds to IVF incident at Assuta Ramat Hahayal Medical Center]]></title>
+            <title><![CDATA[IVF error: What is the child's status according to Jewish law?]]></title>
             <description><![CDATA[Puah Institute halachic adviser Rabbi Gideon Weitzman explains the possible halachic implications of the Assuta IVF incident and the safeguards designed to prevent errors during fertility treatments.]]></description>
             <link>https://www.israelnationalnews.com/news/431887</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/news/431887</guid>
@@ -217,16 +231,16 @@ There is no risk of a security incident. The incident is under review.]]></descr
         </item>
         <item>
             <title><![CDATA[Did Israel quietly give up nearly 10% of Gaza?]]></title>
-            <description><![CDATA[Israel has reportedly withdrawn from Gaza’s Orange Line to the original Yellow Line amid US pressure, reducing its control of the enclave from over 60% to only 53%.]]></description>
-            <link>https://www.israelnationalnews.com/news/431864</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431864</guid>
+            <description><![CDATA[Did Israel quietly give up nearly 10% of Gaza?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691947</guid>
             <pubDate>Tue, 18 Aug 2026 05:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Europe no longer knows why borders exist]]></title>
-            <description><![CDATA[Europe continues to talk of “sovereignty" while it has progressively replaced the government of peoples with the administration of flows of migrants. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/431863</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431863</guid>
+            <description><![CDATA[Europe no longer knows why borders exist]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691946</guid>
             <pubDate>Tue, 18 Aug 2026 05:20:00 GMT</pubDate>
         </item>
         <item>
@@ -284,20 +298,6 @@ There is no risk of a security incident. The incident is under review.]]></descr
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691938</guid>
             <pubDate>Tue, 18 Aug 2026 02:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bipartisan leaders condemn Florida candidate’s antisemitic attacks]]></title>
-            <description><![CDATA[Bipartisan leaders condemn Florida candidate’s antisemitic attacks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691937</guid>
-            <pubDate>Tue, 18 Aug 2026 02:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Likud primaries | 50% of votes counted]]></title>
-            <description><![CDATA[Likud primaries | 50% of votes counted]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691936</guid>
-            <pubDate>Tue, 18 Aug 2026 02:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 16:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 17:27:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 16:30:58 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 17:27:10 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Colombia: Israeli aid delegation has rescued 17 people after earthquake]]></title>
+            <description><![CDATA[Following the Colombian government’s declaration, operations are transitioning to the recovery phase.]]></description>
+            <link>https://www.israelnationalnews.com/news/431893</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431893</guid>
+            <pubDate>Tue, 18 Aug 2026 17:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After 44 years: Remains of missing IDF soldier Yehuda Katz brought to Israel]]></title>
+            <description><![CDATA[IDF, Military Intelligence and Mossad return remains of Staff Sgt. Yehuda Katz, who fell in the 1982 Battle of Sultan Yacoub and was missing for 44 years. His family was notified following his identification, completing the return of all missing soldiers from that battle.
+
+Read More]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691982</guid>
+            <pubDate>Tue, 18 Aug 2026 16:56:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AG demands action: 80% of draft dodgers found to come from haredi community]]></title>
             <description><![CDATA[A summary of the latest draft year finds that Haredim account for about 80% of all draft dodgers. The Attorney General is demanding expanded sanctions and the resumption of proactive arrests.]]></description>
@@ -25,7 +41,11 @@
         </item>
         <item>
             <title><![CDATA[The IDF struck Hamas commanders in the Shati area who planned to carry out terror attacks]]></title>
-            <description><![CDATA[The IDF struck Hamas commanders in the Shati area who planned to carry out terror attacks]]></description>
+            <description><![CDATA[A short while ago, the IDF struck several Hamas commanders in the Shati area in the northern Gaza Strip.
+
+The terrorists planned to carry out terror attacks against IDF troops operating in the Gaza Strip. The terrorists were struck in a precise aerial strike to remove the threat.
+
+Prior to the strike, steps were taken to mitigate harm to civilians, including the use of precise munitions and aerial surveillance.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691979</guid>
             <pubDate>Tue, 18 Aug 2026 16:07:00 GMT</pubDate>
@@ -220,9 +240,9 @@ The State Attorney’s Office filed a serious indictment against him this mornin
         </item>
         <item>
             <title><![CDATA[Tanya/ Iggeres Ha’Kodesh - The Holy Epistle]]></title>
-            <description><![CDATA[The Tanya compacts four millennia of Jewish wisdom to answer the great personal and existential questions of life. It has revolutionized the way we think about G -d the human soul, the world and our place in it.]]></description>
-            <link>https://www.israelnationalnews.com/news/431868</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431868</guid>
+            <description><![CDATA[Tanya/ Iggeres Ha’Kodesh - The Holy Epistle]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691952</guid>
             <pubDate>Tue, 18 Aug 2026 06:02:00 GMT</pubDate>
         </item>
         <item>
@@ -280,20 +300,6 @@ The State Attorney’s Office filed a serious indictment against him this mornin
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691944</guid>
             <pubDate>Tue, 18 Aug 2026 05:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[''Our Heart Is Shattered': Family struggles to cope with murder of 7-year-old]]></title>
-            <description><![CDATA[''Our Heart Is Shattered': Family struggles to cope with murder of 7-year-old]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691943</guid>
-            <pubDate>Tue, 18 Aug 2026 05:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanese President calls for extending UNIFIL mandate in southern Lebanon]]></title>
-            <description><![CDATA[Lebanese President calls for extending UNIFIL mandate in southern Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691942</guid>
-            <pubDate>Tue, 18 Aug 2026 03:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

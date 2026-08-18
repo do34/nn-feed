@@ -4,11 +4,36 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 20:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 21:24:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 20:23:40 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 21:24:08 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[UAE halts trade and financial transactions with Iran until further notice]]></title>
+            <description><![CDATA[The UAE suspends all trade, commercial exchanges and financial transactions with Iran, citing regional escalations that threaten peace and security.]]></description>
+            <link>https://www.israelnationalnews.com/news/431904</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431904</guid>
+            <pubDate>Tue, 18 Aug 2026 21:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chief of Staff to Katz family: After 44 years, the Battle of Sultan Yacoub is over]]></title>
+            <description><![CDATA[IDF Chief of Staff Lt. Gen. Eyal Zamir spoke with the family of the late Yehuda Yekutiel Katz following the return of his remains to Israel. “Today, the circle has been closed. All those missing from the battle have been returned to Israel," he said.
+
+The family thanked the Chief of Staff for his words and for the efforts to bring Yehuda home, to be buried in Israel. They added that his funeral will unite the entire nation and will be held in accordance with his unique character.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691995</guid>
+            <pubDate>Tue, 18 Aug 2026 20:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM's Office on Syria strikes: Syria permitted Turkish troops to deploy at base near Aleppo]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu's Office on Tuesday evening issued an English-language statement commenting on the airstrikes in Syria the previous night.
+
+"Israel and Syria agreed to a status quo in security matters, which Syria was on the verge of breaching by permitting Turkish troops to deploy at an airbase near Aleppo. Israel repeatedly warned Syria that such a deployment would pose a threat to Israel's security. Syria chose to ignore these warnings. Israel will not tolerate threats to its security, and would welcome a return to the status quo," the statement said.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691994</guid>
+            <pubDate>Tue, 18 Aug 2026 20:27:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Food for thought]]></title>
             <description><![CDATA[Why are we allowed to kill animals for food?]]></description>
@@ -32,9 +57,9 @@
         </item>
         <item>
             <title><![CDATA[After the Likud primaries: Two polls put Netanyahu in first place by a wide margin]]></title>
-            <description><![CDATA[After the Likud primaries: Two polls put Netanyahu in first place by a wide margin]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691990</guid>
+            <description><![CDATA[Two polls published after the primaries place the Likud in first place with 31-32 seats, and Eisenkot’s party in second place with 24.]]></description>
+            <link>https://www.israelnationalnews.com/news/431899</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431899</guid>
             <pubDate>Tue, 18 Aug 2026 19:45:00 GMT</pubDate>
         </item>
         <item>
@@ -210,27 +235,23 @@ Prior to the strike, steps were taken to mitigate harm to civilians, including t
         </item>
         <item>
             <title><![CDATA[Footage from Jerusalem: Masked teens caught with Molotov cocktails]]></title>
-            <description><![CDATA[Police arrested two masked teens from Pisgat Ze'ev after finding two suspected Molotov cocktails in a bag they allegedly discarded in Arnona.]]></description>
-            <link>https://www.israelnationalnews.com/news/431880</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431880</guid>
+            <description><![CDATA[Footage from Jerusalem: Masked teens caught with Molotov cocktails]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691966</guid>
             <pubDate>Tue, 18 Aug 2026 11:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US Envoy condemns 'Israeli' airstrike on Syrian airbase]]></title>
-            <description><![CDATA[US Envoy to Syria Tom Barrack accused Israel of carrying out airstrikes on the Abu al-Duhur Airbase in Syria, calling the strikes an “unnecessary escalation" that does not advance regional stability. Israel has not acknowledged the strike.
-
-Barrack said the Al-Sharra government has not adopted a “predatory posture" or maintained proxy forces, and has repeatedly indicated a preference for de-escalation with Israel. He said the US would continue to host discussions aimed at encouraging diplomacy over military action.
-
-“The United States continues to believe that restraint and engagement offer the more constructive course," Barrack said, urging all parties to prioritize dialogue over further military incidents.]]></description>
+            <description><![CDATA[US Envoy condemns 'Israeli' airstrike on Syrian airbase]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691965</guid>
             <pubDate>Tue, 18 Aug 2026 11:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Behind Trump's threats against Oman]]></title>
-            <description><![CDATA[Trump threatened Oman amid concerns over its Iran ties as Washington seeks a nuclear deal with Tehran and the full reopening of the Strait of Hormuz.]]></description>
-            <link>https://www.israelnationalnews.com/news/431879</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431879</guid>
+            <description><![CDATA[Behind Trump's threats against Oman]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691964</guid>
             <pubDate>Tue, 18 Aug 2026 10:55:00 GMT</pubDate>
         </item>
         <item>
@@ -281,27 +302,6 @@ Barrack said the Al-Sharra government has not adopted a “predatory posture" or
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691957</guid>
             <pubDate>Tue, 18 Aug 2026 07:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Passengers trapped on hot plane for 2 hours]]></title>
-            <description><![CDATA[Passengers trapped on hot plane for 2 hours]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691956</guid>
-            <pubDate>Tue, 18 Aug 2026 07:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Likud primaries | 97% of votes counted: Eli Cohen, Amir Ohana and Yariv Levin lead]]></title>
-            <description><![CDATA[Likud primaries | 97% of votes counted: Eli Cohen, Amir Ohana and Yariv Levin lead]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691955</guid>
-            <pubDate>Tue, 18 Aug 2026 07:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Torah law, Israel's court system and state security]]></title>
-            <description><![CDATA[Torah law, Israel's court system and state security]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691954</guid>
-            <pubDate>Tue, 18 Aug 2026 06:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

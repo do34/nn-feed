@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 22:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 23:22:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 22:23:27 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 23:22:00 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[US envoy: Israeli strikes in Syria risked escalation with Turkey]]></title>
+            <description><![CDATA[US envoy Tom Barrack says Israeli strikes in Syria highlight the need for Israel, Syria and Turkey to establish a mechanism to prevent escalation.]]></description>
+            <link>https://www.israelnationalnews.com/news/431906</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431906</guid>
+            <pubDate>Tue, 18 Aug 2026 23:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report in Lebanon: Israel strikes several locations in southern Lebanon]]></title>
+            <description><![CDATA[Lebanon's Al Mayadeen TV, which is affiliated with the Hezbollah terrorist organization, reported that the Israel Air Force carried out strikes on the outskirts of the town of Qantara, in the Ali Taher ridge area, and in the outskirts of Kfar Roummane in southern Lebanon.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691999</guid>
+            <pubDate>Tue, 18 Aug 2026 22:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US sanctions ICC president and senior lawyer, Netanyahu praises the move]]></title>
             <description><![CDATA[US Secretary of State Marco Rubio announces sanctions against ICC President Tomoko Akane and senior lawyer Abdoulaye Seye. Netanyahu: The ICC has become a kangaroo court.]]></description>
@@ -223,16 +237,16 @@ Prior to the strike, steps were taken to mitigate harm to civilians, including t
         </item>
         <item>
             <title><![CDATA[Harsh sentence for terrorist who tried to murder elderly woman in Jerusalem]]></title>
-            <description><![CDATA[Jerusalem court sentences Nabil Shaabani to prison and compensation for attempted nationalistically motivated murder and theft.]]></description>
-            <link>https://www.israelnationalnews.com/news/431883</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431883</guid>
+            <description><![CDATA[Harsh sentence for terrorist who tried to murder elderly woman in Jerusalem]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691970</guid>
             <pubDate>Tue, 18 Aug 2026 12:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suspect detained for praising the October 7th massacre]]></title>
-            <description><![CDATA[Security forces raided a Hebron home after midnight and arrested a 37-year-old woman accused of severe incitement, supporting terrorism and glorifying terrorists in social media posts.]]></description>
-            <link>https://www.israelnationalnews.com/news/431882</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431882</guid>
+            <description><![CDATA[Suspect detained for praising the October 7th massacre]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691969</guid>
             <pubDate>Tue, 18 Aug 2026 12:18:00 GMT</pubDate>
         </item>
         <item>
@@ -290,20 +304,6 @@ Prior to the strike, steps were taken to mitigate harm to civilians, including t
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691961</guid>
             <pubDate>Tue, 18 Aug 2026 10:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rabbi Yuval Cherlow reflects on soldier’s return after 44 years]]></title>
-            <description><![CDATA[Rabbi Yuval Cherlow reflects on soldier’s return after 44 years]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691960</guid>
-            <pubDate>Tue, 18 Aug 2026 08:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police foil alleged ISIS attack plot targeting Be’er Sheva nightclub]]></title>
-            <description><![CDATA[Police foil alleged ISIS attack plot targeting Be’er Sheva nightclub]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691959</guid>
-            <pubDate>Tue, 18 Aug 2026 08:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 09:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 10:28:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 09:33:26 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 10:28:08 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Complaint alleges brutal Border Police violence and theft]]></title>
+            <description><![CDATA[A new complaint accuses Border Police officers of assaulting a minor, using gas at protesters, and allegedly taking a credit card during the evacuation of the Tel Talpiyot outpost.]]></description>
+            <link>https://www.israelnationalnews.com/news/431875</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431875</guid>
+            <pubDate>Tue, 18 Aug 2026 10:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bank Leumi files lawsuit against Meta over fake bank scams]]></title>
+            <description><![CDATA[Bank Leumi sues Meta for NIS 26.6 million, alleging Facebook and Instagram allowed fraudulent ads impersonating the bank and targeting customers.]]></description>
+            <link>https://www.israelnationalnews.com/news/431874</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431874</guid>
+            <pubDate>Tue, 18 Aug 2026 10:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rabbi Yuval Cherlow reflects on soldier’s return after 44 years]]></title>
             <description><![CDATA[After 44 years of uncertainty, Rabbi Yuval Cherlow reflects on the identification of Yehuda Katz’s remains, describing a moment of profound pain, consolation and renewed hope for his family.]]></description>
@@ -221,16 +235,16 @@ Places 11 through 15 are held by Dudi Amsalem, Tally Gotliv, Shlomo Karhi, David
         </item>
         <item>
             <title><![CDATA[Likud primaries | With 25% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana lead]]></title>
-            <description><![CDATA[With approximately 25% of the Likud primary votes counted, Eli Cohen, Yariv Levin, and Amir Ohana lead the standings, followed by Miri Regev, Miki Zohar, Yoav Kisch, Ofir Katz, Almog Cohen, Amichai Chikli, Dudi Amsalem, Moshe Saada, Tally Gotliv, David Bitan, Nir Barkat, Avihai Boaron, Shlomo Karhi, and Boaz Bismuth.]]></description>
-            <link>https://www.israelnationalnews.com/news/431854</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431854</guid>
+            <description><![CDATA[Likud primaries | With 25% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana lead]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691932</guid>
             <pubDate>Tue, 18 Aug 2026 00:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Likud primaries | With 20% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana lead]]></title>
-            <description><![CDATA[Vote counting in the Likud primaries continues, with preliminary results placing Eli Cohen, Yariv Levin, and Amir Ohana at the top of the board.]]></description>
-            <link>https://www.israelnationalnews.com/news/431854</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431854</guid>
+            <description><![CDATA[Likud primaries | With 20% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana lead]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691931</guid>
             <pubDate>Tue, 18 Aug 2026 00:36:00 GMT</pubDate>
         </item>
         <item>
@@ -288,20 +302,6 @@ Places 11 through 15 are held by Dudi Amsalem, Tally Gotliv, Shlomo Karhi, David
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691923</guid>
             <pubDate>Mon, 17 Aug 2026 21:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Footage from Qabatiya | Duvdevan Unit thwarts terror attacks, arrests wanted suspects]]></title>
-            <description><![CDATA[Footage from Qabatiya | Duvdevan Unit thwarts terror attacks, arrests wanted suspects]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691922</guid>
-            <pubDate>Mon, 17 Aug 2026 20:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jews who funded Zohran Mamdani and Mahmoud Khalil]]></title>
-            <description><![CDATA[Jews who funded Zohran Mamdani and Mahmoud Khalil]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691921</guid>
-            <pubDate>Mon, 17 Aug 2026 20:05:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

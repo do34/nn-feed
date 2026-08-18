@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 06:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 07:37:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 06:42:14 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 07:37:44 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Passengers trapped on hot plane for 2 hours]]></title>
+            <description><![CDATA[A summer flight to Crete turned into a nightmare as passengers, including young children, were left waiting inside a Bluebird aircraft without air conditioning for nearly two hours.]]></description>
+            <link>https://www.israelnationalnews.com/news/431870</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431870</guid>
+            <pubDate>Tue, 18 Aug 2026 07:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Likud primaries | 97% of votes counted: Eli Cohen, Amir Ohana and Yariv Levin lead]]></title>
+            <description><![CDATA[Vote counting in the Likud primaries continues, with preliminary results placing Eli Cohen, Yariv Levin, and Amir Ohana at the top of the board.]]></description>
+            <link>https://www.israelnationalnews.com/news/431854</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431854</guid>
+            <pubDate>Tue, 18 Aug 2026 07:08:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Torah law, Israel's court system and state security]]></title>
             <description><![CDATA[Not a few judicial decisions have harmed deterrence against the enemy and the IDF’s ability to defend Israel and defeat the enemy. What is the halakhic status of the state court system?]]></description>
@@ -25,9 +39,9 @@
         </item>
         <item>
             <title><![CDATA[Tanya/ Iggeres Ha’Kodesh - The Holy Epistle]]></title>
-            <description><![CDATA[Tanya/ Iggeres Ha’Kodesh - The Holy Epistle]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691952</guid>
+            <description><![CDATA[The Tanya compacts four millennia of Jewish wisdom to answer the great personal and existential questions of life. It has revolutionized the way we think about G -d the human soul, the world and our place in it.]]></description>
+            <link>https://www.israelnationalnews.com/news/431868</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431868</guid>
             <pubDate>Tue, 18 Aug 2026 06:02:00 GMT</pubDate>
         </item>
         <item>
@@ -223,18 +237,16 @@ Alongside him at the top of the national list are Speaker of the Knesset Amir Oh
         </item>
         <item>
             <title><![CDATA[Two minors arrested at Sammy Ofer Stadium following suspected assault at Haifa Mall]]></title>
-            <description><![CDATA[Police arrested two 16-year-olds at Sammy Ofer Stadium on suspicion of assaulting two other minors at the Haifa Mall.
-
-Police stated that there is no connection between the assault incident and the soccer match which took place at the stadium.]]></description>
+            <description><![CDATA[Two minors arrested at Sammy Ofer Stadium following suspected assault at Haifa Mall]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691926</guid>
             <pubDate>Mon, 17 Aug 2026 22:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fried, Rabbi Smotrich, and the minister lead thousands in joyous dancing | Watch]]></title>
-            <description><![CDATA[Rabbi Yerucham Smotrich and his son, Minister Bezalel Smotrich, dance alongside Avraham Fried at the International Convention Center in Jerusalem.]]></description>
-            <link>https://www.israelnationalnews.com/news/431851</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431851</guid>
+            <description><![CDATA[Fried, Rabbi Smotrich, and the minister lead thousands in joyous dancing | Watch]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691925</guid>
             <pubDate>Mon, 17 Aug 2026 22:23:00 GMT</pubDate>
         </item>
         <item>
@@ -292,20 +304,6 @@ Police stated that there is no connection between the assault incident and the s
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691917</guid>
             <pubDate>Mon, 17 Aug 2026 18:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli teams search collapsed building as mission to Colombia enters third day]]></title>
-            <description><![CDATA[Israeli teams search collapsed building as mission to Colombia enters third day]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691916</guid>
-            <pubDate>Mon, 17 Aug 2026 18:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six yeshiva of Sderot guardians never came home]]></title>
-            <description><![CDATA[Six yeshiva of Sderot guardians never came home]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691915</guid>
-            <pubDate>Mon, 17 Aug 2026 17:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

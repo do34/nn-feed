@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 02:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 03:44:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 02:55:33 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 03:44:26 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Likud primaries: Ohana rises to second place instead of Levin, Amsalem in 9th]]></title>
+            <description><![CDATA[Likud primaries: Ohana rises to second place instead of Levin, Amsalem in 9th]]></description>
+            <link>https://www.israelnationalnews.com/news/431854</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431854</guid>
+            <pubDate>Tue, 18 Aug 2026 03:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['A delusion': IRGC rejects Trump claims of backchannel talks]]></title>
+            <description><![CDATA[Iran's IRGC dismisses Trump's claims of backchannel talks, as Trump rules out extending the June framework deal.]]></description>
+            <link>https://www.israelnationalnews.com/news/431858</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431858</guid>
+            <pubDate>Tue, 18 Aug 2026 03:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Likud primaries | 65% of votes counted]]></title>
+            <description><![CDATA[Likud primaries | 65% of votes counted]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691939</guid>
+            <pubDate>Tue, 18 Aug 2026 03:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK PM Andy Burnham targeted in security breach involving fake Trump aide]]></title>
             <description><![CDATA[British Prime Minister Andy Burnham exchanged text messages with an imposter claiming to be White House chief of staff Susie Wiles before suspecting a fraud.]]></description>
@@ -212,23 +233,23 @@ The two are demanding an immediate halt to the counting process at the site, poi
         </item>
         <item>
             <title><![CDATA[Scottish venue admits discriminating against Jewish comedian]]></title>
-            <description><![CDATA[An Edinburgh venue admits it unlawfully discriminated against Jewish comedian Philip Simon after cancelling his Fringe show over his views on Israel and Gaza.]]></description>
-            <link>https://www.israelnationalnews.com/news/431840</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431840</guid>
+            <description><![CDATA[Scottish venue admits discriminating against Jewish comedian]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691911</guid>
             <pubDate>Mon, 17 Aug 2026 15:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Child injured in stabbing declared dead]]></title>
-            <description><![CDATA[One of the two children who were stabbed in Beit Shemesh has been declared dead.]]></description>
-            <link>https://www.israelnationalnews.com/news/431835</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431835</guid>
+            <description><![CDATA[Child injured in stabbing declared dead]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691908</guid>
             <pubDate>Mon, 17 Aug 2026 15:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The three words my son refused to whisper]]></title>
-            <description><![CDATA[I heard my 11-year-old son Eli shouting across an otherwise tranquil resort pool: “AM YISRAEL CHAI!" Loudly, very loudly. And at first, I was worried.]]></description>
-            <link>https://www.israelnationalnews.com/news/431839</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431839</guid>
+            <description><![CDATA[The three words my son refused to whisper]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691910</guid>
             <pubDate>Mon, 17 Aug 2026 15:12:00 GMT</pubDate>
         </item>
         <item>
@@ -279,27 +300,6 @@ The two are demanding an immediate halt to the counting process at the site, poi
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691902</guid>
             <pubDate>Mon, 17 Aug 2026 13:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liberman lays out coalition red lines ahead of Israeli elections]]></title>
-            <description><![CDATA[Liberman lays out coalition red lines ahead of Israeli elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691901</guid>
-            <pubDate>Mon, 17 Aug 2026 13:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The hidden crisis facing haredi education]]></title>
-            <description><![CDATA[The hidden crisis facing haredi education]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691900</guid>
-            <pubDate>Mon, 17 Aug 2026 13:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joyous news: Widow of murdered soldier Elhanan Klein remarries]]></title>
-            <description><![CDATA[Joyous news: Widow of murdered soldier Elhanan Klein remarries]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691899</guid>
-            <pubDate>Mon, 17 Aug 2026 13:17:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

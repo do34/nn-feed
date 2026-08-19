@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 20:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 21:25:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 20:27:33 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 21:25:10 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Chief Rabbi to Eisenkot: A source of inspiration]]></title>
+            <description><![CDATA[At an event marking the dedication of a memorial and study room for Israel’s fallen soldiers, the Chief Rabbi shakes Gadi Eisenkot’s hand and tells him, “You are a source of inspiration."]]></description>
+            <link>https://www.israelnationalnews.com/news/431956</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431956</guid>
+            <pubDate>Wed, 19 Aug 2026 21:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Joint List returns, without Ra’am]]></title>
+            <description><![CDATA[Representatives of Hadash, Ta’al and Balad agree to run together in the upcoming elections. Ra’am will not be part of the alliance.]]></description>
+            <link>https://www.israelnationalnews.com/news/431955</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431955</guid>
+            <pubDate>Wed, 19 Aug 2026 20:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bereaved families against Trump admin. meetings with Hamas: 'Fight terrorism, don’t talk to it']]></title>
             <description><![CDATA[Bereaved families from the Gevurah Forum have launched a campaign against negotiations with senior Hamas officials, amid Jared Kushner’s visit to Israel and contacts being held by representatives of the Trump administration.
@@ -229,9 +243,9 @@ In the video, Bennett refers, among other things, to soldiers who have been figh
         </item>
         <item>
             <title><![CDATA[BBC rules ‘moneybags Rothschild’ phrase not antisemitic]]></title>
-            <description><![CDATA[British broadcaster's highest complaints panel rejects complaint over phrase referencing well-known Jewish family in decision called 'beyond compregension.']]></description>
-            <link>https://www.israelnationalnews.com/news/431938</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431938</guid>
+            <description><![CDATA[BBC rules ‘moneybags Rothschild’ phrase not antisemitic]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692029</guid>
             <pubDate>Wed, 19 Aug 2026 12:33:00 GMT</pubDate>
         </item>
         <item>
@@ -296,20 +310,6 @@ In the video, Bennett refers, among other things, to soldiers who have been figh
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692020</guid>
             <pubDate>Wed, 19 Aug 2026 09:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hamas-linked items found in Meah Shearim raid]]></title>
-            <description><![CDATA[Hamas-linked items found in Meah Shearim raid]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692019</guid>
-            <pubDate>Wed, 19 Aug 2026 08:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poll indicates Shas losing seats as Religious Zionist Party gains]]></title>
-            <description><![CDATA[Poll indicates Shas losing seats as Religious Zionist Party gains]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692018</guid>
-            <pubDate>Wed, 19 Aug 2026 08:17:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

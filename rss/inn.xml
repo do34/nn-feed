@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 18:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 19:24:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 18:35:01 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 19:24:58 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[125 mph in the dark: Police chase ends at spike strip]]></title>
+            <description><![CDATA[A 19-year-old new driver was arrested after allegedly reaching 201 km/h on Route 60, shutting off his lights and trying to flee police.]]></description>
+            <link>https://www.israelnationalnews.com/news/431953</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431953</guid>
+            <pubDate>Wed, 19 Aug 2026 19:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are they hosting a pundit who accused Jews of buying Congress?]]></title>
+            <description><![CDATA[If a white supremacist accused Jews of bribing members of Congress, no synagogue would invite him as a speaker. New York's oldest Reform Jewish congregation is hosting a newspaper columnist who has made that exact same accusation. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/431952</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431952</guid>
+            <pubDate>Wed, 19 Aug 2026 18:36:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[After captivity and the fight to bring him home: Eliya Cohen and Ziv Abud marry tonight]]></title>
             <description><![CDATA[After ten years together, 505 days during which Eliya Cohen was held hostage, and a prolonged struggle to bring him home, he and Ziv Abud are getting married tonight.]]></description>
@@ -32,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[Lebanon Talks: Israel demands return of fallen prisoners’ remains]]></title>
-            <description><![CDATA[Lebanon Talks: Israel demands return of fallen prisoners’ remains]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692049</guid>
+            <description><![CDATA[Israel reportedly demands the return of Israeli prisoners’ remains as talks with Lebanon continue, with Hezbollah refusing to leave a key southern Lebanon position.]]></description>
+            <link>https://www.israelnationalnews.com/news/431948</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431948</guid>
             <pubDate>Wed, 19 Aug 2026 17:32:00 GMT</pubDate>
         </item>
         <item>
@@ -223,16 +237,16 @@ In the video, Bennett refers, among other things, to soldiers who have been figh
         </item>
         <item>
             <title><![CDATA[Thousands of Breslov hasidim may be blocked from Uman]]></title>
-            <description><![CDATA[As the Jewish New Year approaches, rabbis weigh controversial plan to allow haredi draft evaders barred from leaving Israel to make the pilgrimage.]]></description>
-            <link>https://www.israelnationalnews.com/news/431928</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431928</guid>
+            <description><![CDATA[Thousands of Breslov hasidim may be blocked from Uman]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692024</guid>
             <pubDate>Wed, 19 Aug 2026 11:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Karlin-Stolin Rebbe breaks silence after violent clashes]]></title>
-            <description><![CDATA[A day after extremists attacked his hasidim in Jerusalem, the Karlin-Stolin Rebbe praises their resolve, but warns 'use of force is not the way of the Torah.']]></description>
-            <link>https://www.israelnationalnews.com/news/431930</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431930</guid>
+            <description><![CDATA[Karlin-Stolin Rebbe breaks silence after violent clashes]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692023</guid>
             <pubDate>Wed, 19 Aug 2026 10:38:00 GMT</pubDate>
         </item>
         <item>
@@ -290,20 +304,6 @@ In the video, Bennett refers, among other things, to soldiers who have been figh
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692015</guid>
             <pubDate>Wed, 19 Aug 2026 06:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bereaved Mother: 'I never thought it would be the last hug']]></title>
-            <description><![CDATA[Bereaved Mother: 'I never thought it would be the last hug']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692014</guid>
-            <pubDate>Wed, 19 Aug 2026 05:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debbie Wasserman Schultz wins primary in redrawn Florida district]]></title>
-            <description><![CDATA[Debbie Wasserman Schultz wins primary in redrawn Florida district]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692013</guid>
-            <pubDate>Wed, 19 Aug 2026 05:15:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

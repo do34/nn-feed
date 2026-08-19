@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 21:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 22:24:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 21:25:10 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 22:24:20 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump: Hormuz blockade is '100% successful']]></title>
+            <description><![CDATA[President Trump says the Hormuz blockade is "100% successful" as negotiations with Iran remain stalled and warns Tehran could face severe sanctions.]]></description>
+            <link>https://www.israelnationalnews.com/news/431957</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431957</guid>
+            <pubDate>Wed, 19 Aug 2026 22:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the verge of history: Hapoel Be’er Sheva wins 2-1]]></title>
+            <description><![CDATA[Hapoel Be’er Sheva defeated Azerbaijan’s Sabah 2-1 and is now just 90 minutes away from reaching the Champions League for the first time in the club’s history.
+
+Javon East and Igor Zlatanović scored to complete the comeback against the Azerbaijani champions.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692060</guid>
+            <pubDate>Wed, 19 Aug 2026 21:52:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chief Rabbi to Eisenkot: A source of inspiration]]></title>
             <description><![CDATA[At an event marking the dedication of a memorial and study room for Israel’s fallen soldiers, the Chief Rabbi shakes Gadi Eisenkot’s hand and tells him, “You are a source of inspiration."]]></description>
@@ -229,16 +245,16 @@ In the video, Bennett refers, among other things, to soldiers who have been figh
         </item>
         <item>
             <title><![CDATA[Within less than 30 minutes: IDF eliminates two terrorists in Gaza]]></title>
-            <description><![CDATA[IDF strikes commander in Hamas' military wing who infiltrated Israel on October 7th. A short time later, the military eliminated a second commander who planned to attack IDF troops.]]></description>
-            <link>https://www.israelnationalnews.com/news/431939</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431939</guid>
+            <description><![CDATA[Within less than 30 minutes: IDF eliminates two terrorists in Gaza]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692031</guid>
             <pubDate>Wed, 19 Aug 2026 12:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zamir tours Syria after Israeli strike]]></title>
-            <description><![CDATA[IDF Chief of Staff Eyal Zamir visits IDF positions in southern Syria following strike on Syrian airbase to prevent planned Turkish military deployment.]]></description>
-            <link>https://www.israelnationalnews.com/news/431932</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431932</guid>
+            <description><![CDATA[Zamir tours Syria after Israeli strike]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692030</guid>
             <pubDate>Wed, 19 Aug 2026 12:40:00 GMT</pubDate>
         </item>
         <item>
@@ -296,20 +312,6 @@ In the video, Bennett refers, among other things, to soldiers who have been figh
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692022</guid>
             <pubDate>Wed, 19 Aug 2026 10:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF seals two Gaza terror tunnels]]></title>
-            <description><![CDATA[IDF seals two Gaza terror tunnels]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692021</guid>
-            <pubDate>Wed, 19 Aug 2026 09:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prison Service blocks MK's visit to jailed Gaza hospital chief]]></title>
-            <description><![CDATA[Prison Service blocks MK's visit to jailed Gaza hospital chief]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692020</guid>
-            <pubDate>Wed, 19 Aug 2026 09:19:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

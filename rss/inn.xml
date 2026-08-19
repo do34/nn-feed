@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 22:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 23:22:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 22:24:20 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 23:22:11 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump declares 'economic D-Day' against Iran]]></title>
+            <description><![CDATA[President Trump announces an unprecedented economic campaign against Iran, threatening severe consequences for countries and businesses that aid Tehran.]]></description>
+            <link>https://www.israelnationalnews.com/news/431958</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431958</guid>
+            <pubDate>Wed, 19 Aug 2026 23:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death toll from Colombia earthquake rises to 314]]></title>
+            <description><![CDATA[The death toll from the earthquake that struck Colombia last week has risen to 314, President Abelardo de la Espriella announced.
+
+According to the president, 262 people are still reported missing.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692062</guid>
+            <pubDate>Wed, 19 Aug 2026 22:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump: Hormuz blockade is '100% successful']]></title>
             <description><![CDATA[President Trump says the Hormuz blockade is "100% successful" as negotiations with Iran remain stalled and warns Tehran could face severe sanctions.]]></description>
@@ -229,18 +245,16 @@ The Ministry reaffirmed Lebanon's "firm support for Syria's sovereignty, securit
         </item>
         <item>
             <title><![CDATA[Central Elections Committee orders Together party to remove footage of troops from campaign video]]></title>
-            <description><![CDATA[The chairman of the Central Elections Committee, Justice Noam Sohlberg, ordered Together party leader Naftali Bennett on Wednesday to remove footage of soldiers engaged in operational activity and an IDF artillery cannon from an election campaign video.
-
-In the video, Bennett refers, among other things, to soldiers who have been fighting for months while Haredim evade military service. As he discusses the soldiers, the footage appears in the background. The Likud Party argued that this constituted the use of public assets and the IDF for election campaigning, in violation of the law.]]></description>
+            <description><![CDATA[Central Elections Committee orders Together party to remove footage of troops from campaign video]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692033</guid>
             <pubDate>Wed, 19 Aug 2026 13:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF releases findings in 5 major Gaza incidents]]></title>
-            <description><![CDATA[IDF reviews examine WCK strike, deaths of Hind Rajab and MSF employees, and Tel al-Sultan incident; criminal investigations ordered in two of them.]]></description>
-            <link>https://www.israelnationalnews.com/news/431937</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431937</guid>
+            <description><![CDATA[IDF releases findings in 5 major Gaza incidents]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692032</guid>
             <pubDate>Wed, 19 Aug 2026 12:53:00 GMT</pubDate>
         </item>
         <item>
@@ -298,20 +312,6 @@ In the video, Bennett refers, among other things, to soldiers who have been figh
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692024</guid>
             <pubDate>Wed, 19 Aug 2026 11:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Karlin-Stolin Rebbe breaks silence after violent clashes]]></title>
-            <description><![CDATA[Karlin-Stolin Rebbe breaks silence after violent clashes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692023</guid>
-            <pubDate>Wed, 19 Aug 2026 10:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New AI platform brings Jewish tradition into the digital age]]></title>
-            <description><![CDATA[New AI platform brings Jewish tradition into the digital age]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692022</guid>
-            <pubDate>Wed, 19 Aug 2026 10:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 06:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 07:38:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 06:42:27 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 07:38:39 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Chief of Staff finds new role for offcier blocked from promotion]]></title>
+            <description><![CDATA[Defense Minister Israel Katz rejected a promotion for Maj. Gen. Eliad Muati. Now, IDF Chief of Staff Eyal Zamir has found a way to keep the senior officer in service.]]></description>
+            <link>https://www.israelnationalnews.com/news/431922</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431922</guid>
+            <pubDate>Wed, 19 Aug 2026 07:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Families wake up to bulldozers at their doors]]></title>
+            <description><![CDATA[Police forces raided Givat Ura Yisrael near Ariel, demolishing homes with belongings, religious books and children's items still inside.]]></description>
+            <link>https://www.israelnationalnews.com/news/431921</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431921</guid>
+            <pubDate>Wed, 19 Aug 2026 07:14:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran threatens US bases in Europe if war resumes]]></title>
             <description><![CDATA[Sources close to Tehran tell the Financial Times Iran considering strikes on US assets in southeastern Europe, targeting undersea cables, if war renews.]]></description>
@@ -18,9 +32,9 @@
         </item>
         <item>
             <title><![CDATA[Bereaved Mother: 'I never thought it would be the last hug']]></title>
-            <description><![CDATA[Bereaved Mother: 'I never thought it would be the last hug']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692014</guid>
+            <description><![CDATA[The parents of Hillel Mordechai Dadon, the seven-and-a-half-year-old boy from Beit Shemesh who was brutally murdered by a neighbor, share their shock and grief at the incident.]]></description>
+            <link>https://www.israelnationalnews.com/news/431919</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431919</guid>
             <pubDate>Wed, 19 Aug 2026 05:41:00 GMT</pubDate>
         </item>
         <item>
@@ -217,14 +231,14 @@ The family thanked the Chief of Staff for his words and for the efforts to bring
         </item>
         <item>
             <title><![CDATA[Planned attack at the Forum Club: 'I wanted to blow up the people dancing there']]></title>
-            <description><![CDATA[Abdullah Gargawi, with ties to ISIS, planned an attack at Beersheba’s Forum Club, 'I wanted to blow up the people dancing there - Jews or Arabs.']]></description>
-            <link>https://www.israelnationalnews.com/news/431895</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431895</guid>
+            <description><![CDATA[Planned attack at the Forum Club: 'I wanted to blow up the people dancing there']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691987</guid>
             <pubDate>Tue, 18 Aug 2026 18:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US imposes sanctions on president of International Criminal Court in The Hague]]></title>
-            <description><![CDATA[The US has announced sanctions against the president of the International Criminal Court in The Hague.]]></description>
+            <description><![CDATA[US imposes sanctions on president of International Criminal Court in The Hague]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691986</guid>
             <pubDate>Tue, 18 Aug 2026 18:04:00 GMT</pubDate>
@@ -284,20 +298,6 @@ The family thanked the Chief of Staff for his words and for the efforts to bring
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691978</guid>
             <pubDate>Tue, 18 Aug 2026 15:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sweden’s betrayal of Raoul Wallenberg]]></title>
-            <description><![CDATA[Sweden’s betrayal of Raoul Wallenberg]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691977</guid>
-            <pubDate>Tue, 18 Aug 2026 15:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspected cyber attack on dozens of Israeli companies]]></title>
-            <description><![CDATA[Suspected cyber attack on dozens of Israeli companies]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691976</guid>
-            <pubDate>Tue, 18 Aug 2026 15:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

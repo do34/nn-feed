@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 12:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 13:43:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 12:45:52 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 13:43:41 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Central Elections Committee orders Together party to remove footage of troops from campaign video]]></title>
+            <description><![CDATA[The chairman of the Central Elections Committee, Justice Noam Sohlberg, ordered Together party leader Naftali Bennett on Wednesday to remove footage of soldiers engaged in operational activity and an IDF artillery cannon from an election campaign video.
+
+In the video, Bennett refers, among other things, to soldiers who have been fighting for months while Haredim evade military service. As he discusses the soldiers, the footage appears in the background. The Likud Party argued that this constituted the use of public assets and the IDF for election campaigning, in violation of the law.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692033</guid>
+            <pubDate>Wed, 19 Aug 2026 13:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF releases findings in 5 major Gaza incidents]]></title>
+            <description><![CDATA[IDF reviews examine WCK strike, deaths of Hind Rajab and MSF employees, and Tel al-Sultan incident; criminal investigations ordered in two of them.]]></description>
+            <link>https://www.israelnationalnews.com/news/431937</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431937</guid>
+            <pubDate>Wed, 19 Aug 2026 12:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Within less than 30 minutes: IDF eliminates two terrorists in Gaza]]></title>
             <description><![CDATA[IDF strikes commander in Hamas' military wing who infiltrated Israel on October 7th. A short time later, the military eliminated a second commander who planned to attack IDF troops.]]></description>
@@ -46,9 +62,9 @@
         </item>
         <item>
             <title><![CDATA[Bennett to Eisenkot: No exemptions, no deals]]></title>
-            <description><![CDATA[Bennett to Eisenkot: No exemptions, no deals]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692026</guid>
+            <description><![CDATA['Together' chairman Naftali Bennett blasts 'Yashar!' chair Gadi Eisenkot's haredi draft plan and its 30% exemption proposal: 'We know exactly how it ends: with nothing.']]></description>
+            <link>https://www.israelnationalnews.com/news/431931</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431931</guid>
             <pubDate>Wed, 19 Aug 2026 12:03:00 GMT</pubDate>
         </item>
         <item>
@@ -207,18 +223,16 @@
         </item>
         <item>
             <title><![CDATA[22-year-old e-scooter rider seriously injured after crashing into pole in Tel Aviv-Yafo]]></title>
-            <description><![CDATA[A 22-year-old electric scooter rider was seriously injured after crashing into a pole in Tel Aviv-Yafo.
-
-Magen David Adom teams provided him with medical treatment and evacuated him to Ichilov Hospital in the city.]]></description>
+            <description><![CDATA[22-year-old e-scooter rider seriously injured after crashing into pole in Tel Aviv-Yafo]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692003</guid>
             <pubDate>Wed, 19 Aug 2026 00:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Trump seeks new summit with Kim Jong Un as early as this fall]]></title>
-            <description><![CDATA[President Trump is pushing aides to arrange a fall meeting with North Korean leader Kim Jong Un, seeking to revive stalled nuclear diplomacy, according to The Wall Street Journal.]]></description>
-            <link>https://www.israelnationalnews.com/news/431907</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431907</guid>
+            <description><![CDATA[Report: Trump seeks new summit with Kim Jong Un as early as this fall]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692002</guid>
             <pubDate>Wed, 19 Aug 2026 00:18:00 GMT</pubDate>
         </item>
         <item>
@@ -276,20 +290,6 @@ Magen David Adom teams provided him with medical treatment and evacuated him to 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691994</guid>
             <pubDate>Tue, 18 Aug 2026 20:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Food for thought]]></title>
-            <description><![CDATA[Food for thought]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691993</guid>
-            <pubDate>Tue, 18 Aug 2026 20:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The encounter with a wounded soldier that moved Netanyahu]]></title>
-            <description><![CDATA[The encounter with a wounded soldier that moved Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_691992</guid>
-            <pubDate>Tue, 18 Aug 2026 20:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

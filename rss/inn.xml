@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 18:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 19:31:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 18:38:41 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 19:31:20 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Seven countries warn against Israel's E1 plan]]></title>
+            <description><![CDATA[UK, France, Germany, Italy, Netherlands, Canada and Norway condemn the E1 tenders, warning they could damage the two-state solution and Israel's international standing.]]></description>
+            <link>https://www.israelnationalnews.com/news/432016</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432016</guid>
+            <pubDate>Thu, 20 Aug 2026 19:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Enormous economic power:" Porush warns business leaders of haredi boycott]]></title>
+            <description><![CDATA[MK Meir Porush threatened to use the sector’s purchasing power, estimated at tens of billions of shekels, if what he described as the “persecution of the Haredim" continues.]]></description>
+            <link>https://www.israelnationalnews.com/news/432015</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432015</guid>
+            <pubDate>Thu, 20 Aug 2026 19:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bereaved parents hit back at Eisenkot over October 7 probe]]></title>
+            <description><![CDATA[Families bereaved on October 7 accuse supporters of a state commission of inquiry of seeking a political outcome, demanding an independent panel with coalition and opposition agreement.]]></description>
+            <link>https://www.israelnationalnews.com/news/432014</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432014</guid>
+            <pubDate>Thu, 20 Aug 2026 18:49:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New York has become Habibi City]]></title>
             <description><![CDATA[The city that saw the towers fall under the weight of planes piloted by men who invoked Allah has elected a mayor who bows to the same cultural tradition that speaks the language of those who, in other latitudes, consider the West an enemy. Opinion.]]></description>
@@ -204,23 +225,23 @@ To date, dozens of buildings have been surveyed; most have been approved for use
         </item>
         <item>
             <title><![CDATA[Police ask public for help finding missing Ramla man in Japan]]></title>
-            <description><![CDATA[Israel Police seek the public's help locating 23-year-old Amir Amberber of Ramla, who has been missing since arriving in Japan on August 2.]]></description>
-            <link>https://www.israelnationalnews.com/news/431989</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431989</guid>
+            <description><![CDATA[Police ask public for help finding missing Ramla man in Japan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692092</guid>
             <pubDate>Thu, 20 Aug 2026 10:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF drills for nightmare scenarios in Judea and Samaria]]></title>
-            <description><![CDATA[IDF troops simulate simultaneous attacks, mass-casualty incidents and threats to Israeli communities in major exercises focused on northern Samaria.]]></description>
-            <link>https://www.israelnationalnews.com/news/431985</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431985</guid>
+            <description><![CDATA[IDF drills for nightmare scenarios in Judea and Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692091</guid>
             <pubDate>Thu, 20 Aug 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The ways of Tzaddikim]]></title>
-            <description><![CDATA[Man is a soul sent into the world to serve God. Therefore, all of his powers are necessarily enlisted in this plan.]]></description>
-            <link>https://www.israelnationalnews.com/news/431987</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431987</guid>
+            <description><![CDATA[The ways of Tzaddikim]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692090</guid>
             <pubDate>Thu, 20 Aug 2026 09:49:00 GMT</pubDate>
         </item>
         <item>
@@ -271,27 +292,6 @@ To date, dozens of buildings have been surveyed; most have been approved for use
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692083</guid>
             <pubDate>Thu, 20 Aug 2026 07:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerusalem’s Green Line brings transit revolution-with a catch for fans]]></title>
-            <description><![CDATA[Jerusalem’s Green Line brings transit revolution-with a catch for fans]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692082</guid>
-            <pubDate>Thu, 20 Aug 2026 07:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Illegal infiltrators found hidden behind truck's false wall]]></title>
-            <description><![CDATA[Watch: Illegal infiltrators found hidden behind truck's false wall]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692081</guid>
-            <pubDate>Thu, 20 Aug 2026 07:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ms. Rachel, stop indoctrination on your children's show!]]></title>
-            <description><![CDATA[Ms. Rachel, stop indoctrination on your children's show!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692080</guid>
-            <pubDate>Thu, 20 Aug 2026 06:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

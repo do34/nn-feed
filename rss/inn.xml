@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 02:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 03:49:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 02:56:48 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 03:49:47 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[UK Foreign Secretary demands Israel scrap E1 tender, halt 'settlement' expansion]]></title>
+            <description><![CDATA[UK Foreign Secretary Ed Miliband condemns Israel's E1 construction tender and demands it be withdrawn, warning it threatens the two-state solution.]]></description>
+            <link>https://www.israelnationalnews.com/news/431965</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431965</guid>
+            <pubDate>Thu, 20 Aug 2026 03:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Danon calls for Security Council reform, says emergency meetings are abused]]></title>
+            <description><![CDATA[Israel's UN Ambassador Danny Danon calls for Security Council reforms, says emergency meetings have become a political tool repeatedly used against Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/431964</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431964</guid>
+            <pubDate>Thu, 20 Aug 2026 03:06:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Syrian FM: Israel struck airbase despite assurances no Turkish base was planned]]></title>
             <description><![CDATA[Syrian FM Asaad Al-Shaibani tells Axios that Israel struck Abu al-Duhur airbase despite assurances Syria had no plans for a permanent Turkish military presence.]]></description>
@@ -25,9 +39,9 @@
         </item>
         <item>
             <title><![CDATA[Australia 'outraged' as Israel rules out criminal probe into WCK strike]]></title>
-            <description><![CDATA[Australia 'outraged' as Israel rules out criminal probe into WCK strike]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692068</guid>
+            <description><![CDATA[Australia's Foreign Minister says she is "outraged" and will summon the Israeli envoy after Israel ruled out a criminal probe into 2024 Gaza strike that killed Australian aid worker and six colleagues.]]></description>
+            <link>https://www.israelnationalnews.com/news/431961</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431961</guid>
             <pubDate>Thu, 20 Aug 2026 01:45:00 GMT</pubDate>
         </item>
         <item>
@@ -231,9 +245,9 @@ Four firefighting aircraft are operating to contain the blaze before it reaches 
         </item>
         <item>
             <title><![CDATA[Chief of Staff in Syria: 'We won't allow enemeies to establish themselves on our borders']]></title>
-            <description><![CDATA[LTG Eyal Zamir tours security zone in southern Syria, warns escalation could develop on any front and praises reservists who have served hundreds of days since the war began.]]></description>
-            <link>https://www.israelnationalnews.com/news/431945</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431945</guid>
+            <description><![CDATA[Chief of Staff in Syria: 'We won't allow enemeies to establish themselves on our borders']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692042</guid>
             <pubDate>Wed, 19 Aug 2026 15:43:00 GMT</pubDate>
         </item>
         <item>
@@ -298,20 +312,6 @@ Four firefighting aircraft are operating to contain the blaze before it reaches 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692033</guid>
             <pubDate>Wed, 19 Aug 2026 13:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF releases findings in 5 major Gaza incidents]]></title>
-            <description><![CDATA[IDF releases findings in 5 major Gaza incidents]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692032</guid>
-            <pubDate>Wed, 19 Aug 2026 12:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Within less than 30 minutes: IDF eliminates two terrorists in Gaza]]></title>
-            <description><![CDATA[Within less than 30 minutes: IDF eliminates two terrorists in Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692031</guid>
-            <pubDate>Wed, 19 Aug 2026 12:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

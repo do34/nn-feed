@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 22:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 23:25:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 22:27:50 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 23:25:37 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[50,000 at Western Wall Selichot: Captivity survivors Kupershtein and Berger participate]]></title>
+            <description><![CDATA[Some 50,000 people attend second Selichot service at the Western Wall, praying for the safety of IDF soldiers and the security of Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/432024</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432024</guid>
+            <pubDate>Thu, 20 Aug 2026 23:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dozens of haredim protest at Maccabim Checkpoint following arrest of draft evader]]></title>
+            <description><![CDATA[Dozens of extremist haredim protested at the Maccabim Checkpoint near Modi’in, in protest of the arrest of a draft evader.
+
+The evader was detained by police near the Beit Gamzu Junction and was later transferred to Military Police custody.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692130</guid>
+            <pubDate>Thu, 20 Aug 2026 22:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Woman charged with plotting ISIS-inspired attack on New York Capitol]]></title>
             <description><![CDATA[Albany woman charged after allegedly plotting an ISIS-inspired attack on New York's Capitol and seeking explosives and a gun.]]></description>
@@ -213,16 +229,16 @@ To date, dozens of buildings have been surveyed; most have been approved for use
         </item>
         <item>
             <title><![CDATA[IDF reveals: Hamas uses Nasser Hospital to conduct brutal interrogations, torture]]></title>
-            <description><![CDATA[IDF intelligence reveals Hamas is allegedly using Nasser Hospital in Khan Yunis as an interrogation and torture center as the terrorist organization fears losing its grip over Gaza residents.]]></description>
-            <link>https://www.israelnationalnews.com/news/431998</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431998</guid>
+            <description><![CDATA[IDF reveals: Hamas uses Nasser Hospital to conduct brutal interrogations, torture]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692101</guid>
             <pubDate>Thu, 20 Aug 2026 12:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protecting the home]]></title>
-            <description><![CDATA[Note: The parapet around the roof of a house protects the house. “You shall not place blood in your house": inside the house - inside the national home - must be a safe place.]]></description>
-            <link>https://www.israelnationalnews.com/news/431997</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431997</guid>
+            <description><![CDATA[Protecting the home]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692100</guid>
             <pubDate>Thu, 20 Aug 2026 12:13:00 GMT</pubDate>
         </item>
         <item>
@@ -280,20 +296,6 @@ To date, dozens of buildings have been surveyed; most have been approved for use
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692092</guid>
             <pubDate>Thu, 20 Aug 2026 10:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF drills for nightmare scenarios in Judea and Samaria]]></title>
-            <description><![CDATA[IDF drills for nightmare scenarios in Judea and Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692091</guid>
-            <pubDate>Thu, 20 Aug 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ways of Tzaddikim]]></title>
-            <description><![CDATA[The ways of Tzaddikim]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692090</guid>
-            <pubDate>Thu, 20 Aug 2026 09:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 09:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 10:30:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 09:34:33 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 10:30:11 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The Shofar's call]]></title>
+            <description><![CDATA[The Tur on the Laws of Rosh Hashanah wrote: "Therefore the Sages established that the shofar should be blown on the first day of Elul every year and all through the month..."]]></description>
+            <link>https://www.israelnationalnews.com/news/431991</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431991</guid>
+            <pubDate>Thu, 20 Aug 2026 10:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police ask public for help finding missing Ramla man in Japan]]></title>
+            <description><![CDATA[Israel Police seek the public's help locating 23-year-old Amir Amberber of Ramla, who has been missing since arriving in Japan on August 2.]]></description>
+            <link>https://www.israelnationalnews.com/news/431989</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431989</guid>
+            <pubDate>Thu, 20 Aug 2026 10:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF drills for nightmare scenarios in Judea and Samaria]]></title>
+            <description><![CDATA[IDF drills for nightmare scenarios in Judea and Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692091</guid>
+            <pubDate>Thu, 20 Aug 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ways of Tzaddikim]]></title>
+            <description><![CDATA[Man is a soul sent into the world to serve God. Therefore, all of his powers are necessarily enlisted in this plan.]]></description>
+            <link>https://www.israelnationalnews.com/news/431987</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431987</guid>
+            <pubDate>Thu, 20 Aug 2026 09:49:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Despite footage: Netanyahu denies that international forces entered Gaza]]></title>
             <description><![CDATA[Prime Minister's Office denies authorizing the International Stabilization Force to enter Gaza and reiterates that reconstruction will not begin until Hamas fully disarms.]]></description>
@@ -197,32 +225,28 @@ MDA medical teams pronounced him dead at the scene.]]></description>
         </item>
         <item>
             <title><![CDATA[Trump declares 'economic D-Day' against Iran]]></title>
-            <description><![CDATA[President Trump announces an unprecedented economic campaign against Iran, threatening severe consequences for countries and businesses that aid Tehran.]]></description>
-            <link>https://www.israelnationalnews.com/news/431958</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431958</guid>
+            <description><![CDATA[Trump declares 'economic D-Day' against Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692063</guid>
             <pubDate>Wed, 19 Aug 2026 23:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Death toll from Colombia earthquake rises to 314]]></title>
-            <description><![CDATA[The death toll from the earthquake that struck Colombia last week has risen to 314, President Abelardo de la Espriella announced.
-
-According to the president, 262 people are still reported missing.]]></description>
+            <description><![CDATA[Death toll from Colombia earthquake rises to 314]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692062</guid>
             <pubDate>Wed, 19 Aug 2026 22:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump: Hormuz blockade is '100% successful']]></title>
-            <description><![CDATA[President Trump says the Hormuz blockade is "100% successful" as negotiations with Iran remain stalled and warns Tehran could face severe sanctions.]]></description>
-            <link>https://www.israelnationalnews.com/news/431957</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431957</guid>
+            <description><![CDATA[Trump: Hormuz blockade is '100% successful']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692061</guid>
             <pubDate>Wed, 19 Aug 2026 22:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On the verge of history: Hapoel Be’er Sheva wins 2-1]]></title>
-            <description><![CDATA[Hapoel Be’er Sheva defeated Azerbaijan’s Sabah 2-1 and is now just 90 minutes away from reaching the Champions League for the first time in the club’s history.
-
-Javon East and Igor Zlatanović scored to complete the comeback against the Azerbaijani champions.]]></description>
+            <description><![CDATA[On the verge of history: Hapoel Be’er Sheva wins 2-1]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692060</guid>
             <pubDate>Wed, 19 Aug 2026 21:52:00 GMT</pubDate>
@@ -268,34 +292,6 @@ Javon East and Igor Zlatanović scored to complete the comeback against the Azer
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692054</guid>
             <pubDate>Wed, 19 Aug 2026 19:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are they hosting a pundit who accused Jews of buying Congress?]]></title>
-            <description><![CDATA[Why are they hosting a pundit who accused Jews of buying Congress?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692053</guid>
-            <pubDate>Wed, 19 Aug 2026 18:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After captivity and the fight to bring him home: Eliya Cohen and Ziv Abud marry tonight]]></title>
-            <description><![CDATA[After captivity and the fight to bring him home: Eliya Cohen and Ziv Abud marry tonight]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692052</guid>
-            <pubDate>Wed, 19 Aug 2026 18:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Mossad Chief spoke with Syrian FM days before Israeli airstrikes]]></title>
-            <description><![CDATA[Report: Mossad Chief spoke with Syrian FM days before Israeli airstrikes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692051</guid>
-            <pubDate>Wed, 19 Aug 2026 17:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel's first Bedouin judge under threat]]></title>
-            <description><![CDATA[Israel's first Bedouin judge under threat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692050</guid>
-            <pubDate>Wed, 19 Aug 2026 17:39:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

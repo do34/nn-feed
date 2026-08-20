@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 01:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 02:56:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 01:13:12 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 02:56:48 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Syrian FM: Israel struck airbase despite assurances no Turkish base was planned]]></title>
+            <description><![CDATA[Syrian FM Asaad Al-Shaibani tells Axios that Israel struck Abu al-Duhur airbase despite assurances Syria had no plans for a permanent Turkish military presence.]]></description>
+            <link>https://www.israelnationalnews.com/news/431963</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431963</guid>
+            <pubDate>Thu, 20 Aug 2026 02:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: US opens secret Hormuz oil corridor]]></title>
+            <description><![CDATA[US forces have established a secret Hormuz shipping corridor moving millions of oil barrels daily, according to an Axios report.]]></description>
+            <link>https://www.israelnationalnews.com/news/431962</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431962</guid>
+            <pubDate>Thu, 20 Aug 2026 02:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia 'outraged' as Israel rules out criminal probe into WCK strike]]></title>
+            <description><![CDATA[Australia 'outraged' as Israel rules out criminal probe into WCK strike]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692068</guid>
+            <pubDate>Thu, 20 Aug 2026 01:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tel Aviv shopping center distances itself from 'Palestinian state' sign]]></title>
             <description><![CDATA[Left-wing activists hang a sign calling for the establishment of a Palestinian state without authorization. Dizengoff Center removes it and calls police.]]></description>
@@ -224,23 +245,23 @@ Four firefighting aircraft are operating to contain the blaze before it reaches 
         </item>
         <item>
             <title><![CDATA[IDF: Over 2 million tons of food entered Gaza since ceasefire, prices down 72%]]></title>
-            <description><![CDATA[IDF details scope of humanitarian response in Gaza since October 2025 ceasefire, says some 600 trucks enter daily and hospital bed capacity has increased by more than 50%.]]></description>
-            <link>https://www.israelnationalnews.com/news/431944</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431944</guid>
+            <description><![CDATA[IDF: Over 2 million tons of food entered Gaza since ceasefire, prices down 72%]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692040</guid>
             <pubDate>Wed, 19 Aug 2026 15:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Karmei Oz, Sahlab granted official status as Israeli localities]]></title>
-            <description><![CDATA[Karmei Oz and Sahlab received official locality codes, completing years-long recognition processes and enabling expanded services and development.]]></description>
-            <link>https://www.israelnationalnews.com/news/431943</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431943</guid>
+            <description><![CDATA[Karmei Oz, Sahlab granted official status as Israeli localities]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692039</guid>
             <pubDate>Wed, 19 Aug 2026 15:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Following Likud petition: Bennett ordered to remove footage of IDF soldiers from video]]></title>
-            <description><![CDATA[Justice Noam Sohlberg ruled that footage showing soldiers and an IDF artillery piece constitutes use of public assets and ordered Naftali Bennett to remove it.]]></description>
-            <link>https://www.israelnationalnews.com/news/431942</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431942</guid>
+            <description><![CDATA[Following Likud petition: Bennett ordered to remove footage of IDF soldiers from video]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692038</guid>
             <pubDate>Wed, 19 Aug 2026 14:38:00 GMT</pubDate>
         </item>
         <item>
@@ -291,27 +312,6 @@ Four firefighting aircraft are operating to contain the blaze before it reaches 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692031</guid>
             <pubDate>Wed, 19 Aug 2026 12:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zamir tours Syria after Israeli strike]]></title>
-            <description><![CDATA[Zamir tours Syria after Israeli strike]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692030</guid>
-            <pubDate>Wed, 19 Aug 2026 12:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BBC rules ‘moneybags Rothschild’ phrase not antisemitic]]></title>
-            <description><![CDATA[BBC rules ‘moneybags Rothschild’ phrase not antisemitic]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692029</guid>
-            <pubDate>Wed, 19 Aug 2026 12:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Palestinian Red Crescent: Seven dead 15 wounded in strike on Gaza City police station]]></title>
-            <description><![CDATA[Palestinian Red Crescent: Seven dead 15 wounded in strike on Gaza City police station]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692028</guid>
-            <pubDate>Wed, 19 Aug 2026 12:31:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

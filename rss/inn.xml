@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 21:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 22:27:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 21:27:38 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 22:27:50 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Woman charged with plotting ISIS-inspired attack on New York Capitol]]></title>
+            <description><![CDATA[Albany woman charged after allegedly plotting an ISIS-inspired attack on New York's Capitol and seeking explosives and a gun.]]></description>
+            <link>https://www.israelnationalnews.com/news/432021</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432021</guid>
+            <pubDate>Thu, 20 Aug 2026 22:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soccer: Hapoel Tel Aviv draws with Atalanta, Maccabi Tel Aviv loses to Lugano]]></title>
+            <description><![CDATA[Hapoel Tel Aviv on Thursday evening played to a 0-0 draw away to Italian side Atalanta in Bergamo in the first leg of the Conference League playoff round.
+
+Meanwhile, Maccabi Tel Aviv lost 2-1 to Lugano in Switzerland and will need to win the second leg next week to overturn the deficit and advance to the league phase of the competition.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692128</guid>
+            <pubDate>Thu, 20 Aug 2026 21:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch | Netanyahu at pop star Eden Ben Zaken’s concert: Am Yisrael Chai]]></title>
             <description><![CDATA[Prime Minister speaks with the singer during her concert: “It’s wonderful to be with our amazing people and with you."]]></description>
@@ -211,16 +227,16 @@ To date, dozens of buildings have been surveyed; most have been approved for use
         </item>
         <item>
             <title><![CDATA[A Wake-Up Call: Rethinking the Western Wall]]></title>
-            <description><![CDATA[Where is the real Western Wall?]]></description>
-            <link>https://www.israelnationalnews.com/news/431996</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431996</guid>
+            <description><![CDATA[A Wake-Up Call: Rethinking the Western Wall]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692099</guid>
             <pubDate>Thu, 20 Aug 2026 12:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[All in the Family]]></title>
-            <description><![CDATA[Because of the closeness to his family, a person ometimes allows himself to speak ill of his wife, husband, children, uncles, and other relatives. This is an unfortunate error.]]></description>
-            <link>https://www.israelnationalnews.com/news/431995</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431995</guid>
+            <description><![CDATA[All in the Family]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692098</guid>
             <pubDate>Thu, 20 Aug 2026 11:48:00 GMT</pubDate>
         </item>
         <item>
@@ -278,20 +294,6 @@ To date, dozens of buildings have been surveyed; most have been approved for use
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692090</guid>
             <pubDate>Thu, 20 Aug 2026 09:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Despite footage: Netanyahu denies that international forces entered Gaza]]></title>
-            <description><![CDATA[Despite footage: Netanyahu denies that international forces entered Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692089</guid>
-            <pubDate>Thu, 20 Aug 2026 09:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tragedy at Soroka: Pregnant woman and unborn baby die]]></title>
-            <description><![CDATA[Tragedy at Soroka: Pregnant woman and unborn baby die]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692088</guid>
-            <pubDate>Thu, 20 Aug 2026 09:06:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

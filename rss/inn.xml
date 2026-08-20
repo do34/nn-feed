@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 17:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 18:38:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 17:28:48 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 18:38:41 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[New York has become Habibi City]]></title>
+            <description><![CDATA[The city that saw the towers fall under the weight of planes piloted by men who invoked Allah has elected a mayor who bows to the same cultural tradition that speaks the language of those who, in other latitudes, consider the West an enemy. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/432013</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432013</guid>
+            <pubDate>Thu, 20 Aug 2026 18:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Gurion Airport disruptions targeted Miri Regev]]></title>
+            <description><![CDATA[Senior Israel Airports Authority officials claim that workers’ committee chairman Pinchas Idan planned to disrupt the Transportation Minister’s flight to Morocco, but ultimately postponed the strike by one day.]]></description>
+            <link>https://www.israelnationalnews.com/news/432012</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432012</guid>
+            <pubDate>Thu, 20 Aug 2026 18:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court rejects petition against illegal scrapyards]]></title>
+            <description><![CDATA[Regavim warns illegal scrapyards are fueling car theft and security threats after the Supreme Court accepts the state’s claim that sufficient enforcement measures have been taken.]]></description>
+            <link>https://www.israelnationalnews.com/news/432011</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432011</guid>
+            <pubDate>Thu, 20 Aug 2026 17:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sheikh who fought Hezbollah: “They brought ruin upon Lebanon"]]></title>
             <description><![CDATA[Sheikh Muhammad Ali al-Fouani accuses Iran of brainwashing the disadvantaged population and claims that international pressure would lead to Hezbollah’s rapid collapse.]]></description>
@@ -204,23 +225,23 @@ To date, dozens of buildings have been surveyed; most have been approved for use
         </item>
         <item>
             <title><![CDATA[Despite footage: Netanyahu denies that international forces entered Gaza]]></title>
-            <description><![CDATA[Prime Minister's Office denies authorizing the International Stabilization Force to enter Gaza and reiterates that reconstruction will not begin until Hamas fully disarms.]]></description>
-            <link>https://www.israelnationalnews.com/news/431986</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431986</guid>
+            <description><![CDATA[Despite footage: Netanyahu denies that international forces entered Gaza]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692089</guid>
             <pubDate>Thu, 20 Aug 2026 09:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tragedy at Soroka: Pregnant woman and unborn baby die]]></title>
-            <description><![CDATA[Woman in her 40s, 34 weeks pregnant, dies following a rare complication and sudden deterioration; hospital reports case to Health Ministry.]]></description>
-            <link>https://www.israelnationalnews.com/news/431983</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431983</guid>
+            <description><![CDATA[Tragedy at Soroka: Pregnant woman and unborn baby die]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692088</guid>
             <pubDate>Thu, 20 Aug 2026 09:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Yemeni forces attempt to shoot down Houthi drones on live TV]]></title>
-            <description><![CDATA[Al-Arabiya correspondent reports from front line of fighting between the government and Houthi terrorist rebels in eastern Yemen, as government forces fight off drones in the background.]]></description>
-            <link>https://www.israelnationalnews.com/news/431984</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431984</guid>
+            <description><![CDATA[Watch: Yemeni forces attempt to shoot down Houthi drones on live TV]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692087</guid>
             <pubDate>Thu, 20 Aug 2026 08:59:00 GMT</pubDate>
         </item>
         <item>
@@ -271,27 +292,6 @@ To date, dozens of buildings have been surveyed; most have been approved for use
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692080</guid>
             <pubDate>Thu, 20 Aug 2026 06:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Double murder case that shocked the north solved]]></title>
-            <description><![CDATA[Double murder case that shocked the north solved]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692079</guid>
-            <pubDate>Thu, 20 Aug 2026 06:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A fork in the hareidi road]]></title>
-            <description><![CDATA[A fork in the hareidi road]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692078</guid>
-            <pubDate>Thu, 20 Aug 2026 06:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katz to Erdogan: Don't test Israel]]></title>
-            <description><![CDATA[Katz to Erdogan: Don't test Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692077</guid>
-            <pubDate>Thu, 20 Aug 2026 06:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

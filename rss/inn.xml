@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 16:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 17:28:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 16:35:04 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 17:28:48 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Sheikh who fought Hezbollah: “They brought ruin upon Lebanon"]]></title>
+            <description><![CDATA[Sheikh Muhammad Ali al-Fouani accuses Iran of brainwashing the disadvantaged population and claims that international pressure would lead to Hezbollah’s rapid collapse.]]></description>
+            <link>https://www.israelnationalnews.com/news/432010</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432010</guid>
+            <pubDate>Thu, 20 Aug 2026 17:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smotrich to Eisenkot: Will you commit that there will be no Palestinian state?]]></title>
+            <description><![CDATA[Finance Minister Bezalel Smotrich called on Gadi Eisenkot to clarify his positions regarding interference by foreign countries, continued construction in Judea and Samaria, and the establishment of a Palestinian state.]]></description>
+            <link>https://www.israelnationalnews.com/news/432009</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432009</guid>
+            <pubDate>Thu, 20 Aug 2026 17:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colombia: Last trapped people rescued at sites where Israeli teams operated]]></title>
             <description><![CDATA[IDF humanitarian delegation teams in Colombia, working alongside local rescue forces, located and rescued all missing people at the impact sites in which they operated and continue to assist at other impact sites.
@@ -211,16 +225,16 @@ To date, dozens of buildings have been surveyed; most have been approved for use
         </item>
         <item>
             <title><![CDATA[Israelis to get visa-free entry to Colombia]]></title>
-            <description><![CDATA[Israel and Colombia scrap visa requirements beginning September 1, in the latest sign of rapidly warming ties between the two countries.]]></description>
-            <link>https://www.israelnationalnews.com/news/431979</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431979</guid>
+            <description><![CDATA[Israelis to get visa-free entry to Colombia]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692086</guid>
             <pubDate>Thu, 20 Aug 2026 08:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Trump suggests intense attacks on Iran if economic pressure fails]]></title>
-            <description><![CDATA[Report: President Donald Trump has ordered his Iran negotiating team to freeze talks for several weeks as prospects for a deal with Tehran diminish.]]></description>
-            <link>https://www.israelnationalnews.com/news/431982</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431982</guid>
+            <description><![CDATA[Report: Trump suggests intense attacks on Iran if economic pressure fails]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692085</guid>
             <pubDate>Thu, 20 Aug 2026 08:35:00 GMT</pubDate>
         </item>
         <item>
@@ -278,20 +292,6 @@ To date, dozens of buildings have been surveyed; most have been approved for use
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692077</guid>
             <pubDate>Thu, 20 Aug 2026 06:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Houthis plan to escalate tensions with Saudi Arabia]]></title>
-            <description><![CDATA[Report: Houthis plan to escalate tensions with Saudi Arabia]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692076</guid>
-            <pubDate>Thu, 20 Aug 2026 05:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba claims it’s the new Gaza - everything is genocide now]]></title>
-            <description><![CDATA[Cuba claims it’s the new Gaza - everything is genocide now]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692075</guid>
-            <pubDate>Thu, 20 Aug 2026 05:31:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

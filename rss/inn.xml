@@ -4,11 +4,29 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 15:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 16:35:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 15:33:18 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 16:35:04 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Colombia: Last trapped people rescued at sites where Israeli teams operated]]></title>
+            <description><![CDATA[IDF humanitarian delegation teams in Colombia, working alongside local rescue forces, located and rescued all missing people at the impact sites in which they operated and continue to assist at other impact sites.
+
+In addition, the delegation’s members continue a central effort to assess buildings and conduct professional surveys of damaged structures, in order to assist decision-makers in the city in developing an up-to-date situational assessment. In this way, the delegation’s experts are enabling educational and healthcare institutions to resume operations, allowing the city to return to normal functioning as soon as possible.
+
+To date, dozens of buildings have been surveyed; most have been approved for use, while some have been deemed unsafe. Just yesterday, the delegation’s experts approved the safe return of more than 250 families to their homes.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692114</guid>
+            <pubDate>Thu, 20 Aug 2026 15:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish Terrorism?: Amb. Huckabee explains what he condemns - and what he supports]]></title>
+            <description><![CDATA[US Ambassador Mike Huckabee lays out the true effects of violent extremism in Judea and Samaria in an exclusive interview with Arutz Sheva.]]></description>
+            <link>https://www.israelnationalnews.com/news/432005</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432005</guid>
+            <pubDate>Thu, 20 Aug 2026 15:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[High Court strikes down decision to close IDF Radio]]></title>
             <description><![CDATA[The High Court of Justice unanimously accepted the petitions against the government’s decision to shut down the military radio station]]></description>
@@ -207,16 +225,16 @@
         </item>
         <item>
             <title><![CDATA[Sa'ar hits back at UK: 'Israel will not be a passive victim']]></title>
-            <description><![CDATA[Foreign Minister Gideon Sa'ar rejects Britain's criticism over E1, accusing London of 'one-sided' policy against Israel.]]></description>
-            <link>https://www.israelnationalnews.com/news/431980</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431980</guid>
+            <description><![CDATA[Sa'ar hits back at UK: 'Israel will not be a passive victim']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692084</guid>
             <pubDate>Thu, 20 Aug 2026 08:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Settler arson' claim falls apart after police probe]]></title>
-            <description><![CDATA[Palestinian Arabs claim 'settlers' torched building with family inside, police investigators prove allegations utterly baseless.]]></description>
-            <link>https://www.israelnationalnews.com/news/431977</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431977</guid>
+            <description><![CDATA['Settler arson' claim falls apart after police probe]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692083</guid>
             <pubDate>Thu, 20 Aug 2026 07:47:00 GMT</pubDate>
         </item>
         <item>
@@ -274,20 +292,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692075</guid>
             <pubDate>Thu, 20 Aug 2026 05:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ministry orders preparations to close Cave of the Patriarchs]]></title>
-            <description><![CDATA[Ministry orders preparations to close Cave of the Patriarchs]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692074</guid>
-            <pubDate>Thu, 20 Aug 2026 05:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump confirms he plans to meet Kim Jong Un this year]]></title>
-            <description><![CDATA[Trump confirms he plans to meet Kim Jong Un this year]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692073</guid>
-            <pubDate>Thu, 20 Aug 2026 03:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

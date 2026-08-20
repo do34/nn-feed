@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 10:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 11:26:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 10:30:11 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 11:26:04 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[83-year-old sheikh with 45 children investigated for polygamy]]></title>
+            <description><![CDATA[Police suspect Rahat resident married 10 women over the years, including five non-Israeli residents, and harbored women staying in Israel illegally.]]></description>
+            <link>https://www.israelnationalnews.com/news/431994</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431994</guid>
+            <pubDate>Thu, 20 Aug 2026 11:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Embassy delegation visits Upper Galilee to boost economic ties]]></title>
+            <description><![CDATA[US Embassy delegation visits Israel’s Upper Galilee to explore economic cooperation, investment, trade and regional development following the war.]]></description>
+            <link>https://www.israelnationalnews.com/news/431992</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431992</guid>
+            <pubDate>Thu, 20 Aug 2026 10:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chaos at Ben Gurion Airport as check-in grinds to halt]]></title>
+            <description><![CDATA[Ground service workers halt passenger handling during the busiest travel period of the year, with nearly 100,000 passengers passing through the airport daily.]]></description>
+            <link>https://www.israelnationalnews.com/news/431990</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431990</guid>
+            <pubDate>Thu, 20 Aug 2026 10:32:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Shofar's call]]></title>
             <description><![CDATA[The Tur on the Laws of Rosh Hashanah wrote: "Therefore the Sages established that the shofar should be blown on the first day of Elul every year and all through the month..."]]></description>
@@ -25,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[IDF drills for nightmare scenarios in Judea and Samaria]]></title>
-            <description><![CDATA[IDF drills for nightmare scenarios in Judea and Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692091</guid>
+            <description><![CDATA[IDF troops simulate simultaneous attacks, mass-casualty incidents and threats to Israeli communities in major exercises focused on northern Samaria.]]></description>
+            <link>https://www.israelnationalnews.com/news/431985</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431985</guid>
             <pubDate>Thu, 20 Aug 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
@@ -200,25 +221,21 @@
         </item>
         <item>
             <title><![CDATA[60-year-old critically injured after falling from balcony in Jerusalem]]></title>
-            <description><![CDATA[A man in his 60s was critically injured and in unstable condition after falling from a balcony approximately four meters above the ground in Jerusalem.
-
-United Hatzalah teams provided him with initial medical treatment before he was evacuated to the hospital.]]></description>
+            <description><![CDATA[60-year-old critically injured after falling from balcony in Jerusalem]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692066</guid>
             <pubDate>Thu, 20 Aug 2026 00:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Harry and Meghan set to move back to UK with their children]]></title>
-            <description><![CDATA[Prince Harry and Meghan are preparing to move back to the UK later this month, according to British media, with their children set to attend a British school in September.]]></description>
-            <link>https://www.israelnationalnews.com/news/431959</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/431959</guid>
+            <description><![CDATA[Prince Harry and Meghan set to move back to UK with their children]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692065</guid>
             <pubDate>Thu, 20 Aug 2026 00:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man in his 50s missing for hours found dead on Ashkelon beach]]></title>
-            <description><![CDATA[Magen David Adom (MDA) confirmed that a man in his 50s who had been missing for several hours was found dead at the National Park Beach in Ashkelon.
-
-MDA medical teams pronounced him dead at the scene.]]></description>
+            <description><![CDATA[Man in his 50s missing for hours found dead on Ashkelon beach]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692064</guid>
             <pubDate>Wed, 19 Aug 2026 23:46:00 GMT</pubDate>
@@ -271,27 +288,6 @@ MDA medical teams pronounced him dead at the scene.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692057</guid>
             <pubDate>Wed, 19 Aug 2026 19:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After 44 years: Yehuda Katz to be laid to rest on Friday]]></title>
-            <description><![CDATA[After 44 years: Yehuda Katz to be laid to rest on Friday]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692056</guid>
-            <pubDate>Wed, 19 Aug 2026 19:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rabbi Shmuel Eliyahu warns: “A full dictatorship"]]></title>
-            <description><![CDATA[Rabbi Shmuel Eliyahu warns: “A full dictatorship"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692055</guid>
-            <pubDate>Wed, 19 Aug 2026 19:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[125 mph in the dark: Police chase ends at spike strip]]></title>
-            <description><![CDATA[125 mph in the dark: Police chase ends at spike strip]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692054</guid>
-            <pubDate>Wed, 19 Aug 2026 19:24:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

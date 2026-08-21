@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 09:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 10:30:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 09:36:14 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 10:30:08 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Jewish hikers attacked after mistakenly entering Arab village]]></title>
+            <description><![CDATA[Dozens of Arab rioters hurl rocks at Jewish hikers who apparently entered village by mistake; security forces rush to rescue the group.]]></description>
+            <link>https://www.israelnationalnews.com/news/432048</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432048</guid>
+            <pubDate>Fri, 21 Aug 2026 10:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yair Golan: Jewish-Arab partnership 'frightens them']]></title>
+            <description><![CDATA[Democrats chairman Yair Golan defends party's 'massive campaign' targeting Arab voters, vowing Jews and Arabs will work together to replace government.]]></description>
+            <link>https://www.israelnationalnews.com/news/432044</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432044</guid>
+            <pubDate>Fri, 21 Aug 2026 09:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: Jews attacked in Gush Etzion, IDF called to the scene]]></title>
             <description><![CDATA[A group of Jews touring in eastern Gush Etzion entered an Arab village a short time ago, and was attacked with rocks.
@@ -27,9 +41,9 @@ IDF forces were called to the scene to extract the hikers.]]></description>
         </item>
         <item>
             <title><![CDATA[Confronting the pain: Can you forgive your child?]]></title>
-            <description><![CDATA[Confronting the pain: Can you forgive your child?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692155</guid>
+            <description><![CDATA[Dealing with children who derail your life.]]></description>
+            <link>https://www.israelnationalnews.com/news/432045</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432045</guid>
             <pubDate>Fri, 21 Aug 2026 08:58:00 GMT</pubDate>
         </item>
         <item>
@@ -219,16 +233,14 @@ The evader was detained by police near the Beit Gamzu Junction and was later tra
         </item>
         <item>
             <title><![CDATA[Woman charged with plotting ISIS-inspired attack on New York Capitol]]></title>
-            <description><![CDATA[Albany woman charged after allegedly plotting an ISIS-inspired attack on New York's Capitol and seeking explosives and a gun.]]></description>
-            <link>https://www.israelnationalnews.com/news/432021</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432021</guid>
+            <description><![CDATA[Woman charged with plotting ISIS-inspired attack on New York Capitol]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692129</guid>
             <pubDate>Thu, 20 Aug 2026 22:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soccer: Hapoel Tel Aviv draws with Atalanta, Maccabi Tel Aviv loses to Lugano]]></title>
-            <description><![CDATA[Hapoel Tel Aviv on Thursday evening played to a 0-0 draw away to Italian side Atalanta in Bergamo in the first leg of the Conference League playoff round.
-
-Meanwhile, Maccabi Tel Aviv lost 2-1 to Lugano in Switzerland and will need to win the second leg next week to overturn the deficit and advance to the league phase of the competition.]]></description>
+            <description><![CDATA[Soccer: Hapoel Tel Aviv draws with Atalanta, Maccabi Tel Aviv loses to Lugano]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692128</guid>
             <pubDate>Thu, 20 Aug 2026 21:43:00 GMT</pubDate>
@@ -288,20 +300,6 @@ Meanwhile, Maccabi Tel Aviv lost 2-1 to Lugano in Switzerland and will need to w
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692120</guid>
             <pubDate>Thu, 20 Aug 2026 18:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New York has become Habibi City]]></title>
-            <description><![CDATA[New York has become Habibi City]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692119</guid>
-            <pubDate>Thu, 20 Aug 2026 18:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Gurion Airport disruptions targeted Miri Regev]]></title>
-            <description><![CDATA[Ben Gurion Airport disruptions targeted Miri Regev]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692118</guid>
-            <pubDate>Thu, 20 Aug 2026 18:18:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

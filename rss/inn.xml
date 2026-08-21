@@ -4,11 +4,20 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 18:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 19:25:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 18:36:17 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 19:25:46 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[US responds to Israel's E1 tender: 'We do not support' Judea and Samaria annexation]]></title>
+            <description><![CDATA[The US says it opposes Israeli annexation as Israel advances a 1,234-home tender in the E1 area between Jerusalem and Ma'ale Adumim.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/432062</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432062</guid>
+            <pubDate>Fri, 21 Aug 2026 18:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Antisemitic dictator': Netanyahu slams Erdogan after Turkey seeks arrests of Israelis]]></title>
             <description><![CDATA[Prime Minister Netanyahu condemns Turkish President after Turkey asks Interpol for arrest warrants against him and other senior Israeli officials.
@@ -230,9 +239,9 @@ IDF forces were called to the scene to extract the hikers.]]></description>
         </item>
         <item>
             <title><![CDATA[The yetse hara conundrum]]></title>
-            <description><![CDATA[The manner in which we confront the wiles of the yetser ha’ra in its efforts to subvert our avodat Hashem, is the true measure of our service of our Creator.]]></description>
-            <link>https://www.israelnationalnews.com/news/432038</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432038</guid>
+            <description><![CDATA[The yetse hara conundrum]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692150</guid>
             <pubDate>Fri, 21 Aug 2026 07:52:00 GMT</pubDate>
         </item>
         <item>
@@ -297,13 +306,6 @@ IDF forces were called to the scene to extract the hikers.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692141</guid>
             <pubDate>Fri, 21 Aug 2026 02:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: Set the captives free]]></title>
-            <description><![CDATA[Podcast: Set the captives free]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692140</guid>
-            <pubDate>Fri, 21 Aug 2026 02:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

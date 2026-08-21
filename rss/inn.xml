@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 06:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 07:41:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 06:45:44 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 07:41:59 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Ancient Jerusalem water system opens to visitors]]></title>
+            <description><![CDATA[Solomon's Pools takes a major step toward opening to the public, offering visitors a rare look at the ancient system that supplied Jerusalem during the Second Temple period.]]></description>
+            <link>https://www.israelnationalnews.com/news/432036</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432036</guid>
+            <pubDate>Fri, 21 Aug 2026 07:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[44 years later: Yehuda Katz, who fell in 1982, is laid to rest]]></title>
             <description><![CDATA[Family, friends and fellow yeshiva students gather to accompany Yehuda Yekutiel Katz to his final resting place, 44 years after he went missing in the Battle of Sultan Yacoub.]]></description>
@@ -226,9 +233,9 @@ Meanwhile, Maccabi Tel Aviv lost 2-1 to Lugano in Switzerland and will need to w
         </item>
         <item>
             <title><![CDATA[Ben Gurion Airport disruptions targeted Miri Regev]]></title>
-            <description><![CDATA[Senior Israel Airports Authority officials claim that workers’ committee chairman Pinchas Idan planned to disrupt the Transportation Minister’s flight to Morocco, but ultimately postponed the strike by one day.]]></description>
-            <link>https://www.israelnationalnews.com/news/432012</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432012</guid>
+            <description><![CDATA[Ben Gurion Airport disruptions targeted Miri Regev]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692118</guid>
             <pubDate>Thu, 20 Aug 2026 18:18:00 GMT</pubDate>
         </item>
         <item>
@@ -293,13 +300,6 @@ Meanwhile, Maccabi Tel Aviv lost 2-1 to Lugano in Switzerland and will need to w
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692109</guid>
             <pubDate>Thu, 20 Aug 2026 13:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amb. Huckabee: 'We have said to Hamas - your time is up']]></title>
-            <description><![CDATA[Amb. Huckabee: 'We have said to Hamas - your time is up']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692108</guid>
-            <pubDate>Thu, 20 Aug 2026 13:26:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

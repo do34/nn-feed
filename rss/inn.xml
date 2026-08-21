@@ -4,11 +4,48 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 01:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 03:02:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 01:16:57 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 03:02:39 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump administration to bar Abbas from UN for second straight year]]></title>
+            <description><![CDATA[The Trump administration plans to again bar PA chairman Mahmoud Abbas from entering the US for the UN General Assembly, Israeli media reports.]]></description>
+            <link>https://www.israelnationalnews.com/news/432029</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432029</guid>
+            <pubDate>Fri, 21 Aug 2026 02:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Podcast: Set the captives free]]></title>
+            <description><![CDATA[Finding holiness where you least expect it.]]></description>
+            <link>https://www.israelnationalnews.com/news/432023</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432023</guid>
+            <pubDate>Fri, 21 Aug 2026 02:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wise up, America!]]></title>
+            <description><![CDATA[The war of conquest against the West involves both Iran and the Muslim Brotherhood. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/432028</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432028</guid>
+            <pubDate>Fri, 21 Aug 2026 02:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Netanyahu expected to appoint Interior Minister after a year]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu is currently holding discussions ahead of the appointment of a new interior minister and is expected to make a decision soon, following nearly a year in which the ministry has operated without a permanent minister. Kan 11 News reported.
+
+According to the report, the appointment will be coordinated with Shas chairman Aryeh Deri, who is expected to approve only a candidate acceptable to him. Leading candidates include Coalition Chairman Ofir Katz, Ministers Miki Zohar and Yariv Levin, and Interior Ministry Director-General Israel Ouzan.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692138</guid>
+            <pubDate>Fri, 21 Aug 2026 01:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: EU preparing sanctions against Israel over E1 construction]]></title>
+            <description><![CDATA[The EU is preparing sanctions against Israel if construction proceeds in E1, including possible trade, academic, security and diplomatic measures.]]></description>
+            <link>https://www.israelnationalnews.com/news/432027</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432027</guid>
+            <pubDate>Fri, 21 Aug 2026 01:38:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US imposes new sanctions on Hezbollah, cites Iran's Quds Force ties]]></title>
             <description><![CDATA[The US imposes new sanctions on Hezbollah over its ties to Iran's Quds Force and sanctions 10 people accused of helping move cash for the Lebanese terror group.]]></description>
@@ -27,7 +64,9 @@ Later, two additional strikes were reported in Duhayra and Kfar Rouman in southe
         </item>
         <item>
             <title><![CDATA[Terrorist tries to stab IDF soldier in Jenin and is eliminated]]></title>
-            <description><![CDATA[Terrorist tries to stab IDF soldier in Jenin and is eliminated]]></description>
+            <description><![CDATA[A terrorist armed with a knife attempted to stab an IDF soldier during IDF operational activity in the Jenin area.
+
+The soldiers responded by firing toward the terrorist and eliminating him. No IDF injuries were reported.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692134</guid>
             <pubDate>Fri, 21 Aug 2026 00:29:00 GMT</pubDate>
@@ -41,7 +80,9 @@ Later, two additional strikes were reported in Duhayra and Kfar Rouman in southe
         </item>
         <item>
             <title><![CDATA[Report in Italy: Smoke grenades and fireworks found in rental apartment of two Hapoel Tel Aviv fans]]></title>
-            <description><![CDATA[Report in Italy: Smoke grenades and fireworks found in rental apartment of two Hapoel Tel Aviv fans]]></description>
+            <description><![CDATA[Italian media reported that 45 kilograms of smoke grenades and fireworks were found in the rented apartment of two Hapoel Tel Aviv fans who were arrested shortly before the team’s match in Bergamo.
+
+According to the reports, Italian special forces and intelligence officers took part in the raid on the apartment.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692132</guid>
             <pubDate>Thu, 20 Aug 2026 23:40:00 GMT</pubDate>
@@ -196,37 +237,37 @@ To date, dozens of buildings have been surveyed; most have been approved for use
         </item>
         <item>
             <title><![CDATA[Haredi man attacked by 6 assailants in Borough Park]]></title>
-            <description><![CDATA[New York police were called to the scene following a report from Shomrim volunteers, arrested the suspects for questioning, and led them away from the scene in handcuffs.]]></description>
-            <link>https://www.israelnationalnews.com/news/432006</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432006</guid>
+            <description><![CDATA[Haredi man attacked by 6 assailants in Borough Park]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692111</guid>
             <pubDate>Thu, 20 Aug 2026 14:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ben Gurion Airport: Baggage conveyors are back in operation, check-in counters have reopened]]></title>
-            <description><![CDATA[At Ben Gurion Airport, the baggage conveyors are back in operation, and the check-in counters have reopened.]]></description>
+            <description><![CDATA[Ben Gurion Airport: Baggage conveyors are back in operation, check-in counters have reopened]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692110</guid>
             <pubDate>Thu, 20 Aug 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[After a week of searching, missing man found dead]]></title>
-            <description><![CDATA[The body of Katriel Nachman Keinan, 24, from Beit Shemesh, was found in difficult terrain in the area of the Switzerland Forest in Tiberias after more than a week of searches.]]></description>
-            <link>https://www.israelnationalnews.com/news/432004</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432004</guid>
+            <description><![CDATA[After a week of searching, missing man found dead]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692109</guid>
             <pubDate>Thu, 20 Aug 2026 13:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amb. Huckabee: 'We have said to Hamas - your time is up']]></title>
-            <description><![CDATA[The US ambassador to Israel defends direct talks with Hamas, saying Kushner delivered a blunt message: disarm, demilitarize and accept that they would need to leave Gaza.]]></description>
-            <link>https://www.israelnationalnews.com/news/432003</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432003</guid>
+            <description><![CDATA[Amb. Huckabee: 'We have said to Hamas - your time is up']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692108</guid>
             <pubDate>Thu, 20 Aug 2026 13:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chilling: The words Yehuda Katz wrote]]></title>
-            <description><![CDATA[A summary of a Torah lesson written by Yehuda Katz in his youth takes on chilling significance.]]></description>
-            <link>https://www.israelnationalnews.com/news/432002</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432002</guid>
+            <description><![CDATA[Chilling: The words Yehuda Katz wrote]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692107</guid>
             <pubDate>Thu, 20 Aug 2026 13:22:00 GMT</pubDate>
         </item>
         <item>
@@ -263,41 +304,6 @@ To date, dozens of buildings have been surveyed; most have been approved for use
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692102</guid>
             <pubDate>Thu, 20 Aug 2026 12:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF reveals: Hamas uses Nasser Hospital to conduct brutal interrogations, torture]]></title>
-            <description><![CDATA[IDF reveals: Hamas uses Nasser Hospital to conduct brutal interrogations, torture]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692101</guid>
-            <pubDate>Thu, 20 Aug 2026 12:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protecting the home]]></title>
-            <description><![CDATA[Protecting the home]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692100</guid>
-            <pubDate>Thu, 20 Aug 2026 12:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Wake-Up Call: Rethinking the Western Wall]]></title>
-            <description><![CDATA[A Wake-Up Call: Rethinking the Western Wall]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692099</guid>
-            <pubDate>Thu, 20 Aug 2026 12:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All in the Family]]></title>
-            <description><![CDATA[All in the Family]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692098</guid>
-            <pubDate>Thu, 20 Aug 2026 11:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chaos at Ben Gurion Airport as arrivals cease completely]]></title>
-            <description><![CDATA[Chaos at Ben Gurion Airport as arrivals cease completely]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692097</guid>
-            <pubDate>Thu, 20 Aug 2026 11:25:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

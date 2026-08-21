@@ -4,11 +4,20 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 17:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 18:36:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 17:28:37 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 18:36:17 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA['Antisemitic dictator': Netanyahu slams Erdogan after Turkey seeks arrests of Israelis]]></title>
+            <description><![CDATA[Prime Minister Netanyahu condemns Turkish President after Turkey asks Interpol for arrest warrants against him and other senior Israeli officials.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/432061</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432061</guid>
+            <pubDate>Fri, 21 Aug 2026 17:59:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IDF detains Hamas terrorist after crossing Gaza Yellow Line]]></title>
             <description><![CDATA[IDF troops in central Gaza detain a Hamas terrorist armed with a knife after he crossed the Yellow Line and entered Israeli territory for questioning.
@@ -228,9 +237,9 @@ IDF forces were called to the scene to extract the hikers.]]></description>
         </item>
         <item>
             <title><![CDATA[Suspect named in horrific Beit Shemesh child murder]]></title>
-            <description><![CDATA[Police reveal the identity of 26-year-old man suspected of stabbing two young cousins as they played in a pool, killing seven-year-old Hillel Mordechai Dadon.]]></description>
-            <link>https://www.israelnationalnews.com/news/432037</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432037</guid>
+            <description><![CDATA[Suspect named in horrific Beit Shemesh child murder]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692149</guid>
             <pubDate>Fri, 21 Aug 2026 07:48:00 GMT</pubDate>
         </item>
         <item>
@@ -295,13 +304,6 @@ IDF forces were called to the scene to extract the hikers.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692140</guid>
             <pubDate>Fri, 21 Aug 2026 02:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wise up, America!]]></title>
-            <description><![CDATA[Wise up, America!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692139</guid>
-            <pubDate>Fri, 21 Aug 2026 02:04:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,34 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 08:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 09:36:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 08:40:20 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 09:36:14 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Report: Jews attacked in Gush Etzion, IDF called to the scene]]></title>
+            <description><![CDATA[A group of Jews touring in eastern Gush Etzion entered an Arab village a short time ago, and was attacked with rocks.
+
+IDF forces were called to the scene to extract the hikers.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692157</guid>
+            <pubDate>Fri, 21 Aug 2026 09:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joint Arab List leaders enlisted Europe against Israel]]></title>
+            <description><![CDATA[Joint Arab List leaders meet European Union ambassadors in Tel Aviv, urging greater European involvement in Israel and presenting allegations over government policy and Arab representation.]]></description>
+            <link>https://www.israelnationalnews.com/news/432043</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432043</guid>
+            <pubDate>Fri, 21 Aug 2026 09:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confronting the pain: Can you forgive your child?]]></title>
+            <description><![CDATA[Confronting the pain: Can you forgive your child?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692155</guid>
+            <pubDate>Fri, 21 Aug 2026 08:58:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Mask of NATO Has Fallen: Turkey is revealed as a mortal threat to Israel and the West]]></title>
             <description><![CDATA[Turkey under Erdogan is not a democratic bridge between East and West, nor is it a reliable pillar of transatlantic security; it is an expansionist, authoritarian power fundamentally hostile to democratic governance, Western values, and the existence of Israel in the Middle East. Another wake up call. Opinion.]]></description>
@@ -212,23 +235,23 @@ Meanwhile, Maccabi Tel Aviv lost 2-1 to Lugano in Switzerland and will need to w
         </item>
         <item>
             <title><![CDATA[Watch | Netanyahu at pop star Eden Ben Zaken’s concert: Am Yisrael Chai]]></title>
-            <description><![CDATA[Prime Minister speaks with the singer during her concert: “It’s wonderful to be with our amazing people and with you."]]></description>
-            <link>https://www.israelnationalnews.com/news/432020</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432020</guid>
+            <description><![CDATA[Watch | Netanyahu at pop star Eden Ben Zaken’s concert: Am Yisrael Chai]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692127</guid>
             <pubDate>Thu, 20 Aug 2026 21:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ben Gurion strike fallout | Netanyahu orders removal of Airport Workers’ chief from Likud]]></title>
-            <description><![CDATA[Netanyahu’s associates furious over the move by Pinchas Idan, chairman of the Israel Airports Authority workers’ union, prompting the Prime Minister to order his removal from Likud.]]></description>
-            <link>https://www.israelnationalnews.com/news/432019</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432019</guid>
+            <description><![CDATA[Ben Gurion strike fallout | Netanyahu orders removal of Airport Workers’ chief from Likud]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692126</guid>
             <pubDate>Thu, 20 Aug 2026 20:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Jewish Soul's Journey From In The Army To At Home]]></title>
-            <description><![CDATA[From war and the struggle with the enemy to marriage, education and mutual responsibility: a journey through the three circles of the Jewish soul.]]></description>
-            <link>https://www.israelnationalnews.com/news/432018</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432018</guid>
+            <description><![CDATA[A Jewish Soul's Journey From In The Army To At Home]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692125</guid>
             <pubDate>Thu, 20 Aug 2026 20:35:00 GMT</pubDate>
         </item>
         <item>
@@ -279,27 +302,6 @@ Meanwhile, Maccabi Tel Aviv lost 2-1 to Lugano in Switzerland and will need to w
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692118</guid>
             <pubDate>Thu, 20 Aug 2026 18:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Court rejects petition against illegal scrapyards]]></title>
-            <description><![CDATA[Supreme Court rejects petition against illegal scrapyards]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692117</guid>
-            <pubDate>Thu, 20 Aug 2026 17:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheikh who fought Hezbollah: “They brought ruin upon Lebanon"]]></title>
-            <description><![CDATA[Sheikh who fought Hezbollah: “They brought ruin upon Lebanon"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692116</guid>
-            <pubDate>Thu, 20 Aug 2026 17:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smotrich to Eisenkot: Will you commit that there will be no Palestinian state?]]></title>
-            <description><![CDATA[Smotrich to Eisenkot: Will you commit that there will be no Palestinian state?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692115</guid>
-            <pubDate>Thu, 20 Aug 2026 17:03:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

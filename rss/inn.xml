@@ -4,11 +4,29 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 19:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 20:25:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 19:25:46 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 20:25:43 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Turkey accuses Netanyahu of 'cheap politics' after Interpol arrest request]]></title>
+            <description><![CDATA[Turkey fires back at Netanyahu after his criticism of Ankara seeking Interpol arrest warrants for him and other Israeli officials.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/432064</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432064</guid>
+            <pubDate>Fri, 21 Aug 2026 20:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel’s Artem Dolgopyat wins third European title in floor exercise]]></title>
+            <description><![CDATA[Israel's Artem Dolgopyat wins his third European title in floor exercise, adding another gold to an Olympic and World Championship medal-filled career.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/432063</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432063</guid>
+            <pubDate>Fri, 21 Aug 2026 19:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US responds to Israel's E1 tender: 'We do not support' Judea and Samaria annexation]]></title>
             <description><![CDATA[The US says it opposes Israeli annexation as Israel advances a 1,234-home tender in the E1 area between Jerusalem and Ma'ale Adumim.
@@ -225,16 +243,16 @@ IDF forces were called to the scene to extract the hikers.]]></description>
         </item>
         <item>
             <title><![CDATA[Turkey’s expanding maritime ambitions-and the challenge for Israel]]></title>
-            <description><![CDATA[Developments suggest that Turkey is gradually acquiring the ability to project naval power across two strategically important maritime theaters: the Mediterranean and the Red Sea. Israel must plan its next steps. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432040</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432040</guid>
+            <description><![CDATA[Turkey’s expanding maritime ambitions-and the challenge for Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692152</guid>
             <pubDate>Fri, 21 Aug 2026 08:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF eliminates Hamas terrorist who held Israeli hostages]]></title>
-            <description><![CDATA[Hamas commander Sabahi Sami Mahmoud Shahata, who participated in the October 7 massacre and held multiple hostages in captivity, eliminated in IDF strike in Nuseirat.]]></description>
-            <link>https://www.israelnationalnews.com/news/432039</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432039</guid>
+            <description><![CDATA[IDF eliminates Hamas terrorist who held Israeli hostages]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692151</guid>
             <pubDate>Fri, 21 Aug 2026 08:03:00 GMT</pubDate>
         </item>
         <item>
@@ -292,20 +310,6 @@ IDF forces were called to the scene to extract the hikers.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692143</guid>
             <pubDate>Fri, 21 Aug 2026 03:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hochul to Mamdani: Focus on New York, not Israel]]></title>
-            <description><![CDATA[Hochul to Mamdani: Focus on New York, not Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692142</guid>
-            <pubDate>Fri, 21 Aug 2026 03:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump administration to bar Abbas from UN for second straight year]]></title>
-            <description><![CDATA[Trump administration to bar Abbas from UN for second straight year]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692141</guid>
-            <pubDate>Fri, 21 Aug 2026 02:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

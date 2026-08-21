@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 05:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 06:45:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 05:31:59 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 06:45:44 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[44 years later: Yehuda Katz, who fell in 1982, is laid to rest]]></title>
+            <description><![CDATA[Family, friends and fellow yeshiva students gather to accompany Yehuda Yekutiel Katz to his final resting place, 44 years after he went missing in the Battle of Sultan Yacoub.]]></description>
+            <link>https://www.israelnationalnews.com/news/432035</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432035</guid>
+            <pubDate>Fri, 21 Aug 2026 06:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Gurion chaos continue]]></title>
+            <description><![CDATA[Passengers face major delays, hours-long baggage waits, as fallout from the airport strike continues into Friday morning.]]></description>
+            <link>https://www.israelnationalnews.com/news/432034</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432034</guid>
+            <pubDate>Fri, 21 Aug 2026 05:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New poll: Eisenkot opens six-seat lead over Likud]]></title>
             <description><![CDATA[Yashar! surges to 26 seats as Likud falls to 20, while the center-left bloc reaches 60 seats, just one short of a Knesset majority.]]></description>
@@ -32,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[Hochul to Mamdani: Focus on New York, not Israel]]></title>
-            <description><![CDATA[Hochul to Mamdani: Focus on New York, not Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692142</guid>
+            <description><![CDATA[New York Gov. Kathy Hochul urges Mayor Zohran Mamdani to focus on city government rather than Israel amid concerns over his anti-Israel rhetoric.]]></description>
+            <link>https://www.israelnationalnews.com/news/432030</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432030</guid>
             <pubDate>Fri, 21 Aug 2026 03:25:00 GMT</pubDate>
         </item>
         <item>
@@ -219,16 +233,16 @@ Meanwhile, Maccabi Tel Aviv lost 2-1 to Lugano in Switzerland and will need to w
         </item>
         <item>
             <title><![CDATA[Supreme Court rejects petition against illegal scrapyards]]></title>
-            <description><![CDATA[Regavim warns illegal scrapyards are fueling car theft and security threats after the Supreme Court accepts the state’s claim that sufficient enforcement measures have been taken.]]></description>
-            <link>https://www.israelnationalnews.com/news/432011</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432011</guid>
+            <description><![CDATA[Supreme Court rejects petition against illegal scrapyards]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692117</guid>
             <pubDate>Thu, 20 Aug 2026 17:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sheikh who fought Hezbollah: “They brought ruin upon Lebanon"]]></title>
-            <description><![CDATA[Sheikh Muhammad Ali al-Fouani accuses Iran of brainwashing the disadvantaged population and claims that international pressure would lead to Hezbollah’s rapid collapse.]]></description>
-            <link>https://www.israelnationalnews.com/news/432010</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432010</guid>
+            <description><![CDATA[Sheikh who fought Hezbollah: “They brought ruin upon Lebanon"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692116</guid>
             <pubDate>Thu, 20 Aug 2026 17:20:00 GMT</pubDate>
         </item>
         <item>
@@ -286,20 +300,6 @@ Meanwhile, Maccabi Tel Aviv lost 2-1 to Lugano in Switzerland and will need to w
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692108</guid>
             <pubDate>Thu, 20 Aug 2026 13:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chilling: The words Yehuda Katz wrote]]></title>
-            <description><![CDATA[Chilling: The words Yehuda Katz wrote]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692107</guid>
-            <pubDate>Thu, 20 Aug 2026 13:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The race against time: Firefighters race to rescue traped eagle owl]]></title>
-            <description><![CDATA[The race against time: Firefighters race to rescue traped eagle owl]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692106</guid>
-            <pubDate>Thu, 20 Aug 2026 13:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

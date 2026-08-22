@@ -4,11 +4,48 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 17:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 18:30:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 17:20:37 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 18:30:04 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Man collapses on Ashkelon beach]]></title>
+            <description><![CDATA[A man in his 70s collapsed during a sporting activity near Delilah Beach in Ashkelon. The MDA provided medical treatment and performed CPR, as well as defibrillating him. His pulse returned, and he was evacuated to Barzlai Hospital.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692193</guid>
+            <pubDate>Sat, 22 Aug 2026 18:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF eliminates Hamas officer in Gaza]]></title>
+            <description><![CDATA[The IDF eliminated the terrorist Sharif al-Hasanat, a company commander in the military wing of Hamas earlier today in the Deir al-Balah area .
+
+"The terrorist posed an immediate threat to our forces. Throughout the war, the terrorist took part in the restoration of Hamas' underground infrastructure. Recenly, he continued to try to promote terror against IDF forces and Israeli citizens," the IDF claimed.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692192</guid>
+            <pubDate>Sat, 22 Aug 2026 17:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four kites found near Gaza border]]></title>
+            <description><![CDATA[Four kites found near Gaza border]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692191</guid>
+            <pubDate>Sat, 22 Aug 2026 17:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben-Gurion Airport sounds alarm ahead of holiday rush]]></title>
+            <description><![CDATA[The Israel Airports Authority workers' committee warns that there is a shortage of between 400 and 500 workers in all departments. According to him, the shortage directly affects the service to passengers and is likely to be felt especially during the holiday rush.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692190</guid>
+            <pubDate>Sat, 22 Aug 2026 17:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UAL announces list for elections]]></title>
+            <description><![CDATA[UAL announces list for elections]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692189</guid>
+            <pubDate>Sat, 22 Aug 2026 17:28:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mansour Abbas calls for recognition of a Palestinian state]]></title>
             <description><![CDATA[The 28th national conference of Ra’am opened today (Saturday) in Tayibe, with the participation of approximately 1,050 party members, men and women, from across Arab society]]></description>
@@ -220,37 +257,37 @@ Luggage that had not been sent abroad has been sorted and transferred to the air
         </item>
         <item>
             <title><![CDATA[Authorities expose drone smuggling network, arrssting suspects]]></title>
-            <description><![CDATA[Lahav 433, Tax Authority, uncover drone import network allegedly used for weapons and drug smuggling.]]></description>
-            <link>https://www.israelnationalnews.com/news/432052</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432052</guid>
+            <description><![CDATA[Authorities expose drone smuggling network, arrssting suspects]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692165</guid>
             <pubDate>Fri, 21 Aug 2026 12:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vandals tear down Israeli flags - activists return with 50 more]]></title>
-            <description><![CDATA[Days after Israeli flags were vandalized near Rawabi, activists restore them and add dozens more: 'For every flag that was vandalized, we put up another.']]></description>
-            <link>https://www.israelnationalnews.com/news/432049</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432049</guid>
+            <description><![CDATA[Vandals tear down Israeli flags - activists return with 50 more]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692164</guid>
             <pubDate>Fri, 21 Aug 2026 12:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The answer to destruction]]></title>
-            <description><![CDATA[Isaiah’s message was one of consolation, but also of responsibility.]]></description>
-            <link>https://www.israelnationalnews.com/news/432051</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432051</guid>
+            <description><![CDATA[The answer to destruction]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692163</guid>
             <pubDate>Fri, 21 Aug 2026 11:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A nation of one]]></title>
-            <description><![CDATA[We are not just a united nation. We are a nation of one, so interconnected that we are like a single person. A look at the parasha's topics shows it.]]></description>
-            <link>https://www.israelnationalnews.com/news/432046</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432046</guid>
+            <description><![CDATA[A nation of one]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692162</guid>
             <pubDate>Fri, 21 Aug 2026 11:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unidentified donors are flying Israeli voters home to vote]]></title>
-            <description><![CDATA[Is this a bad or a good thing? And who is behind the initiative? Some are against the idea of flying in to vote and leaving again, some are afraid there is only one type of voter being helped to fly in to vote.]]></description>
-            <link>https://www.israelnationalnews.com/news/432050</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432050</guid>
+            <description><![CDATA[Unidentified donors are flying Israeli voters home to vote]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692161</guid>
             <pubDate>Fri, 21 Aug 2026 11:12:00 GMT</pubDate>
         </item>
         <item>
@@ -287,41 +324,6 @@ Luggage that had not been sent abroad has been sorted and transferred to the air
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692156</guid>
             <pubDate>Fri, 21 Aug 2026 09:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Confronting the pain: Can you forgive your child?]]></title>
-            <description><![CDATA[Confronting the pain: Can you forgive your child?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692155</guid>
-            <pubDate>Fri, 21 Aug 2026 08:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Mask of NATO Has Fallen: Turkey is revealed as a mortal threat to Israel and the West]]></title>
-            <description><![CDATA[The Mask of NATO Has Fallen: Turkey is revealed as a mortal threat to Israel and the West]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692154</guid>
-            <pubDate>Fri, 21 Aug 2026 08:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reform MK: Arab parties' success is important]]></title>
-            <description><![CDATA[Reform MK: Arab parties' success is important]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692153</guid>
-            <pubDate>Fri, 21 Aug 2026 08:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey’s expanding maritime ambitions-and the challenge for Israel]]></title>
-            <description><![CDATA[Turkey’s expanding maritime ambitions-and the challenge for Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692152</guid>
-            <pubDate>Fri, 21 Aug 2026 08:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF eliminates Hamas terrorist who held Israeli hostages]]></title>
-            <description><![CDATA[IDF eliminates Hamas terrorist who held Israeli hostages]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692151</guid>
-            <pubDate>Fri, 21 Aug 2026 08:03:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

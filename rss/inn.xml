@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 18:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 19:22:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 18:30:04 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 19:22:16 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[PM congratulates Israeli gold medalist]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu, this evening send congratulations to Artem Dolgopyat for his gold medal in the European gymnastics championship. “Congratulations to the three-time European Gymnastics Championship floor exercise champion, Artem Dolgopyat. Artem, you bring immense honor and national pride to the State of Israel, time and time again."]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692196</guid>
+            <pubDate>Sat, 22 Aug 2026 19:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paramount accuses Mark Ruffalo of using antisemitic tropes]]></title>
+            <description><![CDATA[Paramount Pictures accuses Hulk actor of using antisemitic tropes after he attacks the Ellison family and Israel in a rant against the planned merger with Warner Brothers.]]></description>
+            <link>https://www.israelnationalnews.com/news/432074</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432074</guid>
+            <pubDate>Sat, 22 Aug 2026 18:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airport union chief warns Ben Gurion chaos could return]]></title>
+            <description><![CDATA[Airport union chief warns Ben Gurion chaos could return]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692194</guid>
+            <pubDate>Sat, 22 Aug 2026 18:36:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Man collapses on Ashkelon beach]]></title>
             <description><![CDATA[A man in his 70s collapsed during a sporting activity near Delilah Beach in Ashkelon. The MDA provided medical treatment and performed CPR, as well as defibrillating him. His pulse returned, and he was evacuated to Barzlai Hospital.]]></description>
@@ -27,9 +48,9 @@
         </item>
         <item>
             <title><![CDATA[Four kites found near Gaza border]]></title>
-            <description><![CDATA[Four kites found near Gaza border]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692191</guid>
+            <description><![CDATA[At least seven kites have been found in the Gaza border area since October 7. The IDF has not yet determined that they originated in the Gaza Strip, but regional councils are demanding a real-time response.]]></description>
+            <link>https://www.israelnationalnews.com/news/432072</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432072</guid>
             <pubDate>Sat, 22 Aug 2026 17:37:00 GMT</pubDate>
         </item>
         <item>
@@ -41,7 +62,9 @@
         </item>
         <item>
             <title><![CDATA[UAL announces list for elections]]></title>
-            <description><![CDATA[UAL announces list for elections]]></description>
+            <description><![CDATA[The 28th national conference of the United Arab List, held in Tayibe, has chosen the party list for the upcoming elections. Mansour Abbas was elected first, and will head the list.
+
+After him, in order, were elected Walid Taha, Waleed Khalil Alhwashla, Iman Khatib-Yassin (in the fourth place, reserved for women), and Yasir Hujeirat.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692189</guid>
             <pubDate>Sat, 22 Aug 2026 17:28:00 GMT</pubDate>
@@ -234,25 +257,23 @@ Further details about the circumstances of the incident have not yet been releas
         </item>
         <item>
             <title><![CDATA[Escalation as Turkey seeks Interpol arrest warrants for Netanyahu and Israeli officials]]></title>
-            <description><![CDATA[Ankara asks Interpol to issue arrest warrants for Netanyahu and dozens of senior Israeli officials over their alleged involvement in stopping the Global Sumud flotilla en route to Gaza.]]></description>
-            <link>https://www.israelnationalnews.com/news/432054</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432054</guid>
+            <description><![CDATA[Escalation as Turkey seeks Interpol arrest warrants for Netanyahu and Israeli officials]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692168</guid>
             <pubDate>Fri, 21 Aug 2026 13:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel Airports Authority: 100,000 passengers passing through airport today]]></title>
-            <description><![CDATA[The Israel Airports Authority announced that operations at Ben Gurion Airport have stabilized and returned to normal. The flight schedule is operating as usual, and terminal operations are taking place without delays.
-
-Luggage that had not been sent abroad has been sorted and transferred to the airlines, while baggage belonging to passengers who landed but did not receive it is being delivered to them by the airlines.]]></description>
+            <description><![CDATA[Israel Airports Authority: 100,000 passengers passing through airport today]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692167</guid>
             <pubDate>Fri, 21 Aug 2026 12:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[After attack over blowing shofar: Show of support for restaurant in Savyon]]></title>
-            <description><![CDATA[Following an incident in which the owner of the Taurus Smokehouse in Savyon was attacked over blowing a shofar, activists from the Noam Yisrael party came to show their support.]]></description>
-            <link>https://www.israelnationalnews.com/news/432053</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432053</guid>
+            <description><![CDATA[After attack over blowing shofar: Show of support for restaurant in Savyon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692166</guid>
             <pubDate>Fri, 21 Aug 2026 12:35:00 GMT</pubDate>
         </item>
         <item>
@@ -303,27 +324,6 @@ Luggage that had not been sent abroad has been sorted and transferred to the air
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692159</guid>
             <pubDate>Fri, 21 Aug 2026 10:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yair Golan: Jewish-Arab partnership 'frightens them']]></title>
-            <description><![CDATA[Yair Golan: Jewish-Arab partnership 'frightens them']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692158</guid>
-            <pubDate>Fri, 21 Aug 2026 09:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Jews attacked in Gush Etzion, IDF called to the scene]]></title>
-            <description><![CDATA[Report: Jews attacked in Gush Etzion, IDF called to the scene]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692157</guid>
-            <pubDate>Fri, 21 Aug 2026 09:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joint Arab List leaders enlisted Europe against Israel]]></title>
-            <description><![CDATA[Joint Arab List leaders enlisted Europe against Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692156</guid>
-            <pubDate>Fri, 21 Aug 2026 09:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

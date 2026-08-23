@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 08:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 09:27:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 08:29:50 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 09:27:16 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Jonathan Pollard enters Israeli political arena]]></title>
+            <description><![CDATA[Jonathan Pollard announces he is joining Israel First, led by MK Sharren Haskel, and will support the party in Israel’s upcoming elections.
+
+Read more.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692230</guid>
+            <pubDate>Sun, 23 Aug 2026 08:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After airport strike chaos, Airports Authority targets union chairman]]></title>
+            <description><![CDATA[Two days after chaos at Ben Gurion Airport, the Airports Authority moves against union chairman Pinchas Idan and seeks review of his term extension.]]></description>
+            <link>https://www.israelnationalnews.com/news/432101</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432101</guid>
+            <pubDate>Sun, 23 Aug 2026 08:48:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Threatened in a taxi because she was wearing a Star of David: 'He shouted 'Allahu Akbar'']]></title>
             <description><![CDATA[A Jewish woman claims that a taxi driver in Warsaw began yelling at her, pulled out a Quran and yelled 'Allahu Akbar,' after noticing the Star of David she wore around her neck.]]></description>
@@ -213,16 +229,16 @@ According to the report, the strike took place in the Ali Taher ridge area.]]></
         </item>
         <item>
             <title><![CDATA[“Loser with a low I.Q.:" Trump opens new front against Tucker Carlson]]></title>
-            <description><![CDATA[US President Donald Trump has opened a new front against conservative media personality Tucker Carlson and former members of Congress Marjorie Taylor Greene and Thomas Massie.]]></description>
-            <link>https://www.israelnationalnews.com/news/432079</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432079</guid>
+            <description><![CDATA[“Loser with a low I.Q.:" Trump opens new front against Tucker Carlson]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692200</guid>
             <pubDate>Sat, 22 Aug 2026 20:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Firefighting crews battle blaze at vehicle lot in Kiryat Arba]]></title>
-            <description><![CDATA[Firefighting crews, together with the IDF, are operating at the scene. Police have blocked access routes. Heavy engineering equipment was brought into the flames to isolate vehicles that have not yet burned.]]></description>
-            <link>https://www.israelnationalnews.com/news/432077</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432077</guid>
+            <description><![CDATA[Firefighting crews battle blaze at vehicle lot in Kiryat Arba]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692199</guid>
             <pubDate>Sat, 22 Aug 2026 20:02:00 GMT</pubDate>
         </item>
         <item>
@@ -280,20 +296,6 @@ According to the report, the strike took place in the Ali Taher ridge area.]]></
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692191</guid>
             <pubDate>Sat, 22 Aug 2026 17:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben-Gurion Airport sounds alarm ahead of holiday rush]]></title>
-            <description><![CDATA[Ben-Gurion Airport sounds alarm ahead of holiday rush]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692190</guid>
-            <pubDate>Sat, 22 Aug 2026 17:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UAL announces list for elections]]></title>
-            <description><![CDATA[UAL announces list for elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692189</guid>
-            <pubDate>Sat, 22 Aug 2026 17:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 10:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 11:20:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 10:23:37 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 11:20:30 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Intruder breaks into Knesset, caught near Speaker's office]]></title>
+            <description><![CDATA[An intruder broke into the Knesset compound overnight and managed to enter the building. He was caught sitting near the office of Knesset Speaker Amir Ohana.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692236</guid>
+            <pubDate>Sun, 23 Aug 2026 10:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arab reports of an Israeli airstrike in central Gaza]]></title>
+            <description><![CDATA[Arab reports of an Israeli airstrike in central Gaza]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692235</guid>
+            <pubDate>Sun, 23 Aug 2026 10:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elchanan stabbed three times in terrorist attack in Jordan Valley]]></title>
+            <description><![CDATA[Elchanan, a career IDF soldier, was traveling with his pregnant wife when he stopped to buy cigarettes and was stabbed three times by a terrorist. His condition has stabilized, and he is expected to undergo surgery.]]></description>
+            <link>https://www.israelnationalnews.com/news/432107</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432107</guid>
+            <pubDate>Sun, 23 Aug 2026 10:27:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Syrian FM: Talks with Israel expected to resume soon despite lack of trust]]></title>
             <description><![CDATA[Syrian Foreign Minister Asaad al-Shaibani says talks with Israel may resume soon, as Damascus seeks a security deal and an end to Israeli strikes.]]></description>
@@ -210,25 +231,23 @@ He said that portraying them as “murder victims" amounts to “social engineer
         </item>
         <item>
             <title><![CDATA[Report: IDF carried out early morning strike in southern Lebanon]]></title>
-            <description><![CDATA[Lebanese media reported that the IDF carried out an early morning strike in southern Lebanon.
-
-According to the report, the strike took place in the Ali Taher ridge area.]]></description>
+            <description><![CDATA[Report: IDF carried out early morning strike in southern Lebanon]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692206</guid>
             <pubDate>Sun, 23 Aug 2026 02:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel concerned over military escalation with Turkey]]></title>
-            <description><![CDATA[Israel’s defense establishment is closely monitoring the public exchange of threats between Jerusalem and Ankara, warning that tensions could undermine the IDF’s freedom of action in Syria.]]></description>
-            <link>https://www.israelnationalnews.com/news/432084</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432084</guid>
+            <description><![CDATA[Israel concerned over military escalation with Turkey]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692205</guid>
             <pubDate>Sun, 23 Aug 2026 02:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Iran-linked hackers shut down UK power plant]]></title>
-            <description><![CDATA[The Telegraph reports that Iran-linked hackers shut down a small British power plant for four days in an unprecedented cyberattack.]]></description>
-            <link>https://www.israelnationalnews.com/news/432083</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432083</guid>
+            <description><![CDATA[Report: Iran-linked hackers shut down UK power plant]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692204</guid>
             <pubDate>Sun, 23 Aug 2026 01:47:00 GMT</pubDate>
         </item>
         <item>
@@ -279,27 +298,6 @@ According to the report, the strike took place in the Ali Taher ridge area.]]></
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692197</guid>
             <pubDate>Sat, 22 Aug 2026 19:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM congratulates Israeli gold medalist]]></title>
-            <description><![CDATA[PM congratulates Israeli gold medalist]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692196</guid>
-            <pubDate>Sat, 22 Aug 2026 19:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paramount accuses Mark Ruffalo of using antisemitic tropes]]></title>
-            <description><![CDATA[Paramount accuses Mark Ruffalo of using antisemitic tropes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692195</guid>
-            <pubDate>Sat, 22 Aug 2026 18:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airport union chief warns Ben Gurion chaos could return]]></title>
-            <description><![CDATA[Airport union chief warns Ben Gurion chaos could return]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692194</guid>
-            <pubDate>Sat, 22 Aug 2026 18:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

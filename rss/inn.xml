@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 14:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 15:22:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 14:23:13 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 15:22:22 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[After hours-long manhunt: Terrorist who stabbed Israeli in Jordan Valley captured]]></title>
+            <description><![CDATA[The 16-year-old terrorist who stabbed and moderately wounded Elhcanan Hanania was captured following an IDF manhunt in the village of al-Auja, where he carried out the attack.]]></description>
+            <link>https://www.israelnationalnews.com/news/432116</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432116</guid>
+            <pubDate>Sun, 23 Aug 2026 15:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu: We will address the drone threat from the Gaza Strip]]></title>
+            <description><![CDATA[Prime Minister addresses the developing threat of explosive drones on the southern front in a special video. “I have instructed that everything be done against these deadly devices."]]></description>
+            <link>https://www.israelnationalnews.com/news/432114</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432114</guid>
+            <pubDate>Sun, 23 Aug 2026 14:24:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: Terrorist attempts to steal soldier's weapon at Rimonim Square]]></title>
             <description><![CDATA[A short while ago, a report was received regarding an attempt by a terrorist to steal a weapon from an IDF soldier in the area of Rimonim Square.
@@ -27,9 +41,9 @@ The soldier fired toward the terrorist, who was neutralized. IDF soldiers were d
         </item>
         <item>
             <title><![CDATA[Kidnapping and murder solved decades later]]></title>
-            <description><![CDATA[Kidnapping and murder solved decades later]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692243</guid>
+            <description><![CDATA[In an attack by an Arab gang during the Great Arab Revolt on the home of the Lazarevich family, members of the family were kidnapped; the three adults were murdered, and the children were released.]]></description>
+            <link>https://www.israelnationalnews.com/news/432112</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432112</guid>
             <pubDate>Sun, 23 Aug 2026 13:32:00 GMT</pubDate>
         </item>
         <item>
@@ -217,16 +231,16 @@ According to police, the two attempted to flee but were located after a brief ch
         </item>
         <item>
             <title><![CDATA[Shas soldier video sparks online uproar | 'Until yesterday they fought for an exemption']]></title>
-            <description><![CDATA[A Shas campaign video showing one son serving in the IDF and another studying in yeshiva sparks sharp online reactions, with users pointing to the party’s push for haredi draft exemptions.]]></description>
-            <link>https://www.israelnationalnews.com/news/432093</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432093</guid>
+            <description><![CDATA[Shas soldier video sparks online uproar | 'Until yesterday they fought for an exemption']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692217</guid>
             <pubDate>Sun, 23 Aug 2026 06:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran executes protest detainee accused of ‘operational actions’ for Israel]]></title>
-            <description><![CDATA[Iran executes Majid Adineh, arrested during January protests and sentenced to death on charges including alleged actions in favor of Israel and the US.]]></description>
-            <link>https://www.israelnationalnews.com/news/432092</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432092</guid>
+            <description><![CDATA[Iran executes protest detainee accused of ‘operational actions’ for Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692216</guid>
             <pubDate>Sun, 23 Aug 2026 06:07:00 GMT</pubDate>
         </item>
         <item>
@@ -284,20 +298,6 @@ According to police, the two attempted to flee but were located after a brief ch
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692208</guid>
             <pubDate>Sun, 23 Aug 2026 03:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Footage: Effigies of Trump and Netanyahu hung in Tehran’s Revolution Square]]></title>
-            <description><![CDATA[Footage: Effigies of Trump and Netanyahu hung in Tehran’s Revolution Square]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692207</guid>
-            <pubDate>Sun, 23 Aug 2026 03:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: IDF carried out early morning strike in southern Lebanon]]></title>
-            <description><![CDATA[Report: IDF carried out early morning strike in southern Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692206</guid>
-            <pubDate>Sun, 23 Aug 2026 02:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

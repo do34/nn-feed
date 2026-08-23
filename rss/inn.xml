@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 16:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 17:19:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 16:25:42 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 17:19:57 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Netanyahu warns Hamas to stop Gaza drone launches or face action]]></title>
+            <description><![CDATA[Netanyahu warns Hamas that continued drone, kite and balloon launches from Gaza will trigger intensified IDF action, including strikes on launch sites and operators.]]></description>
+            <link>https://www.israelnationalnews.com/news/432120</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432120</guid>
+            <pubDate>Sun, 23 Aug 2026 17:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Mossad chief meets with Syrian Foreign Minister]]></title>
+            <description><![CDATA[A rare meeting was held between Mossad Director Roman Gofman and Syrian Foreign Minister Asaad al-Shaibani in an effort to ease tensions and prevent a security escalation.]]></description>
+            <link>https://www.israelnationalnews.com/news/432119</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432119</guid>
+            <pubDate>Sun, 23 Aug 2026 16:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shocking footage: Mafia leader shot dead at gas station near Caesarea]]></title>
             <description><![CDATA[A known criminal, approximately 45 years old, was shot at a gas station near Caesarea and critically wounded. He later died of his wounds. Police have opened an investigation.]]></description>
@@ -217,16 +231,16 @@ According to police, the two attempted to flee but were located after a brief ch
         </item>
         <item>
             <title><![CDATA[Initial details: Stabbing victim entered village to shop. Stabber fled scene]]></title>
-            <description><![CDATA[According to initial details of the incident, the Jewish victim entered the village to go shopping. The assailant has fled.]]></description>
-            <link>https://www.israelnationalnews.com/news/432094</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432094</guid>
+            <description><![CDATA[Initial details: Stabbing victim entered village to shop. Stabber fled scene]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692221</guid>
             <pubDate>Sun, 23 Aug 2026 06:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[100 diplomats in letter against Israel: 'You are carrying out ethnic cleansing']]></title>
-            <description><![CDATA[More than 100 former British and French diplomats sign letter to French President Macron and UK Prime Minister Burnham, calling for a boycott of Israel, 'Palestine is being erased before our eyes.']]></description>
-            <link>https://www.israelnationalnews.com/news/432096</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432096</guid>
+            <description><![CDATA[100 diplomats in letter against Israel: 'You are carrying out ethnic cleansing']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692220</guid>
             <pubDate>Sun, 23 Aug 2026 06:45:00 GMT</pubDate>
         </item>
         <item>
@@ -284,20 +298,6 @@ According to police, the two attempted to flee but were located after a brief ch
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692212</guid>
             <pubDate>Sun, 23 Aug 2026 04:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VP Vance is actually a dangerous choice for POTUS]]></title>
-            <description><![CDATA[VP Vance is actually a dangerous choice for POTUS]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692211</guid>
-            <pubDate>Sun, 23 Aug 2026 04:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beyond the classroom: How schools shape the generation fighting for Israel]]></title>
-            <description><![CDATA[Beyond the classroom: How schools shape the generation fighting for Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692210</guid>
-            <pubDate>Sun, 23 Aug 2026 04:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

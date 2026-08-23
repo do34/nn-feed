@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 20:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 21:21:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 20:22:18 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 21:21:35 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Two European Parliament members barred from entering Israel]]></title>
+            <description><![CDATA[Foreign Minister Sa’ar asks the Population and Immigration Authority to prevent entry to Swedish lawmakers who were scheduled to land in Israel en route to the Palestinian Authority.]]></description>
+            <link>https://www.israelnationalnews.com/news/432127</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432127</guid>
+            <pubDate>Sun, 23 Aug 2026 21:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Muay Thai and kickboxing fighter Ahavat Hashem Gordon gets married]]></title>
+            <description><![CDATA[Muay Thai and kickboxing fighter Ahavat Hashem Gordon marries Oren Levy in Hadera.]]></description>
+            <link>https://www.israelnationalnews.com/news/432126</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432126</guid>
+            <pubDate>Sun, 23 Aug 2026 20:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Battle of Civilization Versus Barbarism"]]></title>
             <description><![CDATA[Peace becomes impossible when a public culture rewards the sacrifice of children more than the protection of their future. Opinion.]]></description>
@@ -215,9 +229,9 @@ Read more.]]></description>
         </item>
         <item>
             <title><![CDATA[Threatened in a taxi because she was wearing a Star of David: 'He shouted 'Allahu Akbar'']]></title>
-            <description><![CDATA[A Jewish woman claims that a taxi driver in Warsaw began yelling at her, pulled out a Quran and yelled 'Allahu Akbar,' after noticing the Star of David she wore around her neck.]]></description>
-            <link>https://www.israelnationalnews.com/news/432100</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432100</guid>
+            <description><![CDATA[Threatened in a taxi because she was wearing a Star of David: 'He shouted 'Allahu Akbar'']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692228</guid>
             <pubDate>Sun, 23 Aug 2026 08:09:00 GMT</pubDate>
         </item>
         <item>
@@ -282,20 +296,6 @@ Read more.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692219</guid>
             <pubDate>Sun, 23 Aug 2026 06:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspected stabbing attack near Al-Auja north of Jericho]]></title>
-            <description><![CDATA[Suspected stabbing attack near Al-Auja north of Jericho]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692218</guid>
-            <pubDate>Sun, 23 Aug 2026 06:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shas soldier video sparks online uproar | 'Until yesterday they fought for an exemption']]></title>
-            <description><![CDATA[Shas soldier video sparks online uproar | 'Until yesterday they fought for an exemption']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692217</guid>
-            <pubDate>Sun, 23 Aug 2026 06:18:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

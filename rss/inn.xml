@@ -4,11 +4,34 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 22:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 23:20:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 22:21:04 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 23:20:37 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[EU condemns Israel's E1 construction plans: Damage to two-state solution]]></title>
+            <description><![CDATA[EU foreign policy chief Kaja Kallas condemns Israel's E1 construction plans, saying the project would undermine prospects for a two-state solution.]]></description>
+            <link>https://www.israelnationalnews.com/news/432129</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432129</guid>
+            <pubDate>Sun, 23 Aug 2026 23:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu orders Eisenkot to receive 'adequate security, as needed']]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu addressed the issue of security for Yashar! chairman Gadi Eisenkot and instructed Shin Bet (Israel Security Agency) Director David Zini to ensure that Eisenkot receives security “at an adequate level, as needed."
+
+The Shin Bet told Netanyahu that it is “doing everything possible" and is “acting in accordance with the law."]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692261</guid>
+            <pubDate>Sun, 23 Aug 2026 22:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US envoy walks back Golan remarks: Trump's policy remains unchanged]]></title>
+            <description><![CDATA[US envoy Tom Barrack walks back remarks that Israel “still" occupies the Golan Heights, stressing that Trump's 2019 recognition remains US policy.]]></description>
+            <link>https://www.israelnationalnews.com/news/432128</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432128</guid>
+            <pubDate>Sun, 23 Aug 2026 22:22:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Civil Administration rescues three Israelis who entered Palestinian Authority areas]]></title>
             <description><![CDATA[The Civil Administration rescued three Israelis in recent hours after they entered areas under Palestinian Authority control: an armed Jewish man who accidentally entered the village of Ein Arik in the Binyamin region, a Jewish woman who deliberately entered Jericho, and an Israeli described as being in an unstable mental state who was spotted in the streets of Bethlehem.
@@ -204,27 +227,21 @@ The soldier fired toward the terrorist, who was neutralized. IDF soldiers were d
         </item>
         <item>
             <title><![CDATA[In the heart of Gush Etzion: PA blocking access to village, government dragging its feet]]></title>
-            <description><![CDATA['The absurdity is glaring: The state is planning a strategic community with one hand, while allowing the Palestinian Authority to thwart it with the other,' petitions Regavim.]]></description>
-            <link>https://www.israelnationalnews.com/news/432105</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432105</guid>
+            <description><![CDATA[In the heart of Gush Etzion: PA blocking access to village, government dragging its feet]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692232</guid>
             <pubDate>Sun, 23 Aug 2026 09:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Officers locate young gazelle held illegally in A-Ram]]></title>
-            <description><![CDATA[Detectives from the Border Police Coastal District Central Unit, Border Police officers in Judea and Samaria, and Israel Nature and Parks Authority inspectors located a young Israeli gazelle overnight in the village of A-Ram. The gazelle is a protected wild animal that may not legally be hunted or kept in captivity.
-
-The animal was transferred for further treatment to the wildlife hospital at the Ramat Gan Safari.
-
-A 48-year-old resident of Kafr Aqab was detained for questioning on suspicion of illegally trading in, possessing, and hunting a protected natural asset.]]></description>
+            <description><![CDATA[Officers locate young gazelle held illegally in A-Ram]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692231</guid>
             <pubDate>Sun, 23 Aug 2026 09:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jonathan Pollard enters Israeli political arena]]></title>
-            <description><![CDATA[Jonathan Pollard announces he is joining Israel First, led by MK Sharren Haskel, and will support the party in Israel’s upcoming elections.
-
-Read more.]]></description>
+            <description><![CDATA[Jonathan Pollard enters Israeli political arena]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692230</guid>
             <pubDate>Sun, 23 Aug 2026 08:51:00 GMT</pubDate>
@@ -277,27 +294,6 @@ Read more.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692223</guid>
             <pubDate>Sun, 23 Aug 2026 07:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Additional kite, apparently from Gaza, found in Kibbutz Kfar Aza]]></title>
-            <description><![CDATA[Additional kite, apparently from Gaza, found in Kibbutz Kfar Aza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692222</guid>
-            <pubDate>Sun, 23 Aug 2026 07:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Initial details: Stabbing victim entered village to shop. Stabber fled scene]]></title>
-            <description><![CDATA[Initial details: Stabbing victim entered village to shop. Stabber fled scene]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692221</guid>
-            <pubDate>Sun, 23 Aug 2026 06:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[100 diplomats in letter against Israel: 'You are carrying out ethnic cleansing']]></title>
-            <description><![CDATA[100 diplomats in letter against Israel: 'You are carrying out ethnic cleansing']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692220</guid>
-            <pubDate>Sun, 23 Aug 2026 06:45:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

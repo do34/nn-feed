@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 23:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 01:18:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 23:20:38 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 01:18:52 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Tens of thousands at Western Wall Selichot as hostage survivors join prayer]]></title>
+            <description><![CDATA[Tens of thousands attend Selichot service at the Western Wall, joined by hostage survivors who recite a special prayer of thanksgiving for their return.]]></description>
+            <link>https://www.israelnationalnews.com/news/432082</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432082</guid>
+            <pubDate>Sun, 23 Aug 2026 01:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Israel is moving attack helicopters north]]></title>
             <description><![CDATA[Following an Air Force investigation into the October 7 massacre, Squadron 190 has relocated north as the IDF seeks faster response times and greater readiness along Israel’s northern border.]]></description>
@@ -246,9 +253,9 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[Ki Teitzei: Drafting Yeshiva students]]></title>
-            <description><![CDATA[My father, the Rav HaNazir, and Rav Tzvi Yehudah were of the opinion that everyone is obligated to go out and fight. This was a milhemet mitzvah, a compulsory war, in which all are expected to participate.]]></description>
-            <link>https://www.israelnationalnews.com/news/432058</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432058</guid>
+            <description><![CDATA[Ki Teitzei: Drafting Yeshiva students]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692175</guid>
             <pubDate>Fri, 21 Aug 2026 14:48:00 GMT</pubDate>
         </item>
         <item>
@@ -313,13 +320,6 @@ Shabbat Shalom!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692166</guid>
             <pubDate>Fri, 21 Aug 2026 12:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Authorities expose drone smuggling network, arrssting suspects]]></title>
-            <description><![CDATA[Authorities expose drone smuggling network, arrssting suspects]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692165</guid>
-            <pubDate>Fri, 21 Aug 2026 12:29:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

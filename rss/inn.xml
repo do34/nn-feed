@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 14:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 15:38:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 14:41:46 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 15:38:55 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Details of operation to locate the Altalena revealed]]></title>
+            <description><![CDATA[Prime Minister Netanyahu and Ministers Ben Gvir and Eliyahu present details of the operation to locate the Altalena and the findings that were discovered.]]></description>
+            <link>https://www.israelnationalnews.com/news/432171</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432171</guid>
+            <pubDate>Mon, 24 Aug 2026 15:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haredi extremists protest, Geha Interchange blocked]]></title>
+            <description><![CDATA[Extremists blocked the Geha Interchange, in the Petah Tikva and Bnei Brak area, as well as Jabotinsky Street, which separates the two cities, in protest against the arrest of a Haredi draft dodger.]]></description>
+            <link>https://www.israelnationalnews.com/news/432170</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432170</guid>
+            <pubDate>Mon, 24 Aug 2026 15:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘They beat and kicked me’: Reservist recounts detention by PA Forces]]></title>
+            <description><![CDATA[IDF reservist says PA officers beat him, sprayed him with pepper spray, seized his weapon and took him handcuffed into Ramallah after stopping his car in Area C.]]></description>
+            <link>https://www.israelnationalnews.com/news/432169</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432169</guid>
+            <pubDate>Mon, 24 Aug 2026 15:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu and Katz presented with data showing decline in terrorism]]></title>
+            <description><![CDATA[The Prime Minister and Defense Minister held a situational assessment at Central Command. Minister Katz: “The number of terrorist attacks in Judea and Samaria has fallen to levels we have never seen before."]]></description>
+            <link>https://www.israelnationalnews.com/news/432168</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432168</guid>
+            <pubDate>Mon, 24 Aug 2026 14:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Omer Adam’s wedding will have separate seating for men and women]]></title>
             <description><![CDATA[Omer Adam and Sacha Israelovich’s lavish wedding in Italy will reportedly feature separate seating for men and women due to a condition set by haredi singer Motty Steinmetz.]]></description>
@@ -199,30 +227,30 @@ The investigation is ongoing.]]></description>
         </item>
         <item>
             <title><![CDATA[Long Island teacher, mom of 4, dies after driving SUV into family pool]]></title>
-            <description><![CDATA['We are broken. We will never be the same,' Rachelle Rohde said as she mourned her 40-year-old daughter Allison Rahmani, a beloved mother of four who died after her SUV crashed into the pool at her Hewlett home.]]></description>
-            <link>https://www.israelnationalnews.com/news/432145</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432145</guid>
+            <description><![CDATA[Long Island teacher, mom of 4, dies after driving SUV into family pool]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692280</guid>
             <pubDate>Mon, 24 Aug 2026 06:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Illusion of the jungle: The quantum physics of Hasidic oneness]]></title>
-            <description><![CDATA[Modern culture remains trapped in a paradigm of conflict, viewing human interaction as a zero-sum struggle driven by isolation and survival. This essay demonstrates that physical separation is an illusion, offering a scientific and spiritual framework for radical empathy and personal transformation.]]></description>
-            <link>https://www.israelnationalnews.com/news/432144</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432144</guid>
+            <description><![CDATA[The Illusion of the jungle: The quantum physics of Hasidic oneness]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692279</guid>
             <pubDate>Mon, 24 Aug 2026 05:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yes to Israel tough guy]]></title>
-            <description><![CDATA[Peace negotiations? What peace? Been there, done that. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432142</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432142</guid>
+            <description><![CDATA[Yes to Israel tough guy]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692278</guid>
             <pubDate>Mon, 24 Aug 2026 05:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Supposed ceasefire: Iran steps up weapons smuggling to Hezbollah]]></title>
-            <description><![CDATA[Defense establishment identifies significant increase in attempts by Quds Force of Iran's Islamic Revolutionary Guard Corps to transfer weapons through Syrian territory directly into Lebanon.]]></description>
-            <link>https://www.israelnationalnews.com/news/432141</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432141</guid>
+            <description><![CDATA[Supposed ceasefire: Iran steps up weapons smuggling to Hezbollah]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692277</guid>
             <pubDate>Mon, 24 Aug 2026 05:24:00 GMT</pubDate>
         </item>
         <item>
@@ -266,34 +294,6 @@ The investigation is ongoing.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692271</guid>
             <pubDate>Mon, 24 Aug 2026 03:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Children's toys': Hamas denies responsibility for Gaza kites]]></title>
-            <description><![CDATA['Children's toys': Hamas denies responsibility for Gaza kites]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692270</guid>
-            <pubDate>Mon, 24 Aug 2026 02:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kol Hakavod: To those who refuse to disappear]]></title>
-            <description><![CDATA[Kol Hakavod: To those who refuse to disappear]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692269</guid>
-            <pubDate>Mon, 24 Aug 2026 02:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syria confirms US-mediated talks with Israel after recent strikes]]></title>
-            <description><![CDATA[Syria confirms US-mediated talks with Israel after recent strikes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692268</guid>
-            <pubDate>Mon, 24 Aug 2026 02:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Greece moves Patriot battery to Crete amid heightened tensions with Iran]]></title>
-            <description><![CDATA[Report: Greece moves Patriot battery to Crete amid heightened tensions with Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692267</guid>
-            <pubDate>Mon, 24 Aug 2026 01:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

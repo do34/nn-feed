@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 20:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 21:29:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 20:30:02 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 21:29:08 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Hegseth clarifies: US not ruling out military strikes against Iran]]></title>
+            <description><![CDATA[US Secretary of War Pete Hegseth says Washington is not ruling out military strikes against Iran despite its new campaign of economic pressure.]]></description>
+            <link>https://www.israelnationalnews.com/news/432182</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432182</guid>
+            <pubDate>Mon, 24 Aug 2026 21:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu welcomes new US sanctions on Iran: A steep price]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu welcomes new US sanctions against Iran, praising Trump and Bessent for imposing a steep price on the regime.]]></description>
+            <link>https://www.israelnationalnews.com/news/432181</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432181</guid>
+            <pubDate>Mon, 24 Aug 2026 20:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel’s demand: Stop kite terrorism]]></title>
             <description><![CDATA[An urgent Israeli demand was conveyed to the Board of Peace to address the launching of terror kites within three days in order to prevent a major military escalation in the Gaza Strip.]]></description>
@@ -209,18 +223,14 @@ Taking part in the discussion were the Minister of Defense, Chief of the General
         </item>
         <item>
             <title><![CDATA[Hymanut Kassaou's parents to Shin Bet chief: Take over the case]]></title>
-            <description><![CDATA[After 911 days without answers, Hymanut Kassaou's parents urge Shin Bet Director David Zini to take over the investigation.]]></description>
-            <link>https://www.israelnationalnews.com/news/432154</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432154</guid>
+            <description><![CDATA[Hymanut Kassaou's parents to Shin Bet chief: Take over the case]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692293</guid>
             <pubDate>Mon, 24 Aug 2026 11:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Caught in the act: Three suspects arrested for breaking into vehicles in Hadera]]></title>
-            <description><![CDATA[Three residents of Ramla were arrested on suspicion of breaking into vehicles and stealing tools at the Mool HaYam Village complex in Hadera.
-
-Police said the suspects were located during a targeted operation. Numerous tools suspected of being stolen were found in their vehicle.
-
-The investigation is ongoing.]]></description>
+            <description><![CDATA[Caught in the act: Three suspects arrested for breaking into vehicles in Hadera]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692292</guid>
             <pubDate>Mon, 24 Aug 2026 10:36:00 GMT</pubDate>
@@ -280,20 +290,6 @@ The investigation is ongoing.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692284</guid>
             <pubDate>Mon, 24 Aug 2026 07:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gerrer Rebbe approves Goldknopf to continue as Hasidic representative in the next Knesset.]]></title>
-            <description><![CDATA[Gerrer Rebbe approves Goldknopf to continue as Hasidic representative in the next Knesset.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692283</guid>
-            <pubDate>Mon, 24 Aug 2026 07:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PA police detain IDF reservist in Area C, seize his weapon]]></title>
-            <description><![CDATA[PA police detain IDF reservist in Area C, seize his weapon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692282</guid>
-            <pubDate>Mon, 24 Aug 2026 06:39:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 13:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 14:41:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 13:51:58 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 14:41:46 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Why Omer Adam’s wedding will have separate seating for men and women]]></title>
+            <description><![CDATA[Omer Adam and Sacha Israelovich’s lavish wedding in Italy will reportedly feature separate seating for men and women due to a condition set by haredi singer Motty Steinmetz.]]></description>
+            <link>https://www.israelnationalnews.com/news/432167</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432167</guid>
+            <pubDate>Mon, 24 Aug 2026 14:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In three months | 13 kilometers of terror tunnels destroyed in Gaza]]></title>
+            <description><![CDATA[Paratroopers Brigade troops completed their defensive and infrastructure-clearing missions along the “Yellow Line." The tunnel in which the late Lt. Hadar Goldin was held was also destroyed.]]></description>
+            <link>https://www.israelnationalnews.com/news/432166</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432166</guid>
+            <pubDate>Mon, 24 Aug 2026 14:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian threat against Trump’s son]]></title>
+            <description><![CDATA[An Iranian state-run television channel aired a video threatening President Trump’s youngest son and claimed that details of his security arrangements had been exposed.]]></description>
+            <link>https://www.israelnationalnews.com/news/432165</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432165</guid>
+            <pubDate>Mon, 24 Aug 2026 14:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another kite sent from Gaza was found on a tree in Kibbutz Nahal Oz]]></title>
+            <description><![CDATA[Another kite sent from Gaza was found on a tree in Kibbutz Nahal Oz.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692303</guid>
+            <pubDate>Mon, 24 Aug 2026 13:56:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PM holds security assessment at Central Command]]></title>
             <description><![CDATA[Prime Minister Benjamin Netanyahu held a security assessment today at IDF Central Command regarding the security challenges in the Judea and Samaria region.
@@ -27,9 +55,9 @@ Taking part in the discussion were the Minister of Defense, Chief of the General
         </item>
         <item>
             <title><![CDATA[Authorities demolish structures at sacred Honi Hame’agel gravesite]]></title>
-            <description><![CDATA[Authorities demolish structures at sacred Honi Hame’agel gravesite]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692300</guid>
+            <description><![CDATA[Authorities demolish unauthorized structures at Honi Hame’agel’s gravesite in Hatzor Haglilit as part of efforts to improve safety and develop the site.]]></description>
+            <link>https://www.israelnationalnews.com/news/432163</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432163</guid>
             <pubDate>Mon, 24 Aug 2026 13:05:00 GMT</pubDate>
         </item>
         <item>
@@ -199,36 +227,30 @@ The investigation is ongoing.]]></description>
         </item>
         <item>
             <title><![CDATA[IDF strikes Nukhba commander who infiltrated Israel on October 7]]></title>
-            <description><![CDATA[The IDF struck yesterday (Sunday) in the Khan Yunis area of southern Gaza, targeting a Nukhba company commander in the military wing of the Hamas terrorist organization, the IDF Spokesperson's Unit announced this morning.
-
-The terrorist infiltrated Israeli territory during the October 7 massacre, according to the IDF. Throughout the war, he advanced terrorist plots against IDF forces operating in the Gaza Strip.
-
-The IDF stated that the terrorist's activities posed an immediate threat to Israeli forces.]]></description>
+            <description><![CDATA[IDF strikes Nukhba commander who infiltrated Israel on October 7]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692276</guid>
             <pubDate>Mon, 24 Aug 2026 04:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joint List calls for European oversight of elections]]></title>
-            <description><![CDATA[Yousef Jabareen, chairman of Hadash and the Joint List, outlines conditions for providing a parliamentary safety net to an alternative coalition that would bring down the right-wing government.]]></description>
-            <link>https://www.israelnationalnews.com/news/432138</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432138</guid>
+            <description><![CDATA[Joint List calls for European oversight of elections]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692275</guid>
             <pubDate>Mon, 24 Aug 2026 03:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PA report: One killed in strike on tent in Deir al-Balah]]></title>
-            <description><![CDATA[Palestinian Arab media reported that a strike hit a tent in Deir al-Balah in central Gaza.
-
-According to reports from the scene, at least one person was killed in the strike.]]></description>
+            <description><![CDATA[PA report: One killed in strike on tent in Deir al-Balah]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692274</guid>
             <pubDate>Mon, 24 Aug 2026 03:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bessent warns: 'Endgame' with Iran is near]]></title>
-            <description><![CDATA[US Treasury Secretary Scott Bessent says the Iran confrontation is entering its “endgame" as Washington prepares an unprecedented economic offensive.]]></description>
-            <link>https://www.israelnationalnews.com/news/432137</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432137</guid>
+            <description><![CDATA[Bessent warns: 'Endgame' with Iran is near]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692273</guid>
             <pubDate>Mon, 24 Aug 2026 03:21:00 GMT</pubDate>
         </item>
         <item>
@@ -272,34 +294,6 @@ According to reports from the scene, at least one person was killed in the strik
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692267</guid>
             <pubDate>Mon, 24 Aug 2026 01:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran warns nations: Supporting US economic campaign could be an 'act of war']]></title>
-            <description><![CDATA[Iran warns nations: Supporting US economic campaign could be an 'act of war']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692266</guid>
-            <pubDate>Mon, 24 Aug 2026 01:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two children killed in drone strike in southern Russia]]></title>
-            <description><![CDATA[Two children killed in drone strike in southern Russia]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692265</guid>
-            <pubDate>Mon, 24 Aug 2026 00:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia: Drone attacks industrial zone in Nevinnomyssk]]></title>
-            <description><![CDATA[Russia: Drone attacks industrial zone in Nevinnomyssk]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692264</guid>
-            <pubDate>Mon, 24 Aug 2026 00:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine: Three killed in Russian strike on outskirts of Kharkiv]]></title>
-            <description><![CDATA[Ukraine: Three killed in Russian strike on outskirts of Kharkiv]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692263</guid>
-            <pubDate>Sun, 23 Aug 2026 23:50:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

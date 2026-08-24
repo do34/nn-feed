@@ -4,11 +4,27 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 21:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 22:26:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 21:29:08 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 22:26:19 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump administration removes Syria from US list of state sponsors of terrorism]]></title>
+            <description><![CDATA[The Trump administration removes Syria from the US terror list, easing sanctions and opening the door to investment and reintegration into global markets.]]></description>
+            <link>https://www.israelnationalnews.com/news/432183</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432183</guid>
+            <pubDate>Mon, 24 Aug 2026 22:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF detects suspicious activity near Jordan Valley border; searches underway]]></title>
+            <description><![CDATA[IDF surveillance systems detected suspicious movement along the eastern border in the Jordan Valley area on Monday evening.
+
+IDF forces are conducting searches in the area to rule out a border crossing, while roads in the vicinity are being blocked as troops work to locate the suspects.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692324</guid>
+            <pubDate>Mon, 24 Aug 2026 21:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hegseth clarifies: US not ruling out military strikes against Iran]]></title>
             <description><![CDATA[US Secretary of War Pete Hegseth says Washington is not ruling out military strikes against Iran despite its new campaign of economic pressure.]]></description>
@@ -209,16 +225,16 @@ Taking part in the discussion were the Minister of Defense, Chief of the General
         </item>
         <item>
             <title><![CDATA[IDF officer injured in accidental shooting at military base]]></title>
-            <description><![CDATA[IDF officer moderately injured by accidental gunfire at Combat Engineering School in the Arava; Military Police launch investigation.]]></description>
-            <link>https://www.israelnationalnews.com/news/432157</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432157</guid>
+            <description><![CDATA[IDF officer injured in accidental shooting at military base]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692295</guid>
             <pubDate>Mon, 24 Aug 2026 11:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF takes out October 7 Nukhba terrorists plotting new attacks]]></title>
-            <description><![CDATA[Hamas terrorists who participated in the October 7 massacre, planned new attacks against IDF troops and Israeli civilians, are eliminated in Gaza.]]></description>
-            <link>https://www.israelnationalnews.com/news/432158</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432158</guid>
+            <description><![CDATA[IDF takes out October 7 Nukhba terrorists plotting new attacks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692294</guid>
             <pubDate>Mon, 24 Aug 2026 11:27:00 GMT</pubDate>
         </item>
         <item>
@@ -276,20 +292,6 @@ Taking part in the discussion were the Minister of Defense, Chief of the General
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692286</guid>
             <pubDate>Mon, 24 Aug 2026 08:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Gvir scores victory over AG: 'She failed again']]></title>
-            <description><![CDATA[Ben Gvir scores victory over AG: 'She failed again']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692285</guid>
-            <pubDate>Mon, 24 Aug 2026 07:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China hosts robots from 16 countries for 'Robot Olympics' in Beijing]]></title>
-            <description><![CDATA[China hosts robots from 16 countries for 'Robot Olympics' in Beijing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692284</guid>
-            <pubDate>Mon, 24 Aug 2026 07:20:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

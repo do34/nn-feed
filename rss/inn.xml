@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 11:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 12:50:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 11:28:25 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 12:50:01 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Tax Authority tightens rules for haredi yeshivas over draft status]]></title>
+            <description><![CDATA[New requirements expand a policy previously applied only to new institutions, potentially affecting haredi yeshivas across Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/432160</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432160</guid>
+            <pubDate>Mon, 24 Aug 2026 12:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chabad rabbis sound alarm over construction at ancient Hebron cemetery]]></title>
+            <description><![CDATA[Urgent petition warns construction and earthworks at the historic Chabad cemetery could damage graves and ancient burial caves.]]></description>
+            <link>https://www.israelnationalnews.com/news/432159</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432159</guid>
+            <pubDate>Mon, 24 Aug 2026 12:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF officer injured in accidental shooting at military base]]></title>
+            <description><![CDATA[IDF officer moderately injured by accidental gunfire at Combat Engineering School in the Arava; Military Police launch investigation.]]></description>
+            <link>https://www.israelnationalnews.com/news/432157</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432157</guid>
+            <pubDate>Mon, 24 Aug 2026 11:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IDF takes out October 7 Nukhba terrorists plotting new attacks]]></title>
             <description><![CDATA[Hamas terrorists who participated in the October 7 massacre, planned new attacks against IDF troops and Israeli civilians, are eliminated in Gaza.]]></description>
@@ -212,23 +233,21 @@ According to reports from the scene, at least one person was killed in the strik
         </item>
         <item>
             <title><![CDATA[Report: Greece moves Patriot battery to Crete amid heightened tensions with Iran]]></title>
-            <description><![CDATA[Greece is moving a Patriot air defense battery to Crete amid heightened tensions with Iran and threats against US bases in Europe, local media report.]]></description>
-            <link>https://www.israelnationalnews.com/news/432132</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432132</guid>
+            <description><![CDATA[Report: Greece moves Patriot battery to Crete amid heightened tensions with Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692267</guid>
             <pubDate>Mon, 24 Aug 2026 01:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran warns nations: Supporting US economic campaign could be an 'act of war']]></title>
-            <description><![CDATA[Iran warns that countries supporting the US economic campaign could be treated as enemies and threatens to halt all oil exports from the Persian Gulf.]]></description>
-            <link>https://www.israelnationalnews.com/news/432131</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432131</guid>
+            <description><![CDATA[Iran warns nations: Supporting US economic campaign could be an 'act of war']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692266</guid>
             <pubDate>Mon, 24 Aug 2026 01:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two children killed in drone strike in southern Russia]]></title>
-            <description><![CDATA[Two children were killed in a drone strike in southern Russia, local media reported.
-
-According to the reports, nine other people, including seven children, were injured by shrapnel that struck a private pediatric care center.]]></description>
+            <description><![CDATA[Two children killed in drone strike in southern Russia]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692265</guid>
             <pubDate>Mon, 24 Aug 2026 00:44:00 GMT</pubDate>
@@ -281,27 +300,6 @@ According to the reports, nine other people, including seven children, were inju
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692258</guid>
             <pubDate>Sun, 23 Aug 2026 21:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Muay Thai and kickboxing fighter Ahavat Hashem Gordon gets married]]></title>
-            <description><![CDATA[Watch: Muay Thai and kickboxing fighter Ahavat Hashem Gordon gets married]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692257</guid>
-            <pubDate>Sun, 23 Aug 2026 20:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Battle of Civilization Versus Barbarism"]]></title>
-            <description><![CDATA["Battle of Civilization Versus Barbarism"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692256</guid>
-            <pubDate>Sun, 23 Aug 2026 19:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YouTube prices jump in Israel as Google hikes subscription fees]]></title>
-            <description><![CDATA[YouTube prices jump in Israel as Google hikes subscription fees]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692255</guid>
-            <pubDate>Sun, 23 Aug 2026 19:39:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 10:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 11:28:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 10:37:05 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 11:28:25 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IDF takes out October 7 Nukhba terrorists plotting new attacks]]></title>
+            <description><![CDATA[Hamas terrorists who participated in the October 7 massacre, planned new attacks against IDF troops and Israeli civilians, are eliminated in Gaza.]]></description>
+            <link>https://www.israelnationalnews.com/news/432158</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432158</guid>
+            <pubDate>Mon, 24 Aug 2026 11:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hymanut Kassaou's parents to Shin Bet chief: Take over the case]]></title>
+            <description><![CDATA[After 911 days without answers, Hymanut Kassaou's parents urge Shin Bet Director David Zini to take over the investigation.]]></description>
+            <link>https://www.israelnationalnews.com/news/432154</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432154</guid>
+            <pubDate>Mon, 24 Aug 2026 11:16:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Caught in the act: Three suspects arrested for breaking into vehicles in Hadera]]></title>
             <description><![CDATA[Three residents of Ramla were arrested on suspicion of breaking into vehicles and stealing tools at the Mool HaYam Village complex in Hadera.
@@ -36,9 +50,9 @@ The investigation is ongoing.]]></description>
         </item>
         <item>
             <title><![CDATA[After 78 years beneath the sea: Altalena found intact]]></title>
-            <description><![CDATA[After 78 years beneath the sea: Altalena found intact]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692289</guid>
+            <description><![CDATA[Historic ship at center of one of Israel's most painful early confrontations is located at a depth of 503 meters after months of searching.]]></description>
+            <link>https://www.israelnationalnews.com/news/432153</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432153</guid>
             <pubDate>Mon, 24 Aug 2026 09:58:00 GMT</pubDate>
         </item>
         <item>
@@ -221,18 +235,14 @@ According to the reports, nine other people, including seven children, were inju
         </item>
         <item>
             <title><![CDATA[Russia: Drone attacks industrial zone in Nevinnomyssk]]></title>
-            <description><![CDATA[Russian authorities reported that a drone attacked the industrial zone in the city of Nevinnomyssk in the Stavropol region in southern Russia. Regional Governor Vladimir Vladimirov said: “Russia is repelling the attack on the industrial zone."
-
-Reuters noted that the area is used, among other purposes, for chemical production and is also home to several other industrial facilities.]]></description>
+            <description><![CDATA[Russia: Drone attacks industrial zone in Nevinnomyssk]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692264</guid>
             <pubDate>Mon, 24 Aug 2026 00:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ukraine: Three killed in Russian strike on outskirts of Kharkiv]]></title>
-            <description><![CDATA[Three people were killed in a Russian strike on the outskirts of Kharkiv in northeastern Ukraine, the regional governor said.
-
-Emergency crews rescued eight people from the area, some of whom were injured.]]></description>
+            <description><![CDATA[Ukraine: Three killed in Russian strike on outskirts of Kharkiv]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692263</guid>
             <pubDate>Sun, 23 Aug 2026 23:50:00 GMT</pubDate>
@@ -292,20 +302,6 @@ Emergency crews rescued eight people from the area, some of whom were injured.]]
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692255</guid>
             <pubDate>Sun, 23 Aug 2026 19:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Costly prank: Ordered 300 Pizzas - and could be sent to prison for 8 years?]]></title>
-            <description><![CDATA[Costly prank: Ordered 300 Pizzas - and could be sent to prison for 8 years?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692254</guid>
-            <pubDate>Sun, 23 Aug 2026 19:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kushner's extraordinary warning to Hamas]]></title>
-            <description><![CDATA[Kushner's extraordinary warning to Hamas]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692253</guid>
-            <pubDate>Sun, 23 Aug 2026 18:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 16:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 17:31:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 16:37:12 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 17:31:02 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Operation Economic Outcast: Bessent declares 'economic onslaught' on Iran's economy]]></title>
+            <description><![CDATA[US Treasury Secretary Scott Bessent holds a press conference to announce new sanctions and economic measures against Iran.]]></description>
+            <link>https://www.israelnationalnews.com/news/432177</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432177</guid>
+            <pubDate>Mon, 24 Aug 2026 17:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF arrests son of terrorist slain last week, terror attack foiled]]></title>
+            <description><![CDATA[IDF and Shin Bet forces arrest Jenin terrorist Imam Hazzam, who allegedly planned an attack after his father was eliminated during a stabbing attempt.]]></description>
+            <link>https://www.israelnationalnews.com/news/432176</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432176</guid>
+            <pubDate>Mon, 24 Aug 2026 16:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF destroys Hamas weapons storage caches in Gaza mosques]]></title>
+            <description><![CDATA[According to the IDF, dozens of rifles were stored inside the Shati and Deir al-Balah area mosques in violation of international law.]]></description>
+            <link>https://www.israelnationalnews.com/news/432175</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432175</guid>
+            <pubDate>Mon, 24 Aug 2026 16:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netanyahu reveals Iran attempted to assassinate one of his children]]></title>
             <description><![CDATA[Read More]]></description>
@@ -25,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA['Israel returns to containment': Additional kite from Gaza found in Gaza envelope]]></title>
-            <description><![CDATA['Israel returns to containment': Additional kite from Gaza found in Gaza envelope]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692311</guid>
+            <description><![CDATA[Fifth kite from Gaza lands in Israeli territory, found in Nahal Oz. Regional Council Chairman: 'Israel is returning to its policy of containment and reactivity instead of initiative.']]></description>
+            <link>https://www.israelnationalnews.com/news/432172</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432172</guid>
             <pubDate>Mon, 24 Aug 2026 15:50:00 GMT</pubDate>
         </item>
         <item>
@@ -206,23 +227,23 @@ The investigation is ongoing.]]></description>
         </item>
         <item>
             <title><![CDATA[Katz warns Hamas over Gaza kites: 'Zero tolerance']]></title>
-            <description><![CDATA[Defense Minister Israel Katz warns Israel will respond forcefully after four kites found in Israeli territory. 'One law for balloons, kites, and drones.']]></description>
-            <link>https://www.israelnationalnews.com/news/432147</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432147</guid>
+            <description><![CDATA[Katz warns Hamas over Gaza kites: 'Zero tolerance']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692286</guid>
             <pubDate>Mon, 24 Aug 2026 08:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ben Gvir scores victory over AG: 'She failed again']]></title>
-            <description><![CDATA[Justice Noam Sohlberg rejects bid to bar National Security Minister Itamar Ben Gvir from speaking at event honoring civilian security squads, overruling Attorney General Gali Baharav-Miara.]]></description>
-            <link>https://www.israelnationalnews.com/news/432148</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432148</guid>
+            <description><![CDATA[Ben Gvir scores victory over AG: 'She failed again']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692285</guid>
             <pubDate>Mon, 24 Aug 2026 07:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China hosts robots from 16 countries for 'Robot Olympics' in Beijing]]></title>
-            <description><![CDATA[The competition between humans and machines turned into a genuine showdown, when a robot broke legendary sprinter Usain Bolt’s historic 100-meter record. Watch.]]></description>
-            <link>https://www.israelnationalnews.com/news/432150</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432150</guid>
+            <description><![CDATA[China hosts robots from 16 countries for 'Robot Olympics' in Beijing]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692284</guid>
             <pubDate>Mon, 24 Aug 2026 07:20:00 GMT</pubDate>
         </item>
         <item>
@@ -273,27 +294,6 @@ The investigation is ongoing.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692277</guid>
             <pubDate>Mon, 24 Aug 2026 05:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF strikes Nukhba commander who infiltrated Israel on October 7]]></title>
-            <description><![CDATA[IDF strikes Nukhba commander who infiltrated Israel on October 7]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692276</guid>
-            <pubDate>Mon, 24 Aug 2026 04:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joint List calls for European oversight of elections]]></title>
-            <description><![CDATA[Joint List calls for European oversight of elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692275</guid>
-            <pubDate>Mon, 24 Aug 2026 03:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PA report: One killed in strike on tent in Deir al-Balah]]></title>
-            <description><![CDATA[PA report: One killed in strike on tent in Deir al-Balah]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692274</guid>
-            <pubDate>Mon, 24 Aug 2026 03:33:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

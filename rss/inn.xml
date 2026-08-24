@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 06:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 08:01:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 06:57:59 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 08:01:08 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Ben Gvir scores victory over AG: 'She failed again']]></title>
+            <description><![CDATA[Justice Noam Sohlberg rejects bid to bar National Security Minister Itamar Ben Gvir from speaking at event honoring civilian security squads, overruling Attorney General Gali Baharav-Miara.]]></description>
+            <link>https://www.israelnationalnews.com/news/432148</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432148</guid>
+            <pubDate>Mon, 24 Aug 2026 07:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China hosts robots from 16 countries for 'Robot Olympics' in Beijing]]></title>
+            <description><![CDATA[The competition between humans and machines turned into a genuine showdown, when a robot broke legendary sprinter Usain Bolt’s historic 100-meter record. Watch.]]></description>
+            <link>https://www.israelnationalnews.com/news/432150</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432150</guid>
+            <pubDate>Mon, 24 Aug 2026 07:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gerrer Rebbe approves Goldknopf to continue as Hasidic representative in the next Knesset.]]></title>
+            <description><![CDATA[Yitzhak Goldknopf receives Gerrer Rebbe's blessing to serve as Hasidic representative in next Knesset, 'We must learn from what happened and join efforts with all representatives of UTJ to correct situation.']]></description>
+            <link>https://www.israelnationalnews.com/news/432149</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432149</guid>
+            <pubDate>Mon, 24 Aug 2026 07:04:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PA police detain IDF reservist in Area C, seize his weapon]]></title>
             <description><![CDATA[Binyamin Council outraged after Palestinian Authority officers allegedly operate where they are prohibited, stop an Israeli reservist and take his military-issued weapon.]]></description>
@@ -25,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[Long Island teacher, mom of 4, dies after driving SUV into family pool]]></title>
-            <description><![CDATA[Long Island teacher, mom of 4, dies after driving SUV into family pool]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692280</guid>
+            <description><![CDATA['We are broken. We will never be the same,' Rachelle Rohde said as she mourned her 40-year-old daughter Allison Rahmani, a beloved mother of four who died after her SUV crashed into the pool at her Hewlett home.]]></description>
+            <link>https://www.israelnationalnews.com/news/432145</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432145</guid>
             <pubDate>Mon, 24 Aug 2026 06:03:00 GMT</pubDate>
         </item>
         <item>
@@ -218,23 +239,23 @@ The Civil Administration stressed: “Entering Area A is life-threatening and pr
         </item>
         <item>
             <title><![CDATA[YouTube prices jump in Israel as Google hikes subscription fees]]></title>
-            <description><![CDATA[Israeli YouTube users are about to pay more, with Premium subscriptions rising by roughly 25% and YouTube Music also getting a price increase.]]></description>
-            <link>https://www.israelnationalnews.com/news/432124</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432124</guid>
+            <description><![CDATA[YouTube prices jump in Israel as Google hikes subscription fees]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692255</guid>
             <pubDate>Sun, 23 Aug 2026 19:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Costly prank: Ordered 300 Pizzas - and could be sent to prison for 8 years?]]></title>
-            <description><![CDATA[A Polish citizen ordered 300 pizzas to the homes of local residents and politicians while impersonating them.]]></description>
-            <link>https://www.israelnationalnews.com/news/432123</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432123</guid>
+            <description><![CDATA[Costly prank: Ordered 300 Pizzas - and could be sent to prison for 8 years?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692254</guid>
             <pubDate>Sun, 23 Aug 2026 19:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kushner's extraordinary warning to Hamas]]></title>
-            <description><![CDATA[Jared Kushner reportedly met Hamas leader Khalil al-Hayya in Cairo after US intelligence indicated that some Hamas officials were planning to violate commitments to disarm.]]></description>
-            <link>https://www.israelnationalnews.com/news/432122</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432122</guid>
+            <description><![CDATA[Kushner's extraordinary warning to Hamas]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692253</guid>
             <pubDate>Sun, 23 Aug 2026 18:57:00 GMT</pubDate>
         </item>
         <item>
@@ -285,27 +306,6 @@ The Civil Administration stressed: “Entering Area A is life-threatening and pr
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692246</guid>
             <pubDate>Sun, 23 Aug 2026 14:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Terrorist attempts to steal soldier's weapon at Rimonim Square]]></title>
-            <description><![CDATA[Report: Terrorist attempts to steal soldier's weapon at Rimonim Square]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692245</guid>
-            <pubDate>Sun, 23 Aug 2026 14:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Force 100 soldier outraged: “Crimes were committed here"]]></title>
-            <description><![CDATA[Force 100 soldier outraged: “Crimes were committed here"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692244</guid>
-            <pubDate>Sun, 23 Aug 2026 13:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kidnapping and murder solved decades later]]></title>
-            <description><![CDATA[Kidnapping and murder solved decades later]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692243</guid>
-            <pubDate>Sun, 23 Aug 2026 13:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

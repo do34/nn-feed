@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 20:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 21:28:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 20:28:44 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 21:28:05 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Secret Service investigating Iranian video targeting Barron Trump]]></title>
+            <description><![CDATA[The Secret Service says it is investigating an Iranian state media video threatening Barron Trump and claiming his movements had been monitored.]]></description>
+            <link>https://www.israelnationalnews.com/news/432233</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432233</guid>
+            <pubDate>Tue, 25 Aug 2026 21:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yair Netanyahu to Winter’s candidates: You’ll waste votes]]></title>
+            <description><![CDATA[The Prime Minister’s son personally addresses each candidate on Ofer Winter’s slate, warning that further fragmentation of the national camp could help the left-wing bloc.]]></description>
+            <link>https://www.israelnationalnews.com/news/432232</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432232</guid>
+            <pubDate>Tue, 25 Aug 2026 20:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New report reveals: How PA schools celebrated the October 7 massacre]]></title>
             <description><![CDATA[A special report presents quotes from ceremonies, assemblies, and events held in Palestinian Authority schools honoring the heroism of Hamas terrorists on the day of the October 7 massacre.]]></description>
@@ -213,18 +227,16 @@ Alongside this, it was stated that Israel is also committed to the terms of the 
         </item>
         <item>
             <title><![CDATA[Smotrich reprimands Sukkot, instructs him not to repeat his actions]]></title>
-            <description><![CDATA[Religious Zionist Party chairman Bezalel Smotrich reprimanded MK Tzvi Sukkot for entering Palestinian Arab villages to destroy monuments to terrorists.
-
-Smotrich told Sukkot that the proper course is to act with authorization and within the bounds of one’s authority, “as is done on matters concerning Judea and Samaria communities," and demanded that he not do anything like this again.]]></description>
+            <description><![CDATA[Smotrich reprimands Sukkot, instructs him not to repeat his actions]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692354</guid>
             <pubDate>Tue, 25 Aug 2026 09:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pro-Palestinian activists target Israeli soccer player]]></title>
-            <description><![CDATA[Hours before Manor Solomon was set to face fellow Israeli Daniel Peretz, pro-Palestinian activists protested outside West Ham's training ground and demanded the club release the Israeli star.]]></description>
-            <link>https://www.israelnationalnews.com/news/432206</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432206</guid>
+            <description><![CDATA[Pro-Palestinian activists target Israeli soccer player]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692353</guid>
             <pubDate>Tue, 25 Aug 2026 09:47:00 GMT</pubDate>
         </item>
         <item>
@@ -282,20 +294,6 @@ Smotrich told Sukkot that the proper course is to act with authorization and wit
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692345</guid>
             <pubDate>Tue, 25 Aug 2026 07:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MK takes matters into his own hands, smashes terrorist monuments]]></title>
-            <description><![CDATA[MK takes matters into his own hands, smashes terrorist monuments]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692344</guid>
-            <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yeshiva student arrested in late-night military raid]]></title>
-            <description><![CDATA[Yeshiva student arrested in late-night military raid]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692343</guid>
-            <pubDate>Tue, 25 Aug 2026 06:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

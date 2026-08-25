@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 03:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 04:38:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 03:53:56 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 04:38:49 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Why is Mark Ruffalo using the genocide libel again?]]></title>
+            <description><![CDATA[Mark Ruffalo once admitted the “Genocide" libel fuels antisemitism. Now he’s doing it again? Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/432193</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432193</guid>
+            <pubDate>Tue, 25 Aug 2026 04:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Destroying the Evidence: UNESCO against its own nature]]></title>
+            <description><![CDATA[What happens when the custodian of memory alters it? Archaeology does not change its nature according to who operates the excavator.]]></description>
+            <link>https://www.israelnationalnews.com/news/432192</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432192</guid>
+            <pubDate>Tue, 25 Aug 2026 04:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Syria sentences Assad-era grand mufti to life in prison]]></title>
             <description><![CDATA[A Syrian court sentences former grand mufti Ahmed Hassoun to life in prison after convicting him of inciting civil war and intentional killing.]]></description>
@@ -213,16 +227,16 @@ IDF forces are conducting searches in the area to rule out a border crossing, wh
         </item>
         <item>
             <title><![CDATA[‘They beat and kicked me’: Reservist recounts detention by PA Forces]]></title>
-            <description><![CDATA[IDF reservist says PA officers beat him, sprayed him with pepper spray, seized his weapon and took him handcuffed into Ramallah after stopping his car in Area C.]]></description>
-            <link>https://www.israelnationalnews.com/news/432169</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432169</guid>
+            <description><![CDATA[‘They beat and kicked me’: Reservist recounts detention by PA Forces]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692308</guid>
             <pubDate>Mon, 24 Aug 2026 15:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu and Katz presented with data showing decline in terrorism]]></title>
-            <description><![CDATA[The Prime Minister and Defense Minister held a situational assessment at Central Command. Minister Katz: “The number of terrorist attacks in Judea and Samaria has fallen to levels we have never seen before."]]></description>
-            <link>https://www.israelnationalnews.com/news/432168</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432168</guid>
+            <description><![CDATA[Netanyahu and Katz presented with data showing decline in terrorism]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692307</guid>
             <pubDate>Mon, 24 Aug 2026 14:43:00 GMT</pubDate>
         </item>
         <item>
@@ -280,20 +294,6 @@ IDF forces are conducting searches in the area to rule out a border crossing, wh
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692299</guid>
             <pubDate>Mon, 24 Aug 2026 12:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump: 'Iran is completely collapsing']]></title>
-            <description><![CDATA[Trump: 'Iran is completely collapsing']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692298</guid>
-            <pubDate>Mon, 24 Aug 2026 12:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tax Authority tightens rules for haredi yeshivas over draft status]]></title>
-            <description><![CDATA[Tax Authority tightens rules for haredi yeshivas over draft status]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692297</guid>
-            <pubDate>Mon, 24 Aug 2026 12:29:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

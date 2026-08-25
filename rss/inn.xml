@@ -4,11 +4,34 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 10:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 11:27:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 10:32:41 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 11:27:29 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump on Iran: 'Humanitarian crisis of epic proportions']]></title>
+            <description><![CDATA[US President Donald Trump addressed the economic situation in Iran amid increasing US sanctions and condemned the regime for executing protesters.
+
+"The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. It is a humanitarian crisis of epic proportions, and must be stopped," he wrote on Truth Social.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692360</guid>
+            <pubDate>Tue, 25 Aug 2026 11:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Trump is rewarding Hamas': Nadia Matar calls to halt Gaza aid, reconstruction]]></title>
+            <description><![CDATA[Sovereignty Movement co-chair speaks to Arutz Sheva at demonstration outside ISF base, calls to cancel agreement and restore Israeli sovereignty and Jewish settlement in Gaza.]]></description>
+            <link>https://www.israelnationalnews.com/news/432211</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432211</guid>
+            <pubDate>Tue, 25 Aug 2026 10:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smotrich backs Sukkot memorial demolition, with one major caveat]]></title>
+            <description><![CDATA[Finance Minister Bezalel Smotrich said the terror memorial should have been removed long ago, but insisted that only the IDF has the authority to carry out such actions.]]></description>
+            <link>https://www.israelnationalnews.com/news/432210</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432210</guid>
+            <pubDate>Tue, 25 Aug 2026 10:33:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['A clear warning' | Watch: IDF strikes Hamas weapons sites in mosques]]></title>
             <description><![CDATA[IDF launches series of strikes targeting five Hamas weapon storage facilities and a launch site inside mosques and alongside humanitarian infrastructure in the Gaza Strip.]]></description>
@@ -34,7 +57,9 @@
         </item>
         <item>
             <title><![CDATA[Smotrich reprimands Sukkot, instructs him not to repeat his actions]]></title>
-            <description><![CDATA[Smotrich reprimands Sukkot, instructs him not to repeat his actions]]></description>
+            <description><![CDATA[Religious Zionist Party chairman Bezalel Smotrich reprimanded MK Tzvi Sukkot for entering Palestinian Arab villages to destroy monuments to terrorists.
+
+Smotrich told Sukkot that the proper course is to act with authorization and within the bounds of one’s authority, “as is done on matters concerning Judea and Samaria communities," and demanded that he not do anything like this again.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692354</guid>
             <pubDate>Tue, 25 Aug 2026 09:49:00 GMT</pubDate>
@@ -204,23 +229,21 @@
         </item>
         <item>
             <title><![CDATA[Report: IDF carries out strike in central Gaza]]></title>
-            <description><![CDATA[Palestinian Arab media reported early Tuesday that the IDF carried out a strike in central Gaza.]]></description>
+            <description><![CDATA[Report: IDF carries out strike in central Gaza]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692330</guid>
             <pubDate>Tue, 25 Aug 2026 00:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Poll: Winter’s party sends right-wing bloc to new low]]></title>
-            <description><![CDATA[New poll examines a scenario in which Ofer Winter’s party runs independently. In that scenario, the Religious Zionist Party fails to cross the electoral threshold and the right-wing bloc falls to 49 seats.]]></description>
-            <link>https://www.israelnationalnews.com/news/432185</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432185</guid>
+            <description><![CDATA[Poll: Winter’s party sends right-wing bloc to new low]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692329</guid>
             <pubDate>Tue, 25 Aug 2026 00:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two men injured in shooting in Baka al-Gharbiyyeh, criminal motive suspected]]></title>
-            <description><![CDATA[Two men were seriously and moderately injured in a shooting in Baka al-Gharbiyyeh. Magen David Adom (MDA) medics and paramedics evacuated them to Hillel Yaffe Hospital in Hadera.
-
-Police forces are at the scene, collecting evidence and investigating the incident. The shooting is believed to have been criminally motivated.]]></description>
+            <description><![CDATA[Two men injured in shooting in Baka al-Gharbiyyeh, criminal motive suspected]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692328</guid>
             <pubDate>Mon, 24 Aug 2026 23:51:00 GMT</pubDate>
@@ -273,27 +296,6 @@ Police forces are at the scene, collecting evidence and investigating the incide
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692321</guid>
             <pubDate>Mon, 24 Aug 2026 19:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Victim to Arutz Sheva: PA security forces lied, they attacked me]]></title>
-            <description><![CDATA[Victim to Arutz Sheva: PA security forces lied, they attacked me]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692320</guid>
-            <pubDate>Mon, 24 Aug 2026 19:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Border Police blocked the road, residents entered on foot]]></title>
-            <description><![CDATA[Border Police blocked the road, residents entered on foot]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692319</guid>
-            <pubDate>Mon, 24 Aug 2026 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian official: US economic sanctions plan an attempt to harm the Iranian people]]></title>
-            <description><![CDATA[Iranian official: US economic sanctions plan an attempt to harm the Iranian people]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692318</guid>
-            <pubDate>Mon, 24 Aug 2026 18:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 02:58:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 03:53:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 02:58:28 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 03:53:56 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Syria sentences Assad-era grand mufti to life in prison]]></title>
+            <description><![CDATA[A Syrian court sentences former grand mufti Ahmed Hassoun to life in prison after convicting him of inciting civil war and intentional killing.]]></description>
+            <link>https://www.israelnationalnews.com/news/432191</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432191</guid>
+            <pubDate>Tue, 25 Aug 2026 03:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netherlands pulls out of 2027 Eurovision over Israel and Gaza war]]></title>
+            <description><![CDATA[The Netherlands will skip Eurovision 2027, claiming the Gaza war and Israel's participation have undermined the contest's political neutrality.]]></description>
+            <link>https://www.israelnationalnews.com/news/432190</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432190</guid>
+            <pubDate>Tue, 25 Aug 2026 03:11:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Disgraceful and shameful' | MK Sukkot demands arrest of PA police officers]]></title>
             <description><![CDATA[MK Tzvi Sukkot visits scene where an Israeli reservist was attacked by PA police officers, calls on defense establishment to bring those involved to justice.]]></description>
@@ -25,9 +39,9 @@
         </item>
         <item>
             <title><![CDATA[Erdan on Gaza border: Explosive kites are back - time to make Hamas pay a heavy price]]></title>
-            <description><![CDATA[Erdan on Gaza border: Explosive kites are back - time to make Hamas pay a heavy price]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692332</guid>
+            <description><![CDATA[Unity Party chairman Gilad Erdan and Col. (res.) Hezi Nechama tour the Gaza border area following the renewed launch of explosive kites, call for a change in policy.]]></description>
+            <link>https://www.israelnationalnews.com/news/432187</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432187</guid>
             <pubDate>Tue, 25 Aug 2026 01:54:00 GMT</pubDate>
         </item>
         <item>
@@ -213,16 +227,16 @@ IDF forces are conducting searches in the area to rule out a border crossing, wh
         </item>
         <item>
             <title><![CDATA[Why Omer Adam’s wedding will have separate seating for men and women]]></title>
-            <description><![CDATA[Omer Adam and Sacha Israelovich’s lavish wedding in Italy will reportedly feature separate seating for men and women due to a condition set by haredi singer Motty Steinmetz.]]></description>
-            <link>https://www.israelnationalnews.com/news/432167</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432167</guid>
+            <description><![CDATA[Why Omer Adam’s wedding will have separate seating for men and women]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692306</guid>
             <pubDate>Mon, 24 Aug 2026 14:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In three months | 13 kilometers of terror tunnels destroyed in Gaza]]></title>
-            <description><![CDATA[Paratroopers Brigade troops completed their defensive and infrastructure-clearing missions along the “Yellow Line." The tunnel in which the late Lt. Hadar Goldin was held was also destroyed.]]></description>
-            <link>https://www.israelnationalnews.com/news/432166</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432166</guid>
+            <description><![CDATA[In three months | 13 kilometers of terror tunnels destroyed in Gaza]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692305</guid>
             <pubDate>Mon, 24 Aug 2026 14:11:00 GMT</pubDate>
         </item>
         <item>
@@ -280,20 +294,6 @@ IDF forces are conducting searches in the area to rule out a border crossing, wh
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692297</guid>
             <pubDate>Mon, 24 Aug 2026 12:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chabad rabbis sound alarm over construction at ancient Hebron cemetery]]></title>
-            <description><![CDATA[Chabad rabbis sound alarm over construction at ancient Hebron cemetery]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692296</guid>
-            <pubDate>Mon, 24 Aug 2026 12:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF officer injured in accidental shooting at military base]]></title>
-            <description><![CDATA[IDF officer injured in accidental shooting at military base]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692295</guid>
-            <pubDate>Mon, 24 Aug 2026 11:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

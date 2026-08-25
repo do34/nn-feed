@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 16:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 17:31:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 16:37:01 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 17:31:53 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Suspects arrested in murder of Caucasian Mafia boss]]></title>
+            <description><![CDATA[Following a manhunt and intelligence guidance from the Coastal District Central Unit, Yamam officers arrested suspects in Hadera in connection with the murder of Caucasian mafia boss Yanis Yushbayev.]]></description>
+            <link>https://www.israelnationalnews.com/news/432227</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432227</guid>
+            <pubDate>Tue, 25 Aug 2026 17:16:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finance Ministry reveals: How much do reservists cost the economy?]]></title>
             <description><![CDATA[The Chief Economist updates the cost of a reservist to NIS 53,000 per month and estimates: Replacing 10,000 of them with regular soldiers would save billions.]]></description>
@@ -224,9 +231,9 @@ Smotrich told Sukkot that the proper course is to act with authorization and wit
         </item>
         <item>
             <title><![CDATA[U.S. threatens sanctions on firms still doing business with Iran]]></title>
-            <description><![CDATA[Washington is moving to isolate Iran from the global economy, threatening sanctions against entities that continue trading with Tehran.]]></description>
-            <link>https://www.israelnationalnews.com/news/432203</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432203</guid>
+            <description><![CDATA[U.S. threatens sanctions on firms still doing business with Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692347</guid>
             <pubDate>Tue, 25 Aug 2026 08:02:00 GMT</pubDate>
         </item>
         <item>
@@ -291,13 +298,6 @@ Smotrich told Sukkot that the proper course is to act with authorization and wit
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692338</guid>
             <pubDate>Tue, 25 Aug 2026 04:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Destroying the Evidence: UNESCO against its own nature]]></title>
-            <description><![CDATA[Destroying the Evidence: UNESCO against its own nature]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692337</guid>
-            <pubDate>Tue, 25 Aug 2026 04:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

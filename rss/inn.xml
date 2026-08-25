@@ -4,17 +4,33 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 22:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 23:25:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 22:27:14 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 23:25:01 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Iran vows Strait of Hormuz will remain closed, warns of preemptive action]]></title>
+            <description><![CDATA[Iran’s Deputy Foreign Minister says the Strait of Hormuz will remain closed until key conditions are met.]]></description>
+            <link>https://www.israelnationalnews.com/news/432235</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432235</guid>
+            <pubDate>Tue, 25 Aug 2026 23:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reports: IDF carries out strikes in southern Lebanon]]></title>
+            <description><![CDATA[Lebanese media reported that the IDF carried out a strike overnight in Kfar Rumman, in the Nabatieh Governorate of southern Lebanon.
+
+Additional IDF strikes were also reported in Ali al-Taher, Al-Mansouri, Zar'bin and Al-Qantara.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692387</guid>
+            <pubDate>Tue, 25 Aug 2026 22:42:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: Rubio tells allies US is not planning new Iran strikes 'for the time being']]></title>
             <description><![CDATA[Report: Rubio tells allies US is not planning new Iran strikes 'for the time being']]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692386</guid>
-            <pubDate>Mon, 24 Aug 2026 22:21:00 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 22:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Likud: Ballots from primary election in Be’er Ya’akov to be recounted]]></title>
@@ -213,16 +229,16 @@ Alongside this, it was stated that Israel is also committed to the terms of the 
         </item>
         <item>
             <title><![CDATA[Smotrich backs Sukkot memorial demolition, with one major caveat]]></title>
-            <description><![CDATA[Finance Minister Bezalel Smotrich said the terror memorial should have been removed long ago, but insisted that only the IDF has the authority to carry out such actions.]]></description>
-            <link>https://www.israelnationalnews.com/news/432210</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432210</guid>
+            <description><![CDATA[Smotrich backs Sukkot memorial demolition, with one major caveat]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692358</guid>
             <pubDate>Tue, 25 Aug 2026 10:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['A clear warning' | Watch: IDF strikes Hamas weapons sites in mosques]]></title>
-            <description><![CDATA[IDF launches series of strikes targeting five Hamas weapon storage facilities and a launch site inside mosques and alongside humanitarian infrastructure in the Gaza Strip.]]></description>
-            <link>https://www.israelnationalnews.com/news/432209</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432209</guid>
+            <description><![CDATA['A clear warning' | Watch: IDF strikes Hamas weapons sites in mosques]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692357</guid>
             <pubDate>Tue, 25 Aug 2026 10:30:00 GMT</pubDate>
         </item>
         <item>
@@ -280,20 +296,6 @@ Alongside this, it was stated that Israel is also committed to the terms of the 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692349</guid>
             <pubDate>Tue, 25 Aug 2026 08:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘We will stop it’: Gaza border residents protest outside international force base]]></title>
-            <description><![CDATA[‘We will stop it’: Gaza border residents protest outside international force base]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692348</guid>
-            <pubDate>Tue, 25 Aug 2026 08:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. threatens sanctions on firms still doing business with Iran]]></title>
-            <description><![CDATA[U.S. threatens sanctions on firms still doing business with Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692347</guid>
-            <pubDate>Tue, 25 Aug 2026 08:02:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 12:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 13:50:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 12:46:41 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 13:50:46 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Katz’s message to Syrian Pres. from Mt. Hermon summit]]></title>
+            <description><![CDATA[Defense Minister visits IDF troops at the summit of Mount Hermon and sends a message to Damascus: “As long as there are threats, the IDF will remain here."]]></description>
+            <link>https://www.israelnationalnews.com/news/432215</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432215</guid>
+            <pubDate>Tue, 25 Aug 2026 13:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu: Israel won't allow org. with members complicit with terror to operate in its territory]]></title>
+            <description><![CDATA[Prime Minister Netnayhu stated: "In accordance with my directive and following the law we passed, the evacuation of the UNRWA compound in Kafr Aqab, Jerusalem, began today. The State of Israel will not allow an organization whose employees were complicit in terrorism and the October 7 massacre to operate within its territory, and will act against it by all means at its disposal."]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692363</guid>
+            <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swastika sprayed on road in Gilo, Jerusalem]]></title>
+            <description><![CDATA[A swastika was sprayed on the road on Yakinton Street in the Gilo neighborhood of Jerusalem this morning. Sanitation officials removed the symbol, and residents called on the police to check the security cameras in the area and locate those responsible for the act.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692362</guid>
+            <pubDate>Tue, 25 Aug 2026 12:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tragedy: Premature baby dies 6 weeks after mother killed in car accident]]></title>
+            <description><![CDATA[Tragedy: Premature baby dies 6 weeks after mother killed in car accident]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692361</guid>
+            <pubDate>Tue, 25 Aug 2026 12:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump on Iran: 'Humanitarian crisis of epic proportions']]></title>
             <description><![CDATA[US President Donald Trump addressed the economic situation in Iran amid increasing US sanctions and condemned the regime for executing protesters.
@@ -201,30 +229,30 @@ Smotrich told Sukkot that the proper course is to act with authorization and wit
         </item>
         <item>
             <title><![CDATA['Disgraceful and shameful' | MK Sukkot demands arrest of PA police officers]]></title>
-            <description><![CDATA[MK Tzvi Sukkot visits scene where an Israeli reservist was attacked by PA police officers, calls on defense establishment to bring those involved to justice.]]></description>
-            <link>https://www.israelnationalnews.com/news/432189</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432189</guid>
+            <description><![CDATA['Disgraceful and shameful' | MK Sukkot demands arrest of PA police officers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692334</guid>
             <pubDate>Tue, 25 Aug 2026 02:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US offers up to $10 million for information on five senior IRGC commanders]]></title>
-            <description><![CDATA[US State Department is offering up to $10 million and possible relocation for information on five senior Islamic Revolutionary Guard Corps commanders.]]></description>
-            <link>https://www.israelnationalnews.com/news/432188</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432188</guid>
+            <description><![CDATA[US offers up to $10 million for information on five senior IRGC commanders]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692333</guid>
             <pubDate>Tue, 25 Aug 2026 02:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Erdan on Gaza border: Explosive kites are back - time to make Hamas pay a heavy price]]></title>
-            <description><![CDATA[Unity Party chairman Gilad Erdan and Col. (res.) Hezi Nechama tour the Gaza border area following the renewed launch of explosive kites, call for a change in policy.]]></description>
-            <link>https://www.israelnationalnews.com/news/432187</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432187</guid>
+            <description><![CDATA[Erdan on Gaza border: Explosive kites are back - time to make Hamas pay a heavy price]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692332</guid>
             <pubDate>Tue, 25 Aug 2026 01:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Abdul El-Sayed distances campaign from Hasan Piker after antisemitic remarks]]></title>
-            <description><![CDATA[Michigan Senate candidate Abdul El-Sayed distances his campaign from Hasan Piker after the streamer’s remarks about Jewish Americans spark renewed controversy.]]></description>
-            <link>https://www.israelnationalnews.com/news/432186</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432186</guid>
+            <description><![CDATA[Abdul El-Sayed distances campaign from Hasan Piker after antisemitic remarks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692331</guid>
             <pubDate>Tue, 25 Aug 2026 01:13:00 GMT</pubDate>
         </item>
         <item>
@@ -268,34 +296,6 @@ Smotrich told Sukkot that the proper course is to act with authorization and wit
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692325</guid>
             <pubDate>Mon, 24 Aug 2026 22:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF detects suspicious activity near Jordan Valley border; searches underway]]></title>
-            <description><![CDATA[IDF detects suspicious activity near Jordan Valley border; searches underway]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692324</guid>
-            <pubDate>Mon, 24 Aug 2026 21:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hegseth clarifies: US not ruling out military strikes against Iran]]></title>
-            <description><![CDATA[Hegseth clarifies: US not ruling out military strikes against Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692323</guid>
-            <pubDate>Mon, 24 Aug 2026 21:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu welcomes new US sanctions on Iran: A steep price]]></title>
-            <description><![CDATA[Netanyahu welcomes new US sanctions on Iran: A steep price]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692322</guid>
-            <pubDate>Mon, 24 Aug 2026 20:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel’s demand: Stop kite terrorism]]></title>
-            <description><![CDATA[Israel’s demand: Stop kite terrorism]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692321</guid>
-            <pubDate>Mon, 24 Aug 2026 19:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

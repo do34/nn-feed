@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 15:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 16:37:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 15:42:06 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 16:37:01 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Finance Ministry reveals: How much do reservists cost the economy?]]></title>
+            <description><![CDATA[The Chief Economist updates the cost of a reservist to NIS 53,000 per month and estimates: Replacing 10,000 of them with regular soldiers would save billions.]]></description>
+            <link>https://www.israelnationalnews.com/news/432226</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432226</guid>
+            <pubDate>Tue, 25 Aug 2026 16:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamas kites: First step in psychological warfare]]></title>
+            <description><![CDATA[Dr. Schleifer, expert in psychological warfare, says the seemingly innocent kites launched from Gaza are the beginning of a planned and systematic Hamas effort to acclimate Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/432225</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432225</guid>
+            <pubDate>Tue, 25 Aug 2026 16:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Galas don't build alliances]]></title>
+            <description><![CDATA[People remember those who helped them. But they usually become even more deeply attached to those who appreciated them enough to accept their help. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/432224</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432224</guid>
+            <pubDate>Tue, 25 Aug 2026 15:57:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[President Herzog to family: Shin Bet joins search for Hymanut Kassaou]]></title>
             <description><![CDATA[President Isaac Herzog told Hymanot Kassau’s family that the Shin Bet has joined the investigation and efforts to locate the 9-year-old, who has been missing for about two and a half years.]]></description>
@@ -210,23 +231,23 @@ Smotrich told Sukkot that the proper course is to act with authorization and wit
         </item>
         <item>
             <title><![CDATA[T’shuva makes the world go ‘round]]></title>
-            <description><![CDATA[While Rabbi Kook emphasizes that the teshuva of the Jewish People and a return to the Torah go hand-in-hand, he indicates that a preliminary stage of national revival will bring this spiritual awakening to pass.]]></description>
-            <link>https://www.israelnationalnews.com/news/432202</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432202</guid>
+            <description><![CDATA[T’shuva makes the world go ‘round]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692346</guid>
             <pubDate>Tue, 25 Aug 2026 07:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The great mission of Torah teachers]]></title>
-            <description><![CDATA[The study of Torah, through which the spiritual world is sustained, is carried out by Torah scholars and by all Jews who set aside regular times for Torah study.]]></description>
-            <link>https://www.israelnationalnews.com/news/432201</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432201</guid>
+            <description><![CDATA[The great mission of Torah teachers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692345</guid>
             <pubDate>Tue, 25 Aug 2026 07:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MK takes matters into his own hands, smashes terrorist monuments]]></title>
-            <description><![CDATA[MK Tzvi Sukkot takes a sledgehammer to monuments honoring terrorists near Yitzhar, saying authorities failed to act despite his earlier demands.]]></description>
-            <link>https://www.israelnationalnews.com/news/432200</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432200</guid>
+            <description><![CDATA[MK takes matters into his own hands, smashes terrorist monuments]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692344</guid>
             <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
         </item>
         <item>
@@ -277,27 +298,6 @@ Smotrich told Sukkot that the proper course is to act with authorization and wit
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692337</guid>
             <pubDate>Tue, 25 Aug 2026 04:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syria sentences Assad-era grand mufti to life in prison]]></title>
-            <description><![CDATA[Syria sentences Assad-era grand mufti to life in prison]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692336</guid>
-            <pubDate>Tue, 25 Aug 2026 03:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netherlands pulls out of 2027 Eurovision over Israel and Gaza war]]></title>
-            <description><![CDATA[Netherlands pulls out of 2027 Eurovision over Israel and Gaza war]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692335</guid>
-            <pubDate>Tue, 25 Aug 2026 03:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Disgraceful and shameful' | MK Sukkot demands arrest of PA police officers]]></title>
-            <description><![CDATA['Disgraceful and shameful' | MK Sukkot demands arrest of PA police officers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692334</guid>
-            <pubDate>Tue, 25 Aug 2026 02:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

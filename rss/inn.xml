@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 06:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 07:43:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 06:47:03 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 07:43:08 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[T’shuva makes the world go ‘round]]></title>
+            <description><![CDATA[While Rabbi Kook emphasizes that the teshuva of the Jewish People and a return to the Torah go hand-in-hand, he indicates that a preliminary stage of national revival will bring this spiritual awakening to pass.]]></description>
+            <link>https://www.israelnationalnews.com/news/432202</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432202</guid>
+            <pubDate>Tue, 25 Aug 2026 07:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The great mission of Torah teachers]]></title>
+            <description><![CDATA[The study of Torah, through which the spiritual world is sustained, is carried out by Torah scholars and by all Jews who set aside regular times for Torah study.]]></description>
+            <link>https://www.israelnationalnews.com/news/432201</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432201</guid>
+            <pubDate>Tue, 25 Aug 2026 07:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MK takes matters into his own hands, smashes terrorist monuments]]></title>
+            <description><![CDATA[MK takes matters into his own hands, smashes terrorist monuments]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692344</guid>
+            <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yeshiva student arrested in late-night military raid]]></title>
+            <description><![CDATA[Military Police officers in civilian clothes raided a family home in Haifa late at night and arrested a 22-year-old yeshiva graduate.]]></description>
+            <link>https://www.israelnationalnews.com/news/432199</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432199</guid>
+            <pubDate>Tue, 25 Aug 2026 06:57:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mossad chief backs controversial Bedouin industrial zone]]></title>
             <description><![CDATA[Mossad Director Roman Gofman has thrown his support behind a disputed plan for a 200-dunam industrial zone near Bir Hadaj, arguing that jobs could strengthen security and weaken criminal elements.]]></description>
@@ -199,28 +227,28 @@ IDF forces are conducting searches in the area to rule out a border crossing, wh
         </item>
         <item>
             <title><![CDATA[Operation Economic Outcast: Bessent declares 'economic onslaught' on Iran's economy]]></title>
-            <description><![CDATA[US Treasury Secretary Scott Bessent holds a press conference to announce new sanctions and economic measures against Iran.]]></description>
-            <link>https://www.israelnationalnews.com/news/432177</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432177</guid>
+            <description><![CDATA[Operation Economic Outcast: Bessent declares 'economic onslaught' on Iran's economy]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692316</guid>
             <pubDate>Mon, 24 Aug 2026 17:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF arrests son of terrorist slain last week, terror attack foiled]]></title>
-            <description><![CDATA[IDF and Shin Bet forces arrest Jenin terrorist Imam Hazzam, who allegedly planned an attack after his father was eliminated during a stabbing attempt.]]></description>
-            <link>https://www.israelnationalnews.com/news/432176</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432176</guid>
+            <description><![CDATA[IDF arrests son of terrorist slain last week, terror attack foiled]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692315</guid>
             <pubDate>Mon, 24 Aug 2026 16:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF destroys Hamas weapons storage caches in Gaza mosques]]></title>
-            <description><![CDATA[According to the IDF, dozens of rifles were stored inside the Shati and Deir al-Balah area mosques in violation of international law.]]></description>
-            <link>https://www.israelnationalnews.com/news/432175</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432175</guid>
+            <description><![CDATA[IDF destroys Hamas weapons storage caches in Gaza mosques]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692314</guid>
             <pubDate>Mon, 24 Aug 2026 16:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu reveals Iran attempted to assassinate one of his children]]></title>
-            <description><![CDATA[Read More]]></description>
+            <description><![CDATA[Netanyahu reveals Iran attempted to assassinate one of his children]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692313</guid>
             <pubDate>Mon, 24 Aug 2026 16:29:00 GMT</pubDate>
@@ -266,34 +294,6 @@ IDF forces are conducting searches in the area to rule out a border crossing, wh
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692307</guid>
             <pubDate>Mon, 24 Aug 2026 14:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Omer Adam’s wedding will have separate seating for men and women]]></title>
-            <description><![CDATA[Why Omer Adam’s wedding will have separate seating for men and women]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692306</guid>
-            <pubDate>Mon, 24 Aug 2026 14:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In three months | 13 kilometers of terror tunnels destroyed in Gaza]]></title>
-            <description><![CDATA[In three months | 13 kilometers of terror tunnels destroyed in Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692305</guid>
-            <pubDate>Mon, 24 Aug 2026 14:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian threat against Trump’s son]]></title>
-            <description><![CDATA[Iranian threat against Trump’s son]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692304</guid>
-            <pubDate>Mon, 24 Aug 2026 14:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another kite sent from Gaza found on a tree in Kibbutz Nahal Oz]]></title>
-            <description><![CDATA[Another kite sent from Gaza found on a tree in Kibbutz Nahal Oz]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692303</guid>
-            <pubDate>Mon, 24 Aug 2026 13:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

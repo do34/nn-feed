@@ -4,11 +4,48 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 09:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 10:32:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 09:35:00 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 10:32:41 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA['A clear warning' | Watch: IDF strikes Hamas weapons sites in mosques]]></title>
+            <description><![CDATA[IDF launches series of strikes targeting five Hamas weapon storage facilities and a launch site inside mosques and alongside humanitarian infrastructure in the Gaza Strip.]]></description>
+            <link>https://www.israelnationalnews.com/news/432209</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432209</guid>
+            <pubDate>Tue, 25 Aug 2026 10:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arab recruitment to Israel Police plummets]]></title>
+            <description><![CDATA[Official figures show a sharp decline in Arab recruitment to the Israel Police, as ministry officials point to stricter vetting and Hebrew requirements.]]></description>
+            <link>https://www.israelnationalnews.com/news/432208</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432208</guid>
+            <pubDate>Tue, 25 Aug 2026 10:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu condemns Sukkot: 'Prevents the IDF from focusing on its missions']]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu criticized MK Tzvi Sukkot for entering Arab villages in Samaria to destroy monuments to terrorists, saying the MK took the law into his own hands.
+
+“The IDF is the sovereign authority in Judea and Samaria and is responsible for implementing the decisions of the political echelon. Taking the law into one’s own hands, particularly by public officials, is unacceptable and prevents the IDF from focusing on its missions against terrorism and incitement," Netanyahu stated.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692355</guid>
+            <pubDate>Tue, 25 Aug 2026 10:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smotrich reprimands Sukkot, instructs him not to repeat his actions]]></title>
+            <description><![CDATA[Smotrich reprimands Sukkot, instructs him not to repeat his actions]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692354</guid>
+            <pubDate>Tue, 25 Aug 2026 09:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pro-Palestinian activists target Israeli soccer player]]></title>
+            <description><![CDATA[Hours before Manor Solomon was set to face fellow Israeli Daniel Peretz, pro-Palestinian activists protested outside West Ham's training ground and demanded the club release the Israeli star.]]></description>
+            <link>https://www.israelnationalnews.com/news/432206</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432206</guid>
+            <pubDate>Tue, 25 Aug 2026 09:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IDF responds to Sukkot: 'Plans had been drawn up to demolish the monument']]></title>
             <description><![CDATA[IDF officials clarified on Tuesday morning that plans had been drawn up to demolish the monument smashed by MK Sukkot in the village of Madama, near Yitzhar, and that the operation was scheduled to take place in the coming weeks. “Dozens of similar monuments have already been demolished in Judea and Samaria, and an operation to demolish this monument legally and in an orderly manner by the security forces was scheduled to take place in the coming weeks. Preliminary inspections were also conducted by the Samaria Brigade ahead of the demolition of monuments," the officials said.]]></description>
@@ -190,41 +227,37 @@ Police forces are at the scene, collecting evidence and investigating the incide
         </item>
         <item>
             <title><![CDATA[Iran vows to withstand new US sanctions, says Washington faces 'another defeat']]></title>
-            <description><![CDATA[Iran's economy minister says Tehran has a two-year plan to counter new US sanctions after Washington announces a sweeping economic campaign.]]></description>
-            <link>https://www.israelnationalnews.com/news/432184</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432184</guid>
+            <description><![CDATA[Iran vows to withstand new US sanctions, says Washington faces 'another defeat']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692327</guid>
             <pubDate>Mon, 24 Aug 2026 23:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Oil tanker hit by unidentified missile near Oman]]></title>
-            <description><![CDATA[The United Kingdom Maritime Trade Operations (UKMTO) reported a maritime incident approximately nine nautical miles northeast of Oman, during which an oil tanker was struck by an unidentified missile. The impact damaged the tanker’s engine room, but no crew members were injured.
-
-According to the organization, the environmental impact of the incident is not yet known.]]></description>
+            <description><![CDATA[Report: Oil tanker hit by unidentified missile near Oman]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692326</guid>
             <pubDate>Mon, 24 Aug 2026 22:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump administration removes Syria from US list of state sponsors of terrorism]]></title>
-            <description><![CDATA[The Trump administration removes Syria from the US terror list, easing sanctions and opening the door to investment and reintegration into global markets.]]></description>
-            <link>https://www.israelnationalnews.com/news/432183</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432183</guid>
+            <description><![CDATA[Trump administration removes Syria from US list of state sponsors of terrorism]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692325</guid>
             <pubDate>Mon, 24 Aug 2026 22:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF detects suspicious activity near Jordan Valley border; searches underway]]></title>
-            <description><![CDATA[IDF surveillance systems detected suspicious movement along the eastern border in the Jordan Valley area on Monday evening.
-
-IDF forces are conducting searches in the area to rule out a border crossing, while roads in the vicinity are being blocked as troops work to locate the suspects.]]></description>
+            <description><![CDATA[IDF detects suspicious activity near Jordan Valley border; searches underway]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692324</guid>
             <pubDate>Mon, 24 Aug 2026 21:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hegseth clarifies: US not ruling out military strikes against Iran]]></title>
-            <description><![CDATA[US Secretary of War Pete Hegseth says Washington is not ruling out military strikes against Iran despite its new campaign of economic pressure.]]></description>
-            <link>https://www.israelnationalnews.com/news/432182</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432182</guid>
+            <description><![CDATA[Hegseth clarifies: US not ruling out military strikes against Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692323</guid>
             <pubDate>Mon, 24 Aug 2026 21:22:00 GMT</pubDate>
         </item>
         <item>
@@ -261,41 +294,6 @@ IDF forces are conducting searches in the area to rule out a border crossing, wh
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692318</guid>
             <pubDate>Mon, 24 Aug 2026 18:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US removes Syria from list of state sponsors of terrorism]]></title>
-            <description><![CDATA[US removes Syria from list of state sponsors of terrorism]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692317</guid>
-            <pubDate>Mon, 24 Aug 2026 17:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Operation Economic Outcast: Bessent declares 'economic onslaught' on Iran's economy]]></title>
-            <description><![CDATA[Operation Economic Outcast: Bessent declares 'economic onslaught' on Iran's economy]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692316</guid>
-            <pubDate>Mon, 24 Aug 2026 17:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF arrests son of terrorist slain last week, terror attack foiled]]></title>
-            <description><![CDATA[IDF arrests son of terrorist slain last week, terror attack foiled]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692315</guid>
-            <pubDate>Mon, 24 Aug 2026 16:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF destroys Hamas weapons storage caches in Gaza mosques]]></title>
-            <description><![CDATA[IDF destroys Hamas weapons storage caches in Gaza mosques]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692314</guid>
-            <pubDate>Mon, 24 Aug 2026 16:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu reveals Iran attempted to assassinate one of his children]]></title>
-            <description><![CDATA[Netanyahu reveals Iran attempted to assassinate one of his children]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692313</guid>
-            <pubDate>Mon, 24 Aug 2026 16:29:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

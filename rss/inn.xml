@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 01:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 02:58:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 01:14:47 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 02:58:28 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA['Disgraceful and shameful' | MK Sukkot demands arrest of PA police officers]]></title>
+            <description><![CDATA[MK Tzvi Sukkot visits scene where an Israeli reservist was attacked by PA police officers, calls on defense establishment to bring those involved to justice.]]></description>
+            <link>https://www.israelnationalnews.com/news/432189</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432189</guid>
+            <pubDate>Tue, 25 Aug 2026 02:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US offers up to $10 million for information on five senior IRGC commanders]]></title>
+            <description><![CDATA[US State Department is offering up to $10 million and possible relocation for information on five senior Islamic Revolutionary Guard Corps commanders.]]></description>
+            <link>https://www.israelnationalnews.com/news/432188</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432188</guid>
+            <pubDate>Tue, 25 Aug 2026 02:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Erdan on Gaza border: Explosive kites are back - time to make Hamas pay a heavy price]]></title>
+            <description><![CDATA[Erdan on Gaza border: Explosive kites are back - time to make Hamas pay a heavy price]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692332</guid>
+            <pubDate>Tue, 25 Aug 2026 01:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Abdul El-Sayed distances campaign from Hasan Piker after antisemitic remarks]]></title>
             <description><![CDATA[Michigan Senate candidate Abdul El-Sayed distances his campaign from Hasan Piker after the streamer’s remarks about Jewish Americans spark renewed controversy.]]></description>
@@ -25,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[Poll: Winter’s party sends right-wing bloc to new low]]></title>
-            <description><![CDATA[Poll: Winter’s party sends right-wing bloc to new low]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692329</guid>
+            <description><![CDATA[New poll examines a scenario in which Ofer Winter’s party runs independently. In that scenario, the Religious Zionist Party fails to cross the electoral threshold and the right-wing bloc falls to 49 seats.]]></description>
+            <link>https://www.israelnationalnews.com/news/432185</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432185</guid>
             <pubDate>Tue, 25 Aug 2026 00:15:00 GMT</pubDate>
         </item>
         <item>
@@ -206,23 +227,21 @@ IDF forces are conducting searches in the area to rule out a border crossing, wh
         </item>
         <item>
             <title><![CDATA[Iranian threat against Trump’s son]]></title>
-            <description><![CDATA[An Iranian state-run television channel aired a video threatening President Trump’s youngest son and claimed that details of his security arrangements had been exposed.]]></description>
-            <link>https://www.israelnationalnews.com/news/432165</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432165</guid>
+            <description><![CDATA[Iranian threat against Trump’s son]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692304</guid>
             <pubDate>Mon, 24 Aug 2026 14:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Another kite sent from Gaza found on a tree in Kibbutz Nahal Oz]]></title>
-            <description><![CDATA[Another kite sent from Gaza was found on a tree in Kibbutz Nahal Oz.]]></description>
+            <description><![CDATA[Another kite sent from Gaza found on a tree in Kibbutz Nahal Oz]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692303</guid>
             <pubDate>Mon, 24 Aug 2026 13:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PM holds security assessment at Central Command]]></title>
-            <description><![CDATA[Prime Minister Benjamin Netanyahu held a security assessment today at IDF Central Command regarding the security challenges in the Judea and Samaria region.
-
-Taking part in the discussion were the Minister of Defense, Chief of the General Staff, Head of the National Security Council, Commander of IDF Central Command, Head of the IDF Intelligence Directorate, Head of the IDF Operations Directorate, Commander of the Judea and Samaria Division, and other senior officials.]]></description>
+            <description><![CDATA[PM holds security assessment at Central Command]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692302</guid>
             <pubDate>Mon, 24 Aug 2026 13:50:00 GMT</pubDate>
@@ -275,27 +294,6 @@ Taking part in the discussion were the Minister of Defense, Chief of the General
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692295</guid>
             <pubDate>Mon, 24 Aug 2026 11:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF takes out October 7 Nukhba terrorists plotting new attacks]]></title>
-            <description><![CDATA[IDF takes out October 7 Nukhba terrorists plotting new attacks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692294</guid>
-            <pubDate>Mon, 24 Aug 2026 11:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hymanut Kassaou's parents to Shin Bet chief: Take over the case]]></title>
-            <description><![CDATA[Hymanut Kassaou's parents to Shin Bet chief: Take over the case]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692293</guid>
-            <pubDate>Mon, 24 Aug 2026 11:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caught in the act: Three suspects arrested for breaking into vehicles in Hadera]]></title>
-            <description><![CDATA[Caught in the act: Three suspects arrested for breaking into vehicles in Hadera]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692292</guid>
-            <pubDate>Mon, 24 Aug 2026 10:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

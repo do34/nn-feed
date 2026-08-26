@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 08:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 09:41:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 08:42:39 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 09:41:05 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Mansour Abbas sparks political storm with Naqba remarks]]></title>
+            <description><![CDATA[UAL chairman Mansour Abbas says Israel’s Jewish identity is a reality imposed by the Jewish majority, triggering fierce attacks from Smotrich and Ben-Gvir.]]></description>
+            <link>https://www.israelnationalnews.com/news/432259</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432259</guid>
+            <pubDate>Wed, 26 Aug 2026 09:34:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Soldier blasts Bennett over Madma memorial demolition]]></title>
             <description><![CDATA[A soldier who secured Tzvi Succot’s controversial Madma visit says troops supported the demolition and rejects claims that the tour endangered them.]]></description>
@@ -230,9 +237,7 @@ According to the Financial Times, immigrant visa applicants who had already been
         </item>
         <item>
             <title><![CDATA[Dolly Parton’s representatives: She died after a brief battle with cancer]]></title>
-            <description><![CDATA[Representatives for country music legend Dolly Parton, who died Tuesday at the age of 80, said she passed away following a “brief battle with cancer." Parton died at Vanderbilt-Ingram Cancer Center in Nashville, surrounded by her family.
-
-The type of cancer she had was not disclosed.]]></description>
+            <description><![CDATA[Dolly Parton’s representatives: She died after a brief battle with cancer]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692391</guid>
             <pubDate>Wed, 26 Aug 2026 00:53:00 GMT</pubDate>
@@ -299,13 +304,6 @@ The type of cancer she had was not disclosed.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692382</guid>
             <pubDate>Tue, 25 Aug 2026 19:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu demands of Winter, Maoz and Feiglin: 'Unite with existing parties or back out']]></title>
-            <description><![CDATA[Netanyahu demands of Winter, Maoz and Feiglin: 'Unite with existing parties or back out']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692380</guid>
-            <pubDate>Tue, 25 Aug 2026 18:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

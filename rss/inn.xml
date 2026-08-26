@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 07:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 08:42:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 07:45:54 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 08:42:39 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Soldier blasts Bennett over Madma memorial demolition]]></title>
+            <description><![CDATA[A soldier who secured Tzvi Succot’s controversial Madma visit says troops supported the demolition and rejects claims that the tour endangered them.]]></description>
+            <link>https://www.israelnationalnews.com/news/432258</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432258</guid>
+            <pubDate>Wed, 26 Aug 2026 08:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Now I’m calm:" Footage of rescue of Israeli who accidentally entered Ramallah]]></title>
+            <description><![CDATA[A Holon resident mistakenly entered Area A in the Ramallah area and contacted the police emergency hotline. Border Police officers located his vehicle and quickly rescued him unharmed.]]></description>
+            <link>https://www.israelnationalnews.com/news/432257</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432257</guid>
+            <pubDate>Wed, 26 Aug 2026 08:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The price of terror stipends: Major raid on homes of released terrorists]]></title>
+            <description><![CDATA[Security forces raided properties belonging to released terrorists who received salaries from the Palestinian Authority, seizing vehicles and tens of thousands of shekels.]]></description>
+            <link>https://www.israelnationalnews.com/news/432256</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432256</guid>
+            <pubDate>Wed, 26 Aug 2026 07:52:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Givati soldiers punished after refusing to ride with female medic]]></title>
             <description><![CDATA[Three Givati soldiers reportedly refused to board a Namer carrying a female medic, citing rabbinic instructions. All soldiers in their platoon were sentenced to 21 days of confinement.]]></description>
@@ -218,25 +239,23 @@ The type of cancer she had was not disclosed.]]></description>
         </item>
         <item>
             <title><![CDATA[FBI arrests Ohio man accused of threatening Rep. Randy Fine and Trump]]></title>
-            <description><![CDATA[Ohio man arrested after allegedly sending a death threat against Rep. Randy Fine and calling for President Trump’s death.]]></description>
-            <link>https://www.israelnationalnews.com/news/432236</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432236</guid>
+            <description><![CDATA[FBI arrests Ohio man accused of threatening Rep. Randy Fine and Trump]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692390</guid>
             <pubDate>Wed, 26 Aug 2026 00:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man moderately injured in violent incident in Haifa]]></title>
-            <description><![CDATA[A 37-year-old man was moderately injured in a violent incident in Haifa.
-
-Magen David Adom (MDA) paramedics treated him at the scene and evacuated him to Bnei Zion Hospital in the city.]]></description>
+            <description><![CDATA[Man moderately injured in violent incident in Haifa]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692389</guid>
             <pubDate>Tue, 25 Aug 2026 23:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran vows Strait of Hormuz will remain closed, warns of preemptive action]]></title>
-            <description><![CDATA[Iran’s Deputy Foreign Minister says the Strait of Hormuz will remain closed until key conditions are met.]]></description>
-            <link>https://www.israelnationalnews.com/news/432235</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432235</guid>
+            <description><![CDATA[Iran vows Strait of Hormuz will remain closed, warns of preemptive action]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692388</guid>
             <pubDate>Tue, 25 Aug 2026 23:16:00 GMT</pubDate>
         </item>
         <item>
@@ -287,27 +306,6 @@ Magen David Adom (MDA) paramedics treated him at the scene and evacuated him to 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692380</guid>
             <pubDate>Tue, 25 Aug 2026 18:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Musical legend Dolly Parton dead at 80]]></title>
-            <description><![CDATA[Musical legend Dolly Parton dead at 80]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692379</guid>
-            <pubDate>Tue, 25 Aug 2026 18:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ofer Winter sets up new party: 'This is my dream team']]></title>
-            <description><![CDATA[Ofer Winter sets up new party: 'This is my dream team']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692378</guid>
-            <pubDate>Tue, 25 Aug 2026 18:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspects arrested in murder of Caucasian Mafia boss]]></title>
-            <description><![CDATA[Suspects arrested in murder of Caucasian Mafia boss]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692377</guid>
-            <pubDate>Tue, 25 Aug 2026 17:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

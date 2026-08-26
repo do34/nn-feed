@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 13:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 14:43:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 13:54:23 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 14:43:35 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Golani Brigade dismantles 400 terror sites in southern Lebanon]]></title>
+            <description><![CDATA[Troops have dismantled more than 400 terror infrastructure sites and located numerous weapons, including anti-tank missiles, surface-to-air missiles, explosive devices, Kalashnikov rifles, and mortars.]]></description>
+            <link>https://www.israelnationalnews.com/news/432271</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432271</guid>
+            <pubDate>Wed, 26 Aug 2026 14:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘The Torah strengthens the spirit’: IDF Chief’s message to yeshiva students]]></title>
+            <description><![CDATA[IDF Chief Eyal Zamir shares how his wounded grandfather cried out ‘Shema Yisrael’ in battle, and tells yeshiva students that Torah strengthens the IDF’s spirit.]]></description>
+            <link>https://www.israelnationalnews.com/news/432270</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432270</guid>
+            <pubDate>Wed, 26 Aug 2026 14:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump: 'Mojtaba Khamenei very seriously wounded, but not dead']]></title>
             <description><![CDATA[US President Donald Trump says Iran’s Mojtaba Khamenei suffered serious wounds to the left side of his body but is likely still alive; praises US military and Navy operations and predicts a “very big victory."]]></description>
@@ -221,16 +235,14 @@ According to the Financial Times, visa applicants who had already been scheduled
         </item>
         <item>
             <title><![CDATA[Iran Regime Change: Why it has failed and what must happen now]]></title>
-            <description><![CDATA[The dilemma facing Washington and Jerusalem: A nuclear-capable Iran that still funds proxies from Lebanon to Yemen is not a foreign-policy result. It is a failure. What can the US do? Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432246</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432246</guid>
+            <description><![CDATA[Iran Regime Change: Why it has failed and what must happen now]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692403</guid>
             <pubDate>Wed, 26 Aug 2026 04:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Ukrainian drones hit a Wildbreeze logistics complex in Russia]]></title>
-            <description><![CDATA[Ukrainian media reported that Ukrainian drones hit a logistics complex of the Russian retail giant WildBreeze in the Tambov region.
-
-The company's facilities in the province have already been damaged in previous attacks by Ukraine.]]></description>
+            <description><![CDATA[Report: Ukrainian drones hit a Wildbreeze logistics complex in Russia]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692402</guid>
             <pubDate>Wed, 26 Aug 2026 04:33:00 GMT</pubDate>
@@ -290,20 +302,6 @@ The company's facilities in the province have already been damaged in previous a
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692394</guid>
             <pubDate>Wed, 26 Aug 2026 01:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darline Graham wins GOP Senate nomination in South Carolina]]></title>
-            <description><![CDATA[Darline Graham wins GOP Senate nomination in South Carolina]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692393</guid>
-            <pubDate>Wed, 26 Aug 2026 01:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toronto police investigate alleged antisemitic incident in North York]]></title>
-            <description><![CDATA[Toronto police investigate alleged antisemitic incident in North York]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692392</guid>
-            <pubDate>Wed, 26 Aug 2026 01:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,57 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 03:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 04:39:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 03:04:57 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 04:39:19 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Report: Ukrainian drones hit a Wildbreeze logistics complex in Russia]]></title>
+            <description><![CDATA[Ukrainian media reported that Ukrainian drones hit a logistics complex of the Russian retail giant WildBreeze in the Tambov region.
+
+The company's facilities in the province have already been damaged in previous attacks by Ukraine.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692402</guid>
+            <pubDate>Wed, 26 Aug 2026 04:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US temporarily freezes visa appointments at embassies worldwide]]></title>
+            <description><![CDATA[The administration of US President Donald Trump has ordered a temporary freeze on visa appointments at US embassies and consulates around the world. The State Department said the move is intended to allow for a global training program for consular employees, aimed at improving screening and ensuring uniform evaluation of visa applicants, including regarding the possibility that they may become dependent on welfare benefits and public assistance in the United States.
+
+According to the Financial Times, immigrant visa applicants who had already been scheduled for interviews received notices that their appointments had been postponed and were told that a new date would be set at a later time. At this stage, no timetable has been provided for the resumption of appointments.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692401</guid>
+            <pubDate>Wed, 26 Aug 2026 04:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gaza Questions Europe doesn't want to answer]]></title>
+            <description><![CDATA[Dear "horrified" Europeans, what would you have done if October 7 had happened to your country, your community, your wife, your daughters, your children or your grandchildren? Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/432245</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432245</guid>
+            <pubDate>Wed, 26 Aug 2026 04:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hadash sets conditions for supporting Eisenkot bloc]]></title>
+            <description><![CDATA[Hadash sets conditions for supporting Eisenkot bloc]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692399</guid>
+            <pubDate>Wed, 26 Aug 2026 03:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is Hezbollah’s objective?]]></title>
+            <description><![CDATA[Why are they fighting Israel? Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/432243</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432243</guid>
+            <pubDate>Wed, 26 Aug 2026 03:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Montreal council removes 'genocide' and 'apartheid' claims from Israel motion]]></title>
+            <description><![CDATA[Montreal council removes 'genocide' and 'apartheid' claims from Israel motion]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692397</guid>
+            <pubDate>Wed, 26 Aug 2026 03:22:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump sends Saudi nuclear deal to Congress, ties pact to Israel normalization]]></title>
             <description><![CDATA[Trump sends Congress the Saudi civil nuclear deal, but says the pact will only proceed if Riyadh joins the Abraham Accords and normalizes ties with Israel.]]></description>
@@ -32,9 +78,9 @@
         </item>
         <item>
             <title><![CDATA[Darline Graham wins GOP Senate nomination in South Carolina]]></title>
-            <description><![CDATA[Darline Graham wins GOP Senate nomination in South Carolina]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692393</guid>
+            <description><![CDATA[Trump-endorsed Sen. Darline Graham wins the GOP Senate nomination in South Carolina and will face Democrat Annie Andrews in November.]]></description>
+            <link>https://www.israelnationalnews.com/news/432238</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432238</guid>
             <pubDate>Wed, 26 Aug 2026 01:40:00 GMT</pubDate>
         </item>
         <item>
@@ -187,46 +233,44 @@ Additional IDF strikes were also reported in Ali al-Taher, Al-Mansouri, Zar'bin 
         </item>
         <item>
             <title><![CDATA[Trump: All mines in Strait of Hormuz removed]]></title>
-            <description><![CDATA[US President Donald Trump announced today that all Iranian mines have been removed from the Strait of Hormuz.]]></description>
-            <link>https://www.israelnationalnews.com/news/432222</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432222</guid>
+            <description><![CDATA[Trump: All mines in Strait of Hormuz removed]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692372</guid>
             <pubDate>Tue, 25 Aug 2026 14:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chief of Staff in Gaza: 'We will dismantle Hamas']]></title>
-            <description><![CDATA[IDF Chief of Staff Eyal Zamir says IDF will continue dismantling Hamas and demilitarizing Gaza: ‘Those who took part in the 10/7 massacre will be hunted down until they are all eliminated.']]></description>
-            <link>https://www.israelnationalnews.com/news/432221</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432221</guid>
+            <description><![CDATA[Chief of Staff in Gaza: 'We will dismantle Hamas']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692371</guid>
             <pubDate>Tue, 25 Aug 2026 14:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Board of Peace calls for end of kite terror]]></title>
-            <description><![CDATA[The Board of Peace addressed the kite flying from the Gaza Strip and stated that it had conveyed, through the existing mechanism, a message that all activity by terrorist organizations in the Strip must cease, including kite flying.
-
-Alongside this, it was stated that Israel is also committed to the terms of the ceasefire, and that military action should be limited to responding to real and immediate threats.]]></description>
+            <description><![CDATA[Board of Peace calls for end of kite terror]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692370</guid>
             <pubDate>Tue, 25 Aug 2026 14:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Giulio Meotti: If only 130 slaughtered Christians were Palestinian Arabs]]></title>
-            <description><![CDATA[If only the nameless bodies buried in the red earth of the Nigerian Plateau, the children burned in the churches of Congo, the women kidnapped and disfigured in the Sahel, carried another name, another flag, another cause - we would know about them. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432220</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432220</guid>
+            <description><![CDATA[Giulio Meotti: If only 130 slaughtered Christians were Palestinian Arabs]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692369</guid>
             <pubDate>Tue, 25 Aug 2026 14:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zomet Institute: Is it permissible to travel on a driverless metro on Shabbat?]]></title>
-            <description><![CDATA[Rabbi Menachem Perl explains why routine travel on the driverless metro is prohibited on Shabbat, while distinguishing between actual travel and operating the system.]]></description>
-            <link>https://www.israelnationalnews.com/news/432216</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432216</guid>
+            <description><![CDATA[Zomet Institute: Is it permissible to travel on a driverless metro on Shabbat?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692368</guid>
             <pubDate>Tue, 25 Aug 2026 14:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UN’s worrying forecast: Earth on track to break heat record again]]></title>
-            <description><![CDATA[The report finds a 91% chance that one of the next five years will be more than 1.5 degrees warmer than the pre-industrial period.]]></description>
-            <link>https://www.israelnationalnews.com/news/432219</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432219</guid>
+            <description><![CDATA[UN’s worrying forecast: Earth on track to break heat record again]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692367</guid>
             <pubDate>Tue, 25 Aug 2026 14:09:00 GMT</pubDate>
         </item>
         <item>
@@ -256,48 +300,6 @@ Alongside this, it was stated that Israel is also committed to the terms of the 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692363</guid>
             <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swastika sprayed on road in Gilo, Jerusalem]]></title>
-            <description><![CDATA[Swastika sprayed on road in Gilo, Jerusalem]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692362</guid>
-            <pubDate>Tue, 25 Aug 2026 12:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tragedy: Premature baby dies 6 weeks after mother killed in car accident]]></title>
-            <description><![CDATA[Tragedy: Premature baby dies 6 weeks after mother killed in car accident]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692361</guid>
-            <pubDate>Tue, 25 Aug 2026 12:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump on Iran: 'Humanitarian crisis of epic proportions']]></title>
-            <description><![CDATA[Trump on Iran: 'Humanitarian crisis of epic proportions']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692360</guid>
-            <pubDate>Tue, 25 Aug 2026 11:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Trump is rewarding Hamas': Nadia Matar calls to halt Gaza aid, reconstruction]]></title>
-            <description><![CDATA[‘Trump is rewarding Hamas': Nadia Matar calls to halt Gaza aid, reconstruction]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692359</guid>
-            <pubDate>Tue, 25 Aug 2026 10:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smotrich backs Sukkot memorial demolition, with one major caveat]]></title>
-            <description><![CDATA[Smotrich backs Sukkot memorial demolition, with one major caveat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692358</guid>
-            <pubDate>Tue, 25 Aug 2026 10:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['A clear warning' | Watch: IDF strikes Hamas weapons sites in mosques]]></title>
-            <description><![CDATA['A clear warning' | Watch: IDF strikes Hamas weapons sites in mosques]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692357</guid>
-            <pubDate>Tue, 25 Aug 2026 10:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 14:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 16:17:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 14:43:35 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 16:17:53 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Waltz challenges Gaza aid narrative: ‘You know who is not starving?’]]></title>
+            <description><![CDATA[UN Security Council hears competing visions for Gaza as Mladenov hails Hamas disarmament agreement and Waltz sharply challenges criticism of US-backed plan.]]></description>
+            <link>https://www.israelnationalnews.com/news/432275</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432275</guid>
+            <pubDate>Wed, 26 Aug 2026 16:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli missing as deadly floods devastate Nepal, Tibet]]></title>
+            <description><![CDATA[At least 95 people killed and more than 400 missing or out of contact as massive floods sweep the Himalayan region.]]></description>
+            <link>https://www.israelnationalnews.com/news/432274</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432274</guid>
+            <pubDate>Wed, 26 Aug 2026 16:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanese military arrest Syrian national attempting to smuggle weapons across border]]></title>
+            <description><![CDATA[The Lebanese Armed Forces arrested a Syrian national suspected of attempting to smuggle weapons across the border into Lebanon. The weapons seized included RPGs.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692435</guid>
+            <pubDate>Wed, 26 Aug 2026 15:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF investigation contradicts initial account of PA detention in Binyamin]]></title>
+            <description><![CDATA[IDF investigation finds PA forces unlawfully detained reservist Shlomo Rosenthal at an unauthorized Area C roadblock, contradicting the initial official account.]]></description>
+            <link>https://www.israelnationalnews.com/news/432272</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432272</guid>
+            <pubDate>Wed, 26 Aug 2026 15:11:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Golani Brigade dismantles 400 terror sites in southern Lebanon]]></title>
             <description><![CDATA[Troops have dismantled more than 400 terror infrastructure sites and located numerous weapons, including anti-tank missiles, surface-to-air missiles, explosive devices, Kalashnikov rifles, and mortars.]]></description>
@@ -205,32 +233,30 @@ According to authorities, the man was traveling from California to Washington, a
         </item>
         <item>
             <title><![CDATA[Telling G-d what to do]]></title>
-            <description><![CDATA[We are not the givers, but are merely transferring what Hashem has allotted. Happy is the one who has the merit to serve as Hashem’s delivery person.]]></description>
-            <link>https://www.israelnationalnews.com/news/432249</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432249</guid>
+            <description><![CDATA[Telling G-d what to do]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692407</guid>
             <pubDate>Wed, 26 Aug 2026 05:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gratitude has a memory]]></title>
-            <description><![CDATA[The farmer does not simply bring his fruit to Jerusalem. He tells a story.]]></description>
-            <link>https://www.israelnationalnews.com/news/432248</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432248</guid>
+            <description><![CDATA[Gratitude has a memory]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692405</guid>
             <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US freezes visa appointments worldwide]]></title>
-            <description><![CDATA[The administration has ordered a temporary freeze on visa appointments at American embassies and consulates around the world. The State Department said the move was intended to allow for a global training program for consular officers, in order to improve screening and ensure a uniform examination of visa applicants, among other things, regarding the possibility that they would be dependent on public assistance in the United States.
-
-According to the Financial Times, visa applicants who had already been scheduled for interviews received notices of postponed appointments, and were informed that a new date would be set in due course. At this time, no timetable for the resumption of appointments has been announced.]]></description>
+            <description><![CDATA[US freezes visa appointments worldwide]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692406</guid>
             <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rom Braslavski: “I was afraid, but I didn’t hesitate"]]></title>
-            <description><![CDATA[Captivity survivor Rom Braslavski recounted the moment in captivity when he was forced to reveal his identity as a soldier - about six months after the murderous attack. “I realize I’m done for."]]></description>
-            <link>https://www.israelnationalnews.com/news/432247</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432247</guid>
+            <description><![CDATA[Rom Braslavski: “I was afraid, but I didn’t hesitate"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692404</guid>
             <pubDate>Wed, 26 Aug 2026 04:53:00 GMT</pubDate>
         </item>
         <item>
@@ -274,34 +300,6 @@ According to the Financial Times, visa applicants who had already been scheduled
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692398</guid>
             <pubDate>Wed, 26 Aug 2026 03:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Montreal council removes 'genocide' and 'apartheid' claims from Israel motion]]></title>
-            <description><![CDATA[Montreal council removes 'genocide' and 'apartheid' claims from Israel motion]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692397</guid>
-            <pubDate>Wed, 26 Aug 2026 03:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump sends Saudi nuclear deal to Congress, ties pact to Israel normalization]]></title>
-            <description><![CDATA[Trump sends Saudi nuclear deal to Congress, ties pact to Israel normalization]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692396</guid>
-            <pubDate>Wed, 26 Aug 2026 02:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guterres condemns Israel’s takeover of UNRWA center in Jerusalem]]></title>
-            <description><![CDATA[Guterres condemns Israel’s takeover of UNRWA center in Jerusalem]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692395</guid>
-            <pubDate>Wed, 26 Aug 2026 02:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prosecutors seek detention of man accused in NYC synagogue attack]]></title>
-            <description><![CDATA[Prosecutors seek detention of man accused in NYC synagogue attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692394</guid>
-            <pubDate>Wed, 26 Aug 2026 01:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

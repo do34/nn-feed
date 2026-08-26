@@ -4,11 +4,25 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 10:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 11:29:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 10:34:56 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 11:29:51 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Exclusive: Katz intervenes after Givati soldiers punished]]></title>
+            <description><![CDATA[Defense Minister Israel Katz vows to address controversy after yeshiva soldiers confined to base for 21 days over refusal to enter APC with female paramedic.]]></description>
+            <link>https://www.israelnationalnews.com/news/432261</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432261</guid>
+            <pubDate>Wed, 26 Aug 2026 11:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[August surprise: Thunderstorms, heavy rain set to hit Israel]]></title>
+            <description><![CDATA[After weeks of intense summer heat, unusual weather system could bring double-digit rainfall and even break August records in parts of Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/432260</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432260</guid>
+            <pubDate>Wed, 26 Aug 2026 10:52:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mansour Abbas sparks political storm with Naqba remarks]]></title>
             <description><![CDATA[UAL chairman Mansour Abbas says Israel’s Jewish identity is a reality imposed by the Jewish majority, triggering fierce attacks from Smotrich and Ben-Gvir.]]></description>
@@ -223,16 +237,16 @@ According to the Financial Times, immigrant visa applicants who had already been
         </item>
         <item>
             <title><![CDATA[Darline Graham wins GOP Senate nomination in South Carolina]]></title>
-            <description><![CDATA[Trump-endorsed Sen. Darline Graham wins the GOP Senate nomination in South Carolina and will face Democrat Annie Andrews in November.]]></description>
-            <link>https://www.israelnationalnews.com/news/432238</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432238</guid>
+            <description><![CDATA[Darline Graham wins GOP Senate nomination in South Carolina]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692393</guid>
             <pubDate>Wed, 26 Aug 2026 01:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Toronto police investigate alleged antisemitic incident in North York]]></title>
-            <description><![CDATA[Toronto police are investigating an alleged antisemitic incident near Bathurst and Sheppard, an area which has seen frequent anti-Israel demonstrations.]]></description>
-            <link>https://www.israelnationalnews.com/news/432237</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432237</guid>
+            <description><![CDATA[Toronto police investigate alleged antisemitic incident in North York]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692392</guid>
             <pubDate>Wed, 26 Aug 2026 01:14:00 GMT</pubDate>
         </item>
         <item>
@@ -290,20 +304,6 @@ According to the Financial Times, immigrant visa applicants who had already been
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692384</guid>
             <pubDate>Tue, 25 Aug 2026 21:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yair Netanyahu to Winter’s candidates: You’ll waste votes]]></title>
-            <description><![CDATA[Yair Netanyahu to Winter’s candidates: You’ll waste votes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692383</guid>
-            <pubDate>Tue, 25 Aug 2026 20:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New report reveals: How PA schools celebrated the October 7 massacre]]></title>
-            <description><![CDATA[New report reveals: How PA schools celebrated the October 7 massacre]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692382</guid>
-            <pubDate>Tue, 25 Aug 2026 19:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

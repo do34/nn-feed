@@ -4,11 +4,74 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 16:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 19:02:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 16:17:53 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 19:02:07 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[New details: IDF Rabbi permitted Gaza mission, Givati soldiers still refused to board APC]]></title>
+            <description><![CDATA[New details reveal Givati soldiers refused to board an APC with a female paramedic despite the brigade rabbi’s approval, leading the IDF to cancel the urgent mission.]]></description>
+            <link>https://www.israelnationalnews.com/news/432281</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432281</guid>
+            <pubDate>Wed, 26 Aug 2026 18:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[i24NEWS poll gives 'Amcha Yisrael' party eight seats]]></title>
+            <description><![CDATA[New i24NEWS poll gives Ofer Winter's new 'Amcha Yisrael' party eight seats, shows it bringing right-religious bloc to 59 seats, compared with center-left's 49.]]></description>
+            <link>https://www.israelnationalnews.com/news/432279</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432279</guid>
+            <pubDate>Wed, 26 Aug 2026 18:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How draft evaders beat Ben Gurion Airport controls]]></title>
+            <description><![CDATA[Investigation reveals alleged loopholes allowing haredi draft evaders barred from leaving Israel to bypass border controls and board flights abroad.]]></description>
+            <link>https://www.israelnationalnews.com/news/432276</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432276</guid>
+            <pubDate>Wed, 26 Aug 2026 17:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poll bombshell: Likud crashes to 19 seats, Winter fails to break through]]></title>
+            <description><![CDATA[Poll bombshell: Likud crashes to 19 seats, Winter fails to break through]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692443</guid>
+            <pubDate>Wed, 26 Aug 2026 17:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who was listening? Malware found on phones of senior Eisenkot staffers]]></title>
+            <description><![CDATA[Malware designed to listen and collect information was reportedly discovered on the phones of two senior staffers at Gadi Eisenkot’s Yashar Party campaign.]]></description>
+            <link>https://www.israelnationalnews.com/news/432280</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432280</guid>
+            <pubDate>Wed, 26 Aug 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Herd belonging to Jewish farm in Binyamin suspected to have been poisoned]]></title>
+            <description><![CDATA[Herd belonging to Jewish farm in Binyamin suspected to have been poisoned]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692441</guid>
+            <pubDate>Wed, 26 Aug 2026 17:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yair Golan in Arabic: Succot is a 'dangerous criminal']]></title>
+            <description><![CDATA[Democrats chairman Yair Golan blames Prime Minister Benjamin Netanyahu for MK Tzvi Succot's actions in Madama, accusing the government of endangering IDF soldiers to preserve its coalition.]]></description>
+            <link>https://www.israelnationalnews.com/news/432277</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432277</guid>
+            <pubDate>Wed, 26 Aug 2026 16:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police crack down on panhandlers endangering drivers at busy Samaria junction]]></title>
+            <description><![CDATA[Police crack down on panhandlers endangering drivers at busy Samaria junction]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692439</guid>
+            <pubDate>Wed, 26 Aug 2026 16:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eisenkot: Government under me will not evacuate farms in Area C]]></title>
+            <description><![CDATA[Yashar Party chairman Gadi Eisenkot said in an interview with Channel 13 News that a government under his leadership would not evacuate legally established farms in Area C.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692438</guid>
+            <pubDate>Wed, 26 Aug 2026 16:20:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Waltz challenges Gaza aid narrative: ‘You know who is not starving?’]]></title>
             <description><![CDATA[UN Security Council hears competing visions for Gaza as Mladenov hails Hamas disarmament agreement and Waltz sharply challenges criticism of US-backed plan.]]></description>
@@ -160,73 +223,63 @@ The terrorist was apprehended while armed with a knife and was transferred to th
         </item>
         <item>
             <title><![CDATA[Fatal chase: Car thief killed trying to flee Jerusalem police]]></title>
-            <description><![CDATA[A vehicle theft in Jerusalem ended overnight Wednesday with the death of the suspected thief and the light wounding of a police officer and a civilian.]]></description>
-            <link>https://www.israelnationalnews.com/news/432254</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432254</guid>
+            <description><![CDATA[Fatal chase: Car thief killed trying to flee Jerusalem police]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692416</guid>
             <pubDate>Wed, 26 Aug 2026 06:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF revolutionizes its mehadrin kosher food]]></title>
-            <description><![CDATA[Instead of prepared meals for reheating, soldiers will receive fresh, varied Mehadrin kosher food that meets stringent halachic standards.]]></description>
-            <link>https://www.israelnationalnews.com/news/432252</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432252</guid>
+            <description><![CDATA[IDF revolutionizes its mehadrin kosher food]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692415</guid>
             <pubDate>Wed, 26 Aug 2026 06:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Yair Netanyahu was target of Iranian assassination attempt]]></title>
-            <description><![CDATA[Prime Minister Netanyahu's son Yair was reportedly the target of the Iranian assassination plot that was revealed this week and was forced to leave for Israel as soon as the plot was uncovered.
-
-Read more]]></description>
+            <description><![CDATA[Report: Yair Netanyahu was target of Iranian assassination attempt]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692414</guid>
             <pubDate>Wed, 26 Aug 2026 06:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Italy proposes UNIFIL alternative]]></title>
-            <description><![CDATA[Lebanese media reported that Italy has proposed to establish a smaller multinational force, with UN approval, to replace UNIFIL in southern Lebanon. According to the outline, the force will focus on supporting the Lebanese army, protecting the civilian population, assisting the US-led ceasefire mechanism, and future disarmament arrangements, as well as monitoring violations and reducing escalation between Israel and Lebanon.
-
-According to the report in Nidaa al-Watan, the success of the plan depends on resolving a number of issues that have not yet been resolved, including the command structure, the scope of the forces, the rules of engagement, the funding, the verification powers in the pilot areas, and the possibility of reactivating the ceasefire mechanism that has been suspended since March.]]></description>
+            <description><![CDATA[Italy proposes UNIFIL alternative]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692413</guid>
             <pubDate>Wed, 26 Aug 2026 05:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thief killed fleeing police in Jerusalem car chase]]></title>
-            <description><![CDATA[A suspect in a car theft from the Katamon neighborhood in Jerusalem was killed after fleeing the police, driving against traffic and colliding with a pillar and a private vehicle at the A-Tur junction.
-
-According to the police, during the chase the officers fired at the vehicle's wheels in an attempt to stop it. A policeman and a civilian were lightly injured. The suspect was evacuated to the hospital in critical condition while undergoing resuscitation but was later pronounced dead.]]></description>
+            <description><![CDATA[Thief killed fleeing police in Jerusalem car chase]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692412</guid>
             <pubDate>Wed, 26 Aug 2026 05:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US halts all visa applications]]></title>
-            <description><![CDATA[All US visa applications have been suspended by the Trump administration in an effort to combat immigration and prevent the entry of immigrants who “will require public assistance."]]></description>
-            <link>https://www.israelnationalnews.com/news/432251</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432251</guid>
+            <description><![CDATA[US halts all visa applications]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692411</guid>
             <pubDate>Wed, 26 Aug 2026 05:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ukraine strikes Russian retail giant]]></title>
-            <description><![CDATA[Ukrainian media reported that Ukrainian drones hit a logistics complex of the Russian retail giant Wildberries in the Tambov region.
-
-The company's facilities in the region have been hit in previous Ukrainian strikes.]]></description>
+            <description><![CDATA[Ukraine strikes Russian retail giant]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692410</guid>
             <pubDate>Wed, 26 Aug 2026 05:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The fifth 'language of Redemption']]></title>
-            <description><![CDATA[There are four languages of the redemption promised by Hashem, - for which, the four glasses of wine are drunk at the Seder - but there is a fifth promise as well. Which promise is that?]]></description>
-            <link>https://www.israelnationalnews.com/news/432250</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432250</guid>
+            <description><![CDATA[The fifth 'language of Redemption']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692409</guid>
             <pubDate>Wed, 26 Aug 2026 05:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man arrested for bringing guillotine to Capitol Hill]]></title>
-            <description><![CDATA[Capitol Police in Washington, D.C., arrested a 35-year-old man from California after a guillotine was found in the bed of his pickup truck. Police said the truck was illegally parked near the Capitol complex.
-
-According to authorities, the man was traveling from California to Washington, and investigators are looking into why he came to the city and what he intened to do with the guillotine. He was arrested on suspicion of possessing a dangerous weapon.]]></description>
+            <description><![CDATA[Man arrested for bringing guillotine to Capitol Hill]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692408</guid>
             <pubDate>Wed, 26 Aug 2026 05:17:00 GMT</pubDate>
@@ -237,69 +290,6 @@ According to authorities, the man was traveling from California to Washington, a
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692407</guid>
             <pubDate>Wed, 26 Aug 2026 05:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gratitude has a memory]]></title>
-            <description><![CDATA[Gratitude has a memory]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692405</guid>
-            <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US freezes visa appointments worldwide]]></title>
-            <description><![CDATA[US freezes visa appointments worldwide]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692406</guid>
-            <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rom Braslavski: “I was afraid, but I didn’t hesitate"]]></title>
-            <description><![CDATA[Rom Braslavski: “I was afraid, but I didn’t hesitate"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692404</guid>
-            <pubDate>Wed, 26 Aug 2026 04:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Regime Change: Why it has failed and what must happen now]]></title>
-            <description><![CDATA[Iran Regime Change: Why it has failed and what must happen now]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692403</guid>
-            <pubDate>Wed, 26 Aug 2026 04:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Ukrainian drones hit a Wildbreeze logistics complex in Russia]]></title>
-            <description><![CDATA[Report: Ukrainian drones hit a Wildbreeze logistics complex in Russia]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692402</guid>
-            <pubDate>Wed, 26 Aug 2026 04:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US temporarily freezes visa appointments at embassies worldwide]]></title>
-            <description><![CDATA[US temporarily freezes visa appointments at embassies worldwide]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692401</guid>
-            <pubDate>Wed, 26 Aug 2026 04:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Gaza Questions Europe doesn't want to answer]]></title>
-            <description><![CDATA[The Gaza Questions Europe doesn't want to answer]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692400</guid>
-            <pubDate>Wed, 26 Aug 2026 04:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hadash sets conditions for supporting Eisenkot bloc]]></title>
-            <description><![CDATA[Hadash sets conditions for supporting Eisenkot bloc]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692399</guid>
-            <pubDate>Wed, 26 Aug 2026 03:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Hezbollah’s objective?]]></title>
-            <description><![CDATA[What is Hezbollah’s objective?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692398</guid>
-            <pubDate>Wed, 26 Aug 2026 03:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

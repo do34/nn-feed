@@ -4,11 +4,39 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 01:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 03:04:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 01:17:14 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 03:04:57 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump sends Saudi nuclear deal to Congress, ties pact to Israel normalization]]></title>
+            <description><![CDATA[Trump sends Congress the Saudi civil nuclear deal, but says the pact will only proceed if Riyadh joins the Abraham Accords and normalizes ties with Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/432241</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432241</guid>
+            <pubDate>Wed, 26 Aug 2026 02:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guterres condemns Israel’s takeover of UNRWA center in Jerusalem]]></title>
+            <description><![CDATA[UN chief Antonio Guterres condemns Israel’s evacuation of a UNRWA training center in Jerusalem: “It will deprive young people of education".]]></description>
+            <link>https://www.israelnationalnews.com/news/432240</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432240</guid>
+            <pubDate>Wed, 26 Aug 2026 02:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prosecutors seek detention of man accused in NYC synagogue attack]]></title>
+            <description><![CDATA[Federal prosecutors seek to detain Larry Montes, accused of attacking worshippers and a security guard during services at New York's Central Synagogue.]]></description>
+            <link>https://www.israelnationalnews.com/news/432239</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432239</guid>
+            <pubDate>Wed, 26 Aug 2026 01:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Darline Graham wins GOP Senate nomination in South Carolina]]></title>
+            <description><![CDATA[Darline Graham wins GOP Senate nomination in South Carolina]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692393</guid>
+            <pubDate>Wed, 26 Aug 2026 01:40:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Toronto police investigate alleged antisemitic incident in North York]]></title>
             <description><![CDATA[Toronto police are investigating an alleged antisemitic incident near Bathurst and Sheppard, an area which has seen frequent anti-Israel demonstrations.]]></description>
@@ -34,7 +62,9 @@ The type of cancer she had was not disclosed.]]></description>
         </item>
         <item>
             <title><![CDATA[Man moderately injured in violent incident in Haifa]]></title>
-            <description><![CDATA[Man moderately injured in violent incident in Haifa]]></description>
+            <description><![CDATA[A 37-year-old man was moderately injured in a violent incident in Haifa.
+
+Magen David Adom (MDA) paramedics treated him at the scene and evacuated him to Bnei Zion Hospital in the city.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692389</guid>
             <pubDate>Tue, 25 Aug 2026 23:41:00 GMT</pubDate>
@@ -201,28 +231,28 @@ Alongside this, it was stated that Israel is also committed to the terms of the 
         </item>
         <item>
             <title><![CDATA[West Nile virus detected in mosquitoes in 3 regions]]></title>
-            <description><![CDATA[The Ministry of Health and the Ministry of Environmental Protection announced that mosquitoes carrying the West Nile fever virus were detected in 3 regional councils.]]></description>
-            <link>https://www.israelnationalnews.com/news/432218</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432218</guid>
+            <description><![CDATA[West Nile virus detected in mosquitoes in 3 regions]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692366</guid>
             <pubDate>Tue, 25 Aug 2026 13:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time for an Irish exit?]]></title>
-            <description><![CDATA[Israel must impose its own cost on Europe’s E1 obsession as Europe threatens Israel with sanctions in response to Israel’s plans to finally begin construction there. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432217</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432217</guid>
+            <description><![CDATA[Time for an Irish exit?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692365</guid>
             <pubDate>Tue, 25 Aug 2026 13:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katz’s message to Syrian Pres. from Mt. Hermon summit]]></title>
-            <description><![CDATA[Defense Minister visits IDF troops at the summit of Mount Hermon and sends a message to Damascus: “As long as there are threats, the IDF will remain here."]]></description>
-            <link>https://www.israelnationalnews.com/news/432215</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432215</guid>
+            <description><![CDATA[Katz’s message to Syrian Pres. from Mt. Hermon summit]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692364</guid>
             <pubDate>Tue, 25 Aug 2026 13:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu: Israel won't allow org. with members complicit with terror to operate in its territory]]></title>
-            <description><![CDATA[Prime Minister Netnayhu stated: "In accordance with my directive and following the law we passed, the evacuation of the UNRWA compound in Kafr Aqab, Jerusalem, began today. The State of Israel will not allow an organization whose employees were complicit in terrorism and the October 7 massacre to operate within its territory, and will act against it by all means at its disposal."]]></description>
+            <description><![CDATA[Netanyahu: Israel won't allow org. with members complicit with terror to operate in its territory]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692363</guid>
             <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
@@ -268,34 +298,6 @@ Alongside this, it was stated that Israel is also committed to the terms of the 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692357</guid>
             <pubDate>Tue, 25 Aug 2026 10:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arab recruitment to Israel Police plummets]]></title>
-            <description><![CDATA[Arab recruitment to Israel Police plummets]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692356</guid>
-            <pubDate>Tue, 25 Aug 2026 10:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu condemns Sukkot: 'Prevents the IDF from focusing on its missions']]></title>
-            <description><![CDATA[Netanyahu condemns Sukkot: 'Prevents the IDF from focusing on its missions']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692355</guid>
-            <pubDate>Tue, 25 Aug 2026 10:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smotrich reprimands Sukkot, instructs him not to repeat his actions]]></title>
-            <description><![CDATA[Smotrich reprimands Sukkot, instructs him not to repeat his actions]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692354</guid>
-            <pubDate>Tue, 25 Aug 2026 09:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pro-Palestinian activists target Israeli soccer player]]></title>
-            <description><![CDATA[Pro-Palestinian activists target Israeli soccer player]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692353</guid>
-            <pubDate>Tue, 25 Aug 2026 09:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

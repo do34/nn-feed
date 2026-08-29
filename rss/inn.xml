@@ -4,11 +4,60 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 16:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 19:40:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 16:59:38 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 19:40:15 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[August goes wild: Thunderstorms, lightning and 70 km/h winds hit Israel]]></title>
+            <description><![CDATA[Rare late-August weather system brings strong winds and haze, with heavy rain and localized flooding possible in northern Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/432405</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432405</guid>
+            <pubDate>Sat, 29 Aug 2026 19:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shin Bet confirms Iranian plot to target Yair Netanyahu]]></title>
+            <description><![CDATA[Intelligence on a concrete threat prompted the urgent evacuation of the Prime Minister’s son from Florida to Israel under heavy security.]]></description>
+            <link>https://www.israelnationalnews.com/news/432402</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432402</guid>
+            <pubDate>Sat, 29 Aug 2026 18:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Gvir blasts Netanyahu over ‘cynical’ unity talks]]></title>
+            <description><![CDATA[Ben Gvir blasts Netanyahu over ‘cynical’ unity talks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692583</guid>
+            <pubDate>Sat, 29 Aug 2026 18:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former hostage: 'In Hamas tunnels I surrendered to G-d and found light in the darkness']]></title>
+            <description><![CDATA[In an emotional interview, Omer Shem Tov, speaks of the guilt he still feels, his friendship with Uri Danino, the moment he surrendered himself to G-d deep inside the tunnel, and the dream he has embraced since returning home: to win an Oscar.]]></description>
+            <link>https://www.israelnationalnews.com/news/432377</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432377</guid>
+            <pubDate>Sat, 29 Aug 2026 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haredim block Jerusalem entrance over Shabbat buses]]></title>
+            <description><![CDATA[Haredim block Jerusalem entrance over Shabbat buses]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692581</guid>
+            <pubDate>Sat, 29 Aug 2026 17:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Violent clashes in Qusra]]></title>
+            <description><![CDATA[Clashes erupt in Qusra, Jalud, after Israelis begin to hit back following rock attack by local Arabs.]]></description>
+            <link>https://www.israelnationalnews.com/news/432400</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432400</guid>
+            <pubDate>Sat, 29 Aug 2026 17:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF strikes Hamas commander hiding in Gaza hospital]]></title>
+            <description><![CDATA[IDF strikes Hamas commander hiding in Gaza hospital]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692579</guid>
+            <pubDate>Sat, 29 Aug 2026 17:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IDF eliminates Hamas Nukhba commander, sniper in Gaza]]></title>
             <description><![CDATA[Two Hamas terrorists advancing attacks against troops and Israeli civilians, working to rebuild Hamas capabilities in violation of the ceasefire, are eliminated in Gaza.]]></description>
@@ -208,51 +257,51 @@ The source warned that the organization will engage in the confrontation if Isra
         </item>
         <item>
             <title><![CDATA[Protesters rush to IDF checkpoint over arrest - Police: Car was stolen]]></title>
-            <description><![CDATA[Haredi protesters block Route 443, believing a draft evader was being detained, but police say he was arrested in a stolen car before his status was discovered.]]></description>
-            <link>https://www.israelnationalnews.com/news/432382</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432382</guid>
+            <description><![CDATA[Protesters rush to IDF checkpoint over arrest - Police: Car was stolen]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692557</guid>
             <pubDate>Fri, 28 Aug 2026 11:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ben Gvir defies Netanyahu: No deal with Smotrich]]></title>
-            <description><![CDATA[Prime Minister Benjamin Netanyahu calls for unity to save right-wing bloc, Otzma Yehudit declares decision to run separately 'final and absolute.']]></description>
-            <link>https://www.israelnationalnews.com/news/432376</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432376</guid>
+            <description><![CDATA[Ben Gvir defies Netanyahu: No deal with Smotrich]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692556</guid>
             <pubDate>Fri, 28 Aug 2026 11:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ki Tavo: Tithing in the proper order]]></title>
-            <description><![CDATA[When we rush to address problems before their time, even good intentions can produce harmful results and prevent much good.]]></description>
-            <link>https://www.israelnationalnews.com/news/432380</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432380</guid>
+            <description><![CDATA[Ki Tavo: Tithing in the proper order]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692555</guid>
             <pubDate>Fri, 28 Aug 2026 10:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chaos in Jerusalem: Rioters torch bins, tear down light rail barriers]]></title>
-            <description><![CDATA[Hundreds block Bar-Ilan intersection, damage infrastructure, as police deploy stun grenades and water cannons; two arrested.]]></description>
-            <link>https://www.israelnationalnews.com/news/432374</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432374</guid>
+            <description><![CDATA[Chaos in Jerusalem: Rioters torch bins, tear down light rail barriers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692554</guid>
             <pubDate>Fri, 28 Aug 2026 10:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two mountains. One altar]]></title>
-            <description><![CDATA[A Jew remains responsible for another Jew even when they are not standing on the same mountain.]]></description>
-            <link>https://www.israelnationalnews.com/news/432379</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432379</guid>
+            <description><![CDATA[Two mountains. One altar]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692553</guid>
             <pubDate>Fri, 28 Aug 2026 10:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Paddy from Ireland’ arrested after threatening Jewish couple in France]]></title>
-            <description><![CDATA[Irish man who allegedly told Jewish tourists Hitler should have 'finished the job' admits to his actions and will stand trial in October.]]></description>
-            <link>https://www.israelnationalnews.com/news/432375</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432375</guid>
+            <description><![CDATA[‘Paddy from Ireland’ arrested after threatening Jewish couple in France]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692552</guid>
             <pubDate>Fri, 28 Aug 2026 09:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gary Lineker, Mark Ruffalo and the Antisemitism they cannot see]]></title>
-            <description><![CDATA[Two global stars, millions of followers and the same question: when Jews identify antisemitism, why does everyone else get to tell us we’re wrong? Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432373</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432373</guid>
+            <description><![CDATA[Gary Lineker, Mark Ruffalo and the Antisemitism they cannot see]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692551</guid>
             <pubDate>Fri, 28 Aug 2026 08:21:00 GMT</pubDate>
         </item>
         <item>
@@ -275,55 +324,6 @@ The source warned that the organization will engage in the confrontation if Isra
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692548</guid>
             <pubDate>Fri, 28 Aug 2026 07:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer shock: Heavy rain, thunderstorms and flooding on the way]]></title>
-            <description><![CDATA[Summer shock: Heavy rain, thunderstorms and flooding on the way]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692547</guid>
-            <pubDate>Fri, 28 Aug 2026 07:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do I have to tell Him?]]></title>
-            <description><![CDATA[Do I have to tell Him?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692546</guid>
-            <pubDate>Fri, 28 Aug 2026 07:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shin Bet foils ISIS plot targeting Temple Mount, IDF base]]></title>
-            <description><![CDATA[Shin Bet foils ISIS plot targeting Temple Mount, IDF base]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692545</guid>
-            <pubDate>Fri, 28 Aug 2026 06:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German military base threatens Jewish partisan memorial]]></title>
-            <description><![CDATA[German military base threatens Jewish partisan memorial]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692544</guid>
-            <pubDate>Fri, 28 Aug 2026 06:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK 'committed to implementation of 20-Point Plan in Gaza']]></title>
-            <description><![CDATA[UK 'committed to implementation of 20-Point Plan in Gaza']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692543</guid>
-            <pubDate>Fri, 28 Aug 2026 05:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poll: Center-left bloc drops to 59 seats]]></title>
-            <description><![CDATA[Poll: Center-left bloc drops to 59 seats]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692542</guid>
-            <pubDate>Fri, 28 Aug 2026 05:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Please just listen - or read]]></title>
-            <description><![CDATA[Please just listen - or read]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692541</guid>
-            <pubDate>Fri, 28 Aug 2026 05:19:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

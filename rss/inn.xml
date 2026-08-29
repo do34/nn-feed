@@ -4,11 +4,60 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 19:40:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 22:25:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 19:40:15 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 22:25:26 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Yotam Haim’s mother sends stunning message to soldier on trial]]></title>
+            <description><![CDATA[Iris Haim, whose son was accidentally killed in Gaza, says anger and revenge over the killing of an Israeli by IDF soldiers will only lead to more deaths.]]></description>
+            <link>https://www.israelnationalnews.com/news/432411</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432411</guid>
+            <pubDate>Sat, 29 Aug 2026 21:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Likud warns: ‘Ramallah wants Netanyahu to lose’]]></title>
+            <description><![CDATA[New report says Palestinian Authority officials pushed Arab parties to unite against Prime Minister Benjamin Netanyahu, Likud hits back.]]></description>
+            <link>https://www.israelnationalnews.com/news/432410</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432410</guid>
+            <pubDate>Sat, 29 Aug 2026 21:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five things Jews (and Christians) need to know about October 7 and its aftermath]]></title>
+            <description><![CDATA[Five things Jews (and Christians) need to know about October 7 and its aftermath]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692590</guid>
+            <pubDate>Sat, 29 Aug 2026 20:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anti-Israel activist suspected of sexually assaulting child]]></title>
+            <description><![CDATA[Anti-Israel activist targeted one of three children near the Barkai neighborhood; residents detained the suspect until police arrived, Har Hevron Council says.]]></description>
+            <link>https://www.israelnationalnews.com/news/432408</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432408</guid>
+            <pubDate>Sat, 29 Aug 2026 20:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COGAT reveals: Between 20-30% of Gaza aid isn't food]]></title>
+            <description><![CDATA[COGAT reveals: Between 20-30% of Gaza aid isn't food]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692588</guid>
+            <pubDate>Sat, 29 Aug 2026 20:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[76-year-old attacked over noise complaint]]></title>
+            <description><![CDATA[What started with a polite request to lower the volume allegedly ended with a violent assault, a police investigation, and a shaken guesthouse owner questioning whether he should have called police sooner.]]></description>
+            <link>https://www.israelnationalnews.com/news/432407</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432407</guid>
+            <pubDate>Sat, 29 Aug 2026 20:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New details emerge: Debts, secrecy and what Mali Yahalomi left behind]]></title>
+            <description><![CDATA[New details emerge: Debts, secrecy and what Mali Yahalomi left behind]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692586</guid>
+            <pubDate>Sat, 29 Aug 2026 19:42:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[August goes wild: Thunderstorms, lightning and 70 km/h winds hit Israel]]></title>
             <description><![CDATA[Rare late-August weather system brings strong winds and haze, with heavy rain and localized flooding possible in northern Israel.]]></description>
@@ -25,9 +74,9 @@
         </item>
         <item>
             <title><![CDATA[Ben Gvir blasts Netanyahu over ‘cynical’ unity talks]]></title>
-            <description><![CDATA[Ben Gvir blasts Netanyahu over ‘cynical’ unity talks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692583</guid>
+            <description><![CDATA[Itamar Ben Gvir accuses Netanyahu and Smotrich of using a staged unity push to pressure Moshe Feiglin into lowering his demands for an electoral bloc.]]></description>
+            <link>https://www.israelnationalnews.com/news/432403</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432403</guid>
             <pubDate>Sat, 29 Aug 2026 18:46:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +88,9 @@
         </item>
         <item>
             <title><![CDATA[Haredim block Jerusalem entrance over Shabbat buses]]></title>
-            <description><![CDATA[Haredim block Jerusalem entrance over Shabbat buses]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692581</guid>
+            <description><![CDATA[At least 13 buses from northern Israel stopped as protesters block entrance to Jerusalem over public transportation operating on the Sabbath.]]></description>
+            <link>https://www.israelnationalnews.com/news/432401</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432401</guid>
             <pubDate>Sat, 29 Aug 2026 17:57:00 GMT</pubDate>
         </item>
         <item>
@@ -53,9 +102,9 @@
         </item>
         <item>
             <title><![CDATA[IDF strikes Hamas commander hiding in Gaza hospital]]></title>
-            <description><![CDATA[IDF strikes Hamas commander hiding in Gaza hospital]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692579</guid>
+            <description><![CDATA[Hamas commander planning attacks against troops and Israeli civilians, working to rebuild Hamas capabilities in violation of ceasefire, is eliminated while hiding in hospital.]]></description>
+            <link>https://www.israelnationalnews.com/news/432399</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432399</guid>
             <pubDate>Sat, 29 Aug 2026 17:03:00 GMT</pubDate>
         </item>
         <item>
@@ -206,46 +255,44 @@ The post came amid the threats he directed at Iran at the time, after calling on
         </item>
         <item>
             <title><![CDATA[Hezbollah source: Organization not backing down from fight for Ali al-Taher ridge]]></title>
-            <description><![CDATA[A source close to Hezbollah told the Saudi Al Arabiya network that the terror organization will not retreat from the strategic Ali al-Taher ridge in southern Lebanon, where dozens of terrorists are estimated to be hiding underground, or hand it over to the Lebanese Armed Forces.
-
-The source warned that the organization will engage in the confrontation if Israel decides to storm its positions on the ridge.]]></description>
+            <description><![CDATA[Hezbollah source: Organization not backing down from fight for Ali al-Taher ridge]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692564</guid>
             <pubDate>Fri, 28 Aug 2026 12:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hamas October 7 terrorist, Islamic Jihad commander eliminated in Gaza]]></title>
-            <description><![CDATA[IDF strikes in Gaza eliminate a Hamas commander who participated in the October 7 massacre and an Islamic Jihad commander accused of continued attacks.]]></description>
-            <link>https://www.israelnationalnews.com/news/432386</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432386</guid>
+            <description><![CDATA[Hamas October 7 terrorist, Islamic Jihad commander eliminated in Gaza]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692563</guid>
             <pubDate>Fri, 28 Aug 2026 12:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Border Police officer: Kestelman only showed ID after shooting stopped]]></title>
-            <description><![CDATA[Staff Sgt. Adiv Mansour, one of the first to reach Kestelman after the shooting, testified that he too initially suspected he was a terrorist and the victim threw his wallet only after the shooting ended, at which point his identity became clear.]]></description>
-            <link>https://www.israelnationalnews.com/news/432385</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432385</guid>
+            <description><![CDATA[Border Police officer: Kestelman only showed ID after shooting stopped]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692562</guid>
             <pubDate>Fri, 28 Aug 2026 12:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Million Jews and 40 communities: Smotrich's plan causes uproar in Arab world]]></title>
-            <description><![CDATA[Arab activists accuse Smotrich of 'ethnic cleansing' and call on Arab public to mobilize voters to block Minister Smotrich’s plan to settle one million Jews and establish 40 new communities in the Negev and Galilee.]]></description>
-            <link>https://www.israelnationalnews.com/news/432384</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432384</guid>
+            <description><![CDATA[Million Jews and 40 communities: Smotrich's plan causes uproar in Arab world]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692561</guid>
             <pubDate>Fri, 28 Aug 2026 12:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smotrich and Feiglin in talks for joint run, Feiglin could take no. 2 spot]]></title>
-            <description><![CDATA[Bezalel Smotrich and Moshe Feiglin are negotiating a joint election run that could give Feiglin the No. 2 spot as Religious Zionism battles the threshold.]]></description>
-            <link>https://www.israelnationalnews.com/news/432383</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432383</guid>
+            <description><![CDATA[Smotrich and Feiglin in talks for joint run, Feiglin could take no. 2 spot]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692560</guid>
             <pubDate>Fri, 28 Aug 2026 12:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ra’am rallies Negev voters: ‘More votes, more influence’]]></title>
-            <description><![CDATA[Ra'am MK Mansour Abbas urges increased Arab turnout, pledging to fight home demolitions, push for recognition of illegal Bedouin villages.]]></description>
-            <link>https://www.israelnationalnews.com/news/432378</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432378</guid>
+            <description><![CDATA[Ra’am rallies Negev voters: ‘More votes, more influence’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692559</guid>
             <pubDate>Fri, 28 Aug 2026 11:34:00 GMT</pubDate>
         </item>
         <item>
@@ -275,55 +322,6 @@ The source warned that the organization will engage in the confrontation if Isra
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692555</guid>
             <pubDate>Fri, 28 Aug 2026 10:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chaos in Jerusalem: Rioters torch bins, tear down light rail barriers]]></title>
-            <description><![CDATA[Chaos in Jerusalem: Rioters torch bins, tear down light rail barriers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692554</guid>
-            <pubDate>Fri, 28 Aug 2026 10:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two mountains. One altar]]></title>
-            <description><![CDATA[Two mountains. One altar]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692553</guid>
-            <pubDate>Fri, 28 Aug 2026 10:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Paddy from Ireland’ arrested after threatening Jewish couple in France]]></title>
-            <description><![CDATA[‘Paddy from Ireland’ arrested after threatening Jewish couple in France]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692552</guid>
-            <pubDate>Fri, 28 Aug 2026 09:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gary Lineker, Mark Ruffalo and the Antisemitism they cannot see]]></title>
-            <description><![CDATA[Gary Lineker, Mark Ruffalo and the Antisemitism they cannot see]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692551</guid>
-            <pubDate>Fri, 28 Aug 2026 08:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California could become the first state to list ‘Jewish’ as an ethnicity]]></title>
-            <description><![CDATA[California could become the first state to list ‘Jewish’ as an ethnicity]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692550</guid>
-            <pubDate>Fri, 28 Aug 2026 08:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Hamas captivity to new life: Elkana Bohbot welcomes baby girl]]></title>
-            <description><![CDATA[From Hamas captivity to new life: Elkana Bohbot welcomes baby girl]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692549</guid>
-            <pubDate>Fri, 28 Aug 2026 08:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mashiach can come today]]></title>
-            <description><![CDATA[Mashiach can come today]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692548</guid>
-            <pubDate>Fri, 28 Aug 2026 07:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

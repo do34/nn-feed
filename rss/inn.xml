@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 05:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 12:24:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 05:54:22 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 12:24:29 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>

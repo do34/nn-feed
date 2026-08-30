@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 22:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 01:07:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 22:25:26 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 01:07:11 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA['That crazy woman': Rabbi Yitzhak Yosef launches scathing attack on Baharav-Miara]]></title>
+            <description><![CDATA[Rabbi Yitzhak Yosef sharply criticizes the Attorney General over the controversy surrounding a memorial event for his father: “She is going after Maran, and this will not go unanswered."]]></description>
+            <link>https://www.israelnationalnews.com/news/432412</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432412</guid>
+            <pubDate>Sun, 30 Aug 2026 01:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yotam Haim’s mother sends stunning message to soldier on trial]]></title>
             <description><![CDATA[Iris Haim, whose son was accidentally killed in Gaza, says anger and revenge over the killing of an Israeli by IDF soldiers will only lead to more deaths.]]></description>
@@ -39,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[COGAT reveals: Between 20-30% of Gaza aid isn't food]]></title>
-            <description><![CDATA[COGAT reveals: Between 20-30% of Gaza aid isn't food]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692588</guid>
+            <description><![CDATA[Hundreds of trucks carrying food, medical supplies and water infrastructure equipment entered Gaza through Israel, while 150 residents departed for third countries, official data reveals.]]></description>
+            <link>https://www.israelnationalnews.com/news/432406</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432406</guid>
             <pubDate>Sat, 29 Aug 2026 20:26:00 GMT</pubDate>
         </item>
         <item>
@@ -53,9 +60,9 @@
         </item>
         <item>
             <title><![CDATA[New details emerge: Debts, secrecy and what Mali Yahalomi left behind]]></title>
-            <description><![CDATA[New details emerge: Debts, secrecy and what Mali Yahalomi left behind]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692586</guid>
+            <description><![CDATA[More than NIS 200,000 in debt, a surprise 50th birthday party and an apartment left untouched: New details reveal what preceded Mali and Liel Yahalomi’s mysterious departure.]]></description>
+            <link>https://www.israelnationalnews.com/news/432404</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432404</guid>
             <pubDate>Sat, 29 Aug 2026 19:42:00 GMT</pubDate>
         </item>
         <item>
@@ -248,9 +255,9 @@ The post came amid the threats he directed at Iran at the time, after calling on
         </item>
         <item>
             <title><![CDATA[The Israel factor in US military strength]]></title>
-            <description><![CDATA[Israel did not grow strong because it had an American alliance. It acquired an American alliance because it had grown strong. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432387</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432387</guid>
+            <description><![CDATA[The Israel factor in US military strength]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692565</guid>
             <pubDate>Fri, 28 Aug 2026 13:15:00 GMT</pubDate>
         </item>
         <item>
@@ -315,13 +322,6 @@ The post came amid the threats he directed at Iran at the time, after calling on
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692556</guid>
             <pubDate>Fri, 28 Aug 2026 11:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ki Tavo: Tithing in the proper order]]></title>
-            <description><![CDATA[Ki Tavo: Tithing in the proper order]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692555</guid>
-            <pubDate>Fri, 28 Aug 2026 10:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

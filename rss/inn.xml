@@ -4,11 +4,66 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 20:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 23:14:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2026 20:48:49 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 23:14:16 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IRGC claims responsibility for launches towards Jordan]]></title>
+            <description><![CDATA[Iran’s Islamic Revolutionary Guards Corps (IRGC) claimed responsibility for the missile launches towards Jordan.]]></description>
+            <link>https://www.israelnationalnews.com/news/432461</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432461</guid>
+            <pubDate>Sun, 30 Aug 2026 23:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man seriously injured in violent incident in Tel Aviv]]></title>
+            <description><![CDATA[A man in his 50s was seriously injured in a violent incident in Tel Aviv.
+
+Magen David Adom (MDA) medics treated him at the scene before evacuating him to Ichilov Hospital in the city.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692658</guid>
+            <pubDate>Sun, 30 Aug 2026 22:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US source to Fox News: Nearly all incoming missiles have been intercepted]]></title>
+            <description><![CDATA[US source to Fox News: Nearly all incoming missiles have been intercepted]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692657</guid>
+            <pubDate>Sun, 30 Aug 2026 22:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Interceptions in Jordan after Iran missile launch]]></title>
+            <description><![CDATA[Watch: Interceptions in Jordan after Iran missile launch]]></description>
+            <link>https://www.israelnationalnews.com/news/432461</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432461</guid>
+            <pubDate>Sun, 30 Aug 2026 22:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reports of explosions in Jordan following launch from Iran]]></title>
+            <description><![CDATA[Reports of explosions in Jordan following launch from Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692655</guid>
+            <pubDate>Sun, 30 Aug 2026 21:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Iran launches missiles at US vessels in the Strait of Hormuz]]></title>
+            <description><![CDATA[Iranian media outlets are reporting that missiles were launched at US military vessels in the Strait of Hormuz.
+
+The reported attack comes after the US strike on targets in Iran and threats by the Islamic Revolutionary Guard Corps to retaliate.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692654</guid>
+            <pubDate>Sun, 30 Aug 2026 21:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF: 16 Rotem Battalion soldiers sentenced to confinement, two to undergo evaluation]]></title>
+            <description><![CDATA[The IDF announced that 16 soldiers were sentenced after refusing to board a Namer armored personnel carrier in which a female paramedic was present.
+
+“The incident was investigated, and command measures were taken against those involved. Five of the soldiers who led the incident were sentenced to 10 days of confinement, while 11 additional soldiers were sentenced to five days of confinement. Two of the five soldiers sentenced to 10 days of confinement will undergo an evaluation committee before returning to combat," the military said.]]></description>
+            <link>https://www.israelnationalnews.com/news/432453</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432453</guid>
+            <pubDate>Sun, 30 Aug 2026 21:14:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRGC threatens retaliation after US strike on Iranian island]]></title>
             <description><![CDATA[Iran's IRGC threatens retaliation after a US strike on Larak Island kills two people and targets Iranian launchers preparing to deploy sea mines.]]></description>
@@ -178,51 +233,51 @@ Authorities are investigating.]]></description>
         </item>
         <item>
             <title><![CDATA[Yisrael Beytenu to unveil Knesset slate next week]]></title>
-            <description><![CDATA[Yisrael Beytenu will present its slate for the Knesset elections next week during an event at Expo Tel Aviv.]]></description>
+            <description><![CDATA[Yisrael Beytenu to unveil Knesset slate next week]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692629</guid>
             <pubDate>Sun, 30 Aug 2026 15:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Israel’s August storm fizzled]]></title>
-            <description><![CDATA[Forecasters expected an unusual late-August storm, but the system shifted north and spared central Israel. Meteo-Tech’s chief forecaster explains what happened.]]></description>
-            <link>https://www.israelnationalnews.com/news/432446</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432446</guid>
+            <description><![CDATA[Why Israel’s August storm fizzled]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692628</guid>
             <pubDate>Sun, 30 Aug 2026 15:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slovenian leaders clash over Israel: ‘We are decision-makers, not servants’]]></title>
-            <description><![CDATA[Slovenian leaders trade barbs over Israel and EU policy, as PM Janez Janša rejects pressure from Brussels and wins praise from Netanyahu.]]></description>
-            <link>https://www.israelnationalnews.com/news/432445</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432445</guid>
+            <description><![CDATA[Slovenian leaders clash over Israel: ‘We are decision-makers, not servants’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692627</guid>
             <pubDate>Sun, 30 Aug 2026 15:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Secret document to Hegseth: 'We will carry out the orders, but at a price']]></title>
-            <description><![CDATA[Senior US military leaders reportedly warn that prolonged operations against Iran are straining forces and could weaken readiness against threats elsewhere.]]></description>
-            <link>https://www.israelnationalnews.com/news/432444</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432444</guid>
+            <description><![CDATA[Secret document to Hegseth: 'We will carry out the orders, but at a price']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692626</guid>
             <pubDate>Sun, 30 Aug 2026 14:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jewish prayer returns to Temple Mount’s Eastern Wall]]></title>
-            <description><![CDATA[Weekly Slichot services are taking hold at the Temple Mount’s eastern wall as organizers seek to renew Jewish prayer at the ancient Jerusalem site.]]></description>
-            <link>https://www.israelnationalnews.com/news/432443</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432443</guid>
+            <description><![CDATA[Jewish prayer returns to Temple Mount’s Eastern Wall]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692625</guid>
             <pubDate>Sun, 30 Aug 2026 14:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[United Airlines to resume Tel Aviv-San Francisco flights in March]]></title>
-            <description><![CDATA[United Airlines announces return of year-round nonstop service between Tel Aviv and San Francisco, as part of expansion of its Israel-US flight schedule.]]></description>
-            <link>https://www.israelnationalnews.com/news/432442</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432442</guid>
+            <description><![CDATA[United Airlines to resume Tel Aviv-San Francisco flights in March]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692624</guid>
             <pubDate>Sun, 30 Aug 2026 13:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hasidic rabbis set to meet Trump at White House]]></title>
-            <description><![CDATA[Prominent Hasidic rabbis are reportedly set to meet President Trump at the White House, where the Satmar Rebbe plans to raise Israel’s yeshiva draft issue.]]></description>
-            <link>https://www.israelnationalnews.com/news/432441</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432441</guid>
+            <description><![CDATA[Hasidic rabbis set to meet Trump at White House]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692623</guid>
             <pubDate>Sun, 30 Aug 2026 13:42:00 GMT</pubDate>
         </item>
         <item>
@@ -245,55 +300,6 @@ Authorities are investigating.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692620</guid>
             <pubDate>Sun, 30 Aug 2026 12:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ferry carrying 270 people capsizes off of Cyprus]]></title>
-            <description><![CDATA[Ferry carrying 270 people capsizes off of Cyprus]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692619</guid>
-            <pubDate>Sun, 30 Aug 2026 12:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Medical graduate accused of wild police chase, ramming patrol car]]></title>
-            <description><![CDATA[Medical graduate accused of wild police chase, ramming patrol car]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692618</guid>
-            <pubDate>Sun, 30 Aug 2026 11:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NIS 1.4 million in suspected terror money found hidden in vehicle entering Jerusalem]]></title>
-            <description><![CDATA[NIS 1.4 million in suspected terror money found hidden in vehicle entering Jerusalem]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692617</guid>
-            <pubDate>Sun, 30 Aug 2026 11:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cameras capture 15-year-old kicking kitten]]></title>
-            <description><![CDATA[Cameras capture 15-year-old kicking kitten]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692616</guid>
-            <pubDate>Sun, 30 Aug 2026 11:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gantz: Four US generals tried to stop us]]></title>
-            <description><![CDATA[Gantz: Four US generals tried to stop us]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692615</guid>
-            <pubDate>Sun, 30 Aug 2026 10:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Midnight drama in Tekoa; two brothers went missing]]></title>
-            <description><![CDATA[Midnight drama in Tekoa; two brothers went missing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692614</guid>
-            <pubDate>Sun, 30 Aug 2026 10:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mohammed tops list of most common names among first graders]]></title>
-            <description><![CDATA[Mohammed tops list of most common names among first graders]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692613</guid>
-            <pubDate>Sun, 30 Aug 2026 10:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

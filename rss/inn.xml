@@ -4,11 +4,104 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 17:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 20:48:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2026 17:57:10 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 20:48:49 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IRGC threatens retaliation after US strike on Iranian island]]></title>
+            <description><![CDATA[Iran's IRGC threatens retaliation after a US strike on Larak Island kills two people and targets Iranian launchers preparing to deploy sea mines.]]></description>
+            <link>https://www.israelnationalnews.com/news/432461</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432461</guid>
+            <pubDate>Sun, 30 Aug 2026 20:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advisory Committee rules: Eisenkot to receive security through Election Day]]></title>
+            <description><![CDATA[Advisory committee recommends protection for Gadi Eisenkot until election day after new findings, reversing a decision that sparked controversy.]]></description>
+            <link>https://www.israelnationalnews.com/news/432460</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432460</guid>
+            <pubDate>Sun, 30 Aug 2026 19:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel Dog Unit joins IDF Haruv unit in intense overnight drill]]></title>
+            <description><![CDATA[IDU handlers and specialized search dogs trained alongside Haruv soldiers in a challenging northern Israel exercise designed to prepare for complex scenarios in hostile terrain.]]></description>
+            <link>https://www.israelnationalnews.com/news/432459</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432459</guid>
+            <pubDate>Sun, 30 Aug 2026 19:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hashivenu]]></title>
+            <description><![CDATA[It is Elul. And the voice of prayer merges with the early morning sound of a shofar, echoes in the sound of the bird singing on my porch rail this morning.]]></description>
+            <link>https://www.israelnationalnews.com/news/432458</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432458</guid>
+            <pubDate>Sun, 30 Aug 2026 19:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rabbis rally behind Rabbi Dov Lior against former Chief Rabbi]]></title>
+            <description><![CDATA[A leading Religious Zionist rabbinic group condemns public remarks against Rabbi Dov Lior after Rabbi Yitzchak Yosef targeted him for scathing public critique.]]></description>
+            <link>https://www.israelnationalnews.com/news/432457</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432457</guid>
+            <pubDate>Sun, 30 Aug 2026 19:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rosh Hashanah in the Land of Israel]]></title>
+            <description><![CDATA[One who observes carefully can see that God’s Kingship is being revealed more and more in our time.]]></description>
+            <link>https://www.israelnationalnews.com/news/432456</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432456</guid>
+            <pubDate>Sun, 30 Aug 2026 19:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanese reports of Israeli strikes in Kfar Roummane and Qantara in southern Lebanon]]></title>
+            <description><![CDATA[Lebanese reports of Israeli strikes in Kfar Roummane and Qantara in southern Lebanon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692646</guid>
+            <pubDate>Sun, 30 Aug 2026 19:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US official: US forces struck Iranian launchers that were about to launch mines into Hormuz]]></title>
+            <description><![CDATA[Axios cited a US official who said that earlier in the day, US forces struck two Iranian launchers on Larak Island.
+
+According to the official, Islamic Revolutionary Guard Corps forces were observed preparing to launch rockets with sea mines into the Strait of Hormuz.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692645</guid>
+            <pubDate>Sun, 30 Aug 2026 19:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu confirms: 'I met with Winter and offered him 'Come to us, and you'll be welcomed'']]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu confirmed in an interview with Channel 14 that he met with Ofer Winter. Netanyahu said that he "offered him, 'Come to us, and you'll be welcomed.' He chose to a seperate path and we're in trouble.']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692644</guid>
+            <pubDate>Sun, 30 Aug 2026 19:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu: 'Very existence of State of Israel at stake in this election']]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu was interviewed on Channel 14 on Sunday evening and said, “The very existence of the State of Israel is at stake in this election."]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692643</guid>
+            <pubDate>Sun, 30 Aug 2026 19:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advisory committee recommends Shin Bet protection for Gadi Eisenkot]]></title>
+            <description><![CDATA[Advisory committee recommends Shin Bet protection for Gadi Eisenkot]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692642</guid>
+            <pubDate>Sun, 30 Aug 2026 19:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Secret meeting: Netanyahu's offer to Winter]]></title>
+            <description><![CDATA[Report says Ofer Winter rejected Netanyahu’s offer of reserved Likud slots before launching his own party; despite backing Netanyahu, Likud remains wary.]]></description>
+            <link>https://www.israelnationalnews.com/news/432455</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432455</guid>
+            <pubDate>Sun, 30 Aug 2026 18:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poll: Winter takes weakens Netanyahu, Ben-Gvir]]></title>
+            <description><![CDATA[Kan News poll gives Ofir Winter’s new party four seats, while Netanyahu edges Bennett for premiership and neither political bloc reaches 61.]]></description>
+            <link>https://www.israelnationalnews.com/news/432454</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432454</guid>
+            <pubDate>Sun, 30 Aug 2026 17:58:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Soldiers jailed after refusing to ride in APC with female medic]]></title>
             <description><![CDATA[Three Hesder soldiers were sentenced to 10 days in military prison after refusing to board a Namer with a female medic, sparking fierce backlash from rabbis and politicians.]]></description>
@@ -32,9 +125,9 @@
         </item>
         <item>
             <title><![CDATA[Israeli sovereignty demands taking back our universities from the left]]></title>
-            <description><![CDATA[Israeli sovereignty demands taking back our universities from the left]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692636</guid>
+            <description><![CDATA[University professors must teach our students the same Jewish and Zionist values held by the Israeli taxpayers and Jewish donors who pay their salaries. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/432451</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432451</guid>
             <pubDate>Sun, 30 Aug 2026 16:54:00 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +139,11 @@
         </item>
         <item>
             <title><![CDATA[Report: Tanker attacked while entering Strait of Hormuz]]></title>
-            <description><![CDATA[Report: Tanker attacked while entering Strait of Hormuz]]></description>
+            <description><![CDATA[UKMTO is reporting that a tanker was struck by an unknown projectile whilst transiting inbound in the Strait of Hormuz, 12 NM north of Khasab, Oman.
+
+No casualties or environmental impact are reported at this time.
+
+Authorities are investigating.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692634</guid>
             <pubDate>Sun, 30 Aug 2026 16:28:00 GMT</pubDate>
@@ -60,9 +157,9 @@
         </item>
         <item>
             <title><![CDATA[A Covenant of Blood]]></title>
-            <description><![CDATA[A Covenant of Blood]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692632</guid>
+            <description><![CDATA[Who are the Druze? They are Arab in language, culture, and DNA, but It is their religion that is unique. And what is the covenant of blood? Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/432449</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432449</guid>
             <pubDate>Sun, 30 Aug 2026 16:03:00 GMT</pubDate>
         </item>
         <item>
@@ -74,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[Smotrich takes on fuel price hike with last-minute tax cut]]></title>
-            <description><![CDATA[Smotrich takes on fuel price hike with last-minute tax cut]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692630</guid>
+            <description><![CDATA[Finance Minister Bezalel Smotrich orders an excise tax cut to offset a planned 16-agura fuel price hike, with the reduction expected within days.]]></description>
+            <link>https://www.israelnationalnews.com/news/432447</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432447</guid>
             <pubDate>Sun, 30 Aug 2026 15:58:00 GMT</pubDate>
         </item>
         <item>
@@ -88,9 +185,9 @@
         </item>
         <item>
             <title><![CDATA[Why Israel’s August storm fizzled]]></title>
-            <description><![CDATA[Why Israel’s August storm fizzled]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692628</guid>
+            <description><![CDATA[Forecasters expected an unusual late-August storm, but the system shifted north and spared central Israel. Meteo-Tech’s chief forecaster explains what happened.]]></description>
+            <link>https://www.israelnationalnews.com/news/432446</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432446</guid>
             <pubDate>Sun, 30 Aug 2026 15:11:00 GMT</pubDate>
         </item>
         <item>
@@ -102,9 +199,9 @@
         </item>
         <item>
             <title><![CDATA[Secret document to Hegseth: 'We will carry out the orders, but at a price']]></title>
-            <description><![CDATA[Secret document to Hegseth: 'We will carry out the orders, but at a price']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692626</guid>
+            <description><![CDATA[Senior US military leaders reportedly warn that prolonged operations against Iran are straining forces and could weaken readiness against threats elsewhere.]]></description>
+            <link>https://www.israelnationalnews.com/news/432444</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432444</guid>
             <pubDate>Sun, 30 Aug 2026 14:48:00 GMT</pubDate>
         </item>
         <item>
@@ -116,9 +213,9 @@
         </item>
         <item>
             <title><![CDATA[United Airlines to resume Tel Aviv-San Francisco flights in March]]></title>
-            <description><![CDATA[United Airlines to resume Tel Aviv-San Francisco flights in March]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692624</guid>
+            <description><![CDATA[United Airlines announces return of year-round nonstop service between Tel Aviv and San Francisco, as part of expansion of its Israel-US flight schedule.]]></description>
+            <link>https://www.israelnationalnews.com/news/432442</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432442</guid>
             <pubDate>Sun, 30 Aug 2026 13:51:00 GMT</pubDate>
         </item>
         <item>
@@ -130,65 +227,65 @@
         </item>
         <item>
             <title><![CDATA[New town breaks ground in the Jordan Valley]]></title>
-            <description><![CDATA[A new agricultural outpost, Beitrun, was established in the Jordan Valley on Sunday, with the first structures placed on the site under the jurisdiction of the Jordan Valley Regional Council.]]></description>
-            <link>https://www.israelnationalnews.com/news/432440</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432440</guid>
+            <description><![CDATA[New town breaks ground in the Jordan Valley]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692622</guid>
             <pubDate>Sun, 30 Aug 2026 13:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US Jews sour on Iran war: Just one-third now call campaign successful]]></title>
-            <description><![CDATA[JPPI Voice of the Jewish People Index finds 64% view Iran campaign as a failure, while 55% say US military action did not go far enough.]]></description>
-            <link>https://www.israelnationalnews.com/news/432439</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432439</guid>
+            <description><![CDATA[US Jews sour on Iran war: Just one-third now call campaign successful]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692621</guid>
             <pubDate>Sun, 30 Aug 2026 13:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New survey: 54% of US Jews prefer Israeli opposition election victory]]></title>
-            <description><![CDATA[JPPI Voice of the Jewish People Index finds 54% prefer the current opposition, while 14% prefer the current coalition; 78% follow election news closely.]]></description>
-            <link>https://www.israelnationalnews.com/news/432438</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432438</guid>
+            <description><![CDATA[New survey: 54% of US Jews prefer Israeli opposition election victory]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692620</guid>
             <pubDate>Sun, 30 Aug 2026 12:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ferry carrying 270 people capsizes off of Cyprus]]></title>
-            <description><![CDATA[A passenger ferry capsized off the coast of Kyrenia shortly after departing for Turkey. Rescue forces and the coast guard are working to save approximately 270 people.]]></description>
-            <link>https://www.israelnationalnews.com/news/432437</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432437</guid>
+            <description><![CDATA[Ferry carrying 270 people capsizes off of Cyprus]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692619</guid>
             <pubDate>Sun, 30 Aug 2026 12:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Medical graduate accused of wild police chase, ramming patrol car]]></title>
-            <description><![CDATA[29-year-old Rahat resident and medical graduate allegedly fled police on Route 77, ramming a patrol car before being stopped. An M16 rifle matching parts found in his vehicle was later recovered.]]></description>
-            <link>https://www.israelnationalnews.com/news/432436</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432436</guid>
+            <description><![CDATA[Medical graduate accused of wild police chase, ramming patrol car]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692618</guid>
             <pubDate>Sun, 30 Aug 2026 11:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NIS 1.4 million in suspected terror money found hidden in vehicle entering Jerusalem]]></title>
-            <description><![CDATA[Border Police officers discover NIS 1.4 million concealed inside a double wall of a vehicle entering Jerusalem, suspect the cash due to be used as terror money.]]></description>
-            <link>https://www.israelnationalnews.com/news/432434</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432434</guid>
+            <description><![CDATA[NIS 1.4 million in suspected terror money found hidden in vehicle entering Jerusalem]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692617</guid>
             <pubDate>Sun, 30 Aug 2026 11:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cameras capture 15-year-old kicking kitten]]></title>
-            <description><![CDATA[Police surveillance operators identified an incident of animal abuse near the Lions’ Gate. A 15-year-old minor was arrested.]]></description>
-            <link>https://www.israelnationalnews.com/news/432435</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432435</guid>
+            <description><![CDATA[Cameras capture 15-year-old kicking kitten]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692616</guid>
             <pubDate>Sun, 30 Aug 2026 11:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gantz: Four US generals tried to stop us]]></title>
-            <description><![CDATA[Gantz says the Biden administration sent four senior officers to dissuade Israel from taking military action in Gaza.]]></description>
-            <link>https://www.israelnationalnews.com/news/432433</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432433</guid>
+            <description><![CDATA[Gantz: Four US generals tried to stop us]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692615</guid>
             <pubDate>Sun, 30 Aug 2026 10:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Midnight drama in Tekoa; two brothers went missing]]></title>
-            <description><![CDATA[Police forces, Search and Rescue Unit volunteers, and hundreds of residents searched throughout the night for two brothers, ages 3 and 7, from Tekoa.]]></description>
-            <link>https://www.israelnationalnews.com/news/432432</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432432</guid>
+            <description><![CDATA[Midnight drama in Tekoa; two brothers went missing]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692614</guid>
             <pubDate>Sun, 30 Aug 2026 10:29:00 GMT</pubDate>
         </item>
         <item>
@@ -197,97 +294,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692613</guid>
             <pubDate>Sun, 30 Aug 2026 10:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First they erased terror in Israel, now they are erasing 9/11]]></title>
-            <description><![CDATA[The word “terrorism" requires sensitivity. Condemning Israel apparently does not... Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432430</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432430</guid>
-            <pubDate>Sun, 30 Aug 2026 09:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peak number of haredi recruits to IDF, many opting for combat roles]]></title>
-            <description><![CDATA[Hundreds of haredi recruits arrived at Tel Hashomer induction center, many joining combat tracks, with one Hasmonean Brigade recruit saying: 'We all need to take responsibility, haredi or not.']]></description>
-            <link>https://www.israelnationalnews.com/news/432429</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432429</guid>
-            <pubDate>Sun, 30 Aug 2026 09:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[80-year-old woman suffocates on giant hair tie]]></title>
-            <description><![CDATA[Doctors save the life of an elderly woman who suffered severe respiratory distress after a 15-centimeter hair tie became lodged in her esophagus, blocking more than 80% of her airway.]]></description>
-            <link>https://www.israelnationalnews.com/news/432425</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432425</guid>
-            <pubDate>Sun, 30 Aug 2026 09:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indictment: 14 & 16-year-olds carried out tasks for Iranian agent]]></title>
-            <description><![CDATA[Indictment: 14 & 16-year-olds carried out tasks for Iranian agent]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692609</guid>
-            <pubDate>Sun, 30 Aug 2026 08:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yehuda Poliker woken in the night to save man threatening to jump]]></title>
-            <description><![CDATA[Yehuda Poliker woken in the night to save man threatening to jump]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692608</guid>
-            <pubDate>Sun, 30 Aug 2026 08:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How antisemitism can advance your career]]></title>
-            <description><![CDATA[How antisemitism can advance your career]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692607</guid>
-            <pubDate>Sun, 30 Aug 2026 07:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boy locked in his room & falls 4 stories]]></title>
-            <description><![CDATA[Boy locked in his room & falls 4 stories]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692606</guid>
-            <pubDate>Sun, 30 Aug 2026 07:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“What chutzpah": Rabbi Yitzhak Yosef lashes out at Rabbi Dov Lior]]></title>
-            <description><![CDATA[“What chutzpah": Rabbi Yitzhak Yosef lashes out at Rabbi Dov Lior]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692605</guid>
-            <pubDate>Sun, 30 Aug 2026 06:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli defense establishment prepares for conquest of Gaza City]]></title>
-            <description><![CDATA[Israeli defense establishment prepares for conquest of Gaza City]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692604</guid>
-            <pubDate>Sun, 30 Aug 2026 06:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thousands of Haredim enlist: A look at the IDF’s new service tracks]]></title>
-            <description><![CDATA[Thousands of Haredim enlist: A look at the IDF’s new service tracks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692603</guid>
-            <pubDate>Sun, 30 Aug 2026 06:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s Unit 4000 and the new architecture of outsourced terrorism]]></title>
-            <description><![CDATA[Iran’s Unit 4000 and the new architecture of outsourced terrorism]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692602</guid>
-            <pubDate>Sun, 30 Aug 2026 05:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rom Braslavski responds to terrorist’s complaints to Ben Gvir]]></title>
-            <description><![CDATA[Rom Braslavski responds to terrorist’s complaints to Ben Gvir]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692601</guid>
-            <pubDate>Sun, 30 Aug 2026 05:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nepal: Death toll in floods rises to 734]]></title>
-            <description><![CDATA[Nepal: Death toll in floods rises to 734]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692600</guid>
-            <pubDate>Sun, 30 Aug 2026 05:19:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

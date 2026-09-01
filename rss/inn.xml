@@ -4,11 +4,81 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 14:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 18:11:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Sep 2026 14:33:30 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 18:11:03 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump: 'If Iran retaliates, it will be struck even harder']]></title>
+            <description><![CDATA[US President comments on US strikes in Iran, warns Iran not to further escalate the conflict.]]></description>
+            <link>https://www.israelnationalnews.com/news/432560</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432560</guid>
+            <pubDate>Tue, 01 Sep 2026 17:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poll: 72.5% of Israelis reject cuts to Jewish studies in state schools]]></title>
+            <description><![CDATA[A Tzohar poll finds 72.5% of Israelis prefer to maintain the current level of Jewish, traditional and heritage studies or expand them, compared with just 18.1% who favor reducing them.]]></description>
+            <link>https://www.israelnationalnews.com/news/432556</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432556</guid>
+            <pubDate>Tue, 01 Sep 2026 17:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Embassry issues warning after Iran strikes]]></title>
+            <description><![CDATA[The US Embassy in Israel has warned citizens of the "possibility of unforeseen escalation" after the US strikes on Iran Tuesday.]]></description>
+            <link>https://www.israelnationalnews.com/news/432558</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432558</guid>
+            <pubDate>Tue, 01 Sep 2026 16:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Initial report: US launches strikes in Iran]]></title>
+            <description><![CDATA[Initial report: US launches strikes in Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692775</guid>
+            <pubDate>Tue, 01 Sep 2026 16:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Head of Hamas Internal Security arrested in Gaza]]></title>
+            <description><![CDATA[ISA special forces entered a structure in the Gaza City area and apprehended the head of Hamas’ Internal Security in the Gaza Strip.]]></description>
+            <link>https://www.israelnationalnews.com/news/432557</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432557</guid>
+            <pubDate>Tue, 01 Sep 2026 16:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CNN commentator Scott Jennings honored for staunch support of Israel and Jewish people]]></title>
+            <description><![CDATA[CNN commentator Scott Jennings honored for staunch support of Israel and Jewish people]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692773</guid>
+            <pubDate>Tue, 01 Sep 2026 16:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elections in Brazil on Jewish holiday; thousands demand extending voting hours]]></title>
+            <description><![CDATA[Brazil’s elections will fall on Simchat Torah this year, with polls set to close at 5 pm, before the holiday ends. A petition signed by thousands seeks to extend voting until 8 pm near Jewish communities.]]></description>
+            <link>https://www.israelnationalnews.com/news/432554</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432554</guid>
+            <pubDate>Tue, 01 Sep 2026 15:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merger moves forward: Smotrich and Feiglin to sign agreement tonight]]></title>
+            <description><![CDATA[Merger moves forward: Smotrich and Feiglin to sign agreement tonight]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692771</guid>
+            <pubDate>Tue, 01 Sep 2026 15:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holocaust survivor: 'Never let hatred define you; be proud of who you are']]></title>
+            <description><![CDATA[Hundreds of thousands of Jewish students to receive personal letter and video message from Nate Leipciger, a 98-year-old Holocaust survivor, as they return to campus for the new academic year]]></description>
+            <link>https://www.israelnationalnews.com/news/432551</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432551</guid>
+            <pubDate>Tue, 01 Sep 2026 14:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yair Golan to Sara Netanyahu: Apologize or face massive lawsuit]]></title>
+            <description><![CDATA[Yair Golan to Sara Netanyahu: Apologize or face massive lawsuit]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692769</guid>
+            <pubDate>Tue, 01 Sep 2026 14:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[For third consecutive time: Interest rate cut]]></title>
             <description><![CDATA[The interest rate will now stand at 3.25%, and as a result, the prime rate, on which most loans and mortgages in the economy are based, will fall to 4.75%.]]></description>
@@ -32,9 +102,9 @@
         </item>
         <item>
             <title><![CDATA[12 prison service personnel charged in death of security prisoner]]></title>
-            <description><![CDATA[12 prison service personnel charged in death of security prisoner]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692765</guid>
+            <description><![CDATA[The State Attorney’s Office has filed an indictment against 12 Israel Prison Service personnel. According to the indictment, they assaulted prisoners at Ketziot Prison, and one of them died from the beating.]]></description>
+            <link>https://www.israelnationalnews.com/news/432547</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432547</guid>
             <pubDate>Tue, 01 Sep 2026 13:44:00 GMT</pubDate>
         </item>
         <item>
@@ -46,9 +116,9 @@
         </item>
         <item>
             <title><![CDATA[IDF strikes Hamas commander in northern Gaza to remove threat]]></title>
-            <description><![CDATA[IDF strikes Hamas commander in northern Gaza to remove threat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692763</guid>
+            <description><![CDATA[The eliminated terrorist had advanced attacks against IDF troops and Israeli civilians and operated to rehabilitate the capabilities of Hamas.]]></description>
+            <link>https://www.israelnationalnews.com/news/432545</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432545</guid>
             <pubDate>Tue, 01 Sep 2026 12:40:00 GMT</pubDate>
         </item>
         <item>
@@ -60,9 +130,9 @@
         </item>
         <item>
             <title><![CDATA[Two years later: Police honor three officers murdered on their way to duty]]></title>
-            <description><![CDATA[Two years later: Police honor three officers murdered on their way to duty]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692761</guid>
+            <description><![CDATA[Judea and Samaria District officers pause at the exact time of the 2024 shooting attack to remember three colleagues murdered on their way to duty.]]></description>
+            <link>https://www.israelnationalnews.com/news/432543</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432543</guid>
             <pubDate>Tue, 01 Sep 2026 11:09:00 GMT</pubDate>
         </item>
         <item>
@@ -74,9 +144,9 @@
         </item>
         <item>
             <title><![CDATA[Baby food poisoning suspect pleads mental disorder]]></title>
-            <description><![CDATA[Baby food poisoning suspect pleads mental disorder]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692759</guid>
+            <description><![CDATA[A Jerusalem court extended the detention of a Southern resident suspected of deliberately introducing sedatives into baby food purées after three infants were hospitalized.]]></description>
+            <link>https://www.israelnationalnews.com/news/432541</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432541</guid>
             <pubDate>Tue, 01 Sep 2026 10:16:00 GMT</pubDate>
         </item>
         <item>
@@ -88,9 +158,9 @@
         </item>
         <item>
             <title><![CDATA[Defense Minister Katz confirms: A short time ago, we arrested a senior Hamas terrorist]]></title>
-            <description><![CDATA[Defense Minister Katz confirms: A short time ago, we arrested a senior Hamas terrorist]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692757</guid>
+            <description><![CDATA[Defense Minister Israel Katz visited Netiv Ha’asara and announced that a senior Hamas terrorist had been arrested shortly beforehand. Katz said that Israel would continue pursuing and eliminating Hamas terrorists and destroying the terrorist infrastructure in the Gaza Strip.]]></description>
+            <link>https://www.israelnationalnews.com/news/432536</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432536</guid>
             <pubDate>Tue, 01 Sep 2026 09:46:00 GMT</pubDate>
         </item>
         <item>
@@ -102,9 +172,9 @@
         </item>
         <item>
             <title><![CDATA[Back to school: Netanyahu joins first graders for arts and crafts]]></title>
-            <description><![CDATA[Back to school: Netanyahu joins first graders for arts and crafts]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692755</guid>
+            <description><![CDATA[Prime Minister Netanyahu opens the new school year in Ramle, greeting first graders before joining students for a colorful arts and crafts activity.]]></description>
+            <link>https://www.israelnationalnews.com/news/432537</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432537</guid>
             <pubDate>Tue, 01 Sep 2026 09:14:00 GMT</pubDate>
         </item>
         <item>
@@ -151,23 +221,23 @@
         </item>
         <item>
             <title><![CDATA[Knesset Speaker furious after posters target his children]]></title>
-            <description><![CDATA[Amir Ohana says posters were placed along his children’s entire route to school, accusing his political opponents of crossing a dangerous line.]]></description>
-            <link>https://www.israelnationalnews.com/news/432531</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432531</guid>
+            <description><![CDATA[Knesset Speaker furious after posters target his children]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692748</guid>
             <pubDate>Tue, 01 Sep 2026 06:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the Mossad’s Ahmadinejad Bet got right -- and wrong]]></title>
-            <description><![CDATA[Where the creative plan of the Mossad stumbled and what the plan for overthrowing Iran's current regime needs to succeed. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432530</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432530</guid>
+            <description><![CDATA[What the Mossad’s Ahmadinejad Bet got right -- and wrong]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692747</guid>
             <pubDate>Tue, 01 Sep 2026 06:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yair Golan announces lawsuit against Sara Netanyahu over ‘treason’ remarks]]></title>
-            <description><![CDATA[Yair Golan says he will sue Sara Netanyahu after she questioned his early arrival on October 7; Gadi Eisenkot condemns her remarks and backs Golan.]]></description>
-            <link>https://www.israelnationalnews.com/news/432529</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432529</guid>
+            <description><![CDATA[Yair Golan announces lawsuit against Sara Netanyahu over ‘treason’ remarks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692746</guid>
             <pubDate>Tue, 01 Sep 2026 06:18:00 GMT</pubDate>
         </item>
         <item>
@@ -179,119 +249,45 @@
         </item>
         <item>
             <title><![CDATA[The Tipping Point: When one becomes enough]]></title>
-            <description><![CDATA[We may never know how close the balance is to its tipping point, or the deed that changes everything. But that uncertainty is precisely what gives every choice its urgency.]]></description>
-            <link>https://www.israelnationalnews.com/news/432528</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432528</guid>
+            <description><![CDATA[The Tipping Point: When one becomes enough]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692744</guid>
             <pubDate>Tue, 01 Sep 2026 05:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Somaliland President to visit US for first time]]></title>
-            <description><![CDATA[Somaliland President Abdirahman Mohamed Abdullahi is expected to arrive in Washington in the coming days for his first visit to the United States since taking office.
-
-Abdullahi will also visit New York and meet with members of the House and Senate. “The hope is that he will also meet with President Trump," a source familiar with the visit told Kan News.]]></description>
+            <description><![CDATA[Somaliland President to visit US for first time]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692743</guid>
             <pubDate>Tue, 01 Sep 2026 05:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stabbing suspect arrested before boarding flight out of Israel]]></title>
-            <description><![CDATA[A 17-year-old was stabbed in the upper body in Holon and evacuated to Wolfson Medical Center with penetrating injuries.
-
-During efforts to locate the suspect, authorities discovered that he had arrived at Ben Gurion Airport and was preparing to board a flight out of the country.]]></description>
+            <description><![CDATA[Stabbing suspect arrested before boarding flight out of Israel]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692742</guid>
             <pubDate>Tue, 01 Sep 2026 05:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why validating the Ra'am party threatens Israel's security realism]]></title>
-            <description><![CDATA[If Israel normalizes political Islamism within its own governing coalitions to satisfy immediate electoral math, it projects strategic incoherence to its regional partners.]]></description>
-            <link>https://www.israelnationalnews.com/news/432527</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432527</guid>
+            <description><![CDATA[Why validating the Ra'am party threatens Israel's security realism]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692741</guid>
             <pubDate>Tue, 01 Sep 2026 05:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Water worries return: Most Israeli desalination plants shut down again]]></title>
-            <description><![CDATA[Most Israeli desalination facilities go offline for the second time in 24 hours due to seawater turbidity; officials say household supply continues.]]></description>
-            <link>https://www.israelnationalnews.com/news/432526</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432526</guid>
+            <description><![CDATA[Water worries return: Most Israeli desalination plants shut down again]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692740</guid>
             <pubDate>Tue, 01 Sep 2026 05:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2.6 million students return to schools as 2027 year begins]]></title>
-            <description><![CDATA[From a nationwide cellphone ban to AI lessons and financial education, millions of Israeli students are heading back to school for a year of major changes.]]></description>
-            <link>https://www.israelnationalnews.com/news/432525</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432525</guid>
+            <description><![CDATA[2.6 million students return to schools as 2027 year begins]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692739</guid>
             <pubDate>Tue, 01 Sep 2026 05:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Most of Israel's desalination facilities remain offline]]></title>
-            <description><![CDATA[Most of Israel's desalination facilities remain offline]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692738</guid>
-            <pubDate>Tue, 01 Sep 2026 04:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For the first time: Middle school students prohibited from using cellphones on school grounds]]></title>
-            <description><![CDATA[For the first time: Middle school students prohibited from using cellphones on school grounds]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692737</guid>
-            <pubDate>Tue, 01 Sep 2026 04:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Desalination malfunction: Sderot shuts water for irrigation]]></title>
-            <description><![CDATA[Desalination malfunction: Sderot shuts water for irrigation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692736</guid>
-            <pubDate>Tue, 01 Sep 2026 04:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian FM: If US returns to commitments, it is possible end current situation]]></title>
-            <description><![CDATA[Iranian FM: If US returns to commitments, it is possible end current situation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692735</guid>
-            <pubDate>Tue, 01 Sep 2026 04:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caught asleep at the wheel of a Tesla: Driver questioned by police]]></title>
-            <description><![CDATA[Caught asleep at the wheel of a Tesla: Driver questioned by police]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692734</guid>
-            <pubDate>Tue, 01 Sep 2026 03:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Danon meets Venezuelan UN envoy as Israel-Caracas relations begin to thaw]]></title>
-            <description><![CDATA[Danon meets Venezuelan UN envoy as Israel-Caracas relations begin to thaw]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692733</guid>
-            <pubDate>Tue, 01 Sep 2026 03:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On her way out of Likud? Tally Gotliv: I will consider joining another party]]></title>
-            <description><![CDATA[On her way out of Likud? Tally Gotliv: I will consider joining another party]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692732</guid>
-            <pubDate>Tue, 01 Sep 2026 02:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bessent: US sanctions aim to force Iran back to negotiating table]]></title>
-            <description><![CDATA[Bessent: US sanctions aim to force Iran back to negotiating table]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692731</guid>
-            <pubDate>Tue, 01 Sep 2026 02:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another senior Yesh Atid figure steps down | Mickey Levy won't run in next election]]></title>
-            <description><![CDATA[Another senior Yesh Atid figure steps down | Mickey Levy won't run in next election]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692730</guid>
-            <pubDate>Tue, 01 Sep 2026 01:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vance: Iran’s leaders are 'really crazy']]></title>
-            <description><![CDATA[Vance: Iran’s leaders are 'really crazy']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692729</guid>
-            <pubDate>Tue, 01 Sep 2026 01:15:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

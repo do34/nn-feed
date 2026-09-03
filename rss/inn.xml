@@ -4,11 +4,76 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 17:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 20:34:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 17:33:09 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 20:34:57 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Gafni: Finance officials threatened to freeze yeshiva funds]]></title>
+            <description><![CDATA[Degel HaTorah chairman MK Moshe Gafni claims Finance Ministry officials threatened yeshiva funding if he continued backing regional councils and Israeli agriculture.]]></description>
+            <link>https://www.israelnationalnews.com/news/432681</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432681</guid>
+            <pubDate>Thu, 03 Sep 2026 20:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poll shock: Right-wing bloc surges to 63 seats, Winter crashes below threshold]]></title>
+            <description><![CDATA[New survey shows Likud holds commanding lead with 31 seats as 'Together' gains ground and Ofer Winter’s 'Amcha Yisrael' falls to just 2.7%.]]></description>
+            <link>https://www.israelnationalnews.com/news/432679</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432679</guid>
+            <pubDate>Thu, 03 Sep 2026 19:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pasta giant Barilla acquires Goodles, brand founded by Gal Gadot]]></title>
+            <description><![CDATA[Italian food giant Barilla is acquiring Goodles, the mac and cheese brand founded by Gal Gadot and her husband, Yaron Varsano.]]></description>
+            <link>https://www.israelnationalnews.com/news/432680</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432680</guid>
+            <pubDate>Thu, 03 Sep 2026 19:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Oman quietly rejects Iran plan for Strait of Hormuz]]></title>
+            <description><![CDATA[Despite Iran's claims that an agreement has been reached to jointly charge fees to transit the Strait of Hormuz, Muscat has backed away from the talks.]]></description>
+            <link>https://www.israelnationalnews.com/news/432678</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432678</guid>
+            <pubDate>Thu, 03 Sep 2026 18:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flying high: Aleh Yarok joins Sharren Haskel’s Israel First party]]></title>
+            <description><![CDATA[The pro-cannabis Aleh Yarok party announced that it is joining MK Sharren Haskel’s Israel First party.
+
+Haskel called the move “a natural partnership and a closing of the circle," saying that after three years of war, it is time for the state to assist soldiers and civilians coping with physical and psychological injuries.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692929</guid>
+            <pubDate>Thu, 03 Sep 2026 18:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From a large terror army to a decentralized guerilla threat]]></title>
+            <description><![CDATA[Hezbollah has sustained unprecedented damage, but it currently continues to invest in recovery and force buildup, while adapting its force structure and operational plans to the new reality that has emerged in Lebanon and the region. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/432677</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432677</guid>
+            <pubDate>Thu, 03 Sep 2026 17:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: “Lecha Dodi" sung on the Temple Mount]]></title>
+            <description><![CDATA[Jews who ascended the Temple Mount today held an early Kabbalat Shabbat service at the site.]]></description>
+            <link>https://www.israelnationalnews.com/news/432676</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432676</guid>
+            <pubDate>Thu, 03 Sep 2026 17:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Wizard and the Media]]></title>
+            <description><![CDATA[This current cycle of blood libels is not new to the Jewish nation, but it is unique because technology has allowed the poison to infiltrate the entire world at lightning speed. Opinion]]></description>
+            <link>https://www.israelnationalnews.com/news/432675</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432675</guid>
+            <pubDate>Thu, 03 Sep 2026 17:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF finishes clearing out Hezbollah tunnels under Ali Taher Ridge]]></title>
+            <description><![CDATA[IDF troops seize control of the Ali al-Taher Ridge and neutralize an Iran-funded Hezbollah underground network equipped for extended combat operations.]]></description>
+            <link>https://www.israelnationalnews.com/news/432674</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432674</guid>
+            <pubDate>Thu, 03 Sep 2026 17:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Agreement reached: Gotliv to leave Likud for Ben-Gvir]]></title>
             <description><![CDATA[Likud and Tally Gotliv reach agreement allowing her to run with Otzma Yehudit while requiring her to vote with Likud until the next Knesset is sworn in.]]></description>
@@ -168,65 +233,63 @@ This follows a similar incident earlier in the day in the sector, in which the I
         </item>
         <item>
             <title><![CDATA[Israel to release five Lebanese prisoners in US-brokered gesture]]></title>
-            <description><![CDATA[Israel to release five Lebanese POWs, following reported progress in talks over detainees, missing persons and the northern border.]]></description>
-            <link>https://www.israelnationalnews.com/news/432654</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432654</guid>
+            <description><![CDATA[Israel to release five Lebanese prisoners in US-brokered gesture]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692903</guid>
             <pubDate>Thu, 03 Sep 2026 11:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Toronto rabbis spark backlash with burial ban over assisted dying]]></title>
-            <description><![CDATA[An Orthodox rabbis’ council has barred funerals and restricted burial for Jews who die through physician-assisted death, triggering a fierce backlash from other rabbis and community leaders.]]></description>
-            <link>https://www.israelnationalnews.com/news/432656</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432656</guid>
+            <description><![CDATA[Toronto rabbis spark backlash with burial ban over assisted dying]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692902</guid>
             <pubDate>Thu, 03 Sep 2026 11:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coming home is only the beginning]]></title>
-            <description><![CDATA[Nitzavim promises that G-d will bring us back. VaYelech tells Yehoshua that he must lead the people in taking possession of the Land - and that is in our hands.]]></description>
-            <link>https://www.israelnationalnews.com/news/432655</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432655</guid>
+            <description><![CDATA[Coming home is only the beginning]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692901</guid>
             <pubDate>Thu, 03 Sep 2026 11:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Iranian missiles hit Jordan hotel where US officers were staying]]></title>
-            <description><![CDATA[According to local Jordanian reports, the Iranian missiles fired earlier this week towards Jordan hit a hotel where US officers were staying.]]></description>
+            <description><![CDATA[Report: Iranian missiles hit Jordan hotel where US officers were staying]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692900</guid>
             <pubDate>Thu, 03 Sep 2026 10:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anti-Semitism in Spain surges]]></title>
-            <description><![CDATA[A new report found 221 anti-Semitic incidents in Spain in 2025, a nearly 15% increase from the previous year.]]></description>
-            <link>https://www.israelnationalnews.com/news/432653</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432653</guid>
+            <description><![CDATA[Anti-Semitism in Spain surges]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692899</guid>
             <pubDate>Thu, 03 Sep 2026 10:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deri: IDF can bomb Iran, it can handle haredi enlistment]]></title>
-            <description><![CDATA[Shas chairman Aryeh Deri says politicians should not call on haredim to enlist, claiming the IDF 'doesn’t really want' soldiers who listen to rabbis.]]></description>
-            <link>https://www.israelnationalnews.com/news/432650</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432650</guid>
+            <description><![CDATA[Deri: IDF can bomb Iran, it can handle haredi enlistment]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692898</guid>
             <pubDate>Thu, 03 Sep 2026 10:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katz to Iran: Attack Israel, we’ll send you back to the Stone Age]]></title>
-            <description><![CDATA[Defense Minister Israel Katz warns Tehran that any attack will risk devastating strikes on Iran’s military, civilian and energy infrastructure.]]></description>
-            <link>https://www.israelnationalnews.com/news/432652</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432652</guid>
+            <description><![CDATA[Katz to Iran: Attack Israel, we’ll send you back to the Stone Age]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692897</guid>
             <pubDate>Thu, 03 Sep 2026 10:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Next round’ is coming: Houthis hold naval drills against Israel, US]]></title>
-            <description><![CDATA[Houthi official Mohammed Ali al-Houthi says naval drills in the Red Sea are preparations for the ‘next round’ of confrontation with Israel and the US.]]></description>
-            <link>https://www.israelnationalnews.com/news/432649</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432649</guid>
+            <description><![CDATA[‘Next round’ is coming: Houthis hold naval drills against Israel, US]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692896</guid>
             <pubDate>Thu, 03 Sep 2026 09:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF eliminates terrorist who crossed the Yellow Line in northern Gaza]]></title>
-            <description><![CDATA[Earlier today (Thursday), IDF troops operating in the northern Gaza Strip identified a terrorist who crossed the Yellow Line and approached the troops in a manner that posed an immediate threat.
-
-Following the identification, the Israeli Air Force struck the terrorist and eliminated him to remove the threat he posed.]]></description>
+            <description><![CDATA[IDF eliminates terrorist who crossed the Yellow Line in northern Gaza]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692895</guid>
             <pubDate>Thu, 03 Sep 2026 08:47:00 GMT</pubDate>
@@ -237,69 +300,6 @@ Following the identification, the Israeli Air Force struck the terrorist and eli
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692894</guid>
             <pubDate>Thu, 03 Sep 2026 08:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Iran threatening major attack if Israel seizes Hezbollah stronghold]]></title>
-            <description><![CDATA[Report: Iran threatening major attack if Israel seizes Hezbollah stronghold]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692893</guid>
-            <pubDate>Thu, 03 Sep 2026 08:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feiglin on Smotrich alliance: ‘After the election, we each go our own way’]]></title>
-            <description><![CDATA[Feiglin on Smotrich alliance: ‘After the election, we each go our own way’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692892</guid>
-            <pubDate>Thu, 03 Sep 2026 08:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran threatens powerful attacks if Israel strikes Ali al-Taher ridge in Lebanon]]></title>
-            <description><![CDATA[Iran threatens powerful attacks if Israel strikes Ali al-Taher ridge in Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692891</guid>
-            <pubDate>Thu, 03 Sep 2026 07:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fuel prices to drop by half a shekel per liter next week]]></title>
-            <description><![CDATA[Fuel prices to drop by half a shekel per liter next week]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692890</guid>
-            <pubDate>Thu, 03 Sep 2026 07:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The letter Yud]]></title>
-            <description><![CDATA[The letter Yud]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692889</guid>
-            <pubDate>Thu, 03 Sep 2026 07:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The front line is everywhere: Why Europe must dismantle Tehran's hybrid terror network]]></title>
-            <description><![CDATA[The front line is everywhere: Why Europe must dismantle Tehran's hybrid terror network]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692888</guid>
-            <pubDate>Thu, 03 Sep 2026 07:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[October 7 lessons that could change how hospitals prepare for war]]></title>
-            <description><![CDATA[October 7 lessons that could change how hospitals prepare for war]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692887</guid>
-            <pubDate>Thu, 03 Sep 2026 07:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Murderer of 14-year-old Danny Katz and IDF soldier Dafna Carmon dies in prison]]></title>
-            <description><![CDATA[Murderer of 14-year-old Danny Katz and IDF soldier Dafna Carmon dies in prison]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692886</guid>
-            <pubDate>Thu, 03 Sep 2026 07:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF drills dozens of extreme war scenarios on Syrian border]]></title>
-            <description><![CDATA[IDF drills dozens of extreme war scenarios on Syrian border]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692885</guid>
-            <pubDate>Thu, 03 Sep 2026 06:24:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

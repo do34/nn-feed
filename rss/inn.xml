@@ -4,11 +4,40 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 21:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 23:45:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 21:16:26 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 23:45:50 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Shabbat Shalom!]]></title>
+            <description><![CDATA[Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat in North America, where they are being written now.
+
+Updates will resume Saturday night from Israel, following the conclusion of Shabbat at 19:35 Jerusalem time.
+
+Shabbat Shalom!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_629916</guid>
+            <pubDate>Fri, 04 Sep 2026 22:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turkish comedian charged over Erdogan jokes, could face 10 years in prison]]></title>
+            <description><![CDATA[Turkish comedian Deniz Goktas faces up to a decade or more in prison after being charged over jokes about Erdogan during a stand-up performance.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/432729</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432729</guid>
+            <pubDate>Fri, 04 Sep 2026 22:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UAE pardons poet Abdulrahman Qaradawi a week after 10-year prison sentence]]></title>
+            <description><![CDATA[UAE President pardons poet Abdulrahman Qaradawi, son of the founder of the Muslim Brotherhood, one week after he was sentenced to 10 years following his extradition from Lebanon.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/432728</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432728</guid>
+            <pubDate>Fri, 04 Sep 2026 21:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US sanctions Turkish bank over alleged Iran, IRGC financial network]]></title>
             <description><![CDATA[US Treasury sanctions a Turkish bank and two subsidiaries, accusing them of helping Iran and the IRGC-QF move tens of millions of dollars.
@@ -224,23 +253,23 @@ According to Erdan, the party's current level of support does not make it highly
         </item>
         <item>
             <title><![CDATA[JD Vance refuses to disavow Tucker Carlson]]></title>
-            <description><![CDATA[US Vice President JD Vance refuses to distance himself from Tucker Carlson, saying he won’t 'throw friends under the bus.']]></description>
-            <link>https://www.israelnationalnews.com/news/432704</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432704</guid>
+            <description><![CDATA[JD Vance refuses to disavow Tucker Carlson]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692963</guid>
             <pubDate>Fri, 04 Sep 2026 06:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[11 Givati soldiers freed after APC storm]]></title>
-            <description><![CDATA[Eleven hesder soldiers leave military prison after five days; five others remain behind bars as parents demand IDF chief intervene.]]></description>
-            <link>https://www.israelnationalnews.com/news/432703</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432703</guid>
+            <description><![CDATA[11 Givati soldiers freed after APC storm]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692962</guid>
             <pubDate>Fri, 04 Sep 2026 06:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Poll boost for Netanyahu: Coalition climbs to 51 seats]]></title>
-            <description><![CDATA[Netanyahu bloc reaches its strongest showing since May as the Zionist opposition falls to 57 seats; Ofer Winter crosses the threshold with four.]]></description>
-            <link>https://www.israelnationalnews.com/news/432697</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432697</guid>
+            <description><![CDATA[Poll boost for Netanyahu: Coalition climbs to 51 seats]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692961</guid>
             <pubDate>Fri, 04 Sep 2026 05:25:00 GMT</pubDate>
         </item>
         <item>
@@ -291,27 +320,6 @@ According to Erdan, the party's current level of support does not make it highly
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692954</guid>
             <pubDate>Fri, 04 Sep 2026 04:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: Better living conditions for Palestinians will not bring peace]]></title>
-            <description><![CDATA[Podcast: Better living conditions for Palestinians will not bring peace]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692953</guid>
-            <pubDate>Fri, 04 Sep 2026 03:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Korea reportedly preparing military deployment to Strait of Hormuz]]></title>
-            <description><![CDATA[South Korea reportedly preparing military deployment to Strait of Hormuz]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692952</guid>
-            <pubDate>Fri, 04 Sep 2026 03:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new libel to destroy Israel]]></title>
-            <description><![CDATA[The new libel to destroy Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692951</guid>
-            <pubDate>Fri, 04 Sep 2026 03:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

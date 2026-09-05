@@ -4,11 +4,53 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Sep 2026 20:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 22:40:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Sep 2026 20:11:53 GMT</pubDate>
+        <pubDate>Sat, 05 Sep 2026 22:40:09 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Forget the Rabbi]]></title>
+            <description><![CDATA[The Cantor, the lion, and the fox]]></description>
+            <link>https://www.israelnationalnews.com/news/432740</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432740</guid>
+            <pubDate>Sat, 05 Sep 2026 22:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haredi shakeup: Gafni, Maklev reportedly ousted from Degel HaTorah slate]]></title>
+            <description><![CDATA[Degel HaTorah party sources say rabbis have decided to replace veteran MKs Moshe Gafni and Uri Maklev, potentially ending Gafni’s 38-year Knesset career.]]></description>
+            <link>https://www.israelnationalnews.com/news/432745</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432745</guid>
+            <pubDate>Sat, 05 Sep 2026 21:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live From Jerusalem: Heartfelt song and prayer at annual Selichot gathering]]></title>
+            <description><![CDATA[Yitzhak Meir leads a powerful night of Selichot, music and prayer at the Jerusalem Convention Center as worshippers prepare for the High Holy Days.]]></description>
+            <link>https://www.israelnationalnews.com/news/432746</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432746</guid>
+            <pubDate>Sat, 05 Sep 2026 21:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bacon protest sparks kashrut controversy at Ichilov Hospital]]></title>
+            <description><![CDATA[Hospital throws out dishes after bacon is placed on them in protest over Shabbat closure of new maternity ward food machines.]]></description>
+            <link>https://www.israelnationalnews.com/news/432743</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432743</guid>
+            <pubDate>Sat, 05 Sep 2026 21:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[East Jerusalem man indicted over weapons deal with Hamas agent]]></title>
+            <description><![CDATA[An East Jerusalem resident allegedly sold an M16 rifle to a Hamas-linked activist accused of plotting attacks against Minister Ben Gvir.]]></description>
+            <link>https://www.israelnationalnews.com/news/432744</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432744</guid>
+            <pubDate>Sat, 05 Sep 2026 20:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to learn optimism from Selichot]]></title>
+            <description><![CDATA[It would be totally understandable if we were filled with anxiety and dread. But...]]></description>
+            <link>https://www.israelnationalnews.com/news/432742</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432742</guid>
+            <pubDate>Sat, 05 Sep 2026 20:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Far-right activists give Nazi salutes in heart of Madrid]]></title>
             <description><![CDATA[Spanish far-right activists use Nazi-style salutes in anti-migrant protests.]]></description>
@@ -25,9 +67,9 @@
         </item>
         <item>
             <title><![CDATA[Netanya shooting: Suspect likely suffering combat trauma declared dead]]></title>
-            <description><![CDATA[Netanya shooting: Suspect likely suffering combat trauma declared dead]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693004</guid>
+            <description><![CDATA[Armed security forces member believed to suffer from combat trauma declared dead after opening fire on police in Netanya.]]></description>
+            <link>https://www.israelnationalnews.com/news/432730</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432730</guid>
             <pubDate>Sat, 05 Sep 2026 19:53:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[The English city where the West goes to die]]></title>
-            <description><![CDATA[The English city where the West goes to die]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693002</guid>
+            <description><![CDATA[Birmingham City Council decided to ban the English flag and the flag of St George. For "public safety." Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/432738</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432738</guid>
             <pubDate>Sat, 05 Sep 2026 19:50:00 GMT</pubDate>
         </item>
         <item>
@@ -53,9 +95,9 @@
         </item>
         <item>
             <title><![CDATA[DOJ civil rights chief: Antisemitism is a ‘national crisis’]]></title>
-            <description><![CDATA[DOJ civil rights chief: Antisemitism is a ‘national crisis’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693000</guid>
+            <description><![CDATA[Harmeet Dhillon tells Israeli-American leaders Justice Department is using 'hard power' of US government to fight antisemitism on campuses and across country.]]></description>
+            <link>https://www.israelnationalnews.com/news/432736</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432736</guid>
             <pubDate>Sat, 05 Sep 2026 19:03:00 GMT</pubDate>
         </item>
         <item>
@@ -67,7 +109,11 @@
         </item>
         <item>
             <title><![CDATA[IDF: Interceptor launched near Gaza toward false target]]></title>
-            <description><![CDATA[IDF: Interceptor launched near Gaza toward false target]]></description>
+            <description><![CDATA[IDF: A short while ago, an interceptor was launched toward a false target that was later identified as IDF fire from operations conducted within the southern Gaza Strip area.
+
+No injuries were reported. The incident is under review.
+
+No sirens were sounded in the communities in accordance with protocol.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692998</guid>
             <pubDate>Sat, 05 Sep 2026 18:07:00 GMT</pubDate>
@@ -203,50 +249,42 @@ According to the statement, IDF soldiers opened fire and downed the drone. No ID
         </item>
         <item>
             <title><![CDATA[Podcast: It's Not in Heaven, but in Your Heart]]></title>
-            <description><![CDATA[Standing tall and together before HaShem.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/432721</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432721</guid>
+            <description><![CDATA[Podcast: It's Not in Heaven, but in Your Heart]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692983</guid>
             <pubDate>Fri, 04 Sep 2026 17:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Arutz Sheva-Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of Shabbat. Jerusalem candle lighting time is 18:20 on Friday. Our North American desk will keep you informed until the 19:05 EDT candle lighting time in New York.
-
-The updates from Israel will resume Saturday night, following the conclusion of Shabbat at 19:35 in Jerusalem.
-
-Shabbat Shalom!]]></description>
+            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
             <pubDate>Fri, 04 Sep 2026 15:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gilad Erdan: Unity Party pulls out of upcoming elections]]></title>
-            <description><![CDATA[Gilad Erdan announces that the Unity Party he founded will not compete in the upcoming elections, acknowledging that the party is unlikely to clear the electoral threshold.]]></description>
-            <link>https://www.israelnationalnews.com/news/432719</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432719</guid>
+            <description><![CDATA[Gilad Erdan: Unity Party pulls out of upcoming elections]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692982</guid>
             <pubDate>Fri, 04 Sep 2026 14:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Political drama: Erdan withdraws from race]]></title>
-            <description><![CDATA[Gilad Erdan announced that the Unity Party he founded will not run in the upcoming elections.
-
-According to Erdan, the party's current level of support does not make it highly likely to cross the electoral threshold, while efforts to join forces with additional parties have also failed to materialize.]]></description>
+            <description><![CDATA[Political drama: Erdan withdraws from race]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692981</guid>
             <pubDate>Fri, 04 Sep 2026 14:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Locked out of WhatsApp: Users suddenly lose access with no warning]]></title>
-            <description><![CDATA[WhatsApp users locked out without warning as account bans spark growing backlash.]]></description>
-            <link>https://www.israelnationalnews.com/news/432718</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432718</guid>
+            <description><![CDATA[Locked out of WhatsApp: Users suddenly lose access with no warning]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692980</guid>
             <pubDate>Fri, 04 Sep 2026 13:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China: Death toll in Tibet floods rises to 31]]></title>
-            <description><![CDATA[The death toll on the Chinese side of the Nepal-Tibet border has risen to 31, while nine days after the disaster, 531 people are still listed as missing.]]></description>
+            <description><![CDATA[China: Death toll in Tibet floods rises to 31]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692979</guid>
             <pubDate>Fri, 04 Sep 2026 13:31:00 GMT</pubDate>
@@ -278,48 +316,6 @@ According to Erdan, the party's current level of support does not make it highly
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692975</guid>
             <pubDate>Fri, 04 Sep 2026 12:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yeshiva heads slam jailing of Givati soldiers: ‘A disgrace’]]></title>
-            <description><![CDATA[Yeshiva heads slam jailing of Givati soldiers: ‘A disgrace’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692974</guid>
-            <pubDate>Fri, 04 Sep 2026 11:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM praises soldiers for successful Samaria weapons raid]]></title>
-            <description><![CDATA[PM praises soldiers for successful Samaria weapons raid]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692973</guid>
-            <pubDate>Fri, 04 Sep 2026 10:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli indicted for working with foreign intelligence agents]]></title>
-            <description><![CDATA[Israeli indicted for working with foreign intelligence agents]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692971</guid>
-            <pubDate>Fri, 04 Sep 2026 10:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF foils imminent terror attack, arrests five-man cell]]></title>
-            <description><![CDATA[IDF foils imminent terror attack, arrests five-man cell]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692970</guid>
-            <pubDate>Fri, 04 Sep 2026 09:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF eliminates Nukhba commander who led October 7 Sufa attack]]></title>
-            <description><![CDATA[IDF eliminates Nukhba commander who led October 7 Sufa attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692969</guid>
-            <pubDate>Fri, 04 Sep 2026 09:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belgian union threatens strike over flights to Israel]]></title>
-            <description><![CDATA[Belgian union threatens strike over flights to Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692968</guid>
-            <pubDate>Fri, 04 Sep 2026 08:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

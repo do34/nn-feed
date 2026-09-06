@@ -4,11 +4,76 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 16:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 18:52:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 16:50:05 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 18:52:58 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The union that could skyrocket Winter, Smotrich and Feiglin]]></title>
+            <description><![CDATA[איחוד אפשרי בימין עשוי לשנות משמעותית את מפת המנדטים: לפי סקר כאן חדשות, רשימה משותפת של וינטר, סמוטריץ' ופייגלין זוכה ל-11 מנדטים. ללא וינטר, החיבור בין הציונות הדתית לזהות עומד על 6 מנדטים.]]></description>
+            <link>https://www.israelnationalnews.com/news/432801</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432801</guid>
+            <pubDate>Sun, 06 Sep 2026 18:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yisrael Beytenu unveils election slate as key figures exit]]></title>
+            <description><![CDATA[Lieberman’s party reveals its candidates for the 26th Knesset, while some prominent figures resign and others are left off the slate.]]></description>
+            <link>https://www.israelnationalnews.com/news/432800</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432800</guid>
+            <pubDate>Sun, 06 Sep 2026 18:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal visit: South African Queen and Princes get inside look at MDA]]></title>
+            <description><![CDATA[South African Queen, Princes and Princesses tour MDA’s advanced facilities in Israel, with one royal calling the experience ‘life-changing.’]]></description>
+            <link>https://www.israelnationalnews.com/news/432799</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432799</guid>
+            <pubDate>Sun, 06 Sep 2026 18:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Not standard issue: IDF soldier’s ‘serial killer’ patch lands him in trouble]]></title>
+            <description><![CDATA[Armed IDF soldier filmed at Tel Aviv train station wearing ‘Serial Killer’ and other unusual patches; IDF says he will face disciplinary proceedings.]]></description>
+            <link>https://www.israelnationalnews.com/news/432798</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432798</guid>
+            <pubDate>Sun, 06 Sep 2026 17:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fake abduction report triggers major police, IDF response]]></title>
+            <description><![CDATA[A late-night call claiming three Israelis were being abducted sent police and IDF forces rushing to Hizma-only for investigators to allege the group had entered the village voluntarily and falsely reported an abduction.]]></description>
+            <link>https://www.israelnationalnews.com/news/432796</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432796</guid>
+            <pubDate>Sun, 06 Sep 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF planning on operating in Lebanon in coming hours, explosions expected in northern Israel]]></title>
+            <description><![CDATA[The Kiryat Shmona Municipality announced that IDF forces are expected to operate in Lebanon within the next hour, and that explosions may be heard in Kiryat Shmona and communities across the Galilee.
+
+At this stage, normal routines remain in place and no special instructions have been issued to the public.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693068</guid>
+            <pubDate>Sun, 06 Sep 2026 17:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jerusalem mugger pulls knife at ATM, victim pulls gun]]></title>
+            <description><![CDATA[Knife-wielding suspect allegedly attacks civilian withdrawing cash at Jerusalem ATM; intended victim draws his pistol and shoots, severely wounding him.]]></description>
+            <link>https://www.israelnationalnews.com/news/432795</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432795</guid>
+            <pubDate>Sun, 06 Sep 2026 17:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ayelet Shaked says she will not run in the upcoming elections]]></title>
+            <description><![CDATA[Ayelet Shaked says she will not run in the upcoming elections]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693066</guid>
+            <pubDate>Sun, 06 Sep 2026 17:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zamir to Israel’s enemies: Attack us, pay a ‘very heavy price’]]></title>
+            <description><![CDATA[IDF Chief Eyal Zamir oversees surprise ‘Breaking Dawn 2.0’ exercise testing readiness for multi-front war and warns enemies of an immediate, heavy price.]]></description>
+            <link>https://www.israelnationalnews.com/news/432794</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432794</guid>
+            <pubDate>Sun, 06 Sep 2026 17:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lebanese report: Two killed in Israeli strike in Nabatieh area in the south]]></title>
             <description><![CDATA[Lebanese report: Two killed in Israeli strike in Nabatieh area in the south]]></description>
@@ -25,7 +90,9 @@
         </item>
         <item>
             <title><![CDATA[Givat Shaul shooting: Suspect shot in attempted robbery]]></title>
-            <description><![CDATA[Givat Shaul shooting: Suspect shot in attempted robbery]]></description>
+            <description><![CDATA[Following an initial investigation by officers from the Moriah Police Station, who arrived at the scene of the shooting incident in the Givat Shaul neighborhood in Jerusalem, police suspect that the incident was an attempted robbery during which the suspect was shot by one of those involved.
+
+The suspect was evacuated to the hospital in serious condition, according to medical officials. Police said the incident was criminal in nature. Officers are operating at the scene, and the circumstances are under investigation.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693062</guid>
             <pubDate>Sun, 06 Sep 2026 16:36:00 GMT</pubDate>
@@ -41,7 +108,7 @@ Magen David Adom paramedics treated him at the scene and evacuated him to Shaare
         </item>
         <item>
             <title><![CDATA[Initial reports of a suspected shooting incident in Jerusalem's Givat Shaul neighborhood]]></title>
-            <description><![CDATA[Initial reports of a suspected shooting incident in Jerusalem's Givat Shaul neighborhood]]></description>
+            <description><![CDATA[The police are looking into a report of a suspected shooting incident in the Givat Shaul neighborhood in Jerusalem. Police forces are en route to the scene, and the incident is under review.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693060</guid>
             <pubDate>Sun, 06 Sep 2026 16:17:00 GMT</pubDate>
@@ -55,9 +122,9 @@ Magen David Adom paramedics treated him at the scene and evacuated him to Shaare
         </item>
         <item>
             <title><![CDATA[‘Don’t mess with us’: Netanyahu warns Iran of crushing response]]></title>
-            <description><![CDATA[‘Don’t mess with us’: Netanyahu warns Iran of crushing response]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693058</guid>
+            <description><![CDATA[Netanyahu warns Iran against attacking Israel, says its regime is weak and faltering, and vows to complete a mission that will reshape the Middle East.]]></description>
+            <link>https://www.israelnationalnews.com/news/432791</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432791</guid>
             <pubDate>Sun, 06 Sep 2026 15:52:00 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +136,9 @@ Magen David Adom paramedics treated him at the scene and evacuated him to Shaare
         </item>
         <item>
             <title><![CDATA[Police arrest suspect in thefts on Route 446]]></title>
-            <description><![CDATA[Police arrest suspect in thefts on Route 446]]></description>
+            <description><![CDATA[Police officers from the Judea and Samaria District arrested a man in his 20s from Qibya on suspicion of involvement in a series of robberies and vehicle thefts on Route 446.
+
+According to the suspicion, in one incident he stole a vehicle during a meeting arranged for the exchange of parts, and in another he staged a collision and rammed a vehicle in order to force it to stop and then rob it. The suspect was taken into custody at the conclusion of his interrogation.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693056</guid>
             <pubDate>Sun, 06 Sep 2026 13:58:00 GMT</pubDate>
@@ -164,65 +233,65 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
         </item>
         <item>
             <title><![CDATA[Drama at Central Elections Committee: Sohlberg’s decision overturned]]></title>
-            <description><![CDATA[Members of the Central Elections Committee have once again authorized parties to use apps to track and transmit real-time data on reported voters on Election Day.]]></description>
-            <link>https://www.israelnationalnews.com/news/432781</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432781</guid>
+            <description><![CDATA[Drama at Central Elections Committee: Sohlberg’s decision overturned]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693043</guid>
             <pubDate>Sun, 06 Sep 2026 11:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF retaliates after Hezbollah UAV strikes]]></title>
-            <description><![CDATA[The IDF struck terrorists and infrastructure belonging to the Hezbollah terrorist organization.]]></description>
-            <link>https://www.israelnationalnews.com/news/432780</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432780</guid>
+            <description><![CDATA[IDF retaliates after Hezbollah UAV strikes]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693042</guid>
             <pubDate>Sun, 06 Sep 2026 11:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daughter sings for fallen father in moving tribute one month after he fell in Lebanon]]></title>
-            <description><![CDATA[The Birenstock family releases a moving music video in memory of Maj. Harel Birenstock, featuring his daughter Ori singing in tribute to her father and expressing her deep pain of loss.]]></description>
-            <link>https://www.israelnationalnews.com/news/432777</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432777</guid>
+            <description><![CDATA[Daughter sings for fallen father in moving tribute one month after he fell in Lebanon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693041</guid>
             <pubDate>Sun, 06 Sep 2026 10:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Herzog condemns Judea and Samaria 'crime epidemic,' praises Huckabee]]></title>
-            <description><![CDATA[Israeli President says those who commit violence in Judea and Samaria 'long ago forgot the Torah’s commandment on the treatment of the stranger.']]></description>
-            <link>https://www.israelnationalnews.com/news/432778</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432778</guid>
+            <description><![CDATA[Herzog condemns Judea and Samaria 'crime epidemic,' praises Huckabee]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693040</guid>
             <pubDate>Sun, 06 Sep 2026 10:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is Huckabee going to do now?]]></title>
-            <description><![CDATA[Mike Huckabee says bad behaviour should have consequences. But first you have to know what happened. Op-ed.]]></description>
-            <link>https://www.israelnationalnews.com/news/432776</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432776</guid>
+            <description><![CDATA[What is Huckabee going to do now?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693039</guid>
             <pubDate>Sun, 06 Sep 2026 10:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IAC petition calls on Ed Sheeran to remove Macklemore from tour]]></title>
-            <description><![CDATA[Thousands of Israeli-Americans call on Ed Sheeran to remove Macklemore from his tour following the rapper's anti-Israel messages during a performance at MetLife Stadium in New Jersey.]]></description>
-            <link>https://www.israelnationalnews.com/news/432775</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432775</guid>
+            <description><![CDATA[IAC petition calls on Ed Sheeran to remove Macklemore from tour]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693038</guid>
             <pubDate>Sun, 06 Sep 2026 10:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The people who pray for the whole world]]></title>
-            <description><![CDATA[What is the purpose of the Hebrew Nation?]]></description>
-            <link>https://www.israelnationalnews.com/news/432774</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432774</guid>
+            <description><![CDATA[The people who pray for the whole world]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693037</guid>
             <pubDate>Sun, 06 Sep 2026 10:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The most popular baby names in Israel this year]]></title>
-            <description><![CDATA[Biblical and traditional names are making a comeback among newborns, for both boys and girls, alongside more modern names such as Naya and Lia.]]></description>
-            <link>https://www.israelnationalnews.com/news/432773</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432773</guid>
+            <description><![CDATA[The most popular baby names in Israel this year]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693036</guid>
             <pubDate>Sun, 06 Sep 2026 09:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[October 7th blessings? Muslim Brotherhood-linked cleric celebrates Mamdani’s rise]]></title>
-            <description><![CDATA[Prominent Muslim Brotherhood cleric says political rise of Zohran Mamdani and Abdul El-Sayed would never have happened without Hamas’ October 7 massacre, calling their success one of the 'blessings' of the attack.]]></description>
-            <link>https://www.israelnationalnews.com/news/432772</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432772</guid>
+            <description><![CDATA[October 7th blessings? Muslim Brotherhood-linked cleric celebrates Mamdani’s rise]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693035</guid>
             <pubDate>Sun, 06 Sep 2026 09:23:00 GMT</pubDate>
         </item>
         <item>
@@ -231,69 +300,6 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693034</guid>
             <pubDate>Sun, 06 Sep 2026 09:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Troper and Hendel part ways: “No bad blood"]]></title>
-            <description><![CDATA[Troper and Hendel part ways: “No bad blood"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693033</guid>
-            <pubDate>Sun, 06 Sep 2026 08:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9/11 ceremony sparks outrage after Mamdani hands pen to lawyer who defended terrorist]]></title>
-            <description><![CDATA[9/11 ceremony sparks outrage after Mamdani hands pen to lawyer who defended terrorist]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693032</guid>
-            <pubDate>Sun, 06 Sep 2026 08:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kinneret: 9-year-old hospitalized in serious condition due to rare amoeba]]></title>
-            <description><![CDATA[Kinneret: 9-year-old hospitalized in serious condition due to rare amoeba]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693031</guid>
-            <pubDate>Sun, 06 Sep 2026 07:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Dangerous settler’? The man Huckabee filmed fires back: ‘That was me’]]></title>
-            <description><![CDATA[‘Dangerous settler’? The man Huckabee filmed fires back: ‘That was me’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693030</guid>
-            <pubDate>Sun, 06 Sep 2026 07:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zack Polanski wants to be an MP. Don’t make the Corbyn mistake again.]]></title>
-            <description><![CDATA[Zack Polanski wants to be an MP. Don’t make the Corbyn mistake again.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693029</guid>
-            <pubDate>Sun, 06 Sep 2026 07:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Hezbollah abandoned Ali al-Taher Ridge on Iran’s orders]]></title>
-            <description><![CDATA[Report: Hezbollah abandoned Ali al-Taher Ridge on Iran’s orders]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693028</guid>
-            <pubDate>Sun, 06 Sep 2026 07:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who wants them?]]></title>
-            <description><![CDATA[Who wants them?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693027</guid>
-            <pubDate>Sun, 06 Sep 2026 06:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ahead of High Holidays: NSC warns of increased efforts to target Israelis abroad]]></title>
-            <description><![CDATA[Ahead of High Holidays: NSC warns of increased efforts to target Israelis abroad]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693026</guid>
-            <pubDate>Sun, 06 Sep 2026 06:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The IDF caught with its hand in the cookie jar]]></title>
-            <description><![CDATA[The IDF caught with its hand in the cookie jar]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693025</guid>
-            <pubDate>Sun, 06 Sep 2026 06:20:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

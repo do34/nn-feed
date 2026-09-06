@@ -4,11 +4,76 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 13:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 16:50:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 13:57:58 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 16:50:05 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Lebanese report: Two killed in Israeli strike in Nabatieh area in the south]]></title>
+            <description><![CDATA[Lebanese report: Two killed in Israeli strike in Nabatieh area in the south]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693064</guid>
+            <pubDate>Sun, 06 Sep 2026 16:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court: ‘Extremely bleak’ picture of violence in Samaria]]></title>
+            <description><![CDATA[Supreme Court orders state to coordinate return of three Palestinian Arabs to their Samaria homes within 14 days, sharply criticizing enforcement failures.]]></description>
+            <link>https://www.israelnationalnews.com/news/432793</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432793</guid>
+            <pubDate>Sun, 06 Sep 2026 16:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Givat Shaul shooting: Suspect shot in attempted robbery]]></title>
+            <description><![CDATA[Givat Shaul shooting: Suspect shot in attempted robbery]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693062</guid>
+            <pubDate>Sun, 06 Sep 2026 16:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Givat Shaul shooting: Man in his 30s in serious condition]]></title>
+            <description><![CDATA[A man in his 30s was seriously wounded in an incident on Kanfei Nesharim Street in Jerusalem, suffering a penetrating injury.
+
+Magen David Adom paramedics treated him at the scene and evacuated him to Shaare Zedek Medical Center.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693061</guid>
+            <pubDate>Sun, 06 Sep 2026 16:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Initial reports of a suspected shooting incident in Jerusalem's Givat Shaul neighborhood]]></title>
+            <description><![CDATA[Initial reports of a suspected shooting incident in Jerusalem's Givat Shaul neighborhood]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693060</guid>
+            <pubDate>Sun, 06 Sep 2026 16:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[84-year-old killed in tragic balcony fall while building sukkah]]></title>
+            <description><![CDATA[An 84-year-old man was killed in Efrat after falling from his balcony while preparing to build a sukkah at his home.]]></description>
+            <link>https://www.israelnationalnews.com/news/432792</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432792</guid>
+            <pubDate>Sun, 06 Sep 2026 15:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Don’t mess with us’: Netanyahu warns Iran of crushing response]]></title>
+            <description><![CDATA[‘Don’t mess with us’: Netanyahu warns Iran of crushing response]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693058</guid>
+            <pubDate>Sun, 06 Sep 2026 15:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. lawmakers arrive in Samaria with bold recognition push]]></title>
+            <description><![CDATA[A delegation of U.S. senators and representatives visited Samaria as lawmakers pledge new state legislation to recognize Judea and Samaria and drop the term West Bank.]]></description>
+            <link>https://www.israelnationalnews.com/news/432790</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432790</guid>
+            <pubDate>Sun, 06 Sep 2026 15:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police arrest suspect in thefts on Route 446]]></title>
+            <description><![CDATA[Police arrest suspect in thefts on Route 446]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693056</guid>
+            <pubDate>Sun, 06 Sep 2026 13:58:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tzvika Foghel quits Otzma Yehudit ahead of upcoming election]]></title>
             <description><![CDATA[Ben-Gvir praised Tzvika Foghel as a “true fighter" after the MK announced he will not run with Otzma Yehudit in the upcoming election.]]></description>
@@ -36,9 +101,9 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
         </item>
         <item>
             <title><![CDATA[No Elections Needed: Moses' last day]]></title>
-            <description><![CDATA[No Elections Needed: Moses' last day]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693052</guid>
+            <description><![CDATA[On his final day, Moses does not look back - he prepares Israel for the future, passes the mantle to Joshua, and leaves behind a timeless lesson in leadership, humility and faith.]]></description>
+            <link>https://www.israelnationalnews.com/news/432788</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432788</guid>
             <pubDate>Sun, 06 Sep 2026 12:37:00 GMT</pubDate>
         </item>
         <item>
@@ -57,9 +122,9 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
         </item>
         <item>
             <title><![CDATA[Survey: 94% surge in number of doctors who left Israel within 3 years]]></title>
-            <description><![CDATA[Survey: 94% surge in number of doctors who left Israel within 3 years]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693049</guid>
+            <description><![CDATA[A Tel Aviv University study found that approximately 1,370 doctors left Israel for at least one year between 2023 and 2025, nearly twice the number a decade earlier.]]></description>
+            <link>https://www.israelnationalnews.com/news/432786</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432786</guid>
             <pubDate>Sun, 06 Sep 2026 12:17:00 GMT</pubDate>
         </item>
         <item>
@@ -71,9 +136,9 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
         </item>
         <item>
             <title><![CDATA[Adidas faces boycott calls over Israeli veteran featured in campaign]]></title>
-            <description><![CDATA[Adidas faces boycott calls over Israeli veteran featured in campaign]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693047</guid>
+            <description><![CDATA[Sportswear giant Adidas is facing boycott calls over a campaign in Israel featuring former IDF soldier Shalev Biton, who lost his left leg after being wounded while fighting near Gaza.]]></description>
+            <link>https://www.israelnationalnews.com/news/432779</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432779</guid>
             <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
@@ -92,9 +157,9 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
         </item>
         <item>
             <title><![CDATA[Called for Jihad | Terrorist turned Instagram into channel for terror incitement]]></title>
-            <description><![CDATA[Called for Jihad | Terrorist turned Instagram into channel for terror incitement]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693044</guid>
+            <description><![CDATA[A serious indictment has been filed against a terrorist who disseminated inciting content on social media, praised terrorist attacks, and called for attacks against Jews.]]></description>
+            <link>https://www.israelnationalnews.com/news/432783</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432783</guid>
             <pubDate>Sun, 06 Sep 2026 11:31:00 GMT</pubDate>
         </item>
         <item>
@@ -106,9 +171,9 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
         </item>
         <item>
             <title><![CDATA[IDF retaliates after Hezbollah UAV strikes]]></title>
-            <description><![CDATA[IDF retaliates after Hezbollah UAV strikes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693042</guid>
+            <description><![CDATA[The IDF struck terrorists and infrastructure belonging to the Hezbollah terrorist organization.]]></description>
+            <link>https://www.israelnationalnews.com/news/432780</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432780</guid>
             <pubDate>Sun, 06 Sep 2026 11:03:00 GMT</pubDate>
         </item>
         <item>
@@ -127,9 +192,9 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
         </item>
         <item>
             <title><![CDATA[What is Huckabee going to do now?]]></title>
-            <description><![CDATA[What is Huckabee going to do now?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693039</guid>
+            <description><![CDATA[Mike Huckabee says bad behaviour should have consequences. But first you have to know what happened. Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/432776</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432776</guid>
             <pubDate>Sun, 06 Sep 2026 10:34:00 GMT</pubDate>
         </item>
         <item>
@@ -162,65 +227,65 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
         </item>
         <item>
             <title><![CDATA[Herzog hints to PM: Israel Police saved us on October 7th]]></title>
-            <description><![CDATA[President Herzog condemned escalation of violence in Israel and hinted that, while many systems failed during the Hamas attack on October 7, the police 'saved the country from an even greater disaster.']]></description>
-            <link>https://www.israelnationalnews.com/news/432771</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432771</guid>
+            <description><![CDATA[Herzog hints to PM: Israel Police saved us on October 7th]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693034</guid>
             <pubDate>Sun, 06 Sep 2026 09:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Troper and Hendel part ways: “No bad blood"]]></title>
-            <description><![CDATA[Chili Tropper is expected to join the Yashar! party together with candidate Shira Shapira, without Yoaz Hendel. Elisaf Peretz’s status on the party slate remains unclear.]]></description>
-            <link>https://www.israelnationalnews.com/news/432770</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432770</guid>
+            <description><![CDATA[Troper and Hendel part ways: “No bad blood"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693033</guid>
             <pubDate>Sun, 06 Sep 2026 08:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9/11 ceremony sparks outrage after Mamdani hands pen to lawyer who defended terrorist]]></title>
-            <description><![CDATA[What was supposed to be a solemn ceremony honoring the victims of 9/11 took an explosive turn when NYC Mayor handed the ceremonial signing pen to his chief counsel, Ramzi Kassem, a controversial lawyer who once represented an Al Qaeda terrorist.]]></description>
-            <link>https://www.israelnationalnews.com/news/432769</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432769</guid>
+            <description><![CDATA[9/11 ceremony sparks outrage after Mamdani hands pen to lawyer who defended terrorist]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693032</guid>
             <pubDate>Sun, 06 Sep 2026 08:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kinneret: 9-year-old hospitalized in serious condition due to rare amoeba]]></title>
-            <description><![CDATA[The Health Ministry reports that a child has been hospitalized in serious condition in the intensive care unit at Rambam Hospital in Haifa after swimming in the Sea of Galilee and developing severe encephalitis.]]></description>
-            <link>https://www.israelnationalnews.com/news/432766</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432766</guid>
+            <description><![CDATA[Kinneret: 9-year-old hospitalized in serious condition due to rare amoeba]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693031</guid>
             <pubDate>Sun, 06 Sep 2026 07:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Dangerous settler’? The man Huckabee filmed fires back: ‘That was me’]]></title>
-            <description><![CDATA[Jewish resident Amishav Melet, seen driving security Ranger near US Ambassador Mike Huckabee’s Turmus Ayya visit, says he was responding to a security alert, and claims ambassador was not given the full picture.]]></description>
-            <link>https://www.israelnationalnews.com/news/432764</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432764</guid>
+            <description><![CDATA[‘Dangerous settler’? The man Huckabee filmed fires back: ‘That was me’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693030</guid>
             <pubDate>Sun, 06 Sep 2026 07:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zack Polanski wants to be an MP. Don’t make the Corbyn mistake again.]]></title>
-            <description><![CDATA[Holborn and St Pancras is more than a by-election. It is a test of whether those who recognise what is happening in British politics are actually prepared to do something about it. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432763</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432763</guid>
+            <description><![CDATA[Zack Polanski wants to be an MP. Don’t make the Corbyn mistake again.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693029</guid>
             <pubDate>Sun, 06 Sep 2026 07:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Hezbollah abandoned Ali al-Taher Ridge on Iran’s orders]]></title>
-            <description><![CDATA[The terrorist organization withdrew from the Ali al-Taher Ridge and left it to Israeli forces rather than hand the territory over to the Lebanese Army, on orders from the Iranian regime.]]></description>
-            <link>https://www.israelnationalnews.com/news/432762</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432762</guid>
+            <description><![CDATA[Report: Hezbollah abandoned Ali al-Taher Ridge on Iran’s orders]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693028</guid>
             <pubDate>Sun, 06 Sep 2026 07:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who wants them?]]></title>
-            <description><![CDATA[They want to leave, Israel wants them to leave, and only those who profess to care about them but just want to use them protest their leaving. So what are we waiting for? Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432761</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432761</guid>
+            <description><![CDATA[Who wants them?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693027</guid>
             <pubDate>Sun, 06 Sep 2026 06:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ahead of High Holidays: NSC warns of increased efforts to target Israelis abroad]]></title>
-            <description><![CDATA[Heightened alert overseas: The National Security Council warns of growing threats of terrorist attacks against Israelis during the holiday period from terrorist organizations and lone attackers.]]></description>
-            <link>https://www.israelnationalnews.com/news/432760</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432760</guid>
+            <description><![CDATA[Ahead of High Holidays: NSC warns of increased efforts to target Israelis abroad]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693026</guid>
             <pubDate>Sun, 06 Sep 2026 06:32:00 GMT</pubDate>
         </item>
         <item>
@@ -229,69 +294,6 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693025</guid>
             <pubDate>Sun, 06 Sep 2026 06:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Threw his brother in trash| Man with mental health condition suspected of attempted murder]]></title>
-            <description><![CDATA[Threw his brother in trash| Man with mental health condition suspected of attempted murder]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693024</guid>
-            <pubDate>Sun, 06 Sep 2026 05:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to live a good and desirable life]]></title>
-            <description><![CDATA[How to live a good and desirable life]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693023</guid>
-            <pubDate>Sun, 06 Sep 2026 05:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia: 209 flights suspended at Jakarta airport]]></title>
-            <description><![CDATA[Indonesia: 209 flights suspended at Jakarta airport]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693022</guid>
-            <pubDate>Sun, 06 Sep 2026 05:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Netanyahu ordered evacuation of outposts following US pressure]]></title>
-            <description><![CDATA[Report: Netanyahu ordered evacuation of outposts following US pressure]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693021</guid>
-            <pubDate>Sun, 06 Sep 2026 04:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sanders calls for end to Iran war, cites rising gas prices]]></title>
-            <description><![CDATA[Sanders calls for end to Iran war, cites rising gas prices]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693020</guid>
-            <pubDate>Sun, 06 Sep 2026 03:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF striking in Lebanon after Hezbollah fires drones towards soldiers]]></title>
-            <description><![CDATA[IDF striking in Lebanon after Hezbollah fires drones towards soldiers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693019</guid>
-            <pubDate>Sun, 06 Sep 2026 03:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yoram Cohen: Evacuate farms and communities in Judea and Samaria]]></title>
-            <description><![CDATA[Yoram Cohen: Evacuate farms and communities in Judea and Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693018</guid>
-            <pubDate>Sun, 06 Sep 2026 03:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF launches surprise readiness exercise]]></title>
-            <description><![CDATA[IDF launches surprise readiness exercise]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693017</guid>
-            <pubDate>Sun, 06 Sep 2026 02:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Huckabee blasts UK foreign secretary over Gaza medicine claims: The Brits have lost it]]></title>
-            <description><![CDATA[Huckabee blasts UK foreign secretary over Gaza medicine claims: The Brits have lost it]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693016</guid>
-            <pubDate>Sun, 06 Sep 2026 02:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

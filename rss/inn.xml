@@ -4,11 +4,57 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 21:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 23:31:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 21:04:57 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 23:31:58 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[PA report: Man killed in clashes with Israelis east of Qalqilya]]></title>
+            <description><![CDATA[Palestinian Arabs reported clashes with Israelis in the village of Hajjah, east of Qalqilya. According to their claims, a drone operating over the village was brought down after Palestinian Arabs threw rocks at it. The Israelis then arrived in the village to retrieve the drone, leading to clashes at the scene.
+
+According to the reports, an Israeli military force that arrived at the scene opened fire at Palestinian Arabs who were throwing stones at the soldiers. The Palestinian Arabs reported that one person was killed in the incident.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693085</guid>
+            <pubDate>Sun, 06 Sep 2026 23:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran to establish 'prohibited zone' near Strait of Hormuz]]></title>
+            <description><![CDATA[Iran says it will establish a “prohibited zone" near the Strait of Hormuz as petrol prices rise and US economic and military pressure intensifies.]]></description>
+            <link>https://www.israelnationalnews.com/news/432807</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432807</guid>
+            <pubDate>Sun, 06 Sep 2026 23:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man moderately injured after car hits electric scooter in Ashdod]]></title>
+            <description><![CDATA[A man in his 40s was moderately injured after being hit by a car while riding an electric scooter in Ashdod.
+
+Magen David Adom (MDA) teams provided him with medical treatment and evacuated him to Sheba Hospital at Tel Hashomer.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693083</guid>
+            <pubDate>Sun, 06 Sep 2026 22:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least five killed after Amazon cargo plane overruns runway at Miami airport]]></title>
+            <description><![CDATA[At least five killed after Amazon cargo plane overruns runway at Miami airport]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693082</guid>
+            <pubDate>Sun, 06 Sep 2026 22:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arab reports of injuries in IDF strikes in central and northern Gaza]]></title>
+            <description><![CDATA[Arab media outlets reported that several people were injured in IDF strikes in central and northern Gaza.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693081</guid>
+            <pubDate>Sun, 06 Sep 2026 21:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good news for drivers: Gas prices plunge]]></title>
+            <description><![CDATA[Good news for drivers: Gas prices plunge]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693080</guid>
+            <pubDate>Sun, 06 Sep 2026 21:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is the Democratic Party condoning Antisemitism]]></title>
             <description><![CDATA[How can the Democrat Party be so blatantly ant-Israel? Opinion.]]></description>
@@ -27,9 +73,9 @@ Magen David Adom (MDA) teams evacuated the injured to Rambam and Ziv hospitals.]
         </item>
         <item>
             <title><![CDATA[Brain-eating amoeba confirmed in 9-year-old after Kinneret swim]]></title>
-            <description><![CDATA[Brain-eating amoeba confirmed in 9-year-old after Kinneret swim]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693077</guid>
+            <description><![CDATA[The Health Ministry has issued new Kinneret bathing recommendations after a 9-year-old was hospitalized in severe condition with a rare amoeba infection.]]></description>
+            <link>https://www.israelnationalnews.com/news/432804</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432804</guid>
             <pubDate>Sun, 06 Sep 2026 20:19:00 GMT</pubDate>
         </item>
         <item>
@@ -41,9 +87,9 @@ Magen David Adom (MDA) teams evacuated the injured to Rambam and Ziv hospitals.]
         </item>
         <item>
             <title><![CDATA[Ayelet Shaked drops election bid, eyes Likud comeback]]></title>
-            <description><![CDATA[Ayelet Shaked drops election bid, eyes Likud comeback]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693075</guid>
+            <description><![CDATA[Former minister Ayelet Shaked says she will not run in the upcoming elections, but is expected to join Likud.]]></description>
+            <link>https://www.israelnationalnews.com/news/432803</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432803</guid>
             <pubDate>Sun, 06 Sep 2026 19:36:00 GMT</pubDate>
         </item>
         <item>
@@ -189,9 +235,9 @@ According to the suspicion, in one incident he stole a vehicle during a meeting 
         </item>
         <item>
             <title><![CDATA[Tzvika Foghel quits Otzma Yehudit ahead of upcoming election]]></title>
-            <description><![CDATA[Ben-Gvir praised Tzvika Foghel as a “true fighter" after the MK announced he will not run with Otzma Yehudit in the upcoming election.]]></description>
-            <link>https://www.israelnationalnews.com/news/432789</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432789</guid>
+            <description><![CDATA[Tzvika Foghel quits Otzma Yehudit ahead of upcoming election]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693055</guid>
             <pubDate>Sun, 06 Sep 2026 13:53:00 GMT</pubDate>
         </item>
         <item>
@@ -203,34 +249,30 @@ According to the suspicion, in one incident he stole a vehicle during a meeting 
         </item>
         <item>
             <title><![CDATA[Bennett publishes Together party list]]></title>
-            <description><![CDATA[Naftali Bennett, chairman of the “Together" party, published his party slate for the Knesset ahead of the elections.
-
-Former Finance and Transportation Ministry director-general Keren Turner will be placed second on the list, former Communications Ministry director-general Liran Avisar Ben-Horin will be third, and former Ra’anana Municipality director-general Michal Hirsch NagrI will be fourth. Knesset member Eitan Ginzburg will be fifth.
-
-They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Strugo, Nisan Zeevi, Orly Harel, Shahar Varon, Esti Ayalon Kovo, Jeremy Saltan, Zvi Plotnitsky, Olesya Kantor, Mati Gil, Tomer Weiner, Tami Muziel, Yael Stern and Amit Barda.]]></description>
+            <description><![CDATA[Bennett publishes Together party list]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693053</guid>
             <pubDate>Sun, 06 Sep 2026 13:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Elections Needed: Moses' last day]]></title>
-            <description><![CDATA[On his final day, Moses does not look back - he prepares Israel for the future, passes the mantle to Joshua, and leaves behind a timeless lesson in leadership, humility and faith.]]></description>
-            <link>https://www.israelnationalnews.com/news/432788</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432788</guid>
+            <description><![CDATA[No Elections Needed: Moses' last day]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693052</guid>
             <pubDate>Sun, 06 Sep 2026 12:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Water Authority: Water supplies to residents and agricultural sector continuing as normal]]></title>
-            <description><![CDATA[The Water Authority and the Ministry of Energy reported that the systems remain stable and that water supplies to residents and the agricultural sector are continuing as normal. At the same time, it was decided to purchase a dedicated stock of membranes for desalination facilities, and the public was asked to use water efficiently and responsibly.]]></description>
+            <description><![CDATA[Water Authority: Water supplies to residents and agricultural sector continuing as normal]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693051</guid>
             <pubDate>Sun, 06 Sep 2026 12:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zamir warns IDF must be ready for surprise attack across all fronts]]></title>
-            <description><![CDATA[IDF Chief Eyal Zamir says Israel’s military must remain ready for a surprise attack as commanders test responses to a rapidly escalating multi-front war.]]></description>
-            <link>https://www.israelnationalnews.com/news/432787</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432787</guid>
+            <description><![CDATA[Zamir warns IDF must be ready for surprise attack across all fronts]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693050</guid>
             <pubDate>Sun, 06 Sep 2026 12:17:00 GMT</pubDate>
         </item>
         <item>
@@ -260,48 +302,6 @@ They will be followed, in order, by: Yonatan Shalev, Bruria Naim Arman, Amir Str
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693046</guid>
             <pubDate>Sun, 06 Sep 2026 11:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[250 days alone at sea: Israeli sailor makes history in grueling round-the-world race]]></title>
-            <description><![CDATA[250 days alone at sea: Israeli sailor makes history in grueling round-the-world race]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693045</guid>
-            <pubDate>Sun, 06 Sep 2026 11:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Called for Jihad | Terrorist turned Instagram into channel for terror incitement]]></title>
-            <description><![CDATA[Called for Jihad | Terrorist turned Instagram into channel for terror incitement]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693044</guid>
-            <pubDate>Sun, 06 Sep 2026 11:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drama at Central Elections Committee: Sohlberg’s decision overturned]]></title>
-            <description><![CDATA[Drama at Central Elections Committee: Sohlberg’s decision overturned]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693043</guid>
-            <pubDate>Sun, 06 Sep 2026 11:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF retaliates after Hezbollah UAV strikes]]></title>
-            <description><![CDATA[IDF retaliates after Hezbollah UAV strikes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693042</guid>
-            <pubDate>Sun, 06 Sep 2026 11:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Daughter sings for fallen father in moving tribute one month after he fell in Lebanon]]></title>
-            <description><![CDATA[Daughter sings for fallen father in moving tribute one month after he fell in Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693041</guid>
-            <pubDate>Sun, 06 Sep 2026 10:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Herzog condemns Judea and Samaria 'crime epidemic,' praises Huckabee]]></title>
-            <description><![CDATA[Herzog condemns Judea and Samaria 'crime epidemic,' praises Huckabee]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693040</guid>
-            <pubDate>Sun, 06 Sep 2026 10:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

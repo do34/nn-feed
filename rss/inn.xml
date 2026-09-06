@@ -4,11 +4,74 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 00:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 05:33:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 00:38:51 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 05:33:30 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Indonesia: 209 flights suspended at Jakarta airport]]></title>
+            <description><![CDATA[Ash clouds rise up to 15 kilometers as Anak Krakatau continues erupting.]]></description>
+            <link>https://www.israelnationalnews.com/news/432756</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432756</guid>
+            <pubDate>Sun, 06 Sep 2026 05:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Netanyahu ordered evacuation of outposts following US pressure]]></title>
+            <description><![CDATA[The Prime Minister instructed the defense establishment to evacuate outposts established in Area B following heavy pressure from the US administration.]]></description>
+            <link>https://www.israelnationalnews.com/news/432755</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432755</guid>
+            <pubDate>Sun, 06 Sep 2026 04:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sanders calls for end to Iran war, cites rising gas prices]]></title>
+            <description><![CDATA[Sen. Bernie Sanders calls for an end to the Iran war, saying the conflict is driving up gasoline prices and “wreaking havoc" on the US economy.]]></description>
+            <link>https://www.israelnationalnews.com/news/432754</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432754</guid>
+            <pubDate>Sun, 06 Sep 2026 03:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF striking in Lebanon after Hezbollah fires drones towards soldiers]]></title>
+            <description><![CDATA[IDF striking in Lebanon after Hezbollah fires drones towards soldiers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693019</guid>
+            <pubDate>Sun, 06 Sep 2026 03:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yoram Cohen: Evacuate farms and communities in Judea and Samaria]]></title>
+            <description><![CDATA[Former Shin Bet chief Yoram Cohen calls for the evacuation of farms and communities that were not established by government decision. Likud and Religious Zionist leaders slam his remarks.]]></description>
+            <link>https://www.israelnationalnews.com/news/432751</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432751</guid>
+            <pubDate>Sun, 06 Sep 2026 03:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF launches surprise readiness exercise]]></title>
+            <description><![CDATA[IDF launches surprise readiness exercise]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693017</guid>
+            <pubDate>Sun, 06 Sep 2026 02:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huckabee blasts UK foreign secretary over Gaza medicine claims: The Brits have lost it]]></title>
+            <description><![CDATA[US Ambassador Mike Huckabee accuses Britain's government of having “lost it" over false Gaza medicine claims.]]></description>
+            <link>https://www.israelnationalnews.com/news/432750</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432750</guid>
+            <pubDate>Sun, 06 Sep 2026 02:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: US forces destroy Iranian oil tanker in Gulf of Oman]]></title>
+            <description><![CDATA[Watch: US forces destroy Iranian oil tanker in Gulf of Oman]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693015</guid>
+            <pubDate>Sun, 06 Sep 2026 01:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Tens of thousands at Selichot prayers at Western Wall]]></title>
+            <description><![CDATA[Tens of thousands attend central Selichot prayers at the Western Wall. Smotrich: "We prayed for the success of our soldiers and for victory for the national camp."]]></description>
+            <link>https://www.israelnationalnews.com/news/432748</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432748</guid>
+            <pubDate>Sun, 06 Sep 2026 00:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Munich Olympics, 54 years later: When Germany failed the Jews again]]></title>
             <description><![CDATA[When it came to murdering Jews, the Germans were experts. In saving them, they turned out to be catastrophic incompetents. Opinion.]]></description>
@@ -162,87 +225,65 @@ No sirens were sounded in the communities in accordance with protocol.]]></descr
         </item>
         <item>
             <title><![CDATA[Shabbat Shalom!]]></title>
-            <description><![CDATA[Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat in North America, where they are being written now.
-
-Updates will resume Saturday night from Israel, following the conclusion of Shabbat at 19:35 Jerusalem time.
-
-Shabbat Shalom!]]></description>
+            <description><![CDATA[Shabbat Shalom!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_629916</guid>
             <pubDate>Fri, 04 Sep 2026 22:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turkish comedian charged over Erdogan jokes, could face 10 years in prison]]></title>
-            <description><![CDATA[Turkish comedian Deniz Goktas faces up to a decade or more in prison after being charged over jokes about Erdogan during a stand-up performance.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/432729</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432729</guid>
+            <description><![CDATA[Turkish comedian charged over Erdogan jokes, could face 10 years in prison]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692992</guid>
             <pubDate>Fri, 04 Sep 2026 22:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UAE pardons poet Abdulrahman Qaradawi a week after 10-year prison sentence]]></title>
-            <description><![CDATA[UAE President pardons poet Abdulrahman Qaradawi, son of the founder of the Muslim Brotherhood, one week after he was sentenced to 10 years following his extradition from Lebanon.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/432728</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432728</guid>
+            <description><![CDATA[UAE pardons poet Abdulrahman Qaradawi a week after 10-year prison sentence]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692991</guid>
             <pubDate>Fri, 04 Sep 2026 21:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US sanctions Turkish bank over alleged Iran, IRGC financial network]]></title>
-            <description><![CDATA[US Treasury sanctions a Turkish bank and two subsidiaries, accusing them of helping Iran and the IRGC-QF move tens of millions of dollars.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/432727</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432727</guid>
+            <description><![CDATA[US sanctions Turkish bank over alleged Iran, IRGC financial network]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692990</guid>
             <pubDate>Fri, 04 Sep 2026 20:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF striking in Lebanon after soldiers intercepted a drone launched by Hezbollah terrorists]]></title>
-            <description><![CDATA[Earlier on Friday, terrorists from the Hezbollah terrorist organization launched a drone towards IDF soldiers operating in the Security Zone in southern Lebanon, the IDF Spokesperson's Unit said.
-
-According to the statement, IDF soldiers opened fire and downed the drone. No IDF injuries were reported. "The IDF is currently operating and will continue to act with determination against Hezbollah’s repeated attempts to harm IDF soldiers," said the IDF.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <description><![CDATA[IDF striking in Lebanon after soldiers intercepted a drone launched by Hezbollah terrorists]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692989</guid>
             <pubDate>Fri, 04 Sep 2026 20:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Trump administration developing post-war plan to contain Iran, expand Israel ties]]></title>
-            <description><![CDATA[The Trump administration is drafting a post-war Middle East strategy focused on containing Iran, advancing Gaza plans and expanding Israel normalization, according to Axios.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/432725</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432725</guid>
+            <description><![CDATA[Report: Trump administration developing post-war plan to contain Iran, expand Israel ties]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692988</guid>
             <pubDate>Fri, 04 Sep 2026 19:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Podcast: Israel cannot outsource its security to international forces]]></title>
-            <description><![CDATA[Jay Shapiro voices skepticism over international plans for Gaza and Lebanon and warns of what he describes as the Muslim Brotherhood’s growing influence in Europe.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/432720</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432720</guid>
+            <description><![CDATA[Podcast: Israel cannot outsource its security to international forces]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692987</guid>
             <pubDate>Fri, 04 Sep 2026 19:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump warns Iran: We may hit Pickaxe very soon]]></title>
-            <description><![CDATA[President Trump warns the US could soon strike Iran's Pickaxe Mountain facility, while calling the conflict a limited "military conflict."
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/432724</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432724</guid>
+            <description><![CDATA[Trump warns Iran: We may hit Pickaxe very soon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692986</guid>
             <pubDate>Fri, 04 Sep 2026 19:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US and allies push for UN action against Iran over nuclear program]]></title>
-            <description><![CDATA[The US, Britain, France and Germany are seeking an IAEA resolution referring Iran to the UN Security Council over its nuclear program.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/432723</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432723</guid>
+            <description><![CDATA[US and allies push for UN action against Iran over nuclear program]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692985</guid>
             <pubDate>Fri, 04 Sep 2026 18:05:00 GMT</pubDate>
         </item>
         <item>
@@ -251,69 +292,6 @@ According to the statement, IDF soldiers opened fire and downed the drone. No ID
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692984</guid>
             <pubDate>Fri, 04 Sep 2026 17:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: It's Not in Heaven, but in Your Heart]]></title>
-            <description><![CDATA[Podcast: It's Not in Heaven, but in Your Heart]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692983</guid>
-            <pubDate>Fri, 04 Sep 2026 17:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
-            <pubDate>Fri, 04 Sep 2026 15:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gilad Erdan: Unity Party pulls out of upcoming elections]]></title>
-            <description><![CDATA[Gilad Erdan: Unity Party pulls out of upcoming elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692982</guid>
-            <pubDate>Fri, 04 Sep 2026 14:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Political drama: Erdan withdraws from race]]></title>
-            <description><![CDATA[Political drama: Erdan withdraws from race]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692981</guid>
-            <pubDate>Fri, 04 Sep 2026 14:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Locked out of WhatsApp: Users suddenly lose access with no warning]]></title>
-            <description><![CDATA[Locked out of WhatsApp: Users suddenly lose access with no warning]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692980</guid>
-            <pubDate>Fri, 04 Sep 2026 13:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China: Death toll in Tibet floods rises to 31]]></title>
-            <description><![CDATA[China: Death toll in Tibet floods rises to 31]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692979</guid>
-            <pubDate>Fri, 04 Sep 2026 13:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fear in Paris hotel: Elderly Israeli woman attacked in her sleep]]></title>
-            <description><![CDATA[Fear in Paris hotel: Elderly Israeli woman attacked in her sleep]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692978</guid>
-            <pubDate>Fri, 04 Sep 2026 13:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IAI’s cargo giant takes to the skies in major milestone]]></title>
-            <description><![CDATA[IAI’s cargo giant takes to the skies in major milestone]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692977</guid>
-            <pubDate>Fri, 04 Sep 2026 12:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ha'achdut officials: Blue and White refused to pursue unity]]></title>
-            <description><![CDATA[Ha'achdut officials: Blue and White refused to pursue unity]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_692976</guid>
-            <pubDate>Fri, 04 Sep 2026 12:35:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

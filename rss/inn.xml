@@ -4,11 +4,73 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 21:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 23:52:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 21:36:57 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 23:52:33 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Jordan: 20 ballistic missiles launched from Iran, 18 intercepted]]></title>
+            <description><![CDATA[Jordan announced that 20 ballistic missiles were launched from Iran toward its territory, with its air defense systems intercepting and destroying 18 of them.
+
+According to the statement, the two remaining missiles landed in areas away from population centers. No casualties were reported in the attack.]]></description>
+            <link>https://www.israelnationalnews.com/news/432917</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432917</guid>
+            <pubDate>Tue, 08 Sep 2026 23:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chikli: We are inches away from the Yamam receiving orders from the Shura Council]]></title>
+            <description><![CDATA[Minister of Diaspora Affairs Amichai Chikli attacked the Ra'am party and its candidate Yoav Segalovitz on Tuesday evening.
+
+“We are inches away from the Yamam receiving orders from the Shura Council. This is not a hand on the wheel; it is a hand on the trigger of the State of Israel," Minister Chikli said.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693231</guid>
+            <pubDate>Tue, 08 Sep 2026 23:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRGC confirms strikes on US military base in Jordan]]></title>
+            <description><![CDATA[Iran's Islamic Revolutionary Guard Corps (IRGC) confirmed that it launched missiles at a US military base in Jordan in response to US attacks on Iranian oil tankers.
+
+At the same time, the IRGC announced plans to attack oil tankers in Kuwait and Bahrain and called on their crews to “abandon the ships."]]></description>
+            <link>https://www.israelnationalnews.com/news/432917</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432917</guid>
+            <pubDate>Tue, 08 Sep 2026 23:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rubio warns Iran: Every time they attack US ships, they will lose tankers]]></title>
+            <description><![CDATA[US Secretary of State Marco Rubio warns Iran that Washington will retaliate for every attempted attack on US assets amid escalating regional tensions.]]></description>
+            <link>https://www.israelnationalnews.com/news/432919</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432919</guid>
+            <pubDate>Tue, 08 Sep 2026 23:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CENTCOM: We destroyed five Iranian crude oil carriers]]></title>
+            <description><![CDATA[CENTCOM: We destroyed five Iranian crude oil carriers]]></description>
+            <link>https://www.israelnationalnews.com/news/432917</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432917</guid>
+            <pubDate>Tue, 08 Sep 2026 22:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reports of explosions in Bahrain following launches from Iran]]></title>
+            <description><![CDATA[Reports of explosions in Bahrain following launches from Iran]]></description>
+            <link>https://www.israelnationalnews.com/news/432917</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432917</guid>
+            <pubDate>Tue, 08 Sep 2026 22:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Missiles launched from Iran intercepted over northern Jordan]]></title>
+            <description><![CDATA[Arab media outlets reported that missiles launched from Iran were intercepted over northern Jordan.]]></description>
+            <link>https://www.israelnationalnews.com/news/432917</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432917</guid>
+            <pubDate>Tue, 08 Sep 2026 21:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK air traffic control failure disrupts flights, including to Israel]]></title>
+            <description><![CDATA[Technical failure causes major UK air travel disruption, with at least 1,000 flights cancelled and thousands of passengers delayed, including El Al and Wizz Air routes between London and Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/432918</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432918</guid>
+            <pubDate>Tue, 08 Sep 2026 21:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: US strikes Iranian tankers after missile attacks on Navy warship]]></title>
             <description><![CDATA[A US official says US forces struck Iranian tankers linked to the IRGC after attempted missile attacks on a US Navy ship. Iran warns crews near Kuwait and Bahrain.]]></description>
@@ -169,9 +231,9 @@ Among the individuals whose entry will be banned is Jeremy Corbyn, former leader
         </item>
         <item>
             <title><![CDATA[October 7 hero who was seriously wounded appointed Brigade Commander]]></title>
-            <description><![CDATA[Col. Guy Madar, who was wounded in the battles of October 7 and was nearly mistakenly shot until he was identified by his tzitzit, has assumed command of the Yoav Brigade.]]></description>
-            <link>https://www.israelnationalnews.com/news/432898</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432898</guid>
+            <description><![CDATA[October 7 hero who was seriously wounded appointed Brigade Commander]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693202</guid>
             <pubDate>Tue, 08 Sep 2026 13:47:00 GMT</pubDate>
         </item>
         <item>
@@ -183,39 +245,37 @@ Among the individuals whose entry will be banned is Jeremy Corbyn, former leader
         </item>
         <item>
             <title><![CDATA[Head of Efrat Council: "Someone in London got confused"]]></title>
-            <description><![CDATA[The head of the Efrat Council, Dovi Shefler, responded to Britain's intention to boycott products from Judea and Samaria.
-
-"The British Mandate ended in May 1948 - someone in London probably got confused and thinks it is still in effect. Our answer should be to return all of Prikot Shlom to Israeli control," said Scheffler.]]></description>
+            <description><![CDATA[Head of Efrat Council: "Someone in London got confused"]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693200</guid>
             <pubDate>Tue, 08 Sep 2026 13:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lapid: British sanctions on Israel a serious mistake and encouragement to Hamas]]></title>
-            <description><![CDATA[Former Prime Minister Yair Lapid has attacked the British government's decision to impose boycotts and sanctions on Israel. He said it is a "wrong and dangerous policy" that will strengthen extremist voices in Israel ahead of the elections and encourage Hamas and terrorist organizations. Lapid claimed that the decision stems from domestic political considerations in Britain.]]></description>
+            <description><![CDATA[Lapid: British sanctions on Israel a serious mistake and encouragement to Hamas]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693199</guid>
             <pubDate>Tue, 08 Sep 2026 13:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK: Hamas cannot play a role in the future government in Gaza and must disarm]]></title>
-            <description><![CDATA[British Foreign Secretary Miliband said that Israel has the right to live without fear of threats from a terrorist regime, but that this does not justify what happened in Gaza. He added that some 70,000 people have been killed in the Strip, including, according to him, 20,000 children.]]></description>
+            <description><![CDATA[UK: Hamas cannot play a role in the future government in Gaza and must disarm]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693198</guid>
             <pubDate>Tue, 08 Sep 2026 12:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opposition figures demand investigation over Oct. 7 revelations]]></title>
-            <description><![CDATA[Gadi Eisenkot, Naftali Bennett, Avigdor Liberman and Yair Golan issue joint statement calling for investigation following report that the UAE President warned Netanyahu over a week before October 7.]]></description>
-            <link>https://www.israelnationalnews.com/news/432897</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432897</guid>
+            <description><![CDATA[Opposition figures demand investigation over Oct. 7 revelations]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693197</guid>
             <pubDate>Tue, 08 Sep 2026 12:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu may dump Ben-Gvir after the election]]></title>
-            <description><![CDATA[A senior Netanyahu adviser reportedly believes the prime minister could seek a coalition without Itamar Ben-Gvir.]]></description>
-            <link>https://www.israelnationalnews.com/news/432895</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432895</guid>
+            <description><![CDATA[Netanyahu may dump Ben-Gvir after the election]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693196</guid>
             <pubDate>Tue, 08 Sep 2026 11:25:00 GMT</pubDate>
         </item>
         <item>
@@ -238,62 +298,6 @@ Among the individuals whose entry will be banned is Jeremy Corbyn, former leader
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693193</guid>
             <pubDate>Tue, 08 Sep 2026 10:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arab reports of Israeli strike in Sheikh Radwan in Gaza]]></title>
-            <description><![CDATA[Arab reports of Israeli strike in Sheikh Radwan in Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693192</guid>
-            <pubDate>Tue, 08 Sep 2026 10:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Security breach: Syrian approaches IDF post without being detected]]></title>
-            <description><![CDATA[Security breach: Syrian approaches IDF post without being detected]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693191</guid>
-            <pubDate>Tue, 08 Sep 2026 10:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8% of Israeli Jews have visited Rabbi Nachman’s grave in Uman]]></title>
-            <description><![CDATA[8% of Israeli Jews have visited Rabbi Nachman’s grave in Uman]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693190</guid>
-            <pubDate>Tue, 08 Sep 2026 09:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Sanctions are not a solution’: Herzog urges Britain to back down]]></title>
-            <description><![CDATA[‘Sanctions are not a solution’: Herzog urges Britain to back down]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693189</guid>
-            <pubDate>Tue, 08 Sep 2026 09:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Three illegal residents caught hiding at Golan guesthouse]]></title>
-            <description><![CDATA[Watch: Three illegal residents caught hiding at Golan guesthouse]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693188</guid>
-            <pubDate>Tue, 08 Sep 2026 09:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Herzog to foreign governments: Step back from the dead end of sanctions and boycotts]]></title>
-            <description><![CDATA[Herzog to foreign governments: Step back from the dead end of sanctions and boycotts]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693187</guid>
-            <pubDate>Tue, 08 Sep 2026 08:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Flag of Israeli Town Flies Proudly in Paris Suburb]]></title>
-            <description><![CDATA[Watch: Flag of Israeli Town Flies Proudly in Paris Suburb]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693186</guid>
-            <pubDate>Tue, 08 Sep 2026 08:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel First Party: Jonathan Pollard member of leadership but not running for Knesset]]></title>
-            <description><![CDATA[Israel First Party: Jonathan Pollard member of leadership but not running for Knesset]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693185</guid>
-            <pubDate>Tue, 08 Sep 2026 08:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

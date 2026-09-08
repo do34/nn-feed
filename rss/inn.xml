@@ -4,11 +4,55 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 22:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 00:56:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 22:33:13 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 00:56:20 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Former Beit Shemesh mayor Aliza Bloch joins Blue and White]]></title>
+            <description><![CDATA[Benny Gantz announces that Dr. Aliza Bloch has joined the Blue and White party’s slate, praising her ability to "bridge different parts of society."]]></description>
+            <link>https://www.israelnationalnews.com/news/432866</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432866</guid>
+            <pubDate>Tue, 08 Sep 2026 00:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CENTCOM: US forces redirected 94 vessels to enforce Iran blockade]]></title>
+            <description><![CDATA[CENTCOM says US forces redirected 94 commercial vessels and boarded two as Washington enforces its maritime blockade against Iran. Trump: Oil prices will drop when we win the war.]]></description>
+            <link>https://www.israelnationalnews.com/news/432865</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432865</guid>
+            <pubDate>Tue, 08 Sep 2026 00:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Syrian Foreign Minister: Weapons under state control, we support diplomatic solution with Israel]]></title>
+            <description><![CDATA[Syrian Foreign Minister Asaad al-Shaibani said at a meeting of Arab League foreign ministers that weapons must be under the sole control of the state, adding that armed factions have been integrated into the Syrian army.
+
+Al-Shaibani also said that Damascus opposes Iranian attacks against the Gulf states and Jordan and supports a diplomatic solution with Israel.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693156</guid>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Florida congressman warns: British companies could face boycott over Israel sanctions]]></title>
+            <description><![CDATA[Florida congressman warns: British companies could face boycott over Israel sanctions]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693155</guid>
+            <pubDate>Mon, 07 Sep 2026 23:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Argentina's President shares Ben Gvir's post]]></title>
+            <description><![CDATA[Argentine President Javier Milei shares Ben Gvir's social post calling on Israel to recognize Argentina's sovereignty over the Falkland Islands and impose sanctions on Britain.]]></description>
+            <link>https://www.israelnationalnews.com/news/432863</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432863</guid>
+            <pubDate>Mon, 07 Sep 2026 23:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gafni agrees to head Degel HaTorah's national movement]]></title>
+            <description><![CDATA[Gafni agrees to head Degel HaTorah's national movement]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693153</guid>
+            <pubDate>Mon, 07 Sep 2026 22:38:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Oren Dobronsky left off Likud Knesset slate]]></title>
             <description><![CDATA[Oren Dobronsky, whom Netanyahu had designated for the 11th spot, to be left off the Likud slate because he would have to give up his US citizenship.]]></description>
@@ -54,7 +98,11 @@ According to the police, the forces arrived at the scene shortly after receiving
         </item>
         <item>
             <title><![CDATA[Report: Britain to impose trade ban on settlement products tomorrow]]></title>
-            <description><![CDATA[Report: Britain to impose trade ban on settlement products tomorrow]]></description>
+            <description><![CDATA[Britain intends to impose a trade ban on products manufactured in Judea and Samaria tomorrow (Tuesday), the New York Times reported.
+
+According to the report, these are "extensive economic restrictions targeting Israeli settlements."
+
+Read more.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693147</guid>
             <pubDate>Mon, 07 Sep 2026 19:39:00 GMT</pubDate>
@@ -68,9 +116,9 @@ According to the police, the forces arrived at the scene shortly after receiving
         </item>
         <item>
             <title><![CDATA[Poll: Gap between blocs closes]]></title>
-            <description><![CDATA[Poll: Gap between blocs closes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693145</guid>
+            <description><![CDATA[Channel 12 poll has Netanyahu and his rivals tied at 52 seats each, while Channel 14 gives the Prime Minister’s bloc a commanding 63 seats to 44.]]></description>
+            <link>https://www.israelnationalnews.com/news/432858</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432858</guid>
             <pubDate>Mon, 07 Sep 2026 19:08:00 GMT</pubDate>
         </item>
         <item>
@@ -203,36 +251,30 @@ The party added that it remains committed to securing representation in the next
         </item>
         <item>
             <title><![CDATA[GDP grows, investment surges: Israeli economy shows resilience ahead of Rosh Hashanah]]></title>
-            <description><![CDATA[Finance Ministry data released ahead of Rosh Hashanah 5787 show growth in Israel’s economy despite years of war and uncertainty, with foreign investment surging 78%, inflation falling and the shekel strengthening.]]></description>
-            <link>https://www.israelnationalnews.com/news/432846</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432846</guid>
+            <description><![CDATA[GDP grows, investment surges: Israeli economy shows resilience ahead of Rosh Hashanah]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693128</guid>
             <pubDate>Mon, 07 Sep 2026 13:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2 IDF soldiers injured in close-quarters combat with Hezbollah terrorist]]></title>
-            <description><![CDATA[Earlier today (Monday), during IDF patrols in the Beaufort area in southern Lebanon, a Hezbollah terrorist inside a building opened fire at the soldiers.
-
-The soldiers returned fire and eliminated the terrorist.
-
-During the close-quarters encounter, two IDF soldiers were lightly injured and were evacuated to receive medical treatment. Their families have been notified.
-
-Additionally, the IDF struck weapons storage facilities, command centers, and additional terrorist infrastructure belonging to the Hezbollah terrorist organization in the area.]]></description>
+            <description><![CDATA[2 IDF soldiers injured in close-quarters combat with Hezbollah terrorist]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693127</guid>
             <pubDate>Mon, 07 Sep 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thailand orders deportation of park director who banned Israelis from entering]]></title>
-            <description><![CDATA[Thai authorities have ordered the deportation of Kevin Dimino, director of a wildlife park on Koh Samui, after he placed a Palestinian flag and signs prohibiting the entry of Israelis.]]></description>
+            <description><![CDATA[Thailand orders deportation of park director who banned Israelis from entering]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693126</guid>
             <pubDate>Mon, 07 Sep 2026 12:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Lebanese reporter injured during live broadcast]]></title>
-            <description><![CDATA[Ali Shabib, a reporter for the Hezbollah-affiliated Al-Manar network, was injured in an IDF strike in Nabatieh. Footage shows the moment he was hit during the live broadcast.]]></description>
-            <link>https://www.israelnationalnews.com/news/432845</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432845</guid>
+            <description><![CDATA[Watch: Lebanese reporter injured during live broadcast]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693125</guid>
             <pubDate>Mon, 07 Sep 2026 12:45:00 GMT</pubDate>
         </item>
         <item>
@@ -244,9 +286,9 @@ Additionally, the IDF struck weapons storage facilities, command centers, and ad
         </item>
         <item>
             <title><![CDATA[Exclusive: Ben-Gvir adds Hebron Spokesman Yishai Fleisher to election slate]]></title>
-            <description><![CDATA[Ben-Gvir places pro-Israel advocate and Hebron spokesman Yishai Fleisher at No. 12 on Otzma Yehudit’s Knesset slate ahead of the upcoming elections.]]></description>
-            <link>https://www.israelnationalnews.com/news/432844</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432844</guid>
+            <description><![CDATA[Exclusive: Ben-Gvir adds Hebron Spokesman Yishai Fleisher to election slate]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693123</guid>
             <pubDate>Mon, 07 Sep 2026 12:21:00 GMT</pubDate>
         </item>
         <item>
@@ -276,48 +318,6 @@ Additionally, the IDF struck weapons storage facilities, command centers, and ad
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693119</guid>
             <pubDate>Mon, 07 Sep 2026 10:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parents shut down preschool after three break-ins in days]]></title>
-            <description><![CDATA[Parents shut down preschool after three break-ins in days]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693118</guid>
-            <pubDate>Mon, 07 Sep 2026 10:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mike Huckabee: 'It’s a daily occurrence that Israelis have to live with']]></title>
-            <description><![CDATA[Mike Huckabee: 'It’s a daily occurrence that Israelis have to live with']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693117</guid>
-            <pubDate>Mon, 07 Sep 2026 10:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Huckabee responds to stabbing attack, slamming world hypocrisy]]></title>
-            <description><![CDATA[Huckabee responds to stabbing attack, slamming world hypocrisy]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693116</guid>
-            <pubDate>Mon, 07 Sep 2026 09:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Terrorist who stabbed Jew at Samaria farm is eliminated]]></title>
-            <description><![CDATA[Terrorist who stabbed Jew at Samaria farm is eliminated]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693115</guid>
-            <pubDate>Mon, 07 Sep 2026 09:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defense Minister: IDF instructed to prepare for fighting against PA officials]]></title>
-            <description><![CDATA[Defense Minister: IDF instructed to prepare for fighting against PA officials]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693114</guid>
-            <pubDate>Mon, 07 Sep 2026 09:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Terrorist flees after stabbing Jew at Maoz Yehuda farm]]></title>
-            <description><![CDATA[Watch: Terrorist flees after stabbing Jew at Maoz Yehuda farm]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693113</guid>
-            <pubDate>Mon, 07 Sep 2026 08:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,67 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 23:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 03:24:31 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 23:52:33 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 03:24:31 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Biden discusses his fight against cancer: The treatment worked as intended]]></title>
+            <description><![CDATA[Former US President shares details about his fight against prostate cancer and the treatments he underwent, stressing the critical importance of screening and early detection.]]></description>
+            <link>https://www.israelnationalnews.com/news/432926</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432926</guid>
+            <pubDate>Wed, 09 Sep 2026 03:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portuguese comedians pull out of festival over Jerry Seinfeld's Israel support]]></title>
+            <description><![CDATA[Several Portuguese comedians have withdrawn from a Lisbon festival featuring Jerry Seinfeld, citing controversy over his support for Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/432925</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432925</guid>
+            <pubDate>Wed, 09 Sep 2026 02:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The public is tired of bloc battles' | Aliza Bloch predicts a major election surprise]]></title>
+            <description><![CDATA['The public is tired of bloc battles' | Aliza Bloch predicts a major election surprise]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693238</guid>
+            <pubDate>Wed, 09 Sep 2026 02:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands protest AfD after far-right party's record state election result]]></title>
+            <description><![CDATA[Thousands protest across Germany after the AfD won nearly 44% in Saxony-Anhalt, as opponents warn of the far-right party's growing political power.]]></description>
+            <link>https://www.israelnationalnews.com/news/432923</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432923</guid>
+            <pubDate>Wed, 09 Sep 2026 01:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRGC footage purports to show missile fire on Jordan]]></title>
+            <description><![CDATA[IRGC footage purports to show missile fire on Jordan]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693236</guid>
+            <pubDate>Wed, 09 Sep 2026 01:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Feiglin: This alliance will reach double digits - and it’s just the beginning]]></title>
+            <description><![CDATA[Zehut chairman on his alliance with Smotrich: “It’s a technical bloc, and the parties remain completely independent." On polling numbers: “I believe this is just the beginning."]]></description>
+            <link>https://www.israelnationalnews.com/news/432922</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432922</guid>
+            <pubDate>Wed, 09 Sep 2026 01:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Not aimed at the Israeli people': British PM defends ban on Judea and Samaria]]></title>
+            <description><![CDATA['Not aimed at the Israeli people': British PM defends ban on Judea and Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693234</guid>
+            <pubDate>Wed, 09 Sep 2026 00:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is the Religious Zionist Party’s Knesset slate]]></title>
+            <description><![CDATA[The Religious Zionism Party has submitted its Knesset slate, with Ohad Tal pushed down to 12th place. “We acted responsibly to unite the national camp."]]></description>
+            <link>https://www.israelnationalnews.com/news/432920</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432920</guid>
+            <pubDate>Wed, 09 Sep 2026 00:09:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jordan: 20 ballistic missiles launched from Iran, 18 intercepted]]></title>
             <description><![CDATA[Jordan announced that 20 ballistic missiles were launched from Iran toward its territory, with its air defense systems intercepting and destroying 18 of them.
@@ -173,9 +229,9 @@ He stated: "They alerted us to it. We don't have any announcements. Obviously, t
         </item>
         <item>
             <title><![CDATA[Terror cell that planned attack in Modi’in exposed]]></title>
-            <description><![CDATA[More than 30 terrorists were arrested by the Shin Bet, IDF and police on suspicion of involvement in the terrorist infrastructure - some had been released in one of the hostage deals.]]></description>
-            <link>https://www.israelnationalnews.com/news/432904</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432904</guid>
+            <description><![CDATA[Terror cell that planned attack in Modi’in exposed]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693210</guid>
             <pubDate>Tue, 08 Sep 2026 15:17:00 GMT</pubDate>
         </item>
         <item>
@@ -187,46 +243,44 @@ He stated: "They alerted us to it. We don't have any announcements. Obviously, t
         </item>
         <item>
             <title><![CDATA[Israel bans 12 British leaders from entering country]]></title>
-            <description><![CDATA[Following the imposition of sanctions on Judea and Samaria, Israel decided to ban 12 British leaders and citizens from entering its territory.
-
-Among the individuals whose entry will be banned is Jeremy Corbyn, former leader of the British Labor Party.]]></description>
+            <description><![CDATA[Israel bans 12 British leaders from entering country]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693208</guid>
             <pubDate>Tue, 08 Sep 2026 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel's response to UK - closing British Consulate in Jerusalem]]></title>
-            <description><![CDATA[Foreign Minister Sa’ar announces closure of British Consulate in Jerusalem and other countermeasures against UK sanctions.]]></description>
-            <link>https://www.israelnationalnews.com/news/432903</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432903</guid>
+            <description><![CDATA[Israel's response to UK - closing British Consulate in Jerusalem]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693207</guid>
             <pubDate>Tue, 08 Sep 2026 14:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Requiem for Charlie Kirk: More than a memory.]]></title>
-            <description><![CDATA[It is the fate of heroes who take up the quest to return society to its values to often find a path destined for martyrdom.Op-ed.]]></description>
-            <link>https://www.israelnationalnews.com/news/432902</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432902</guid>
+            <description><![CDATA[Requiem for Charlie Kirk: More than a memory.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693206</guid>
             <pubDate>Tue, 08 Sep 2026 14:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We remember 9/11 but ignore its lessons]]></title>
-            <description><![CDATA[US security agencies, until 1991, monitored the communist threat, but largely ignored the growing Islamist and globalist threats. The US still does not fight Islamit threat the way it should. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/432901</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432901</guid>
+            <description><![CDATA[We remember 9/11 but ignore its lessons]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693205</guid>
             <pubDate>Tue, 08 Sep 2026 14:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slovenian Deputy PM: “There should be sovereignty in Samaria"]]></title>
-            <description><![CDATA[On the day Britain announced sanctions against Judea and Samaria, Samaria Regional Council head Yossi Dagan held an extended diplomatic meeting in Slovenia with the deputy prime minister.]]></description>
-            <link>https://www.israelnationalnews.com/news/432900</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432900</guid>
+            <description><![CDATA[Slovenian Deputy PM: “There should be sovereignty in Samaria"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693204</guid>
             <pubDate>Tue, 08 Sep 2026 14:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK Jewish leaders condemn ban on Israeli settlement imports]]></title>
-            <description><![CDATA[Jewish Leadership Council accuses the UK government of putting a “target on British Jews" by banning imports from Israeli settlements, while rights groups welcome the move and call for further action against Israel.]]></description>
-            <link>https://www.israelnationalnews.com/news/432899</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/432899</guid>
+            <description><![CDATA[UK Jewish leaders condemn ban on Israeli settlement imports]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693203</guid>
             <pubDate>Tue, 08 Sep 2026 13:54:00 GMT</pubDate>
         </item>
         <item>
@@ -242,62 +296,6 @@ Among the individuals whose entry will be banned is Jeremy Corbyn, former leader
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693201</guid>
             <pubDate>Tue, 08 Sep 2026 13:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Head of Efrat Council: "Someone in London got confused"]]></title>
-            <description><![CDATA[Head of Efrat Council: "Someone in London got confused"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693200</guid>
-            <pubDate>Tue, 08 Sep 2026 13:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lapid: British sanctions on Israel a serious mistake and encouragement to Hamas]]></title>
-            <description><![CDATA[Lapid: British sanctions on Israel a serious mistake and encouragement to Hamas]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693199</guid>
-            <pubDate>Tue, 08 Sep 2026 13:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK: Hamas cannot play a role in the future government in Gaza and must disarm]]></title>
-            <description><![CDATA[UK: Hamas cannot play a role in the future government in Gaza and must disarm]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693198</guid>
-            <pubDate>Tue, 08 Sep 2026 12:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opposition figures demand investigation over Oct. 7 revelations]]></title>
-            <description><![CDATA[Opposition figures demand investigation over Oct. 7 revelations]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693197</guid>
-            <pubDate>Tue, 08 Sep 2026 12:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu may dump Ben-Gvir after the election]]></title>
-            <description><![CDATA[Netanyahu may dump Ben-Gvir after the election]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693196</guid>
-            <pubDate>Tue, 08 Sep 2026 11:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK expands sanctions on Iran]]></title>
-            <description><![CDATA[UK expands sanctions on Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693195</guid>
-            <pubDate>Tue, 08 Sep 2026 11:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[October 7 changed his politics: Former Labor MK Eli Goldschmidt joins Likud]]></title>
-            <description><![CDATA[October 7 changed his politics: Former Labor MK Eli Goldschmidt joins Likud]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693194</guid>
-            <pubDate>Tue, 08 Sep 2026 10:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E1 tender moves forward as court rejects freeze request]]></title>
-            <description><![CDATA[E1 tender moves forward as court rejects freeze request]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693193</guid>
-            <pubDate>Tue, 08 Sep 2026 10:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

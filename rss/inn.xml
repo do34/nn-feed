@@ -4,11 +4,76 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 18:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 21:26:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 18:09:05 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 21:26:41 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IDF Spokesperson: Hezbollah failed, abandoned personnel inside tunnels]]></title>
+            <description><![CDATA[IDF Spokesperson Effie Defrin provides an update from the Ali al-Taher Ridge in Lebanon: All of the terrorists who were inside the infrastructure were eliminated or fled.]]></description>
+            <link>https://www.israelnationalnews.com/news/433039</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433039</guid>
+            <pubDate>Thu, 10 Sep 2026 21:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the eve of Rosh Hashanah | Netanyahu prays at the Western Wall]]></title>
+            <description><![CDATA[Hours before Rosh Hashanah, Prime Minister Benjamin Netanyahu visits the Western Wall to pray. Watch.]]></description>
+            <link>https://www.israelnationalnews.com/news/433038</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433038</guid>
+            <pubDate>Thu, 10 Sep 2026 20:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ethnic cleansers of Whitehall]]></title>
+            <description><![CDATA[The ethnic cleansers of Whitehall]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693377</guid>
+            <pubDate>Thu, 10 Sep 2026 20:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New footage of destruction of Ali al-Taher terror tunnels]]></title>
+            <description><![CDATA[0:00 /
+1x
+תיעוד חדש מהשמדת רשת המנהרות ברכס עלי טאהרצילום: דובר צה"ל]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693376</guid>
+            <pubDate>Thu, 10 Sep 2026 19:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airlift: 30,000 Hasidim already in Uman]]></title>
+            <description><![CDATA[Since the end of August, more than 31,000 Hasidim have entered Ukraine in organized groups, with the heaviest influx recorded in recent days.]]></description>
+            <link>https://www.israelnationalnews.com/news/433036</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433036</guid>
+            <pubDate>Thu, 10 Sep 2026 19:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon reports 4.1 magnitude earthquake as result of tunnel destruction]]></title>
+            <description><![CDATA[Lebanon reports 4.1 magnitude earthquake as result of tunnel destruction]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693374</guid>
+            <pubDate>Thu, 10 Sep 2026 19:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former PM accuses Israel of ‘ethnic cleansing’]]></title>
+            <description><![CDATA[Ehud Olmert backed sanctions imposed by 12 countries on Judea and Samaria and claimed, 'ethnic cleansing is taking place in the territories.']]></description>
+            <link>https://www.israelnationalnews.com/news/433035</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433035</guid>
+            <pubDate>Thu, 10 Sep 2026 18:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu, Katz: IDF has completed the destruction of the terror tunnels in the Ali al-Taher Ridge]]></title>
+            <description><![CDATA[Netanyahu, Katz: IDF has completed the destruction of the terror tunnels in the Ali al-Taher Ridge]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693372</guid>
+            <pubDate>Thu, 10 Sep 2026 18:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smotrich to Eisenkot: “You spread hatred, I forgive you"]]></title>
+            <description><![CDATA[Finance Minister responds to Gadi Eisenkot’s criticism of the defense budget: “You can’t talk about reconciliation and healing and then speak like the worst of the online commenters."]]></description>
+            <link>https://www.israelnationalnews.com/news/433033</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433033</guid>
+            <pubDate>Thu, 10 Sep 2026 18:16:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Herzog’s Rosh Hashanah message: ‘We are here, we are strong’]]></title>
             <description><![CDATA[President Isaac Herzog marks Rosh Hashanah with a message of Jewish pride, action, and unity, urging Jews in Israel and worldwide to listen to one another.]]></description>
@@ -160,67 +225,65 @@ Ankaio was planning to carry out an imminent shooting attack and was apprehended
         </item>
         <item>
             <title><![CDATA[More Jews need to train in Michael Rapaport’s style of Jew Fu]]></title>
-            <description><![CDATA[Antisemitism is not a misunderstanding to be corrected. It is a functioning social technology that organizes identity, supplies a scapegoat and simplifies the moral universe for people who want it simplified. Rappaport knows how to deal with it. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/433015</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433015</guid>
+            <description><![CDATA[More Jews need to train in Michael Rapaport’s style of Jew Fu]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693349</guid>
             <pubDate>Thu, 10 Sep 2026 13:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Britain’s Jewish foreign secretary knows the Jewish story]]></title>
-            <description><![CDATA[Ed Miliband invoked his family’s refuge in Israel before announcing a policy that economically isolates Jewish communities in the land where Jewish history began.]]></description>
-            <link>https://www.israelnationalnews.com/news/433014</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433014</guid>
+            <description><![CDATA[Britain’s Jewish foreign secretary knows the Jewish story]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693348</guid>
             <pubDate>Thu, 10 Sep 2026 13:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Friedman meets settler filmed by Huckabee: ‘This one won’t work’]]></title>
-            <description><![CDATA[David Friedman meets Amishav Melet, the security patrol driver filmed by Mike Huckabee, and pushes back against claims of ‘settler violence.’]]></description>
-            <link>https://www.israelnationalnews.com/news/433013</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433013</guid>
+            <description><![CDATA[Friedman meets settler filmed by Huckabee: ‘This one won’t work’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693347</guid>
             <pubDate>Thu, 10 Sep 2026 13:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Chief Rabbi’s Rosh Hashanah Message 5787]]></title>
-            <description><![CDATA[Stand tall as Jews. Be proud of who you are, even when it is difficult.]]></description>
-            <link>https://www.israelnationalnews.com/news/433012</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433012</guid>
+            <description><![CDATA[The Chief Rabbi’s Rosh Hashanah Message 5787]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693346</guid>
             <pubDate>Thu, 10 Sep 2026 13:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Otzma Yehudit: “Netanyahu has already chosen Eisenkot"]]></title>
-            <description><![CDATA[Ben Gvir’s party claims Likud is working to weaken Otzma Yehudit in order to pave the way for a unity government with Gadi Eisenkot.]]></description>
-            <link>https://www.israelnationalnews.com/news/433010</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433010</guid>
+            <description><![CDATA[Otzma Yehudit: “Netanyahu has already chosen Eisenkot"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693345</guid>
             <pubDate>Thu, 10 Sep 2026 12:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algeria cuts ties with UAE]]></title>
-            <description><![CDATA[Algeria announced that it was severing relations with the United Arab Emirates, saying it had “exhausted all means of preserving bilateral relations between the two countries."
-
-The announcement provided no further details about the move.]]></description>
+            <description><![CDATA[Algeria cuts ties with UAE]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693344</guid>
             <pubDate>Thu, 10 Sep 2026 12:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Houthis seize strategic Red Sea city, threaten key shipping route]]></title>
-            <description><![CDATA[Capture of Al-Mokha puts Houthi forces closer to the Bab el-Mandeb Strait, raising fears of a new chokehold on global trade and energy routes.]]></description>
-            <link>https://www.israelnationalnews.com/news/433008</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433008</guid>
+            <description><![CDATA[Houthis seize strategic Red Sea city, threaten key shipping route]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693343</guid>
             <pubDate>Thu, 10 Sep 2026 12:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘It’s a real threat’: Anti-Israel groups hunt IDF soldiers abroad]]></title>
-            <description><![CDATA[Shurat HaDin’s Nitsana Darshan-Leitner warns of an escalating campaign to pursue IDF soldiers abroad and explains how a new app aims to protect them.]]></description>
-            <link>https://www.israelnationalnews.com/news/433009</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433009</guid>
+            <description><![CDATA[‘It’s a real threat’: Anti-Israel groups hunt IDF soldiers abroad]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693342</guid>
             <pubDate>Thu, 10 Sep 2026 11:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katz to Iran: Attack Israel, face a blow unlike any before]]></title>
-            <description><![CDATA[Defense Minister sends New Year wishes to Iran's Jews, warns Tehran any attack on Israel will trigger devastating response.]]></description>
-            <link>https://www.israelnationalnews.com/news/433006</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433006</guid>
+            <description><![CDATA[Katz to Iran: Attack Israel, face a blow unlike any before]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693341</guid>
             <pubDate>Thu, 10 Sep 2026 11:25:00 GMT</pubDate>
         </item>
         <item>
@@ -229,69 +292,6 @@ The announcement provided no further details about the move.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693340</guid>
             <pubDate>Thu, 10 Sep 2026 10:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With great confidence]]></title>
-            <description><![CDATA[With great confidence]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693339</guid>
-            <pubDate>Thu, 10 Sep 2026 10:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Global song unites 17 countries in powerful October 7 tribute to Israel]]></title>
-            <description><![CDATA[Global song unites 17 countries in powerful October 7 tribute to Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693338</guid>
-            <pubDate>Thu, 10 Sep 2026 10:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain must be held acountable for Hebron - And for Rewarding October 7]]></title>
-            <description><![CDATA[Britain must be held acountable for Hebron - And for Rewarding October 7]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693337</guid>
-            <pubDate>Thu, 10 Sep 2026 10:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Missing Ariel man found alive near Qalqilya]]></title>
-            <description><![CDATA[Missing Ariel man found alive near Qalqilya]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693336</guid>
-            <pubDate>Thu, 10 Sep 2026 10:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three M-16 rifles stolen from elite IDF base]]></title>
-            <description><![CDATA[Three M-16 rifles stolen from elite IDF base]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693335</guid>
-            <pubDate>Thu, 10 Sep 2026 10:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Underground tunnel located near Givat Ze'ev]]></title>
-            <description><![CDATA[Underground tunnel located near Givat Ze'ev]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693334</guid>
-            <pubDate>Thu, 10 Sep 2026 09:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poll: Two-thirds of Jewish voters back Democrats]]></title>
-            <description><![CDATA[Poll: Two-thirds of Jewish voters back Democrats]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693333</guid>
-            <pubDate>Thu, 10 Sep 2026 09:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What employees really want for the holidays]]></title>
-            <description><![CDATA[What employees really want for the holidays]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693332</guid>
-            <pubDate>Thu, 10 Sep 2026 08:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caught on camera: Suspect in Prinok baby food poisoning case]]></title>
-            <description><![CDATA[Caught on camera: Suspect in Prinok baby food poisoning case]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693331</guid>
-            <pubDate>Thu, 10 Sep 2026 08:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

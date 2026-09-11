@@ -4,11 +4,83 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 23:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 03:19:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 23:46:17 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 03:19:22 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[A century of British hostility]]></title>
+            <description><![CDATA[Britain did not recognize Israel until 1950, two years after its founding, and was among the last Western democracies to do so. Part of a pattern. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/433049</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433049</guid>
+            <pubDate>Fri, 11 Sep 2026 03:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic blocks AI users over suspected bioweapons research]]></title>
+            <description><![CDATA[Anthropic says it blocked users who tried to use its AI models for potentially harmful biological research, including work involving viruses and toxins.]]></description>
+            <link>https://www.israelnationalnews.com/news/433048</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433048</guid>
+            <pubDate>Fri, 11 Sep 2026 03:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Jewish future begins at home]]></title>
+            <description><![CDATA[The Jewish future begins at home]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693391</guid>
+            <pubDate>Fri, 11 Sep 2026 02:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ahead of holidays: Surprise drill begins in Judea and Samaria]]></title>
+            <description><![CDATA[IDF launches surprise drill in the Judea and Samaria Division as part of preparations for the upcoming holidays. All battalions mobilized, and increased security activity will be visible throughout the area.]]></description>
+            <link>https://www.israelnationalnews.com/news/433046</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433046</guid>
+            <pubDate>Fri, 11 Sep 2026 02:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: US deploys troops to Saudi Arabia amid Houthi threat]]></title>
+            <description><![CDATA[Report: US deploys troops to Saudi Arabia amid Houthi threat]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693389</guid>
+            <pubDate>Fri, 11 Sep 2026 02:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Montreal synagogue arsonist sentenced to two years in prison]]></title>
+            <description><![CDATA[Mohamed Ilyess Akodad sentenced to two years in prison for firebombing a Montreal synagogue after accepting a $15,000 arson offer.]]></description>
+            <link>https://www.israelnationalnews.com/news/433044</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433044</guid>
+            <pubDate>Fri, 11 Sep 2026 01:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US official confirms: Iranian attack damaged US warplanes at Jordan air base]]></title>
+            <description><![CDATA[US official confirms: Iranian attack damaged US warplanes at Jordan air base]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693387</guid>
+            <pubDate>Fri, 11 Sep 2026 01:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin arrives in India ahead of BRICS summit]]></title>
+            <description><![CDATA[Russian President Vladimir Putin arrived in New Delhi, India's capital, ahead of the BRICS summit scheduled to take place this weekend. During his visit, Putin is expected to meet with Indian Prime Minister Narendra Modi and hold additional bilateral meetings.
+
+BRICS comprises Russia, Brazil, India, China, South Africa, Egypt, Ethiopia, Iran, Indonesia and the United Arab Emirates. The summit will be held in New Delhi on September 12 and 13.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693386</guid>
+            <pubDate>Fri, 11 Sep 2026 00:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump: I have no regrets over Iran war, I'd do it again]]></title>
+            <description><![CDATA[Trump says he would make the same decision to strike Iran's nuclear sites, warning Tehran will not be allowed to obtain a nuclear weapon.]]></description>
+            <link>https://www.israelnationalnews.com/news/433042</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433042</guid>
+            <pubDate>Fri, 11 Sep 2026 00:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Winter expected to reject surplus agreement with Hendel, but won't rule out Ben Gvir]]></title>
+            <description><![CDATA[Winter expected to reject surplus agreement with Hendel, but won't rule out Ben Gvir]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693384</guid>
+            <pubDate>Thu, 10 Sep 2026 23:46:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Selichot at Western Wall: Over 50,000 worshippers gather ahead of Rosh Hashanah]]></title>
             <description><![CDATA[Around 50,000 people attend late night Selichot service at the Western Wall. Rabbis and public figures pray for unity, the safety of Israel's soldiers and the recovery of the wounded.]]></description>
@@ -27,9 +99,9 @@ According to the agency, the crew of another vessel reported seeing four unident
         </item>
         <item>
             <title><![CDATA[US sanctions Hezbollah, Iran proxy networks in expanded economic campaign]]></title>
-            <description><![CDATA[US sanctions Hezbollah, Iran proxy networks in expanded economic campaign]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693381</guid>
+            <description><![CDATA[The US imposes new sanctions on Hezbollah and Iranian proxy networks as Washington expands its campaign to cut Tehran off from financial support.]]></description>
+            <link>https://www.israelnationalnews.com/news/433041</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433041</guid>
             <pubDate>Thu, 10 Sep 2026 22:08:00 GMT</pubDate>
         </item>
         <item>
@@ -155,145 +227,73 @@ According to the agency, the crew of another vessel reported seeing four unident
         </item>
         <item>
             <title><![CDATA[Following week-long pursuit: IDF apprehends terrorist planning imminent shooting attack]]></title>
-            <description><![CDATA[Earlier today (Thursday), IDF soldiers, in conjunction with the Shin Bet, apprehended the terrorist Ismail Ankaio in the Beitunia area, along with an additional wanted individual.
-
-Ankaio was planning to carry out an imminent shooting attack and was apprehended following a week-long pursuit of him.]]></description>
+            <description><![CDATA[Following week-long pursuit: IDF apprehends terrorist planning imminent shooting attack]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693363</guid>
             <pubDate>Thu, 10 Sep 2026 16:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Child collapses at mall, life saved by defibrillator]]></title>
-            <description><![CDATA[A child lost consciousness at a shopping center. A medic who arrived within two minutes treated him with two electric shocks, restoring his heartbeat.]]></description>
-            <link>https://www.israelnationalnews.com/news/433026</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433026</guid>
+            <description><![CDATA[Child collapses at mall, life saved by defibrillator]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693362</guid>
             <pubDate>Thu, 10 Sep 2026 16:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US forces redirected 96 commercial vessels attempting to reach Iran]]></title>
-            <description><![CDATA[US Central Command says that as of Thursday, US forces have redirected 96 commercial vessels to ensure total compliance with the blockade of Iran. More than 50 vessels supporting humanitarian aid have been allowed to pass.]]></description>
+            <description><![CDATA[US forces redirected 96 commercial vessels attempting to reach Iran]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693361</guid>
             <pubDate>Thu, 10 Sep 2026 16:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From coded emojis to old lies: 9/11 antisemitism persists online]]></title>
-            <description><![CDATA[CyberWell identifies scores of posts falsely blaming Jews and Israel for the 9/11 attacks, warning that decades-old conspiracies continue to spread online.]]></description>
-            <link>https://www.israelnationalnews.com/news/433025</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433025</guid>
+            <description><![CDATA[From coded emojis to old lies: 9/11 antisemitism persists online]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693360</guid>
             <pubDate>Thu, 10 Sep 2026 16:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Looking above the parties]]></title>
-            <description><![CDATA[Just before Rosh Hashanah and with elections looming ahead, let us contemplate the great miracles that the Jewish people have undergone.]]></description>
-            <link>https://www.israelnationalnews.com/news/433024</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433024</guid>
+            <description><![CDATA[Looking above the parties]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693359</guid>
             <pubDate>Thu, 10 Sep 2026 16:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maj. Gen. Bluth to Yesha leaders: Partnership is what enables terrorism prevention]]></title>
-            <description><![CDATA[Central Command chief criticizes attempts to create divisions between settlement leaders and forces on the ground, stressing that cooperation is key to maintaining governance.]]></description>
-            <link>https://www.israelnationalnews.com/news/433023</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433023</guid>
+            <description><![CDATA[Maj. Gen. Bluth to Yesha leaders: Partnership is what enables terrorism prevention]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693358</guid>
             <pubDate>Thu, 10 Sep 2026 16:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Japan lowers travel warning for Israel]]></title>
-            <description><![CDATA[The Japanese government announced that it has lowered its travel warning for Israel. The move is expected to lead to renewed visits by Japanese delegations and businesspeople and to deepen cooperation between the two countries.]]></description>
+            <description><![CDATA[Japan lowers travel warning for Israel]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693357</guid>
             <pubDate>Thu, 10 Sep 2026 15:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Despite being past 67' lines: UK says Jews can visit Western Wall]]></title>
-            <description><![CDATA[British government says Israelis at the Western Wall and Jewish Quarter are not unlawfully present, clarifying its stance after adopting the ICJ position.]]></description>
-            <link>https://www.israelnationalnews.com/news/433022</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433022</guid>
+            <description><![CDATA[Despite being past 67' lines: UK says Jews can visit Western Wall]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693356</guid>
             <pubDate>Thu, 10 Sep 2026 15:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eisenkot’s Yashar Party signs surplus-vote deal with Democrats]]></title>
-            <description><![CDATA[Eisenkot’s Yashar Party will sign a surplus-vote agreement with the Democrats after Liberman’s Yisrael Beytenu struck a deal with Bennett and Lapid.]]></description>
-            <link>https://www.israelnationalnews.com/news/433021</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433021</guid>
+            <description><![CDATA[Eisenkot’s Yashar Party signs surplus-vote deal with Democrats]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693355</guid>
             <pubDate>Thu, 10 Sep 2026 15:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New record: Nearly 69,000 Jews ascended the Temple Mount over last year]]></title>
-            <description><![CDATA[The number of Jewish visitors to the Temple Mount increased significantly this year, despite the site being closed to Jews for 134 days due to security concerns, Muslim holidays and Shabbat.]]></description>
-            <link>https://www.israelnationalnews.com/news/433020</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433020</guid>
+            <description><![CDATA[New record: Nearly 69,000 Jews ascended the Temple Mount over last year]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693354</guid>
             <pubDate>Thu, 10 Sep 2026 15:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IAEA confirms signs of activity at Iran’s Pickaxe Mountain nuclear site]]></title>
-            <description><![CDATA[IAEA confirms signs of activity at Iran’s Pickaxe Mountain nuclear site]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693353</guid>
-            <pubDate>Thu, 10 Sep 2026 14:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I will sit in prison’: Israeli refuses to comply with IDF order]]></title>
-            <description><![CDATA[‘I will sit in prison’: Israeli refuses to comply with IDF order]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693352</guid>
-            <pubDate>Thu, 10 Sep 2026 14:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF eliminates Hamas Nukhba terrorist who killed Nahal commander]]></title>
-            <description><![CDATA[IDF eliminates Hamas Nukhba terrorist who killed Nahal commander]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693351</guid>
-            <pubDate>Thu, 10 Sep 2026 14:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sylvan Adams & Ron Dermer: 'Israel must use its power to oppose war against Jews']]></title>
-            <description><![CDATA[Sylvan Adams & Ron Dermer: 'Israel must use its power to oppose war against Jews']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693350</guid>
-            <pubDate>Thu, 10 Sep 2026 13:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More Jews need to train in Michael Rapaport’s style of Jew Fu]]></title>
-            <description><![CDATA[More Jews need to train in Michael Rapaport’s style of Jew Fu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693349</guid>
-            <pubDate>Thu, 10 Sep 2026 13:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain’s Jewish foreign secretary knows the Jewish story]]></title>
-            <description><![CDATA[Britain’s Jewish foreign secretary knows the Jewish story]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693348</guid>
-            <pubDate>Thu, 10 Sep 2026 13:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Friedman meets settler filmed by Huckabee: ‘This one won’t work’]]></title>
-            <description><![CDATA[Friedman meets settler filmed by Huckabee: ‘This one won’t work’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693347</guid>
-            <pubDate>Thu, 10 Sep 2026 13:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Chief Rabbi’s Rosh Hashanah Message 5787]]></title>
-            <description><![CDATA[The Chief Rabbi’s Rosh Hashanah Message 5787]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693346</guid>
-            <pubDate>Thu, 10 Sep 2026 13:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Otzma Yehudit: “Netanyahu has already chosen Eisenkot"]]></title>
-            <description><![CDATA[Otzma Yehudit: “Netanyahu has already chosen Eisenkot"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693345</guid>
-            <pubDate>Thu, 10 Sep 2026 12:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Algeria cuts ties with UAE]]></title>
-            <description><![CDATA[Algeria cuts ties with UAE]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693344</guid>
-            <pubDate>Thu, 10 Sep 2026 12:18:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

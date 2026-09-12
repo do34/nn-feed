@@ -4,11 +4,22 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 23:00:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 03:24:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 23:00:50 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 03:24:29 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Shabbat Shalom and Shana Tova!]]></title>
+            <description><![CDATA[Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat and Rosh Hashanah in North America, where they are being written now.
+
+Updates will resume Sunday night from Israel, following the conclusion of Rosh Hashanah at 19:24 Jerusalem time.
+
+Shabbat Shalom and Shana Tova!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_221357</guid>
+            <pubDate>Fri, 11 Sep 2026 22:30:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ambassador Leiter: Rosh Hashanah calls us to defend freedom and seek peace]]></title>
             <description><![CDATA[Israel's Ambassador to the US Yechiel Leiter reflects on Rosh Hashanah, September 11 and Charlie Kirk, calling for peace, resilience, freedom and life.
@@ -29,9 +40,11 @@
         </item>
         <item>
             <title><![CDATA[Giuliani and Mamdani share handshake at 9/11 ceremony despite dispute]]></title>
-            <description><![CDATA[Giuliani and Mamdani share handshake at 9/11 ceremony despite dispute]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693438</guid>
+            <description><![CDATA[Rudy Giuliani and Zohran Mamdani seen shaking hands at Ground Zero despite Giuliani's objections to the mayor attending the 25th anniversary 9/11 ceremony.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Rosh Hashanah in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/433085</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433085</guid>
             <pubDate>Fri, 11 Sep 2026 20:43:00 GMT</pubDate>
         </item>
         <item>
@@ -240,9 +253,9 @@ Prior to the strike, steps were taken to mitigate harm to civilians, including t
         </item>
         <item>
             <title><![CDATA[Anti-Israel film outrage: Gotliv: Who needs enemies when we have people like this at home?]]></title>
-            <description><![CDATA[MK Gotliv criticized the silence of Israel’s political and military leadership in the face of a film by Israeli filmmakers that presents a narrative claiming Israel deliberately harmed Gazans.]]></description>
-            <link>https://www.israelnationalnews.com/news/433065</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433065</guid>
+            <description><![CDATA[Anti-Israel film outrage: Gotliv: Who needs enemies when we have people like this at home?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693412</guid>
             <pubDate>Fri, 11 Sep 2026 08:53:00 GMT</pubDate>
         </item>
         <item>
@@ -307,13 +320,6 @@ Prior to the strike, steps were taken to mitigate harm to civilians, including t
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693403</guid>
             <pubDate>Fri, 11 Sep 2026 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Parsha and Current Events: Rosh Hashanah]]></title>
-            <description><![CDATA[The Parsha and Current Events: Rosh Hashanah]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693402</guid>
-            <pubDate>Fri, 11 Sep 2026 04:49:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,55 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 22:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 01:11:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 22:16:48 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 01:11:47 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Iran claims US struck two fishing boats in Persian Gulf]]></title>
+            <description><![CDATA[Iranian news agency Fars reported that the United States struck two fishing boats in the Persian Gulf using a drone.
+
+According to the report, several fishermen who were aboard the boats are missing.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693528</guid>
+            <pubDate>Tue, 15 Sep 2026 00:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mahmoud Khalil sues Columbia over harassment of Palestinian Arab activists]]></title>
+            <description><![CDATA[Mahmoud Khalil sues Columbia University, alleging it failed to stop harassment of Palestinian Arab activists and retaliated against students who reported it.]]></description>
+            <link>https://www.israelnationalnews.com/news/433166</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433166</guid>
+            <pubDate>Tue, 15 Sep 2026 00:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two moderately injured, nine lightly injured in accident on Route 8691]]></title>
+            <description><![CDATA[Two moderately injured, nine lightly injured in accident on Route 8691]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693526</guid>
+            <pubDate>Mon, 14 Sep 2026 23:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[McConnell returns to Senate after three-month absence due to health issues]]></title>
+            <description><![CDATA[Sen. Mitch McConnell returns to Capitol Hill after a three-month health-related absence, saying he is still recovering but plans to be present for key votes.]]></description>
+            <link>https://www.israelnationalnews.com/news/433165</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433165</guid>
+            <pubDate>Mon, 14 Sep 2026 23:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NATO intercepts drone that entered Lithuanian airspace]]></title>
+            <description><![CDATA[NATO intercepts drone that entered Lithuanian airspace]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693524</guid>
+            <pubDate>Mon, 14 Sep 2026 22:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pezeshkian: Iran ready for nuclear talks if US lifts sanctions and ends pressure]]></title>
+            <description><![CDATA[Iranian President Masoud Pezeshkian says Tehran is ready for nuclear talks with Washington if the US lifts sanctions and abandons unilateral pressure.]]></description>
+            <link>https://www.israelnationalnews.com/news/433164</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433164</guid>
+            <pubDate>Mon, 14 Sep 2026 22:21:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gaza sources: Hamas military commander eliminated in Gaza City strike]]></title>
             <description><![CDATA[Gaza sources claim that Ahmed al-Batsh, a commander in Hamas' military wing, was eliminated in a strike on a vehicle in Gaza City.]]></description>
@@ -25,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[Iran says tanker hit naval mine near Hormuz, US calls claim false]]></title>
-            <description><![CDATA[Iran says tanker hit naval mine near Hormuz, US calls claim false]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693520</guid>
+            <description><![CDATA[Iran says an oil tanker struck a naval mine near the Strait of Hormuz, while CENTCOM says the vessel was hit by an Iranian missile and drone.]]></description>
+            <link>https://www.israelnationalnews.com/news/433163</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433163</guid>
             <pubDate>Mon, 14 Sep 2026 21:09:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +83,9 @@
         </item>
         <item>
             <title><![CDATA[Netanyahu's secret promise to Ben Gvir and Gotliv]]></title>
-            <description><![CDATA[Netanyahu's secret promise to Ben Gvir and Gotliv]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693518</guid>
+            <description><![CDATA[Report: Fearing a loss of Likud voters to Otzma Yehudit, the Prime Minister held clarification talks with National Security Minister Itamar Ben Gvir and MK Tally Gotliv.]]></description>
+            <link>https://www.israelnationalnews.com/news/433161</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433161</guid>
             <pubDate>Mon, 14 Sep 2026 20:44:00 GMT</pubDate>
         </item>
         <item>
@@ -53,9 +97,9 @@
         </item>
         <item>
             <title><![CDATA['Anarchy on its way': Calls in Israel for international coalition against Houthis]]></title>
-            <description><![CDATA['Anarchy on its way': Calls in Israel for international coalition against Houthis]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693516</guid>
+            <description><![CDATA[Israeli officials warn Houthi control of the Bab al-Mandab Strait could trigger maritime anarchy unless an international coalition acts against the threat.]]></description>
+            <link>https://www.israelnationalnews.com/news/433159</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433159</guid>
             <pubDate>Mon, 14 Sep 2026 19:39:00 GMT</pubDate>
         </item>
         <item>
@@ -67,9 +111,9 @@
         </item>
         <item>
             <title><![CDATA[Eisenkot’s move that could enable a minority government]]></title>
-            <description><![CDATA[Eisenkot’s move that could enable a minority government]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693514</guid>
+            <description><![CDATA[Yashar! party chairman is formulating a mechanism to prevent MKs from leaving his faction if he decides to establish a minority government relying on Arab parties’ votes.]]></description>
+            <link>https://www.israelnationalnews.com/news/433157</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433157</guid>
             <pubDate>Mon, 14 Sep 2026 19:33:00 GMT</pubDate>
         </item>
         <item>
@@ -185,44 +229,44 @@ The terrorist operative had been wanted in recent months for his alleged involve
         </item>
         <item>
             <title><![CDATA[Netanyahu seeks more defense funding; Lapid sets condition]]></title>
-            <description><![CDATA[Netanyahu asked to increase the defense budget. Lapid said he would support the move but demanded that it not be funded through tax increases. Likud responded with criticism.]]></description>
-            <link>https://www.israelnationalnews.com/news/433144</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433144</guid>
+            <description><![CDATA[Netanyahu seeks more defense funding; Lapid sets condition]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693498</guid>
             <pubDate>Mon, 14 Sep 2026 13:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zamir orders legal review of ‘NAZA': ‘Based on blood libels’]]></title>
-            <description><![CDATA[IDF Chief Eyal Zamir orders legal review and special team to address ‘NAZA,’ accusing the film of blood libels that could endanger Israeli soldiers.]]></description>
-            <link>https://www.israelnationalnews.com/news/433143</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433143</guid>
+            <description><![CDATA[Zamir orders legal review of ‘NAZA': ‘Based on blood libels’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693497</guid>
             <pubDate>Mon, 14 Sep 2026 13:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Captivity survivor rages at Naza producers: ‘The blood of our friends is on their hands’]]></title>
-            <description><![CDATA[Former hostage Eliya Cohen accuses Naza producers of spreading lies about Israel and IDF soldiers, calling for a lawful public protest against them.]]></description>
-            <link>https://www.israelnationalnews.com/news/433142</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433142</guid>
+            <description><![CDATA[Captivity survivor rages at Naza producers: ‘The blood of our friends is on their hands’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693496</guid>
             <pubDate>Mon, 14 Sep 2026 13:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sometimes a perfect body has only one kidney]]></title>
-            <description><![CDATA[Israel is the country with the most altruistic kidney donors per capita.]]></description>
-            <link>https://www.israelnationalnews.com/news/433141</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433141</guid>
+            <description><![CDATA[Sometimes a perfect body has only one kidney]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693495</guid>
             <pubDate>Mon, 14 Sep 2026 13:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF Spokesman slams film: “False allegations, distorted, disconnected from reality"]]></title>
-            <description><![CDATA[Brig. Gen. Effie Defrin rejects allegations presented in promo for “NAZA," invites filmmakers to show IDF the full film.]]></description>
-            <link>https://www.israelnationalnews.com/news/433140</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433140</guid>
+            <description><![CDATA[IDF Spokesman slams film: “False allegations, distorted, disconnected from reality"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693494</guid>
             <pubDate>Mon, 14 Sep 2026 12:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UCLA Chancellor condemns speech by 9/11 mastermind's laywer on 9/11]]></title>
-            <description><![CDATA[University where Judea Pearl teaches, whose son Danial was murdered by Khalid Sheikh Mohammed, hosts Mohammed's attorney on 25th anniversary of 9/11.]]></description>
-            <link>https://www.israelnationalnews.com/news/433139</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433139</guid>
+            <description><![CDATA[UCLA Chancellor condemns speech by 9/11 mastermind's laywer on 9/11]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693493</guid>
             <pubDate>Mon, 14 Sep 2026 12:38:00 GMT</pubDate>
         </item>
         <item>
@@ -252,48 +296,6 @@ The terrorist operative had been wanted in recent months for his alleged involve
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693489</guid>
             <pubDate>Mon, 14 Sep 2026 11:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IAEA: Almost no nuclear inspections in Iran for six months]]></title>
-            <description><![CDATA[IAEA: Almost no nuclear inspections in Iran for six months]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693488</guid>
-            <pubDate>Mon, 14 Sep 2026 10:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Daycare horror: Assistant jailed for seven years for abusing 12 children]]></title>
-            <description><![CDATA[Daycare horror: Assistant jailed for seven years for abusing 12 children]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693487</guid>
-            <pubDate>Mon, 14 Sep 2026 10:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paralympic athlete suffers seizure during live TV interview]]></title>
-            <description><![CDATA[Paralympic athlete suffers seizure during live TV interview]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693486</guid>
-            <pubDate>Mon, 14 Sep 2026 09:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lahav 433 officer wounded after gun accidentally fires]]></title>
-            <description><![CDATA[Lahav 433 officer wounded after gun accidentally fires]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693485</guid>
-            <pubDate>Mon, 14 Sep 2026 09:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modzitz Rebbe hospitalized on Rosh Hashanah, returns to lead prayers]]></title>
-            <description><![CDATA[Modzitz Rebbe hospitalized on Rosh Hashanah, returns to lead prayers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693484</guid>
-            <pubDate>Mon, 14 Sep 2026 09:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘We want justice’: Family of murdered 7-year-old confronts accused killer in court]]></title>
-            <description><![CDATA[‘We want justice’: Family of murdered 7-year-old confronts accused killer in court]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693483</guid>
-            <pubDate>Mon, 14 Sep 2026 09:03:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

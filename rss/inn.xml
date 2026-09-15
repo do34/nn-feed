@@ -4,11 +4,143 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 01:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 07:15:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 01:11:47 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 07:15:47 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Haredi teen stabbed in Brooklyn synagogue]]></title>
+            <description><![CDATA[The incident reportedly followed an altercation that broke out inside the synagogue.]]></description>
+            <link>https://www.israelnationalnews.com/news/433181</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433181</guid>
+            <pubDate>Tue, 15 Sep 2026 07:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF recruit arrested during uniformed protest against Major General Bluth]]></title>
+            <description><![CDATA[Enlisted IDF soldier stages protest outside Central Command headquarters against Maj. Gen. Avi Bluth, accusing him of persecuting Tal Yinon Derdik.]]></description>
+            <link>https://www.israelnationalnews.com/news/433180</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433180</guid>
+            <pubDate>Tue, 15 Sep 2026 07:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shin Bet confirms: Central Israel firefighter planned Hamas-inspired attack]]></title>
+            <description><![CDATA[Shin Bet says Mustafa Issa exploited his work as a firefighter to identify sensitive targets and contacted Hamas terrorists and Iranian intelligence agents.]]></description>
+            <link>https://www.israelnationalnews.com/news/433179</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433179</guid>
+            <pubDate>Tue, 15 Sep 2026 06:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stolen cars found just in time for Rosh Hashanah]]></title>
+            <description><![CDATA[A targeted Border Police operation uncovered two Toyota vehicles stolen from central Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/433178</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433178</guid>
+            <pubDate>Tue, 15 Sep 2026 06:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gazan reports: Senior Hamas terrorist eliminated in drone strike]]></title>
+            <description><![CDATA[Gaza sources affiliated with Hamas report that Ahmed al-Batsh was eliminated overnight in an IDF drone strike on his vehicle.
+
+According to the sources, al-Batsh served as head of the Northern Brigade’s weapons staff in Hamas and previously commanded the Jabaliya Battalion.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693542</guid>
+            <pubDate>Tue, 15 Sep 2026 06:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fireworks fired toward London synagogue as Jews mark Rosh Hashanah]]></title>
+            <description><![CDATA[Five youths were seen outside Lauderdale Road Synagogue before two fireworks were launched toward the building; no injuries or damage were reported.]]></description>
+            <link>https://www.israelnationalnews.com/news/433177</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433177</guid>
+            <pubDate>Tue, 15 Sep 2026 06:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pentagon reveals cost of war in Iran]]></title>
+            <description><![CDATA[A new Pentagon inspector general report reveals ammunition shortages, major aircraft losses and Iranian strikes on a key US Navy hub.]]></description>
+            <link>https://www.israelnationalnews.com/news/433176</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433176</guid>
+            <pubDate>Tue, 15 Sep 2026 05:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sasha Troufanov reveals ‘switch’ that changed his Hamas captivity]]></title>
+            <description><![CDATA[Former hostage Sasha Troufanov recalls reaching a turning point in Hamas captivity, when faith helped him overcome fear and accept that his fate was in G-d’s hands.]]></description>
+            <link>https://www.israelnationalnews.com/news/433175</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433175</guid>
+            <pubDate>Tue, 15 Sep 2026 05:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Red Flag: How far antisemitism has already penetrated throughout America]]></title>
+            <description><![CDATA[Listen closely: the canary has already fallen silent. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/433174</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433174</guid>
+            <pubDate>Tue, 15 Sep 2026 04:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US sanctions Russian banking giant over ties to Iran]]></title>
+            <description><![CDATA[US Treasury sanctions Russia’s VTB Bank for helping Iran evade sanctions and move frozen assets, warning foreign institutions to sever ties with the bank.]]></description>
+            <link>https://www.israelnationalnews.com/news/433173</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433173</guid>
+            <pubDate>Tue, 15 Sep 2026 04:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia: 13 civilians injured in Houthi strikes overnight]]></title>
+            <description><![CDATA[The Saudi-led coalition in Yemen announced that 13 civilians were injured in Houthi attacks on the cities of Khamis Mushait, Abha and Taif. Seven homes and two vehicles were also damaged.
+
+Meanwhile, Saudi-backed Yemeni government forces reported advances in Al-Jawf Governorate, near the Saudi border, and said they were approaching the city of Al-Hazm in the center of the governorate.
+
+Airstrikes were also reported against Houthi targets in and around Al-Mokha, as well as in areas of the Taiz, Lahij and Al-Dhale governorates.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693536</guid>
+            <pubDate>Tue, 15 Sep 2026 04:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reports in Iran: Revolutionary Guards intercept US drone over Hormuz]]></title>
+            <description><![CDATA[Iranian Al-Alam TV reported that the Islamic Revolutionary Guard Corps' air defense systems intercepted a US MQ-1 drone in the airspace west of the Strait of Hormuz.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693535</guid>
+            <pubDate>Tue, 15 Sep 2026 03:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three Jewish teens assaulted on London bus in antisemitic attack]]></title>
+            <description><![CDATA[Three Jewish 14-year-olds allegedly assaulted and subjected to hate speech on a London bus as police investigate the incident as antisemitic.]]></description>
+            <link>https://www.israelnationalnews.com/news/433172</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433172</guid>
+            <pubDate>Tue, 15 Sep 2026 03:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US blocks Iran nuclear chief from IAEA meeting in Vienna]]></title>
+            <description><![CDATA[US blocks an exemption allowing Iran's nuclear chief to attend an IAEA meeting, citing UN sanctions and Tehran's lack of nuclear cooperation.]]></description>
+            <link>https://www.israelnationalnews.com/news/433171</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433171</guid>
+            <pubDate>Tue, 15 Sep 2026 03:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Norway weighs up to three years in prison for trade with Judea and Samaria communities]]></title>
+            <description><![CDATA[Norway’s Foreign Minister says the country could impose prison terms of up to three years for trading with Israeli communities in Judea and Samaria under legislation due this fall.]]></description>
+            <link>https://www.israelnationalnews.com/news/433170</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433170</guid>
+            <pubDate>Tue, 15 Sep 2026 02:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump nominates Rep. Wesley Hunt as US ambassador to Saudi Arabia]]></title>
+            <description><![CDATA[President Trump nominates Texas Rep. Wesley Hunt as ambassador to Saudi Arabia as Washington pushes closer ties between Riyadh and Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/433169</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433169</guid>
+            <pubDate>Tue, 15 Sep 2026 02:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian official: No talks with US until Iran's conditions are met]]></title>
+            <description><![CDATA[Iranian security chief Mohsen Rezaei rejects Trump's mixed signals on talks.]]></description>
+            <link>https://www.israelnationalnews.com/news/433168</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433168</guid>
+            <pubDate>Tue, 15 Sep 2026 01:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robert Kraft confirms role in pushing Macklemore off Ed Sheeran tour]]></title>
+            <description><![CDATA[Patriots owner Robert Kraft confirms he helped pressure Ed Sheeran to drop Macklemore, citing antisemitic rhetoric and imagery at recent shows.]]></description>
+            <link>https://www.israelnationalnews.com/news/433167</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433167</guid>
+            <pubDate>Tue, 15 Sep 2026 01:24:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran claims US struck two fishing boats in Persian Gulf]]></title>
             <description><![CDATA[Iranian news agency Fars reported that the United States struck two fishing boats in the Persian Gulf using a drone.
@@ -27,7 +159,9 @@ According to the report, several fishermen who were aboard the boats are missing
         </item>
         <item>
             <title><![CDATA[Two moderately injured, nine lightly injured in accident on Route 8691]]></title>
-            <description><![CDATA[Two moderately injured, nine lightly injured in accident on Route 8691]]></description>
+            <description><![CDATA[Two 18-year-olds were moderately injured and nine other people sustained light injuries in a collision between a vehicle and a tractor on Route 8691 near the entrance to Natur.
+
+Magen David Adom paramedics and EMTs provided medical treatment at the scene before evacuating the injured to Rambam Hospital in Haifa and Poriya Hospital in Tiberias.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693526</guid>
             <pubDate>Mon, 14 Sep 2026 23:46:00 GMT</pubDate>
@@ -41,7 +175,9 @@ According to the report, several fishermen who were aboard the boats are missing
         </item>
         <item>
             <title><![CDATA[NATO intercepts drone that entered Lithuanian airspace]]></title>
-            <description><![CDATA[NATO intercepts drone that entered Lithuanian airspace]]></description>
+            <description><![CDATA[NATO fighter jets intercepted a drone that entered Lithuanian airspace near Vilnius, the country's National Crisis Management Center said.
+
+Earlier, it was reported that the fighter jets had been scrambled to the area amid concerns over a possible drone incursion.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693524</guid>
             <pubDate>Mon, 14 Sep 2026 22:37:00 GMT</pubDate>
@@ -97,30 +233,30 @@ According to the report, several fishermen who were aboard the boats are missing
         </item>
         <item>
             <title><![CDATA['Anarchy on its way': Calls in Israel for international coalition against Houthis]]></title>
-            <description><![CDATA[Israeli officials warn Houthi control of the Bab al-Mandab Strait could trigger maritime anarchy unless an international coalition acts against the threat.]]></description>
-            <link>https://www.israelnationalnews.com/news/433159</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433159</guid>
+            <description><![CDATA['Anarchy on its way': Calls in Israel for international coalition against Houthis]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693516</guid>
             <pubDate>Mon, 14 Sep 2026 19:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The six questions a person is asked at judgment]]></title>
-            <description><![CDATA[As Rosh Hashanah approaches, it is appropriate to understand the Questions a person is asked when standing before the Heavenly Court. Torah, service, redemption-the six questions encompass the life and mission of a Jew in this world, on the condition that fear of God precedes all of them.]]></description>
-            <link>https://www.israelnationalnews.com/news/433158</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433158</guid>
+            <description><![CDATA[The six questions a person is asked at judgment]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693515</guid>
             <pubDate>Mon, 14 Sep 2026 19:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eisenkot’s move that could enable a minority government]]></title>
-            <description><![CDATA[Yashar! party chairman is formulating a mechanism to prevent MKs from leaving his faction if he decides to establish a minority government relying on Arab parties’ votes.]]></description>
-            <link>https://www.israelnationalnews.com/news/433157</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433157</guid>
+            <description><![CDATA[Eisenkot’s move that could enable a minority government]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693514</guid>
             <pubDate>Mon, 14 Sep 2026 19:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bereaved families demand Ra’am be disqualified]]></title>
-            <description><![CDATA[The Choosing Life Forum of bereaved families and terror victims has petitioned the Central Elections Committee, demanding that the Ra’am party be barred from running in the elections.]]></description>
-            <link>https://www.israelnationalnews.com/news/433156</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433156</guid>
+            <description><![CDATA[Bereaved families demand Ra’am be disqualified]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693513</guid>
             <pubDate>Mon, 14 Sep 2026 18:51:00 GMT</pubDate>
         </item>
         <item>
@@ -132,170 +268,38 @@ According to the report, several fishermen who were aboard the boats are missing
         </item>
         <item>
             <title><![CDATA[Israeli Arab firefighter arrested for terror plot]]></title>
-            <description><![CDATA[Shin Bet and police say 19-year-old Kafr Qassem firefighter contacted Hamas and Iranian agents, sought to form a terror cell and identified a sensitive target.]]></description>
-            <link>https://www.israelnationalnews.com/news/433154</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433154</guid>
+            <description><![CDATA[Israeli Arab firefighter arrested for terror plot]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693511</guid>
             <pubDate>Mon, 14 Sep 2026 17:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mamdani sues Trump: Wants immigrants]]></title>
-            <description><![CDATA[New York and 21 other states across the US are suing the Trump administration, claiming that a new rule that will make it more difficult for immigrants to enter the US will cause them financial losses.]]></description>
-            <link>https://www.israelnationalnews.com/news/433153</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433153</guid>
+            <description><![CDATA[Mamdani sues Trump: Wants immigrants]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693510</guid>
             <pubDate>Mon, 14 Sep 2026 17:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What a graffiti says about journalism, the AfD, and the future of German Jewry]]></title>
-            <description><![CDATA[The same ugly graffiti that elites now parade as proof that the AfD is poised to act like Nazis actually demonstrates the opposite. Hundreds of vile graffiti targeting Jews appear daily in German and European cities and no one cares. Opiniion.]]></description>
-            <link>https://www.israelnationalnews.com/news/433152</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433152</guid>
+            <description><![CDATA[What a graffiti says about journalism, the AfD, and the future of German Jewry]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693509</guid>
             <pubDate>Mon, 14 Sep 2026 17:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zelensky: We will stop attacks on Russia if we receive guarantees]]></title>
-            <description><![CDATA[Ukrainian President Volodymyr Zelensky declares that his country is ready to stop attacks on Russia - if the negotiating partners - guarantee that the Russians will refrain from damaging energy facilities, infrastructure, and food supply routes.]]></description>
+            <description><![CDATA[Zelensky: We will stop attacks on Russia if we receive guarantees]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693508</guid>
             <pubDate>Mon, 14 Sep 2026 17:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Democrats ask Elections Committee to bar Otzma Yehudit from race]]></title>
-            <description><![CDATA[Yair Golan’s Democrats ask Elections Committee to disqualify Otzma Yehudit, citing racism; Ben-Gvir’s party responds by calling Democrats ‘anti-Israel.’]]></description>
-            <link>https://www.israelnationalnews.com/news/433151</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433151</guid>
+            <description><![CDATA[Democrats ask Elections Committee to bar Otzma Yehudit from race]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693507</guid>
             <pubDate>Mon, 14 Sep 2026 17:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strangling Iran: Will Trump’s endgame win out?]]></title>
-            <description><![CDATA[Will Washington tie its measures together so financial pressure becomes a noose that follows Iranian trade on the sea, in the air, through banks and possibly across land borders too? And makes the routes still left to Iran impossibly expensive?]]></description>
-            <link>https://www.israelnationalnews.com/news/433150</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433150</guid>
-            <pubDate>Mon, 14 Sep 2026 16:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump says he's 'open to the concept' of negotiations with Iran]]></title>
-            <description><![CDATA[US President Donald Trump revealed on Monday that he is open to negotiations with Iran.
-
-"The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of which we are open to," he wrote on Truth Social.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693505</guid>
-            <pubDate>Mon, 14 Sep 2026 15:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Macklemore removed from Ed Sheeran tour amid anti-Israel controversy]]></title>
-            <description><![CDATA[Macklemore is removed from eight Ed Sheeran tour dates after venues reportedly refused to host him following his ‘Free Palestine’ performances.]]></description>
-            <link>https://www.israelnationalnews.com/news/433149</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433149</guid>
-            <pubDate>Mon, 14 Sep 2026 15:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu warns Hezbollah: Next attack will bring ‘heavier blows’]]></title>
-            <description><![CDATA[Netanyahu hails the destruction of Hezbollah strongholds in southern Lebanon and warns that any renewed attack on Israel will be met with even heavier blows.]]></description>
-            <link>https://www.israelnationalnews.com/news/433148</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433148</guid>
-            <pubDate>Mon, 14 Sep 2026 15:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Following Attorney General’s intervention: Memorial event for Rabbi Ovadia Yosef canceled]]></title>
-            <description><![CDATA[The major event planned in memory of Rabbi Ovadia Yosef has been canceled following the Attorney General’s directive regarding the election period.]]></description>
-            <link>https://www.israelnationalnews.com/news/433147</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433147</guid>
-            <pubDate>Mon, 14 Sep 2026 15:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Security forces arrest Fatah terrorist in Tulkarm who planned attacks, trafficked weapons]]></title>
-            <description><![CDATA[In a joint operation, the IDF and Shin Bet launched an operation today (Monday) to thwart terrorist activity in the Tulkarm area.
-
-Following an intelligence and operational manhunt conducted over the past several weeks, security forces arrested Muhammad Ibrahim Abd al-Wahab Shahada, who was a senior Fatah terrorist operative in Tulkarm.
-
-The terrorist operative had been wanted in recent months for his alleged involvement in terrorist activity, including the planning and execution of attacks and the trafficking of weapons.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693501</guid>
-            <pubDate>Mon, 14 Sep 2026 15:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nas Daily founder: Western activism has harmed the Palestinian cause]]></title>
-            <description><![CDATA[Nas Daily founder Nuseir Yassin accuses Paul Graham of empowering Palestinian extremists as the two clash over alleged terror links involving MSF staff.]]></description>
-            <link>https://www.israelnationalnews.com/news/433146</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433146</guid>
-            <pubDate>Mon, 14 Sep 2026 14:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Healthcare system prepares for winter: Hospitals instructed to prepare for rise in illness]]></title>
-            <description><![CDATA[The Health Ministry has instructed hospitals and health funds to prepare for an increase in respiratory illnesses and is urging the public to get vaccinated against the flu early.]]></description>
-            <link>https://www.israelnationalnews.com/news/433145</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433145</guid>
-            <pubDate>Mon, 14 Sep 2026 14:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu seeks more defense funding; Lapid sets condition]]></title>
-            <description><![CDATA[Netanyahu seeks more defense funding; Lapid sets condition]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693498</guid>
-            <pubDate>Mon, 14 Sep 2026 13:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zamir orders legal review of ‘NAZA': ‘Based on blood libels’]]></title>
-            <description><![CDATA[Zamir orders legal review of ‘NAZA': ‘Based on blood libels’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693497</guid>
-            <pubDate>Mon, 14 Sep 2026 13:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Captivity survivor rages at Naza producers: ‘The blood of our friends is on their hands’]]></title>
-            <description><![CDATA[Captivity survivor rages at Naza producers: ‘The blood of our friends is on their hands’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693496</guid>
-            <pubDate>Mon, 14 Sep 2026 13:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sometimes a perfect body has only one kidney]]></title>
-            <description><![CDATA[Sometimes a perfect body has only one kidney]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693495</guid>
-            <pubDate>Mon, 14 Sep 2026 13:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF Spokesman slams film: “False allegations, distorted, disconnected from reality"]]></title>
-            <description><![CDATA[IDF Spokesman slams film: “False allegations, distorted, disconnected from reality"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693494</guid>
-            <pubDate>Mon, 14 Sep 2026 12:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UCLA Chancellor condemns speech by 9/11 mastermind's laywer on 9/11]]></title>
-            <description><![CDATA[UCLA Chancellor condemns speech by 9/11 mastermind's laywer on 9/11]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693493</guid>
-            <pubDate>Mon, 14 Sep 2026 12:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[17 pills per jar: Indictment reveals details of Prinok poisoning case]]></title>
-            <description><![CDATA[17 pills per jar: Indictment reveals details of Prinok poisoning case]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693492</guid>
-            <pubDate>Mon, 14 Sep 2026 12:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ramat Hasharon Torah group sounds the shofar for residents across the city]]></title>
-            <description><![CDATA[Ramat Hasharon Torah group sounds the shofar for residents across the city]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693491</guid>
-            <pubDate>Mon, 14 Sep 2026 11:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran: Israel is the ‘only winner’ of regional tensions]]></title>
-            <description><![CDATA[Iran: Israel is the ‘only winner’ of regional tensions]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693490</guid>
-            <pubDate>Mon, 14 Sep 2026 11:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newsmax: The fight over Israel is entering a new phase]]></title>
-            <description><![CDATA[Newsmax: The fight over Israel is entering a new phase]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693489</guid>
-            <pubDate>Mon, 14 Sep 2026 11:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

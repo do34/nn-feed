@@ -4,11 +4,62 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 18:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 21:55:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 18:41:45 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 21:55:24 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The longest and shortest words in the Torah]]></title>
+            <description><![CDATA[We ask Hashem for the blessing of being able to be clever, so that we can use our wisdom to cope well in this world.]]></description>
+            <link>https://www.israelnationalnews.com/news/433279</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433279</guid>
+            <pubDate>Wed, 16 Sep 2026 21:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cyber Directorate warns: Phishing messages impersonating Booking]]></title>
+            <description><![CDATA[The National Cyber Directorate is warning about phishing messages containing a link to a website impersonating Booking and asking users to confirm a hotel reservation.
+
+The Directorate recommends not clicking the link and instead checking the reservation directly through the official website or app.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693653</guid>
+            <pubDate>Wed, 16 Sep 2026 21:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unusual incident in Kafr Qasim: Stolen IDF LAW missile fired at residential complex]]></title>
+            <description><![CDATA[A LAW missile stolen from the IDF fired at a residential complex in Kafr Qasim. No injuries reported. Police launch a manhunt for suspects.]]></description>
+            <link>https://www.israelnationalnews.com/news/433278</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433278</guid>
+            <pubDate>Wed, 16 Sep 2026 21:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milan Chabad rabbi attacked at bus stop, 3 suspects arrested]]></title>
+            <description><![CDATA[Chabad emissary Rabbi Tzemach Mizrahi assaulted near a Milan bus stop by three men who stole his hat and kicked him. Italian police arrest all three suspects.]]></description>
+            <link>https://www.israelnationalnews.com/news/433277</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433277</guid>
+            <pubDate>Wed, 16 Sep 2026 20:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kansas man arrested for threatening to murder Ben Shapiro on Yom Kippur]]></title>
+            <description><![CDATA[A Kansas man was arrested after allegedly making multiple antisemitic death threats against Jewish right-wing podcaster Ben Shapiro, including an ominous countdown to Yom Kippur.]]></description>
+            <link>https://www.israelnationalnews.com/news/433276</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433276</guid>
+            <pubDate>Wed, 16 Sep 2026 20:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: The images the US tried to hide? Damage from Iranian strikes]]></title>
+            <description><![CDATA[Images provided to CBS by US military personnel reveal damage caused to military bases and American property at several sites across the Middle East by Iranian strikes.]]></description>
+            <link>https://www.israelnationalnews.com/news/433275</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433275</guid>
+            <pubDate>Wed, 16 Sep 2026 18:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amit Segal: Saudis ‘don’t pray to Mecca, they pray to Jerusalem’]]></title>
+            <description><![CDATA[Amit Segal highlights the irony of Saudi Arabia reportedly seeking Israeli intelligence against the Houthis after years of publicly criticizing Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/433274</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433274</guid>
+            <pubDate>Wed, 16 Sep 2026 18:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netanyahu unveils bills targeting those who ‘slander’ IDF soldiers]]></title>
             <description><![CDATA[Netanyahu announces bills to revoke citizenship from those who slander IDF soldiers and increase potential defamation damages twentyfold following NAZA controversy.]]></description>
@@ -32,9 +83,9 @@
         </item>
         <item>
             <title><![CDATA[Hezbollah's strategic tunnel system under Ali al-Taher Ridge revealed]]></title>
-            <description><![CDATA[Hezbollah's strategic tunnel system under Ali al-Taher Ridge revealed]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693644</guid>
+            <description><![CDATA[IDF releases new footage from Hezbollah tunnels in the Ali Taher Ridge, where troops uncovered and destroyed strategic terrorist infrastructure.]]></description>
+            <link>https://www.israelnationalnews.com/news/433270</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433270</guid>
             <pubDate>Wed, 16 Sep 2026 17:47:00 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +97,7 @@
         </item>
         <item>
             <title><![CDATA[Shin Bet to determine security arrangements for party leaders]]></title>
-            <description><![CDATA[Shin Bet to determine security arrangements for party leaders]]></description>
+            <description><![CDATA[The Ministerial Committee on Shin Bet Affairs decided to authorize the Shin Bet to determine security arrangements for party leaders who do not hold positions entitling them to protection. The authorization will remain in effect until the 26th Knesset is sworn in.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693642</guid>
             <pubDate>Wed, 16 Sep 2026 16:43:00 GMT</pubDate>
@@ -60,9 +111,9 @@
         </item>
         <item>
             <title><![CDATA[Helmet camera footage: Senior terror operative arrested]]></title>
-            <description><![CDATA[Helmet camera footage: Senior terror operative arrested]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693640</guid>
+            <description><![CDATA[Helmet cameras captured Duvdevan soldiers during a special operation in Burqin, in which a senior member of the Jenin terrorist network was arrested.]]></description>
+            <link>https://www.israelnationalnews.com/news/433266</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433266</guid>
             <pubDate>Wed, 16 Sep 2026 15:26:00 GMT</pubDate>
         </item>
         <item>
@@ -74,9 +125,9 @@
         </item>
         <item>
             <title><![CDATA[IDF eliminates October 7 terrorist involved in kidnapping three soldiers]]></title>
-            <description><![CDATA[IDF eliminates October 7 terrorist involved in kidnapping three soldiers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693638</guid>
+            <description><![CDATA[IDF eliminates Hamas Nukhba commander Jihad Ismail, who infiltrated Israel on October 7 and took part in the deadly attack on Tank No. 3 and abduction of its crew.]]></description>
+            <link>https://www.israelnationalnews.com/news/433264</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433264</guid>
             <pubDate>Wed, 16 Sep 2026 14:52:00 GMT</pubDate>
         </item>
         <item>
@@ -181,44 +232,44 @@ He added that the Jerusalem perimeter should receive a comprehensive national re
         </item>
         <item>
             <title><![CDATA[Senior Shin Bet commander reveals October 7 order: ‘If I’m captured, kill me’]]></title>
-            <description><![CDATA[Senior commander living on Gaza border reveals terrifying October 7 dilemma as Shin Bet fighters raced to save families before reaching her.]]></description>
-            <link>https://www.israelnationalnews.com/news/433245</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433245</guid>
+            <description><![CDATA[Senior Shin Bet commander reveals October 7 order: ‘If I’m captured, kill me’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693623</guid>
             <pubDate>Wed, 16 Sep 2026 09:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From Defense to Offense: Reclaiming the streets against Jew-hatred]]></title>
-            <description><![CDATA[Monthly rallies, now drawing hundreds of participants, are commanding real media attention. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/433250</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433250</guid>
+            <description><![CDATA[From Defense to Offense: Reclaiming the streets against Jew-hatred]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693622</guid>
             <pubDate>Wed, 16 Sep 2026 09:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Houthis respond to Saudi claims: ‘No threat to Mecca’]]></title>
-            <description><![CDATA[Houthi military spokesman Yahya Saree rejects Saudi accusations, insisting Yemen is targeting oil facilities and military bases and that the Islamic holy sites are not under threat.]]></description>
-            <link>https://www.israelnationalnews.com/news/433246</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433246</guid>
+            <description><![CDATA[Houthis respond to Saudi claims: ‘No threat to Mecca’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693621</guid>
             <pubDate>Wed, 16 Sep 2026 09:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Yom Kippur works]]></title>
-            <description><![CDATA[On Yom Kippur, we make a principled declaration: Our true essence is spiritual.]]></description>
-            <link>https://www.israelnationalnews.com/news/433249</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433249</guid>
+            <description><![CDATA[How Yom Kippur works]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693620</guid>
             <pubDate>Wed, 16 Sep 2026 09:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can diabetics safely fast on Yom Kippur? New study offers hope]]></title>
-            <description><![CDATA[First-of-its-kind study finds more than 70% of participants completed a 25-hour fast without significant complications, with advance pump adjustments increasing the likelihood of success eightfold.]]></description>
-            <link>https://www.israelnationalnews.com/news/433241</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433241</guid>
+            <description><![CDATA[Can diabetics safely fast on Yom Kippur? New study offers hope]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693619</guid>
             <pubDate>Wed, 16 Sep 2026 08:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The economics of Atonement]]></title>
-            <description><![CDATA[Division, corruption, selfishness and short-term thinking inevitably impoverish a society. Responsibility, trust, discipline and shared purpose allow it to prosper. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/433248</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433248</guid>
+            <description><![CDATA[The economics of Atonement]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693618</guid>
             <pubDate>Wed, 16 Sep 2026 08:53:00 GMT</pubDate>
         </item>
         <item>
@@ -241,55 +292,6 @@ He added that the Jerusalem perimeter should receive a comprehensive national re
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693615</guid>
             <pubDate>Wed, 16 Sep 2026 07:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antisemitic 9/11 conspiracies rack up 56 million views, report finds]]></title>
-            <description><![CDATA[Antisemitic 9/11 conspiracies rack up 56 million views, report finds]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693614</guid>
-            <pubDate>Wed, 16 Sep 2026 07:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF Chief responds to ‘Naza’ film: ‘Baseless lies and manipulations’]]></title>
-            <description><![CDATA[IDF Chief responds to ‘Naza’ film: ‘Baseless lies and manipulations’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693613</guid>
-            <pubDate>Wed, 16 Sep 2026 06:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New film challenges the narrative surrounding Sara Netanyahu]]></title>
-            <description><![CDATA[New film challenges the narrative surrounding Sara Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693612</guid>
-            <pubDate>Wed, 16 Sep 2026 05:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tragedy live on air: NBC4 helicopter crashes in Los Angeles]]></title>
-            <description><![CDATA[Tragedy live on air: NBC4 helicopter crashes in Los Angeles]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693611</guid>
-            <pubDate>Wed, 16 Sep 2026 05:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Double parking, double standard]]></title>
-            <description><![CDATA[Double parking, double standard]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693610</guid>
-            <pubDate>Wed, 16 Sep 2026 05:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Outrage over 'NAZA' film | Dedi Simchi fumes: Scum - they should be cast out of society]]></title>
-            <description><![CDATA[Outrage over 'NAZA' film | Dedi Simchi fumes: Scum - they should be cast out of society]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693609</guid>
-            <pubDate>Wed, 16 Sep 2026 03:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pennsylvania man charged over alleged ISIS attack plot]]></title>
-            <description><![CDATA[Pennsylvania man charged over alleged ISIS attack plot]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693608</guid>
-            <pubDate>Wed, 16 Sep 2026 03:29:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

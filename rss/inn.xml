@@ -4,11 +4,81 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 08:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 13:26:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 08:49:12 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 13:26:13 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Suspect in missile launch incident released]]></title>
+            <description><![CDATA[Police raids in Jaljulia uncover two hidden handguns, ammunition and surveillance cameras as investigation into unusual LAW rocket attack continues.]]></description>
+            <link>https://www.israelnationalnews.com/news/433374</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433374</guid>
+            <pubDate>Fri, 18 Sep 2026 12:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF officer demands to stop photographing soldiers]]></title>
+            <description><![CDATA[Lt. Col. (res.) Meir Indor calls for legal action against photographers who, he claims, publish images of soldiers against their wishes, citing operational security and privacy concerns.]]></description>
+            <link>https://www.israelnationalnews.com/news/433376</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433376</guid>
+            <pubDate>Fri, 18 Sep 2026 12:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Agreement reached: Tel Aviv Selichot to go ahead as planned]]></title>
+            <description><![CDATA[Rabbis and Tel Aviv Municipality reach court-backed agreement, clearing the way for Saturday night Selichot prayers at Tel Baruch Beach.]]></description>
+            <link>https://www.israelnationalnews.com/news/433373</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433373</guid>
+            <pubDate>Fri, 18 Sep 2026 11:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Selichot at Mount Herzl: Remembering fallen heroes before Yom Kippur]]></title>
+            <description><![CDATA[Bereaved families, friends and young people gather beside graves of two fallen soldiers for an emotional evening of remembrance, song and prayer.]]></description>
+            <link>https://www.israelnationalnews.com/news/433372</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433372</guid>
+            <pubDate>Fri, 18 Sep 2026 11:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inner Light (part II of III)]]></title>
+            <description><![CDATA[An artistic interpretation of the annual Jewish Holidays.]]></description>
+            <link>https://www.israelnationalnews.com/news/433375</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433375</guid>
+            <pubDate>Fri, 18 Sep 2026 11:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Friedman defends Huckabee after Turmus Ayya controversy]]></title>
+            <description><![CDATA[Former US Ambassador David Friedman suggests key facts withheld from US Ambassador to Israel Mike Huckabee before his visit, pointing to interview with Amishav Melet.]]></description>
+            <link>https://www.israelnationalnews.com/news/433371</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433371</guid>
+            <pubDate>Fri, 18 Sep 2026 10:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli arrested over suspected contact with Lebanese agent]]></title>
+            <description><![CDATA[Israeli arrested over suspected contact with Lebanese agent]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693755</guid>
+            <pubDate>Fri, 18 Sep 2026 10:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teshuvah begins with a verb]]></title>
+            <description><![CDATA[Words matter enormously. Yom Kippur is filled with them. We confess, pray, plead and ask to be forgiven. But our words have to result in something.]]></description>
+            <link>https://www.israelnationalnews.com/news/433369</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433369</guid>
+            <pubDate>Fri, 18 Sep 2026 09:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two Torah scrolls dedicated in memory of fallen police officers]]></title>
+            <description><![CDATA[Two Torah scrolls dedicated in memory of fallen police officers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693753</guid>
+            <pubDate>Fri, 18 Sep 2026 09:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teshuva and Shalom]]></title>
+            <description><![CDATA[Teshuva comes to us through manifestations that can be divided into four eternal, absolute values which appear in a cognizant step-by-step fashion. These values are honor, love, knowledge, and life.]]></description>
+            <link>https://www.israelnationalnews.com/news/433368</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433368</guid>
+            <pubDate>Fri, 18 Sep 2026 09:05:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump must decide -- deal or regime change]]></title>
             <description><![CDATA[One cannot simultaneously call upon the Iranian people to rise up and, at the most critical moment-in the midst of their uprising-pursue a deal or an “agreement" with the very government they are risking their lives to overthrow. iOpinion.]]></description>
@@ -32,9 +102,9 @@
         </item>
         <item>
             <title><![CDATA[Protesters tear down PLO flag in Amsterdam]]></title>
-            <description><![CDATA[Protesters tear down PLO flag in Amsterdam]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693748</guid>
+            <description><![CDATA[Crowd erupts in cheers as pro-Israel demonstrators pull massive PLO flag from building overlooking Amsterdam’s Dam Square.]]></description>
+            <link>https://www.israelnationalnews.com/news/433363</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433363</guid>
             <pubDate>Fri, 18 Sep 2026 07:49:00 GMT</pubDate>
         </item>
         <item>
@@ -46,9 +116,9 @@
         </item>
         <item>
             <title><![CDATA[October 7 survivor to UN chief: Hamas is planning the next massacre]]></title>
-            <description><![CDATA[October 7 survivor to UN chief: Hamas is planning the next massacre]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693746</guid>
+            <description><![CDATA[Tzav 9's Yael Savarigo hits back at UN Secretary-General António Guterres: 'We demand UN stop supporting terrorist organizations, focus on disarming Hamas.']]></description>
+            <link>https://www.israelnationalnews.com/news/433360</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433360</guid>
             <pubDate>Fri, 18 Sep 2026 07:23:00 GMT</pubDate>
         </item>
         <item>
@@ -60,9 +130,9 @@
         </item>
         <item>
             <title><![CDATA[A small step for man; A giant step for G-d]]></title>
-            <description><![CDATA[A small step for man; A giant step for G-d]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693744</guid>
+            <description><![CDATA[It’s never all or nothing.]]></description>
+            <link>https://www.israelnationalnews.com/news/433359</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433359</guid>
             <pubDate>Fri, 18 Sep 2026 07:02:00 GMT</pubDate>
         </item>
         <item>
@@ -74,9 +144,9 @@
         </item>
         <item>
             <title><![CDATA[Israeli accused of contacting Hamas, Iranian intelligence]]></title>
-            <description><![CDATA[Israeli accused of contacting Hamas, Iranian intelligence]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693742</guid>
+            <description><![CDATA[Tamra resident repeatedly contacted Hamas, later established ties with Iranian intelligence before being arrested, Shin Bet, Israel Police reveal.]]></description>
+            <link>https://www.israelnationalnews.com/news/433355</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433355</guid>
             <pubDate>Fri, 18 Sep 2026 06:21:00 GMT</pubDate>
         </item>
         <item>
@@ -88,9 +158,9 @@
         </item>
         <item>
             <title><![CDATA[Parshat Ha’azinu: The makings of a brachah]]></title>
-            <description><![CDATA[Parshat Ha’azinu: The makings of a brachah]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693740</guid>
+            <description><![CDATA[Parshat Ha’azinu teaches why the words of our prophets and sages carry the force of a Divine command - and why we recite blessings on rabbinic mitzvot.]]></description>
+            <link>https://www.israelnationalnews.com/news/433354</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433354</guid>
             <pubDate>Fri, 18 Sep 2026 05:22:00 GMT</pubDate>
         </item>
         <item>
@@ -102,9 +172,9 @@
         </item>
         <item>
             <title><![CDATA[Podcast: How do you know when you have enough to spend?]]></title>
-            <description><![CDATA[Podcast: How do you know when you have enough to spend?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693738</guid>
+            <description><![CDATA[How to use your retirement savings without putting your long-term financial security at risk.]]></description>
+            <link>https://www.israelnationalnews.com/news/433351</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433351</guid>
             <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
         </item>
         <item>
@@ -151,147 +221,73 @@
         </item>
         <item>
             <title><![CDATA[Supreme Court bans transfer of voter turnout data from polling stations]]></title>
-            <description><![CDATA[Supreme Court justices unanimously accept petitions, ruling that transferring information from polling stations to political parties about whether voters cast ballots violates the law and infringes on privacy.]]></description>
-            <link>https://www.israelnationalnews.com/news/433345</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433345</guid>
+            <description><![CDATA[Supreme Court bans transfer of voter turnout data from polling stations]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693731</guid>
             <pubDate>Fri, 18 Sep 2026 01:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump: Iran wants a deal but is not ready to reach one]]></title>
-            <description><![CDATA[President Trump says Iran wants a deal with Washington but is “not ready," as he weighs the next phase of US military action against Tehran.]]></description>
-            <link>https://www.israelnationalnews.com/news/433344</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433344</guid>
+            <description><![CDATA[Trump: Iran wants a deal but is not ready to reach one]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693730</guid>
             <pubDate>Fri, 18 Sep 2026 00:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Iran downed at least two American drones in recent days]]></title>
-            <description><![CDATA[US officials tell CBS News Iranian forces have shot down at least two American MQ-1 drones in recent days. CENTCOM refuses comment.]]></description>
-            <link>https://www.israelnationalnews.com/news/433343</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433343</guid>
+            <description><![CDATA[Report: Iran downed at least two American drones in recent days]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693729</guid>
             <pubDate>Fri, 18 Sep 2026 00:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump expected to meet Venezuela’s interim president]]></title>
-            <description><![CDATA[US President Donald Trump is planning to meet as early as next week with Venezuela’s interim president, Delcy Rodríguez, Axios reported.
-
-Rodríguez is serving in the position in place of Nicolás Maduro, who was captured in a special US operation.]]></description>
+            <description><![CDATA[Trump expected to meet Venezuela’s interim president]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693728</guid>
             <pubDate>Thu, 17 Sep 2026 23:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Captivity survivor Omer Shem Tov moves audience at Sultan’s Pool]]></title>
-            <description><![CDATA[Captivity survivor Omer Shem Tov closes David D’Or’s Selichot concert series with a moving performance of “Shmor Al HaOlam Yeled."]]></description>
-            <link>https://www.israelnationalnews.com/news/433342</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433342</guid>
+            <description><![CDATA[Watch: Captivity survivor Omer Shem Tov moves audience at Sultan’s Pool]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693727</guid>
             <pubDate>Thu, 17 Sep 2026 23:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Motorcyclist seriously injured after being hit by car near Tira]]></title>
-            <description><![CDATA[A motorcyclist in his 20s was seriously injured after being struck by a vehicle on Route 554 near Tira.
-
-Magen David Adom (MDA) teams evacuated him to Meir Hospital in Kfar Saba.]]></description>
+            <description><![CDATA[Motorcyclist seriously injured after being hit by car near Tira]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693726</guid>
             <pubDate>Thu, 17 Sep 2026 22:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IRGC claims to have struck tanker during attempted Hormuz crossing]]></title>
-            <description><![CDATA[Iran’s Revolutionary Guards say they struck a Togo-flagged tanker in the Strait of Hormuz after an alleged “illegal passage" attempt.]]></description>
-            <link>https://www.israelnationalnews.com/news/433341</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433341</guid>
+            <description><![CDATA[IRGC claims to have struck tanker during attempted Hormuz crossing]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693725</guid>
             <pubDate>Thu, 17 Sep 2026 22:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bid to disqualify Balad chairman: Dispute emerges within State Attorney’s Office]]></title>
-            <description><![CDATA[Senior officials support disqualifying Balad chairman Sami Abu Shehadeh, while the Deputy State Attorney has reservations and the AG awaits his response.]]></description>
-            <link>https://www.israelnationalnews.com/news/433340</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433340</guid>
+            <description><![CDATA[Bid to disqualify Balad chairman: Dispute emerges within State Attorney’s Office]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693724</guid>
             <pubDate>Thu, 17 Sep 2026 21:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UN votes to let Abbas address General Assembly by video after US visa ban]]></title>
-            <description><![CDATA[UN votes to allow Mahmoud Abbas address the General Assembly by video. Ambassador Danon: “Abbas cannot reward terrorism and demand international legitimacy."]]></description>
-            <link>https://www.israelnationalnews.com/news/433339</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433339</guid>
+            <description><![CDATA[UN votes to let Abbas address General Assembly by video after US visa ban]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693723</guid>
             <pubDate>Thu, 17 Sep 2026 20:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One year after return: Bar Kupershtein leads thanksgiving and Selichot at Hostages Square]]></title>
-            <description><![CDATA[One year after returning home, captivity survivors gather at Hostages Square for an evening of thanksgiving and Selichot, alongside families of deceased hostages and bereaved families.]]></description>
-            <link>https://www.israelnationalnews.com/news/433338</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433338</guid>
+            <description><![CDATA[One year after return: Bar Kupershtein leads thanksgiving and Selichot at Hostages Square]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693722</guid>
             <pubDate>Thu, 17 Sep 2026 20:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why was Moses not granted mercy?]]></title>
-            <description><![CDATA[Why was Moses not granted mercy?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693721</guid>
-            <pubDate>Thu, 17 Sep 2026 20:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Al-Houthi denies Mecca attack, claims ‘Zionist enemy’ is real threat]]></title>
-            <description><![CDATA[Al-Houthi denies Mecca attack, claims ‘Zionist enemy’ is real threat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693720</guid>
-            <pubDate>Thu, 17 Sep 2026 19:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli source: Hezbollah expected to retaliate to destruction of Ali al-Taher Ridge]]></title>
-            <description><![CDATA[Israeli source: Hezbollah expected to retaliate to destruction of Ali al-Taher Ridge]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693719</guid>
-            <pubDate>Thu, 17 Sep 2026 19:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Awakening children to repentance]]></title>
-            <description><![CDATA[Awakening children to repentance]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693718</guid>
-            <pubDate>Thu, 17 Sep 2026 19:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu hints against voting for Winter: “It will bring down the right-wing bloc"]]></title>
-            <description><![CDATA[Netanyahu hints against voting for Winter: “It will bring down the right-wing bloc"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693717</guid>
-            <pubDate>Thu, 17 Sep 2026 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kariv appeals to Arab voters in Arabic, unveils three election pledges]]></title>
-            <description><![CDATA[Kariv appeals to Arab voters in Arabic, unveils three election pledges]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693716</guid>
-            <pubDate>Thu, 17 Sep 2026 18:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Treasury cracks down on Iranian crypto network]]></title>
-            <description><![CDATA[Treasury cracks down on Iranian crypto network]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693715</guid>
-            <pubDate>Thu, 17 Sep 2026 18:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A poisoned lens, a predetermined verdict, and questionable evidence made to fit]]></title>
-            <description><![CDATA[A poisoned lens, a predetermined verdict, and questionable evidence made to fit]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693714</guid>
-            <pubDate>Thu, 17 Sep 2026 18:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Danon at UN: Turkey ‘following Iranian playbook’ in Syria]]></title>
-            <description><![CDATA[Danon at UN: Turkey ‘following Iranian playbook’ in Syria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693713</guid>
-            <pubDate>Thu, 17 Sep 2026 18:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia moves closer to F-35s as US approves $24.3 billion sale]]></title>
-            <description><![CDATA[Saudi Arabia moves closer to F-35s as US approves $24.3 billion sale]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693712</guid>
-            <pubDate>Thu, 17 Sep 2026 18:03:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

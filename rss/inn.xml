@@ -4,11 +4,81 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 16:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 19:11:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 16:15:39 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 19:11:22 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Lighting a yahrtzeit candle for your self]]></title>
+            <description><![CDATA[Why would a person light a Yahrtzeit (Memorial) candle for themselves?]]></description>
+            <link>https://www.israelnationalnews.com/news/433395</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433395</guid>
+            <pubDate>Sat, 19 Sep 2026 19:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arab MK reveals post-election plan for the Knesset]]></title>
+            <description><![CDATA[Hadash-Ta’al chairman Ahmed Tibi hints at a series of moves Arab parties could pursue immediately after the election, including an attempt to replace Knesset Speaker Amir Ohana.]]></description>
+            <link>https://www.israelnationalnews.com/news/433393</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433393</guid>
+            <pubDate>Sat, 19 Sep 2026 18:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rabbi Mordechai Auerbach passes away at 84]]></title>
+            <description><![CDATA[Rabbi Mordechai Auerbach passes away at 84]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693780</guid>
+            <pubDate>Sat, 19 Sep 2026 18:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF takes out October 7 Hamas commander in Gaza]]></title>
+            <description><![CDATA[Muhammad Suleiman Byouk took part in the October 7 massacre, continued planting explosives and planning attacks against IDF troops.]]></description>
+            <link>https://www.israelnationalnews.com/news/433391</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433391</guid>
+            <pubDate>Sat, 19 Sep 2026 17:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eliminated Hamas commander held Hadar Goldin, Israeli hostages]]></title>
+            <description><![CDATA[Eliminated Hamas commander held Hadar Goldin, Israeli hostages]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693778</guid>
+            <pubDate>Sat, 19 Sep 2026 17:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[President Herzog shortens Elor Azaria’s criminal record period]]></title>
+            <description><![CDATA[Nearly a decade after the shooting that sparked a national controversy, President Isaac Herzog grants Azaria’s request ahead of Yom Kippur.]]></description>
+            <link>https://www.israelnationalnews.com/news/433389</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433389</guid>
+            <pubDate>Sat, 19 Sep 2026 16:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Siren in Yitzhar declared false alarm; two residents misidentified as suspicious]]></title>
+            <description><![CDATA[Siren in Yitzhar declared false alarm; two residents misidentified as suspicious]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693776</guid>
+            <pubDate>Sat, 19 Sep 2026 16:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: The IDF struck Hezbollah infrastructure in southern Lebanon]]></title>
+            <description><![CDATA[IDF responded o an explosive device detonating in the Security Zone]]></description>
+            <link>https://www.israelnationalnews.com/news/433388</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433388</guid>
+            <pubDate>Sat, 19 Sep 2026 16:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sirens warn of potential terrorist infiltration into Yitzhar]]></title>
+            <description><![CDATA[Sirens warn of potential terrorist infiltration into Yitzhar]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693774</guid>
+            <pubDate>Sat, 19 Sep 2026 16:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two IDF soldiers injured in southern Lebanon]]></title>
+            <description><![CDATA[Two IDF soldiers lightly wounded after Hezbollah explosive device hits engineering vehicle in southern Lebanon; IDF retaliates.]]></description>
+            <link>https://www.israelnationalnews.com/news/433388</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433388</guid>
+            <pubDate>Sat, 19 Sep 2026 16:21:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shabbat Shalom!]]></title>
             <description><![CDATA[Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat in North America, where they are being written now.
@@ -179,143 +249,73 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[Teshuvah begins with a verb]]></title>
-            <description><![CDATA[Words matter enormously. Yom Kippur is filled with them. We confess, pray, plead and ask to be forgiven. But our words have to result in something.]]></description>
-            <link>https://www.israelnationalnews.com/news/433369</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433369</guid>
+            <description><![CDATA[Teshuvah begins with a verb]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693754</guid>
             <pubDate>Fri, 18 Sep 2026 09:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two Torah scrolls dedicated in memory of fallen police officers]]></title>
-            <description><![CDATA[Moving ceremony honors five members of the Southern District’s Sahar Unit, including three officers who fell in the battles of October 7.]]></description>
-            <link>https://www.israelnationalnews.com/news/433364</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433364</guid>
+            <description><![CDATA[Two Torah scrolls dedicated in memory of fallen police officers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693753</guid>
             <pubDate>Fri, 18 Sep 2026 09:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teshuva and Shalom]]></title>
-            <description><![CDATA[Teshuva comes to us through manifestations that can be divided into four eternal, absolute values which appear in a cognizant step-by-step fashion. These values are honor, love, knowledge, and life.]]></description>
-            <link>https://www.israelnationalnews.com/news/433368</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433368</guid>
+            <description><![CDATA[Teshuva and Shalom]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693752</guid>
             <pubDate>Fri, 18 Sep 2026 09:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump must decide -- deal or regime change]]></title>
-            <description><![CDATA[One cannot simultaneously call upon the Iranian people to rise up and, at the most critical moment-in the midst of their uprising-pursue a deal or an “agreement" with the very government they are risking their lives to overthrow. iOpinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/433367</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433367</guid>
+            <description><![CDATA[Trump must decide -- deal or regime change]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693751</guid>
             <pubDate>Fri, 18 Sep 2026 08:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF goes on heightened alert for Yom Kippur]]></title>
-            <description><![CDATA[Chief of Staff Eyal Zamir orders reinforcements across all fronts, with armed aircraft, missile ships and additional forces placed on standby.]]></description>
-            <link>https://www.israelnationalnews.com/news/433361</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433361</guid>
+            <description><![CDATA[IDF goes on heightened alert for Yom Kippur]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693750</guid>
             <pubDate>Fri, 18 Sep 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Celebrate the seasons]]></title>
-            <description><![CDATA[The calendar itself is a dialogue between Heaven and Israel. G-d gave us His appointed times, and in return we gave Him ours.]]></description>
-            <link>https://www.israelnationalnews.com/news/433365</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433365</guid>
+            <description><![CDATA[Celebrate the seasons]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693749</guid>
             <pubDate>Fri, 18 Sep 2026 08:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Protesters tear down PLO flag in Amsterdam]]></title>
-            <description><![CDATA[Crowd erupts in cheers as pro-Israel demonstrators pull massive PLO flag from building overlooking Amsterdam’s Dam Square.]]></description>
-            <link>https://www.israelnationalnews.com/news/433363</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433363</guid>
+            <description><![CDATA[Protesters tear down PLO flag in Amsterdam]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693748</guid>
             <pubDate>Fri, 18 Sep 2026 07:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arab journalist arrested over suspected ties to Iran]]></title>
-            <description><![CDATA[Female Arab journalist under investigation for suspected contact with Iran, incitement and support for terrorism, police say.]]></description>
-            <link>https://www.israelnationalnews.com/news/433358</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433358</guid>
+            <description><![CDATA[Arab journalist arrested over suspected ties to Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693747</guid>
             <pubDate>Fri, 18 Sep 2026 07:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[October 7 survivor to UN chief: Hamas is planning the next massacre]]></title>
-            <description><![CDATA[Tzav 9's Yael Savarigo hits back at UN Secretary-General António Guterres: 'We demand UN stop supporting terrorist organizations, focus on disarming Hamas.']]></description>
-            <link>https://www.israelnationalnews.com/news/433360</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433360</guid>
+            <description><![CDATA[October 7 survivor to UN chief: Hamas is planning the next massacre]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693746</guid>
             <pubDate>Fri, 18 Sep 2026 07:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The truth of Yom Kippur, the lies of the Foreign Ministers]]></title>
-            <description><![CDATA[The dream of a return to Zion and the Holy Temple is the engine that created the momentum harnessed by the modern Zionism of Herzl’s time and used to create the modern State of Israel.]]></description>
-            <link>https://www.israelnationalnews.com/news/433362</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433362</guid>
+            <description><![CDATA[The truth of Yom Kippur, the lies of the Foreign Ministers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693745</guid>
             <pubDate>Fri, 18 Sep 2026 07:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A small step for man; A giant step for G-d]]></title>
-            <description><![CDATA[A small step for man; A giant step for G-d]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693744</guid>
-            <pubDate>Fri, 18 Sep 2026 07:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The malignancy of the left]]></title>
-            <description><![CDATA[The malignancy of the left]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693743</guid>
-            <pubDate>Fri, 18 Sep 2026 06:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli accused of contacting Hamas, Iranian intelligence]]></title>
-            <description><![CDATA[Israeli accused of contacting Hamas, Iranian intelligence]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693742</guid>
-            <pubDate>Fri, 18 Sep 2026 06:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yeshiva student killed in Hadera ramming]]></title>
-            <description><![CDATA[Yeshiva student killed in Hadera ramming]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693741</guid>
-            <pubDate>Fri, 18 Sep 2026 06:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parshat Ha’azinu: The makings of a brachah]]></title>
-            <description><![CDATA[Parshat Ha’azinu: The makings of a brachah]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693740</guid>
-            <pubDate>Fri, 18 Sep 2026 05:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New poll: Likud drops to 18 seats, Winter crosses threshold]]></title>
-            <description><![CDATA[New poll: Likud drops to 18 seats, Winter crosses threshold]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693739</guid>
-            <pubDate>Fri, 18 Sep 2026 05:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: How do you know when you have enough to spend?]]></title>
-            <description><![CDATA[Podcast: How do you know when you have enough to spend?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693738</guid>
-            <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dave Portnoy backs Robert Kraft after Macklemore ban: 110 percent]]></title>
-            <description><![CDATA[Dave Portnoy backs Robert Kraft after Macklemore ban: 110 percent]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693737</guid>
-            <pubDate>Fri, 18 Sep 2026 03:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Jewish Congress delegation meets Slovenia’s PM amid closer Israel ties]]></title>
-            <description><![CDATA[World Jewish Congress delegation meets Slovenia’s PM amid closer Israel ties]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693736</guid>
-            <pubDate>Fri, 18 Sep 2026 03:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany: Afghan national arrested over suspected arson attack on synagogue]]></title>
-            <description><![CDATA[Germany: Afghan national arrested over suspected arson attack on synagogue]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693735</guid>
-            <pubDate>Fri, 18 Sep 2026 02:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

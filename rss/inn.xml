@@ -4,11 +4,78 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 00:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 05:46:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Sep 2026 00:42:59 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 05:46:36 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[A comprehensive halachic guide for Yom Kippur]]></title>
+            <description><![CDATA[Who must fast? Who is exempt? When should you avoid go to synagogue? From what age does one fast? Rabbi Kalman Ber outlines key Yom Kippur laws and customs.]]></description>
+            <link>https://www.israelnationalnews.com/news/433410</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433410</guid>
+            <pubDate>Sun, 20 Sep 2026 05:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UAE denies report: No warning was conveyed to Netanyahu]]></title>
+            <description><![CDATA[An official in Abu Dhabi denied a report claiming that President Mohammed bin Zayed warned Prime Minister Netanyahu of a Hamas attack before October 7.]]></description>
+            <link>https://www.israelnationalnews.com/news/433411</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433411</guid>
+            <pubDate>Sun, 20 Sep 2026 05:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine attacks Moscow, oil refinery damaged]]></title>
+            <description><![CDATA[Ukraine carried out a large-scale attack against Moscow last night, on the last day of the parliamentary elections in Russia.
+
+According to local reports, an oil refinery was damaged during the attack.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693802</guid>
+            <pubDate>Sun, 20 Sep 2026 04:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Morocco prepares for protests against expanding normalization with Israel]]></title>
+            <description><![CDATA[Morocco prepares for protests against expanding normalization with Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693801</guid>
+            <pubDate>Sun, 20 Sep 2026 04:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran sets seven conditions for talks with US]]></title>
+            <description><![CDATA[Iran says it has sent Washington seven conditions for negotiations, including ending the war and naval blockade, as Trump weighs renewed military action.]]></description>
+            <link>https://www.israelnationalnews.com/news/433409</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433409</guid>
+            <pubDate>Sun, 20 Sep 2026 03:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lawsuit against Dearborn, Michigan: Ramadan celebrated, Jewish holidays ignored]]></title>
+            <description><![CDATA[Lawsuit against Dearborn, Michigan: Ramadan celebrated, Jewish holidays ignored]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693799</guid>
+            <pubDate>Sun, 20 Sep 2026 03:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Catastrophic and unjustifiable': Sheeran addresses Gaza amid Macklemore controversy]]></title>
+            <description><![CDATA[Ed Sheeran calls the Gaza situation “catastrophic and unjustifiable" during a Philadelphia concert amid controversy over Macklemore's removal from his tour.]]></description>
+            <link>https://www.israelnationalnews.com/news/433407</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433407</guid>
+            <pubDate>Sun, 20 Sep 2026 02:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unusual incident in Gaza: Unarmed suspect reached IDF post entrance]]></title>
+            <description><![CDATA[Unusual incident in Gaza: Unarmed suspect reached IDF post entrance]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693797</guid>
+            <pubDate>Sun, 20 Sep 2026 01:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump returns to White House from Camp David earlier than expected]]></title>
+            <description><![CDATA[US President Donald Trump returned to the White House from Camp David earlier than planned.
+
+The White House did not provide an explanation for the president’s early return, which came a day ahead of the originally scheduled departure from Maryland.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693796</guid>
+            <pubDate>Sun, 20 Sep 2026 01:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ahead of Yom Kippur: Last Selichot prayers held at the Western Wall]]></title>
             <description><![CDATA[Some 150,000 worshippers pack Western Wall plaza for the central Selichot gathering. Among those attending: Captivity survivors, the Prime Minister, and Israel’s Chief Rabbis.]]></description>
@@ -34,9 +101,9 @@ According to the official, security talks are conducted between the relevant pro
         </item>
         <item>
             <title><![CDATA[New details emerge about Yair Netanyahu’s escape from Miami]]></title>
-            <description><![CDATA[New details emerge about Yair Netanyahu’s escape from Miami]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693792</guid>
+            <description><![CDATA[New details reveal how an alleged Iranian assassination plot targeting Yair Netanyahu triggered an urgent security operation, sending the prime minister’s son back to Israel without even collecting his belongings.]]></description>
+            <link>https://www.israelnationalnews.com/news/433405</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433405</guid>
             <pubDate>Sat, 19 Sep 2026 20:54:00 GMT</pubDate>
         </item>
         <item>
@@ -167,74 +234,58 @@ According to the official, security talks are conducted between the relevant pro
         </item>
         <item>
             <title><![CDATA[Two IDF soldiers injured in southern Lebanon]]></title>
-            <description><![CDATA[Two IDF soldiers lightly wounded after Hezbollah explosive device hits engineering vehicle in southern Lebanon; IDF retaliates.]]></description>
-            <link>https://www.israelnationalnews.com/news/433388</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433388</guid>
+            <description><![CDATA[Two IDF soldiers injured in southern Lebanon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693773</guid>
             <pubDate>Sat, 19 Sep 2026 16:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shabbat Shalom!]]></title>
-            <description><![CDATA[Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat in North America, where they are being written now.
-
-Updates will resume Saturday night from Israel, following the conclusion of Shabbat at 19:16 Jerusalem time.
-
-Shabbat Shalom!]]></description>
+            <description><![CDATA[Shabbat Shalom!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_629916</guid>
             <pubDate>Fri, 18 Sep 2026 22:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guterres ‘deeply regrets’ US decision to bar Abbas from UN General Assembly]]></title>
-            <description><![CDATA[UN chief Guterres says he “deeply regrets" the US decision to deny Mahmoud Abbas a visa, preventing him from attending the UN General Assembly in person.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/433387</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433387</guid>
+            <description><![CDATA[Guterres ‘deeply regrets’ US decision to bar Abbas from UN General Assembly]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693772</guid>
             <pubDate>Fri, 18 Sep 2026 22:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump announces deal giving US security control over Greenland]]></title>
-            <description><![CDATA[President Trump announces a deal with Denmark and Greenland granting the US permanent security control and barring adversaries from military bases: “This is a dream come true for the United States of America."
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/433386</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433386</guid>
+            <description><![CDATA[Trump announces deal giving US security control over Greenland]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693771</guid>
             <pubDate>Fri, 18 Sep 2026 21:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ireland to boycott 2027 Eurovision over Israel's participation]]></title>
-            <description><![CDATA[Ireland will not compete in or broadcast Eurovision 2027, citing the Gaza war, joining the Netherlands in boycotting the contest over Israel's participation.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/433385</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433385</guid>
+            <description><![CDATA[Ireland to boycott 2027 Eurovision over Israel's participation]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693770</guid>
             <pubDate>Fri, 18 Sep 2026 21:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump: US is talking with Houthis, they would like a deal]]></title>
-            <description><![CDATA[President Trump tells NewsNation the US is talking with the Houthis and claims Iran wants a deal, as tensions with Tehran and the rebels continue to rise.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/433384</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433384</guid>
+            <description><![CDATA[Trump: US is talking with Houthis, they would like a deal]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693769</guid>
             <pubDate>Fri, 18 Sep 2026 20:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ahead of Yom Kippur: Top Rabbi calls on Mamdani to apologize to Jewish New Yorkers]]></title>
-            <description><![CDATA[Rabbi Marc Schneier urges NYC Mayor Zohran Mamdani to apologize to Jewish New Yorkers and change his rhetoric on Israel, Zionism and Netanyahu.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/433383</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433383</guid>
+            <description><![CDATA[Ahead of Yom Kippur: Top Rabbi calls on Mamdani to apologize to Jewish New Yorkers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693768</guid>
             <pubDate>Fri, 18 Sep 2026 20:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel concerned Saudi F-35 sale could undermine IDF’s military edge]]></title>
-            <description><![CDATA[Israel’s defense establishment reportedly opposes the planned $24.3 billion US sale of 48 F-35 jets to Saudi Arabia over military concerns.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/433382</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433382</guid>
+            <description><![CDATA[Israel concerned Saudi F-35 sale could undermine IDF’s military edge]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693767</guid>
             <pubDate>Fri, 18 Sep 2026 19:55:00 GMT</pubDate>
         </item>
         <item>
@@ -243,69 +294,6 @@ Shabbat Shalom!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693766</guid>
             <pubDate>Fri, 18 Sep 2026 19:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI-generated false report nearly triggered US military action against Chinese ship]]></title>
-            <description><![CDATA[AI-generated false report nearly triggered US military action against Chinese ship]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693765</guid>
-            <pubDate>Fri, 18 Sep 2026 18:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mother of October 7 victim confronts former IDF intel chief]]></title>
-            <description><![CDATA[Mother of October 7 victim confronts former IDF intel chief]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693764</guid>
-            <pubDate>Fri, 18 Sep 2026 18:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WSJ: Robert Kraft told Ed Sheeran Macklemore’s Gaza claims were hate speech]]></title>
-            <description><![CDATA[WSJ: Robert Kraft told Ed Sheeran Macklemore’s Gaza claims were hate speech]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693763</guid>
-            <pubDate>Fri, 18 Sep 2026 17:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
-            <pubDate>Fri, 18 Sep 2026 15:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live: Amichai Attia laid to rest]]></title>
-            <description><![CDATA[Live: Amichai Attia laid to rest]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693762</guid>
-            <pubDate>Fri, 18 Sep 2026 13:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspect in missile launch incident released]]></title>
-            <description><![CDATA[Suspect in missile launch incident released]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693761</guid>
-            <pubDate>Fri, 18 Sep 2026 12:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF officer demands: Stop photographing soldiers]]></title>
-            <description><![CDATA[IDF officer demands: Stop photographing soldiers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693760</guid>
-            <pubDate>Fri, 18 Sep 2026 12:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agreement reached: Tel Aviv Selichot to go ahead as planned]]></title>
-            <description><![CDATA[Agreement reached: Tel Aviv Selichot to go ahead as planned]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693759</guid>
-            <pubDate>Fri, 18 Sep 2026 11:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Selichot at Mount Herzl: Remembering fallen heroes before Yom Kippur]]></title>
-            <description><![CDATA[Selichot at Mount Herzl: Remembering fallen heroes before Yom Kippur]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693758</guid>
-            <pubDate>Fri, 18 Sep 2026 11:33:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,40 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 21:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 23:52:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Sep 2026 21:11:17 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 23:52:50 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Gmar Chatima Tova!]]></title>
+            <description><![CDATA[Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Yom Kippur in North America, where they are being written now.
+
+Updates will resume Monday night from Israel, following the conclusion of Yom Kippur at 19:14 Jerusalem time.
+
+Gmar Chatima Tova!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_337075</guid>
+            <pubDate>Sun, 20 Sep 2026 22:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UEFA rejects Ireland request to keep Israel out of future draws]]></title>
+            <description><![CDATA[UEFA rejects Ireland’s request to avoid future matchups with Israel, citing its case-by-case policy and the lack of a direct conflict between the countries.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Yom Kippur in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/433442</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433442</guid>
+            <pubDate>Sun, 20 Sep 2026 22:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran vows to keep Strait of Hormuz closed until US meets its conditions]]></title>
+            <description><![CDATA[Iran says the Strait of Hormuz will remain closed until its demands are met, as Trump weighs military action.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Yom Kippur in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/433441</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433441</guid>
+            <pubDate>Sun, 20 Sep 2026 21:30:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: Trump administration preparing sweeping sanctions against ICC]]></title>
             <description><![CDATA[The Trump administration is reportedly preparing broad sanctions against the ICC that could block most transactions and restrict access to US dollars.
@@ -38,9 +67,11 @@
         </item>
         <item>
             <title><![CDATA[UK Chief Rabbi issues special Yom Kippur prayer for Manchester synagogue victims]]></title>
-            <description><![CDATA[UK Chief Rabbi issues special Yom Kippur prayer for Manchester synagogue victims]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693848</guid>
+            <description><![CDATA[Britain’s Chief Rabbi Ephraim Mirvis writes a special Yom Kippur prayer honoring the two victims of last year’s Heaton Park synagogue terror attack.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Yom Kippur in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/433437</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433437</guid>
             <pubDate>Sun, 20 Sep 2026 18:32:00 GMT</pubDate>
         </item>
         <item>
@@ -242,23 +273,23 @@ IDF soldiers apprehended the terrorist after he fled to a hospital near the site
         </item>
         <item>
             <title><![CDATA[After Binyamin shooting: Two terrorists attempt to run over soldiers in Samaria]]></title>
-            <description><![CDATA[Two terrorists attempted to carry out a ramming attack near the Ganim military post. Soldiers from the 890th Battalion opened fire, killing one and arresting the other.]]></description>
-            <link>https://www.israelnationalnews.com/news/433425</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433425</guid>
+            <description><![CDATA[After Binyamin shooting: Two terrorists attempt to run over soldiers in Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693825</guid>
             <pubDate>Sun, 20 Sep 2026 10:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two months missing: Police seek public’s help locating 24-year-old Jerusalem man]]></title>
-            <description><![CDATA[Yehuda Sferka, 24, was last seen in Jerusalem on July 20. Police are now asking for the public’s help and believe he may have traveled north.]]></description>
-            <link>https://www.israelnationalnews.com/news/433423</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433423</guid>
+            <description><![CDATA[Two months missing: Police seek public’s help locating 24-year-old Jerusalem man]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693824</guid>
             <pubDate>Sun, 20 Sep 2026 10:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Council head at scene of shooting: 'We are strong, we will deepen our roots’]]></title>
-            <description><![CDATA[Yisrael Ganz speaks at scene of shooting attack in Binyamin hours before Yom Kippur, says families with children were targeted at a spring and calls for strengthening the Jewish presence in the region.]]></description>
-            <link>https://www.israelnationalnews.com/news/433424</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433424</guid>
+            <description><![CDATA[Council head at scene of shooting: 'We are strong, we will deepen our roots’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693823</guid>
             <pubDate>Sun, 20 Sep 2026 10:14:00 GMT</pubDate>
         </item>
         <item>
@@ -309,27 +340,6 @@ IDF soldiers apprehended the terrorist after he fled to a hospital near the site
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693816</guid>
             <pubDate>Sun, 20 Sep 2026 08:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report in Lebanon: IDF forces entered the village of Deir Mimas and searched homes]]></title>
-            <description><![CDATA[Report in Lebanon: IDF forces entered the village of Deir Mimas and searched homes]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693815</guid>
-            <pubDate>Sun, 20 Sep 2026 08:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[100 m from Ganim and Kadim: Civil Admin clears olive groves, demolishes illegal structures]]></title>
-            <description><![CDATA[100 m from Ganim and Kadim: Civil Admin clears olive groves, demolishes illegal structures]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693814</guid>
-            <pubDate>Sun, 20 Sep 2026 08:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yuval Abraham put Israel’s defenders in the dock]]></title>
-            <description><![CDATA[Yuval Abraham put Israel’s defenders in the dock]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693813</guid>
-            <pubDate>Sun, 20 Sep 2026 08:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

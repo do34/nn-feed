@@ -4,11 +4,46 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 23:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 03:36:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 23:51:39 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 03:36:55 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump praises Mamdani: He’s certainly got potential]]></title>
+            <description><![CDATA[President Trump praises New York City Mayor Zohran Mamdani as having “great potential" ahead of their third meeting at Gracie Mansion.]]></description>
+            <link>https://www.israelnationalnews.com/news/433465</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433465</guid>
+            <pubDate>Tue, 22 Sep 2026 03:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From the Knesset to the surfboard: Chikli surfs with wounded IDF veterans in Herzliya]]></title>
+            <description><![CDATA[Minister Amichai Chikli attends a toast hosted by “HaHazakim Mitgalim" nonprofit in Herzliya, meets wounded IDF veterans, and joins them for a surfing session.]]></description>
+            <link>https://www.israelnationalnews.com/news/433464</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433464</guid>
+            <pubDate>Tue, 22 Sep 2026 02:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mamdani blasts Netanyahu again: A ‘war criminal’ and ‘architect of a horrific genocide’]]></title>
+            <description><![CDATA[New York Mayor Zohran Mamdani again calls Netanyahu a “war criminal" ahead of the Prime Minister’s UN visit, but again acknowledges he lacks authority to arrest him.]]></description>
+            <link>https://www.israelnationalnews.com/news/433463</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433463</guid>
+            <pubDate>Tue, 22 Sep 2026 01:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samaria Regional Council head: We expect the government to exact a heavy price]]></title>
+            <description><![CDATA[Samaria Regional Council head: We expect the government to exact a heavy price]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693883</guid>
+            <pubDate>Tue, 22 Sep 2026 01:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanel Shakron’s son mourns his father: Dad, thank you]]></title>
+            <description><![CDATA[Yoav, who survived the terrorist attack in which his father, Netanel Shakron, was murdered, pays emotional tribute to his father and thanks him for saving his life.]]></description>
+            <link>https://www.israelnationalnews.com/news/433461</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433461</guid>
+            <pubDate>Tue, 22 Sep 2026 00:16:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch: Heartfelt song at Netanel Shakron's funeral]]></title>
             <description><![CDATA[Crowds sing mournful, moving song at funeral of terror victim Netanel Shakron, who was murdered hours before Yom Kippur at the Ein Riya spring.]]></description>
@@ -198,9 +233,9 @@ In the shadow of the ongoing tension between the administration and the court, W
         </item>
         <item>
             <title><![CDATA[Report: Trump halted strike against Houthis]]></title>
-            <description><![CDATA[According to the report, the US President deliberated for approximately two weeks, instructed the Pentagon to prepare for airstrikes in Yemen - and yesterday decided to halt the move.]]></description>
-            <link>https://www.israelnationalnews.com/news/433443</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433443</guid>
+            <description><![CDATA[Report: Trump halted strike against Houthis]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693856</guid>
             <pubDate>Mon, 21 Sep 2026 16:33:00 GMT</pubDate>
         </item>
         <item>
@@ -212,29 +247,23 @@ In the shadow of the ongoing tension between the administration and the court, W
         </item>
         <item>
             <title><![CDATA[MDA'sprovides 152 units of blood to hospitals in Israel over Yom Kippur]]></title>
-            <description><![CDATA[Magen David Adom's blood services provided 152 units of blood and blood components to hospitals in Israel over Yom Kippur,]]></description>
+            <description><![CDATA[MDA'sprovides 152 units of blood to hospitals in Israel over Yom Kippur]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693854</guid>
             <pubDate>Mon, 21 Sep 2026 16:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gmar Chatima Tova!]]></title>
-            <description><![CDATA[Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Yom Kippur in North America, where they are being written now.
-
-Updates will resume Monday night from Israel, following the conclusion of Yom Kippur at 19:14 Jerusalem time.
-
-Gmar Chatima Tova!]]></description>
+            <description><![CDATA[Gmar Chatima Tova!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_337075</guid>
             <pubDate>Sun, 20 Sep 2026 22:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UEFA rejects Ireland request to keep Israel out of future draws]]></title>
-            <description><![CDATA[UEFA rejects Ireland’s request to avoid future matchups with Israel, citing its case-by-case policy and the lack of a direct conflict between the countries.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Yom Kippur in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/433442</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433442</guid>
+            <description><![CDATA[UEFA rejects Ireland request to keep Israel out of future draws]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693853</guid>
             <pubDate>Sun, 20 Sep 2026 22:05:00 GMT</pubDate>
         </item>
         <item>
@@ -271,41 +300,6 @@ Gmar Chatima Tova!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693848</guid>
             <pubDate>Sun, 20 Sep 2026 18:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany: AfD scores another victory as Merz suffers historic defeat]]></title>
-            <description><![CDATA[Germany: AfD scores another victory as Merz suffers historic defeat]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693847</guid>
-            <pubDate>Sun, 20 Sep 2026 17:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pezeshkian: We don’t want war but will not yield to pressure]]></title>
-            <description><![CDATA[Pezeshkian: We don’t want war but will not yield to pressure]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693846</guid>
-            <pubDate>Sun, 20 Sep 2026 16:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Gvir demands: Execute the terrorist]]></title>
-            <description><![CDATA[Ben Gvir demands: Execute the terrorist]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693845</guid>
-            <pubDate>Sun, 20 Sep 2026 15:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gmar Chatima Tova from Israel!]]></title>
-            <description><![CDATA[Gmar Chatima Tova from Israel!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_337073</guid>
-            <pubDate>Sun, 20 Sep 2026 15:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump on Iran: ‘I’m considering everything, including military action’]]></title>
-            <description><![CDATA[Trump on Iran: ‘I’m considering everything, including military action’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693844</guid>
-            <pubDate>Sun, 20 Sep 2026 14:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

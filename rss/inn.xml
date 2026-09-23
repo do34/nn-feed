@@ -4,11 +4,48 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 21:48:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 00:02:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 21:48:57 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 00:02:42 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[17-year-old girl moderately injured in motorcycle accident in Modi’in]]></title>
+            <description><![CDATA[A 17-year-old girl was moderately injured after the motorcycle she was riding was struck by a vehicle in Modi’in.
+
+Magen David Adom paramedics evacuated her to Shamir-Assaf Harofeh Hospital.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693955</guid>
+            <pubDate>Tue, 22 Sep 2026 23:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Syrian President: It is not possible for October 7 to dictate Israel’s policies]]></title>
+            <description><![CDATA[Speaking in New York, Syrian President Ahmad al-Sharaa says Israel withdrew from security talks after the sides had nearly reached an agreement, while insisting the Golan Heights are Syrian.]]></description>
+            <link>https://www.israelnationalnews.com/news/433508</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433508</guid>
+            <pubDate>Tue, 22 Sep 2026 23:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: IDF carries out controlled explosion in southern Lebanon]]></title>
+            <description><![CDATA[Lebanese media reported that the IDF carried out a large controlled explosion near the town of Khiam in southern Lebanon.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693953</guid>
+            <pubDate>Tue, 22 Sep 2026 22:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump warns Iran: We may have to blow up Pickaxe Mountain]]></title>
+            <description><![CDATA[Trump warns Iran: We may have to blow up Pickaxe Mountain]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693952</guid>
+            <pubDate>Tue, 22 Sep 2026 22:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian report: Explosions heard near Strait of Hormuz]]></title>
+            <description><![CDATA[Iranian media reported that explosions were heard coming from the sea near Qeshm Island in the Strait of Hormuz.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693951</guid>
+            <pubDate>Tue, 22 Sep 2026 21:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gadi Eisenkot criticizes Macron: The statement is radically detached from reality]]></title>
             <description><![CDATA[Yashar chairman Gadi Eisenkot criticized remarks by French President Emmanuel Macron, emphasizing that the Hamas terrorist organization also operates in Judea and Samaria and poses a threat to Israeli civilians.
@@ -38,9 +75,9 @@ According to the IDF, two suspects were apprehended shortly afterward and transf
         </item>
         <item>
             <title><![CDATA[Soldiers of the Great Liberation: In Memory of Enid-Esther and Stuart Wortsman]]></title>
-            <description><![CDATA[Soldiers of the Great Liberation: In Memory of Enid-Esther and Stuart Wortsman]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693947</guid>
+            <description><![CDATA[The Wortsmans refused to rest, maintaining the struggle to free Soviet Jewry through dark and difficult years until the regime finally collapsed, resulting in the historic exodus of over a million Soviet Jews to Israel. In memoriam.]]></description>
+            <link>https://www.israelnationalnews.com/news/433505</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433505</guid>
             <pubDate>Tue, 22 Sep 2026 20:08:00 GMT</pubDate>
         </item>
         <item>
@@ -52,9 +89,9 @@ According to the IDF, two suspects were apprehended shortly afterward and transf
         </item>
         <item>
             <title><![CDATA[‘Earthquake in the prisons’: The message from Sinwar that was misinterpreted in Israel]]></title>
-            <description><![CDATA[‘Earthquake in the prisons’: The message from Sinwar that was misinterpreted in Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693945</guid>
+            <description><![CDATA[Weeks before October 7, a message was received from Sinwar about an “earthquake in the prisons." Israel’s security establishment assessed that it was connected to Tsurkov.]]></description>
+            <link>https://www.israelnationalnews.com/news/433503</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433503</guid>
             <pubDate>Tue, 22 Sep 2026 19:53:00 GMT</pubDate>
         </item>
         <item>
@@ -94,7 +131,9 @@ According to the IDF, two suspects were apprehended shortly afterward and transf
         </item>
         <item>
             <title><![CDATA[Yosef Haddad receives graphic death threats]]></title>
-            <description><![CDATA[Yosef Haddad receives graphic death threats]]></description>
+            <description><![CDATA[Yosef Haddad, an advocacy activist and candidate number 2 on the "Amach Yisrael" list, received a series of e-mails this evening containing explicit threats to his life, including: "We will cut off your fingers one by one and dismember your body along with the Americans."
+
+According to the party's statement, it is believed that the threats were sent by elements linked to the Iranian regime.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693939</guid>
             <pubDate>Tue, 22 Sep 2026 18:41:00 GMT</pubDate>
@@ -198,41 +237,35 @@ The detained civilians were transferred to the Israel Police for further handlin
         </item>
         <item>
             <title><![CDATA[Ben Gvir seeks to become Defense Minister]]></title>
-            <description><![CDATA[Itamar Ben Gvir announced that Otzma Yehudit will demand the Defense Ministry for himself and the Justice Ministry for Tally Gotliv in the next government.]]></description>
-            <link>https://www.israelnationalnews.com/news/433493</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433493</guid>
+            <description><![CDATA[Ben Gvir seeks to become Defense Minister]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693925</guid>
             <pubDate>Tue, 22 Sep 2026 15:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UN Chief attacks Israel over Gaza war, settlements]]></title>
-            <description><![CDATA[Antonio Guterres accuses Israel of 'killing and destruction unlike anything I have witnessed in my years as Secretary-General' following October 7, rails against settlements.]]></description>
-            <link>https://www.israelnationalnews.com/news/433492</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433492</guid>
+            <description><![CDATA[UN Chief attacks Israel over Gaza war, settlements]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693924</guid>
             <pubDate>Tue, 22 Sep 2026 15:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump at UN General Assembly: 'Since I took office, it has been my great honor to settle eight wars']]></title>
-            <description><![CDATA[Trump at UN General Assembly: Since I took office, it has been my great honor to settle eight wars - numerous of which have gone on for many years, even decades.
-
-The reason I was able to make all these settlements was the use of my relationships, trade, and various other reasons depending on the country.
-
-Among them are Cambodia and Thailand, Kosovo and Serbia, the Democratic Republic of the Congo and Rwanda, Pakistan and India, Armenia and Azerbaijan, and of course, the war in Gaza, which, as I stated previously, includes the return of all hostages both living and dead.]]></description>
+            <description><![CDATA[Trump at UN General Assembly: 'Since I took office, it has been my great honor to settle eight wars']]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693923</guid>
             <pubDate>Tue, 22 Sep 2026 15:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump at UN: 'A year ago, there was no end in sight to Gaza war']]></title>
-            <description><![CDATA[Trump at the UN General Assembly: One year ago when I addressed the great leaders in this Grand Hall, the War in Gaza was still raging brutally, the hostages were still deep in Hamas tunnels, and there was no end in sight.
-
-But here on the sidelines of the General Assembly, we took the first steps that changed everything. A few weeks later, we ENDED the War in Gaza, saving untold thousands of lives. We also brought home ALL remaining hostages, both living and dead.]]></description>
+            <description><![CDATA[Trump at UN: 'A year ago, there was no end in sight to Gaza war']]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693922</guid>
             <pubDate>Tue, 22 Sep 2026 15:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump at UN: "I believe we will reach a deal with Iran right after midterm elections"]]></title>
-            <description><![CDATA[US President Donald Trump said in his address to the UN General Assembly that he believes a deal with Iran will be reached immediately after the midterm elections.]]></description>
+            <description><![CDATA[Trump at UN: "I believe we will reach a deal with Iran right after midterm elections"]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693921</guid>
             <pubDate>Tue, 22 Sep 2026 14:55:00 GMT</pubDate>
@@ -271,41 +304,6 @@ But here on the sidelines of the General Assembly, we took the first steps that 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693916</guid>
             <pubDate>Tue, 22 Sep 2026 14:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reports in Gaza: Airstrikes in Gaza City and the Al-Mawasi Area]]></title>
-            <description><![CDATA[Reports in Gaza: Airstrikes in Gaza City and the Al-Mawasi Area]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693915</guid>
-            <pubDate>Tue, 22 Sep 2026 14:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revelation raises questions about reporting from Gaza]]></title>
-            <description><![CDATA[Revelation raises questions about reporting from Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693914</guid>
-            <pubDate>Tue, 22 Sep 2026 13:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump: Claims by 'traitors' US low on munitions not true]]></title>
-            <description><![CDATA[Trump: Claims by 'traitors' US low on munitions not true]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693913</guid>
-            <pubDate>Tue, 22 Sep 2026 13:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s foreign minister asks US for security protection in New York]]></title>
-            <description><![CDATA[Iran’s foreign minister asks US for security protection in New York]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693912</guid>
-            <pubDate>Tue, 22 Sep 2026 13:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bibi Derangement Syndrome is, in fact, deranged]]></title>
-            <description><![CDATA[Bibi Derangement Syndrome is, in fact, deranged]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_693911</guid>
-            <pubDate>Tue, 22 Sep 2026 12:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

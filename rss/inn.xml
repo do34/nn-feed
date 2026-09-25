@@ -4,11 +4,62 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 22:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 01:10:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 22:01:14 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 01:10:14 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[22-year-old man seriously injured in motorcycle accident in Netivot]]></title>
+            <description><![CDATA[A 22-year-old motorcyclist was seriously injured after his motorcycle was struck by a vehicle in Netivot.
+
+Magen David Adom teams evacuated him to Soroka Hospital in Be'er Sheva.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694147</guid>
+            <pubDate>Fri, 25 Sep 2026 00:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prime Minister Netanyahu and wife depart for Israel]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu, his wife Sara, and his delegation have departed the United States and are now en route back to Israel.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694146</guid>
+            <pubDate>Fri, 25 Sep 2026 00:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senate narrowly rejects measure to block Iran military action without Congress]]></title>
+            <description><![CDATA[The Senate votes 50-49 against a Democratic measure that would have required congressional authorization for further US military action in Iran.]]></description>
+            <link>https://www.israelnationalnews.com/news/433627</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433627</guid>
+            <pubDate>Fri, 25 Sep 2026 00:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Karhi praises Netanyahu: This is Jewish leadership]]></title>
+            <description><![CDATA[Karhi praises Netanyahu: This is Jewish leadership]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694144</guid>
+            <pubDate>Thu, 24 Sep 2026 23:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Danon hands Iran’s UN envoy Starlink device: We pray for regime change in Iran]]></title>
+            <description><![CDATA[Watch: After Netanyahu’s UN speech, Ambassador Danny Danon hands Iran’s representative a Starlink device and urges him to help Iranians gain freedom.]]></description>
+            <link>https://www.israelnationalnews.com/news/433626</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433626</guid>
+            <pubDate>Thu, 24 Sep 2026 23:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man shot in Nazareth, critically injured]]></title>
+            <description><![CDATA[Man shot in Nazareth, critically injured]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694142</guid>
+            <pubDate>Thu, 24 Sep 2026 22:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu to Milei: You are one of the great leaders of our time]]></title>
+            <description><![CDATA[Netanyahu meets Argentina’s President on the sidelines of the UN General Assembly, thanks him for his support for Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/433625</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433625</guid>
+            <pubDate>Thu, 24 Sep 2026 22:25:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bennett's party on incident in Bnei Brak: Objects thrown at him struck a staff member]]></title>
             <description><![CDATA[The Together party commented on Thursday night's incident in Bnei Brak, saying that during former Prime Minister Naftali Bennett’s visit to the city, two objects were thrown at him, striking one of his female staff members in the head. She was treated at the scene by a Magen David Adom team and released without requiring further medical care, the party said.
@@ -29,9 +80,9 @@ Officers at the scene immediately arrested the suspect, who was taken to a polic
         </item>
         <item>
             <title><![CDATA[Herzog at INS Drakon ceremony: Israel can deploy power thousands of miles away]]></title>
-            <description><![CDATA[Herzog at INS Drakon ceremony: Israel can deploy power thousands of miles away]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694138</guid>
+            <description><![CDATA[President Herzog welcomes Israel’s sixth submarine, INS Drakon, saying the Navy’s growing capabilities will expand Israel’s operational reach worldwide.]]></description>
+            <link>https://www.israelnationalnews.com/news/433624</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433624</guid>
             <pubDate>Thu, 24 Sep 2026 21:07:00 GMT</pubDate>
         </item>
         <item>
@@ -43,7 +94,7 @@ Officers at the scene immediately arrested the suspect, who was taken to a polic
         </item>
         <item>
             <title><![CDATA[Amb. Danon: Representatives from 123 attended PM Netanyahu's address]]></title>
-            <description><![CDATA[Amb. Danon: Representatives from 123 attended PM Netanyahu's address]]></description>
+            <description><![CDATA[Israel’s Ambassador to the United Nations Danny Danon said that representatives of 123 countries, out of the 193 member states, attended Prime Minister Benjamin Netanyahu’s address.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694136</guid>
             <pubDate>Thu, 24 Sep 2026 19:53:00 GMT</pubDate>
@@ -119,7 +170,11 @@ The antisemites of the world want to terrify our people. I have news for them. T
         </item>
         <item>
             <title><![CDATA[Netanyahu: Mamdani can't silence the truth]]></title>
-            <description><![CDATA[Netanyahu: Mamdani can't silence the truth]]></description>
+            <description><![CDATA[PM Netanyahu criticized New York City Mayor Zohran Mamdani by name in his UN address. "Mr. Mamdani, since you were elected mayor of this city, many Jews no longer feel safe in New York. They talk to me. They tell me: 'This isn't the city we remember. It changed so quickly.'"
+
+"It's no wonder. You praise criminals convicted of supporting Hamas. You count as friends people like Hasan Piker, who said America deserved 9/11. Some friends you have. You invite into your home a Palestinian journalist who filmed Hamas terrorists beating and torturing Israeli hostages and later admitted that he refused to publish the videos in order to protect - you guessed it - the terrorists. Your wife liked a post praising the October 7th massacre. She liked another post saying Tel Aviv shouldn't exist. You refused to condemn any of that. You falsely, repeatedly accuse Israel of genocide.
+
+"Mr Mamdani, you tried to stop me from coming here. You tried to silence me. Well, you can't silence me, you can't silence the truth."]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694126</guid>
             <pubDate>Thu, 24 Sep 2026 19:20:00 GMT</pubDate>
@@ -133,7 +188,9 @@ The antisemites of the world want to terrify our people. I have news for them. T
         </item>
         <item>
             <title><![CDATA[Netanyahu: Accusing Israel of genocide is the greatest lie of the century]]></title>
-            <description><![CDATA[Netanyahu: Accusing Israel of genocide is the greatest lie of the century]]></description>
+            <description><![CDATA[PM Netanyahu describes Israel's efforts to prevent civilian casualties and Hamas's efforts to maximize civilian casualties and says: "Accusing Israel of genocide is the greatest lie of the century."
+
+Quoting John Spencer, he stated: "Israel has done more to prevent civilian casualties in war than any other military in history."]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694124</guid>
             <pubDate>Thu, 24 Sep 2026 19:08:00 GMT</pubDate>
@@ -149,9 +206,9 @@ The antisemites of the world want to terrify our people. I have news for them. T
         </item>
         <item>
             <title><![CDATA[Kabul, Damascus, Mokha: Why salaried armies keep losing to mobilizational Islam]]></title>
-            <description><![CDATA[Kabul, Damascus, Mokha: Why salaried armies keep losing to mobilizational Islam]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694122</guid>
+            <description><![CDATA[The Taliban's Deobandi Sunnism, the Salafi-jihadist roots of Hayat Tahrir al-Sham and the Houthis' Zaydi Shiism are ideologically different but structurally the same. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/433621</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433621</guid>
             <pubDate>Thu, 24 Sep 2026 19:05:00 GMT</pubDate>
         </item>
         <item>
@@ -179,7 +236,7 @@ The antisemites of the world want to terrify our people. I have news for them. T
         </item>
         <item>
             <title><![CDATA[Netanyahu's vow to Neria Leiter: Your sacrifice will not be in vain]]></title>
-            <description><![CDATA[Netanyahu's vow to Neria Leiter: Your sacrifice will not be in vain]]></description>
+            <description><![CDATA[PM Netanyahu made a "sacred vow" to Neria Leiter, the son of Ambassador to the US Yechiel Leiter, who was critically wounded in a terrorist attack this week: "Your sacrifice will not be in vain."]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694118</guid>
             <pubDate>Thu, 24 Sep 2026 18:54:00 GMT</pubDate>
@@ -200,16 +257,14 @@ The antisemites of the world want to terrify our people. I have news for them. T
         </item>
         <item>
             <title><![CDATA[Netanyahu: The word 'Jew' comes from Judea]]></title>
-            <description><![CDATA[PM Netanyahu told the UN General Assembly that though many terrorist leaders are dead, "every day," the remaining terrorists "try to murder our people. And in particular, they try to murder our people in our historic homeland. By the way, that's where the word Jew comes from, Judea,"]]></description>
+            <description><![CDATA[Netanyahu: The word 'Jew' comes from Judea]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694115</guid>
             <pubDate>Thu, 24 Sep 2026 18:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu holds up beeper at UN General Assembly: "Remember this?"]]></title>
-            <description><![CDATA[PM Netanyahu held up a beeper during his speech at the UN General Assembly, asking the delegates if they remembered the beeper operation that crippled much of Hezbollah's operations in September 2024.
-
-"Do you remember the beepers?" he asked, adding that "Hezbollah certainly remembers them."]]></description>
+            <description><![CDATA[Netanyahu holds up beeper at UN General Assembly: "Remember this?"]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694114</guid>
             <pubDate>Thu, 24 Sep 2026 18:36:00 GMT</pubDate>
@@ -223,7 +278,7 @@ The antisemites of the world want to terrify our people. I have news for them. T
         </item>
         <item>
             <title><![CDATA[Netanyahu: Do you know any other country the size of New Jersey that can fight a 7-front war?]]></title>
-            <description><![CDATA[PM Netanyahu asked the UN General Assembly if they knew of "any other country the size of New Jersey capable of fighting a 7-front war?"]]></description>
+            <description><![CDATA[Netanyahu: Do you know any other country the size of New Jersey that can fight a 7-front war?]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694112</guid>
             <pubDate>Thu, 24 Sep 2026 18:34:00 GMT</pubDate>
@@ -255,55 +310,6 @@ The antisemites of the world want to terrify our people. I have news for them. T
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694108</guid>
             <pubDate>Thu, 24 Sep 2026 18:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu quotes brother: 'We're going to win, we have no other choice']]></title>
-            <description><![CDATA[Netanyahu quotes brother: 'We're going to win, we have no other choice']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694107</guid>
-            <pubDate>Thu, 24 Sep 2026 18:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu thanks Uganda for erecting statue of brother Yoni Netanyahu]]></title>
-            <description><![CDATA[Netanyahu thanks Uganda for erecting statue of brother Yoni Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694106</guid>
-            <pubDate>Thu, 24 Sep 2026 18:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: They accuse us of colonialism? Give us a break]]></title>
-            <description><![CDATA[Netanyahu: They accuse us of colonialism? Give us a break]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694105</guid>
-            <pubDate>Thu, 24 Sep 2026 18:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: The Jews have been on the Golan Heights since the days of Moses]]></title>
-            <description><![CDATA[Netanyahu: The Jews have been on the Golan Heights since the days of Moses]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694104</guid>
-            <pubDate>Thu, 24 Sep 2026 18:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: Irony is Israel is defending many of the countries whose delegates walked out of speech]]></title>
-            <description><![CDATA[Netanyahu: Irony is Israel is defending many of the countries whose delegates walked out of speech]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694103</guid>
-            <pubDate>Thu, 24 Sep 2026 18:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: Devastating Iran's nuclear facilities was very hard to do, but an easy decision]]></title>
-            <description><![CDATA[Netanyahu: Devastating Iran's nuclear facilities was very hard to do, but an easy decision]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694102</guid>
-            <pubDate>Thu, 24 Sep 2026 18:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu at UNGA: I vowed to stop Iran from obtaining a nuclear weapon, and that's what we did]]></title>
-            <description><![CDATA[Netanyahu at UNGA: I vowed to stop Iran from obtaining a nuclear weapon, and that's what we did]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694101</guid>
-            <pubDate>Thu, 24 Sep 2026 18:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

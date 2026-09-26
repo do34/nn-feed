@@ -4,13 +4,62 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 18:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 21:52:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 18:22:38 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 21:52:40 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[Israeli Consulate challenges ‘Naza’ film outside Lincoln Center]]></title>
+            <title><![CDATA[Ex-Haniyeh Bodyguard Granted UK Citizenship, Later Arrested Over Alleged Anti-Jewish Plot]]></title>
+            <description><![CDATA[Haniyeh’s former bodyguard gained UK citizenship before his arrest over an alleged plot to target Jews in Europe and UK.]]></description>
+            <link>https://www.israelnationalnews.com/news/433681</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433681</guid>
+            <pubDate>Sat, 26 Sep 2026 21:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC faces scrutiny over 53 Gaza ‘journalists’ linked to Hamas]]></title>
+            <description><![CDATA[A Telegraph investigation alleges that 53 Palestinians identified as journalists by the BBC had varying ties to Hamas and other terror groups.]]></description>
+            <link>https://www.israelnationalnews.com/news/433680</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433680</guid>
+            <pubDate>Sat, 26 Sep 2026 21:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mystery in the sewers: Two arrested near Netanyahu’s NYC hotel]]></title>
+            <description><![CDATA[Mystery in the sewers: Two arrested near Netanyahu’s NYC hotel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694216</guid>
+            <pubDate>Sat, 26 Sep 2026 21:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police by day, terrorists by night: The threat brewing in Judea and Samaria]]></title>
+            <description><![CDATA[Security experts tell i24NEWS of the threat from armed Palestinian Authority forces, raising questions about their training, growing numbers and the future of security coordination.]]></description>
+            <link>https://www.israelnationalnews.com/news/433677</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433677</guid>
+            <pubDate>Sat, 26 Sep 2026 20:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belgium links Iran to attacks on European Jews]]></title>
+            <description><![CDATA[Belgium links Iran to attacks on European Jews]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694214</guid>
+            <pubDate>Sat, 26 Sep 2026 19:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gaza smuggling suspect seeks visit to Shin Bet chief]]></title>
+            <description><![CDATA[Bezalel Zini requests six-hour break from house arrest to visit his brother, Shin Bet Director David Zini, for a family gathering.]]></description>
+            <link>https://www.israelnationalnews.com/news/433675</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433675</guid>
+            <pubDate>Sat, 26 Sep 2026 18:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Egypt’s intelligence chief warned of impending massacre]]></title>
+            <description><![CDATA[Report: Egypt’s intelligence chief warned of impending massacre]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694212</guid>
+            <pubDate>Sat, 26 Sep 2026 18:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli Consulate challenges ‘NAZA’ film outside Lincoln Center]]></title>
             <description><![CDATA[Israeli Consulate takes its fight against NAZA to Lincoln Center, challenging the film’s credibility with giant screens.]]></description>
             <link>https://www.israelnationalnews.com/news/433674</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/news/433674</guid>
@@ -25,9 +74,9 @@
         </item>
         <item>
             <title><![CDATA[Sukkot weather shakeup: Heavy rain ahead]]></title>
-            <description><![CDATA[Sukkot weather shakeup: Heavy rain ahead]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694209</guid>
+            <description><![CDATA[Pleasant holiday weather set to give way to rain and falling temperatures, forecasters say.]]></description>
+            <link>https://www.israelnationalnews.com/news/433672</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433672</guid>
             <pubDate>Sat, 26 Sep 2026 17:32:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +88,9 @@
         </item>
         <item>
             <title><![CDATA[Trump rejects Iranian ceasefire proposal]]></title>
-            <description><![CDATA[Trump rejects Iranian ceasefire proposal]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694207</guid>
+            <description><![CDATA[Trump rejects Tehran’s seven-day ceasefire plan to reopen the Strait of Hormuz, as Iran insists Washington must meet its conditions before nuclear talks can resume.]]></description>
+            <link>https://www.israelnationalnews.com/news/433670</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433670</guid>
             <pubDate>Sat, 26 Sep 2026 16:49:00 GMT</pubDate>
         </item>
         <item>
@@ -212,57 +261,51 @@ Rabbi Yosef Yitzchak Aharonov told Netanyahu: “You are going there carrying a 
         </item>
         <item>
             <title><![CDATA[Daniel Umansky is the 14-year-old Israeli boy killed by a Russian drone strike in Kyiv]]></title>
-            <description><![CDATA[Daniel Umansky, 14, was the Israeli boy killed Friday morning when a Russian drone struck his family’s home in the Pechersk district of central Kyiv. His mother was injured and evacuated for medical treatment.
-
-The family had previously immigrated to Israel but returned to Ukraine about 20 years ago. Israel’s consul, the Federation of Jewish Communities of Ukraine, and Chabad emissaries are assisting the family.]]></description>
+            <description><![CDATA[Daniel Umansky is the 14-year-old Israeli boy killed by a Russian drone strike in Kyiv]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694190</guid>
             <pubDate>Fri, 25 Sep 2026 13:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six illegal residents arrested in Nesher area; Daliyat al-Karmel construction site shut for 30 days]]></title>
-            <description><![CDATA[Six illegal residents were arrested in police operations in the Nesher area, including four found at a construction site in Daliyat al-Karmel. The site’s employer was also arrested, and the site was ordered closed for 30 days.]]></description>
+            <description><![CDATA[Six illegal residents arrested in Nesher area; Daliyat al-Karmel construction site shut for 30 days]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694189</guid>
             <pubDate>Fri, 25 Sep 2026 13:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Messi, Erika Kirk among Israel’s Top 50 Christian Allies for 2026]]></title>
-            <description><![CDATA[Israel Allies Foundation unveils its 2026 list of leading Christian supporters of Israel, with the late Joni Lamb taking the top spot.]]></description>
-            <link>https://www.israelnationalnews.com/news/433659</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433659</guid>
+            <description><![CDATA[Messi, Erika Kirk among Israel’s Top 50 Christian Allies for 2026]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694188</guid>
             <pubDate>Fri, 25 Sep 2026 12:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[14-year-old Israeli killed in drone strike on Kyiv residential building]]></title>
-            <description><![CDATA[An Israeli boy was killed in a drone strike on a residential building in the Ukrainian capital. His mother was injured and is hospitalized.]]></description>
-            <link>https://www.israelnationalnews.com/news/433658</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433658</guid>
+            <description><![CDATA[14-year-old Israeli killed in drone strike on Kyiv residential building]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694187</guid>
             <pubDate>Fri, 25 Sep 2026 12:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘The crown of our head has fallen’: Rabbi David Batzri laid to rest]]></title>
-            <description><![CDATA[Leading rabbis bid farewell to renowned Kabbalist Rabbi David Shalom Batzri as he is laid to rest, recalling his Torah scholarship, prayer and devotion to G-d.]]></description>
-            <link>https://www.israelnationalnews.com/news/433657</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433657</guid>
+            <description><![CDATA[‘The crown of our head has fallen’: Rabbi David Batzri laid to rest]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694186</guid>
             <pubDate>Fri, 25 Sep 2026 12:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF reinforces several sectors ahead of Sukkot]]></title>
-            <description><![CDATA[The IDF is once again reinforcing its forces in several sectors ahead of Sukkot, under the direction of the Chief of Staff, as part of efforts to strengthen security and readiness during the holiday period. Regular battalions and brigade headquarters will remain on standby for rapid deployment until the end of the holidays.
-
-During Sukkot, several combat companies will be assigned to reinforce the sectors, while additional companies will remain in reserve. The forces will remain on alert throughout Chol Hamoed and the second holiday.
-
-Central Command will receive additional reinforcements, including soldiers from the Maglan Unit. Most soldiers at brigade training bases will remain on base during the holiday to maintain operational readiness.]]></description>
+            <description><![CDATA[IDF reinforces several sectors ahead of Sukkot]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694185</guid>
             <pubDate>Fri, 25 Sep 2026 12:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Special Arutz Sheva interview: Operating at sea - in ways one can only imagine]]></title>
-            <description><![CDATA[Staff Sgt. A., a weapons specialist aboard the INS Rahav submarine, spoke to Arutz Sheva about eagerly awaiting his comrades aboard the INS Drakon and the unique experience of serving at sea.]]></description>
-            <link>https://www.israelnationalnews.com/news/433656</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433656</guid>
+            <description><![CDATA[Special Arutz Sheva interview: Operating at sea - in ways one can only imagine]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694184</guid>
             <pubDate>Fri, 25 Sep 2026 11:58:00 GMT</pubDate>
         </item>
         <item>
@@ -285,55 +328,6 @@ Central Command will receive additional reinforcements, including soldiers from 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694181</guid>
             <pubDate>Fri, 25 Sep 2026 11:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Preparing Israel’s next generation: Intel, Education Ministry join forces]]></title>
-            <description><![CDATA[Preparing Israel’s next generation: Intel, Education Ministry join forces]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694180</guid>
-            <pubDate>Fri, 25 Sep 2026 11:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To Noahides:]]></title>
-            <description><![CDATA[To Noahides:]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694179</guid>
-            <pubDate>Fri, 25 Sep 2026 11:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carlson denies allegations, but the numbers tell a different story]]></title>
-            <description><![CDATA[Carlson denies allegations, but the numbers tell a different story]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694178</guid>
-            <pubDate>Fri, 25 Sep 2026 11:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[98th Division Headquarters to begin commanding two brigades in Judea and Samaria]]></title>
-            <description><![CDATA[98th Division Headquarters to begin commanding two brigades in Judea and Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694177</guid>
-            <pubDate>Fri, 25 Sep 2026 11:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sukkos and Simchat Torah with Rav Yitzchok Hutner ZT"L]]></title>
-            <description><![CDATA[Sukkos and Simchat Torah with Rav Yitzchok Hutner ZT"L]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694176</guid>
-            <pubDate>Fri, 25 Sep 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu eulogizes fallen soldiers: 'Brave reserve soldiers who defended Israel's security']]></title>
-            <description><![CDATA[Netanyahu eulogizes fallen soldiers: 'Brave reserve soldiers who defended Israel's security']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694175</guid>
-            <pubDate>Fri, 25 Sep 2026 10:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspect arrested for throwing object at Bennett at Bnei Brak restaurant]]></title>
-            <description><![CDATA[Suspect arrested for throwing object at Bennett at Bnei Brak restaurant]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694174</guid>
-            <pubDate>Fri, 25 Sep 2026 10:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

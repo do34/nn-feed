@@ -4,11 +4,53 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 14:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 18:22:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 14:53:35 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 18:22:38 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Israeli Consulate challenges ‘Naza’ film outside Lincoln Center]]></title>
+            <description><![CDATA[Israeli Consulate takes its fight against NAZA to Lincoln Center, challenging the film’s credibility with giant screens.]]></description>
+            <link>https://www.israelnationalnews.com/news/433674</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433674</guid>
+            <pubDate>Sat, 26 Sep 2026 18:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF eliminates Hamas Nukhba commander]]></title>
+            <description><![CDATA[Two Hamas terrorists, including Nukhba platoon commander, eliminated in separate Gaza strikes after violating ceasefire.]]></description>
+            <link>https://www.israelnationalnews.com/news/433673</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433673</guid>
+            <pubDate>Sat, 26 Sep 2026 17:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sukkot weather shakeup: Heavy rain ahead]]></title>
+            <description><![CDATA[Sukkot weather shakeup: Heavy rain ahead]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694209</guid>
+            <pubDate>Sat, 26 Sep 2026 17:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Los Angeles: Anti-Israel shirt sparks clash outside LA kosher bakery]]></title>
+            <description><![CDATA[A woman wearing an 'Israel kills children' T-shirt drew a response from Jewish teenagers outside a kosher bakery in Pico-Robertson, who waved Israeli flags and sang “Am Yisrael Chai."]]></description>
+            <link>https://www.israelnationalnews.com/news/433671</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433671</guid>
+            <pubDate>Sat, 26 Sep 2026 17:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump rejects Iranian ceasefire proposal]]></title>
+            <description><![CDATA[Trump rejects Iranian ceasefire proposal]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694207</guid>
+            <pubDate>Sat, 26 Sep 2026 16:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF strikes Hezbollah weapons depot threatening troops in Lebanon]]></title>
+            <description><![CDATA[IDF targets Hezbollah weapons storage facility in southern Lebanon after identifying arms used to threaten Israeli soldiers operating in the Security Zone.]]></description>
+            <link>https://www.israelnationalnews.com/news/433669</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433669</guid>
+            <pubDate>Sat, 26 Sep 2026 16:20:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shabbat Shalom and Chag Sameach!]]></title>
             <description><![CDATA[Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat and the holiday of Sukkot in North America, where they are being written now.
@@ -225,18 +267,16 @@ Central Command will receive additional reinforcements, including soldiers from 
         </item>
         <item>
             <title><![CDATA[IDF launches interceptor at suspicious aerial target in southern Lebanon]]></title>
-            <description><![CDATA[A short while ago, an interceptor was launched toward a suspicious aerial target identified in the area in which IDF soldiers are operating in southern Lebanon. The details are under review.
-
-No sirens were sounded in the communities in accordance with protocol.]]></description>
+            <description><![CDATA[IDF launches interceptor at suspicious aerial target in southern Lebanon]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694183</guid>
             <pubDate>Fri, 25 Sep 2026 11:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘He always wanted to do more’: Friend remembers reservist killed by IDF drone blast]]></title>
-            <description><![CDATA[Master Sgt. (res.) Ofek Moalem, killed alongside Master Sgt. (res.) Nadav Kali from the explosion of an IDF drone, completed his mandatory military service two years ago and immediately continued serving in the reserves.]]></description>
-            <link>https://www.israelnationalnews.com/news/433655</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433655</guid>
+            <description><![CDATA[‘He always wanted to do more’: Friend remembers reservist killed by IDF drone blast]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694182</guid>
             <pubDate>Fri, 25 Sep 2026 11:33:00 GMT</pubDate>
         </item>
         <item>
@@ -248,23 +288,23 @@ No sirens were sounded in the communities in accordance with protocol.]]></descr
         </item>
         <item>
             <title><![CDATA[Preparing Israel’s next generation: Intel, Education Ministry join forces]]></title>
-            <description><![CDATA[Education Ministry and Intel sign cooperation agreement to expand AI and STEM education, mentoring programs and technological opportunities for Israeli students.]]></description>
-            <link>https://www.israelnationalnews.com/news/433654</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433654</guid>
+            <description><![CDATA[Preparing Israel’s next generation: Intel, Education Ministry join forces]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694180</guid>
             <pubDate>Fri, 25 Sep 2026 11:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To Noahides:]]></title>
-            <description><![CDATA[For the first time in history, delegates of Noahide communities from every continent are coming to Jerusalem. Look below to find out how to join.]]></description>
-            <link>https://www.israelnationalnews.com/news/433653</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433653</guid>
+            <description><![CDATA[To Noahides:]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694179</guid>
             <pubDate>Fri, 25 Sep 2026 11:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carlson denies allegations, but the numbers tell a different story]]></title>
-            <description><![CDATA[Carlson, a former Fox News commentator, now a prominent voice in anti-Israel discourse, denies the allegations, but Dan Livingston says “Jew" or “Jews" were mentioned 1,546 times on his programs in a single year.]]></description>
-            <link>https://www.israelnationalnews.com/news/433652</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433652</guid>
+            <description><![CDATA[Carlson denies allegations, but the numbers tell a different story]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694178</guid>
             <pubDate>Fri, 25 Sep 2026 11:13:00 GMT</pubDate>
         </item>
         <item>
@@ -294,48 +334,6 @@ No sirens were sounded in the communities in accordance with protocol.]]></descr
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694174</guid>
             <pubDate>Fri, 25 Sep 2026 10:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu lands in Israel]]></title>
-            <description><![CDATA[Netanyahu lands in Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694173</guid>
-            <pubDate>Fri, 25 Sep 2026 10:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: IDF demolishes tunnels below the yellow line]]></title>
-            <description><![CDATA[Watch: IDF demolishes tunnels below the yellow line]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694172</guid>
-            <pubDate>Fri, 25 Sep 2026 10:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu lands in Israel after UN speech]]></title>
-            <description><![CDATA[Netanyahu lands in Israel after UN speech]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694171</guid>
-            <pubDate>Fri, 25 Sep 2026 10:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu’s isolation and the West's shameful part in it]]></title>
-            <description><![CDATA[Netanyahu’s isolation and the West's shameful part in it]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694170</guid>
-            <pubDate>Fri, 25 Sep 2026 10:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: 'Israel’s economy is thriving; Smotrich has a hand in it']]></title>
-            <description><![CDATA[Netanyahu: 'Israel’s economy is thriving; Smotrich has a hand in it']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694169</guid>
-            <pubDate>Fri, 25 Sep 2026 09:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Terrorist who transferred millions of shekels to Hamas in Gaza eliminated]]></title>
-            <description><![CDATA[Terrorist who transferred millions of shekels to Hamas in Gaza eliminated]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694168</guid>
-            <pubDate>Fri, 25 Sep 2026 09:52:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,74 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 17:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 20:58:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Sep 2026 17:33:11 GMT</pubDate>
+        <pubDate>Sun, 27 Sep 2026 20:58:33 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Ben-Gvir vows to see Hamas terrorist executed]]></title>
+            <description><![CDATA[Decades after protesting against Hassan Salameh’s deadly terror campaign, National Security Minister Itamar Ben-Gvir met the terrorist in prison and said he would work to see Hassan put to death.]]></description>
+            <link>https://www.israelnationalnews.com/news/433735</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433735</guid>
+            <pubDate>Sun, 27 Sep 2026 20:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran warns US of 'doomsday war,' claims it has changed military tactics]]></title>
+            <description><![CDATA[Iranian Foreign Minister Abbas Araghchi tells NBC that Tehran is prepared for a 'doomsday war' with the US but remains willing to pursue diplomacy.]]></description>
+            <link>https://www.israelnationalnews.com/news/433734</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433734</guid>
+            <pubDate>Sun, 27 Sep 2026 20:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu's secret trip to Abu Dhabi to meet UAE President]]></title>
+            <description><![CDATA[Channel 12 reports Netanyahu secretly flew to Abu Dhabi for talks with UAE President Mohammed bin Zayed; the Prime Minister's Office has not commented.]]></description>
+            <link>https://www.israelnationalnews.com/news/433733</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433733</guid>
+            <pubDate>Sun, 27 Sep 2026 19:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['That's Me': Gazan student suspended after revealing role in massacre]]></title>
+            <description><![CDATA[Hussein Issa, a student who arrived in the Netherlands a few months ago, was suspended after revealing that he took part in the October 7th massacre.]]></description>
+            <link>https://www.israelnationalnews.com/news/433732</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433732</guid>
+            <pubDate>Sun, 27 Sep 2026 19:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poll: Most Israelis support disqualification of Arab parties]]></title>
+            <description><![CDATA[Kan News poll gives Yashar 23 seats, Likud 21 and Bennett-Lapid 11, with both rival blocs tied at 52 seats just one month before Israel's elections.]]></description>
+            <link>https://www.israelnationalnews.com/news/433731</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433731</guid>
+            <pubDate>Sun, 27 Sep 2026 18:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel retaliates against Dutch boycott, revokes diplomats' immunity]]></title>
+            <description><![CDATA[Following the Dutch boycott of Israeli products, Sa'ar orders diplomats in Ramallah to surrender Israeli-issued documents within seven days.]]></description>
+            <link>https://www.israelnationalnews.com/news/433730</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433730</guid>
+            <pubDate>Sun, 27 Sep 2026 18:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Police drone records elimination of October 7th terrorist]]></title>
+            <description><![CDATA[New police footage shows the elimination of the terrorist accused of driving the motorcycle used to abduct Noa Argamani and Avinatan Or from the Nova festival.]]></description>
+            <link>https://www.israelnationalnews.com/news/433729</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433729</guid>
+            <pubDate>Sun, 27 Sep 2026 18:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From terror to diplomacy? Hamas offers to bring peace to Yemen]]></title>
+            <description><![CDATA[Hamas leader Khalil al-Hayya offers to mediate Yemen's conflict, reveals repeated meetings with US officials, and outlines demands for Gaza's future.]]></description>
+            <link>https://www.israelnationalnews.com/news/433728</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433728</guid>
+            <pubDate>Sun, 27 Sep 2026 17:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu takes aim at Erdogan: Israel preparing international legal case]]></title>
+            <description><![CDATA[Israel is reportedly compiling a legal case against Turkish President Recep Tayyip Erdogan, focusing on his treatment of the Kurds and his ties to Hamas.]]></description>
+            <link>https://www.israelnationalnews.com/news/433727</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433727</guid>
+            <pubDate>Sun, 27 Sep 2026 17:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IDF general visits newtown in Binyamin region]]></title>
             <description><![CDATA[Central Command chief Avi Bluth toured Metzukei Eretz with Binyamin leaders, meeting the 12 families who established the new community.]]></description>
@@ -39,7 +102,9 @@
         </item>
         <item>
             <title><![CDATA[Israeli Foreign Ministry: Closely monitoring situation of Israelis in Ethiopia amid unrest]]></title>
-            <description><![CDATA[Israeli Foreign Ministry: Closely monitoring situation of Israelis in Ethiopia amid unrest]]></description>
+            <description><![CDATA[The Foreign Ministry announced that it is closely monitoring the situation of Israelis staying in areas of Ethiopia where security tensions have escalated.
+
+"We are examining options for their departure in coordination with local authorities, in accordance with developments and security conditions on the ground," the Foreign Ministry said in a statement.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694263</guid>
             <pubDate>Sun, 27 Sep 2026 16:38:00 GMT</pubDate>
@@ -53,9 +118,9 @@
         </item>
         <item>
             <title><![CDATA[Five arrested in suspected Iranian attempt to attack USAF base]]></title>
-            <description><![CDATA[Five arrested in suspected Iranian attempt to attack USAF base]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694261</guid>
+            <description><![CDATA[Five men were arrested after three suspicious vans were spotted heading toward RAF Fairford, as British counter-terror police investigate a possible Iranian-linked terror plot.]]></description>
+            <link>https://www.israelnationalnews.com/news/433722</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433722</guid>
             <pubDate>Sun, 27 Sep 2026 15:57:00 GMT</pubDate>
         </item>
         <item>
@@ -67,9 +132,9 @@
         </item>
         <item>
             <title><![CDATA[AI searches, deleted files raise questions in singer’s death]]></title>
-            <description><![CDATA[AI searches, deleted files raise questions in singer’s death]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694259</guid>
+            <description><![CDATA[New findings in the investigation into Greek singer Giorgos Mazonakis’s death include AI searches about saving a patient, alerts from his treatment device, and deleted medical records and images recovered by investigators.]]></description>
+            <link>https://www.israelnationalnews.com/news/433721</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433721</guid>
             <pubDate>Sun, 27 Sep 2026 15:41:00 GMT</pubDate>
         </item>
         <item>
@@ -95,9 +160,9 @@
         </item>
         <item>
             <title><![CDATA[Report: Hezbollah still has not fully replaced Nasrallah]]></title>
-            <description><![CDATA[Report: Hezbollah still has not fully replaced Nasrallah]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694255</guid>
+            <description><![CDATA[Two years after Nasrallah was killed, reports in Arab media point to the difficulty for Naim Qassem to fill the shoes of the leader who ruled for more than three decades.]]></description>
+            <link>https://www.israelnationalnews.com/news/433717</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433717</guid>
             <pubDate>Sun, 27 Sep 2026 14:48:00 GMT</pubDate>
         </item>
         <item>
@@ -109,9 +174,9 @@
         </item>
         <item>
             <title><![CDATA[Dozens of Israelis trapped in the Himalayas]]></title>
-            <description><![CDATA[Dozens of Israelis trapped in the Himalayas]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694253</guid>
+            <description><![CDATA[Dozens of hikers were stuck in the village of Samgaon in Nepal, at an altitude of about 3,500 meters, after landslides and extreme weather blocked roads and bridges.]]></description>
+            <link>https://www.israelnationalnews.com/news/433715</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433715</guid>
             <pubDate>Sun, 27 Sep 2026 14:34:00 GMT</pubDate>
         </item>
         <item>
@@ -123,9 +188,9 @@
         </item>
         <item>
             <title><![CDATA['Rot in hell': Liri Albag reacts to captor's elimination]]></title>
-            <description><![CDATA['Rot in hell': Liri Albag reacts to captor's elimination]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694251</guid>
+            <description><![CDATA[Liri Albag reacts to the elimination of Muhamma Gabain, who held her and eight other Israelis hostage in Gaza.]]></description>
+            <link>https://www.israelnationalnews.com/news/433713</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433713</guid>
             <pubDate>Sun, 27 Sep 2026 14:15:00 GMT</pubDate>
         </item>
         <item>
@@ -137,9 +202,9 @@
         </item>
         <item>
             <title><![CDATA['Your heart just sinks': Terror victim recounts learning friend was hurt]]></title>
-            <description><![CDATA['Your heart just sinks': Terror victim recounts learning friend was hurt]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694249</guid>
+            <description><![CDATA[Still recovering from a ramming attack, Ofir Engelsman visits the site where childhood friend Neria Leiter was wounded in a similar attack, calling for a new security approach.]]></description>
+            <link>https://www.israelnationalnews.com/news/433711</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433711</guid>
             <pubDate>Sun, 27 Sep 2026 13:47:00 GMT</pubDate>
         </item>
         <item>
@@ -151,74 +216,72 @@
         </item>
         <item>
             <title><![CDATA[Rabbi Hirsch launches plan to tackle haredi housing crisis]]></title>
-            <description><![CDATA[Rabbi Hirsch launches plan to tackle haredi housing crisis]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694247</guid>
+            <description><![CDATA[Rabbi Moshe Hillel Hirsch, leading haredi rabbi, orders urgent action, seeking workable plan to resolve housing crisis.]]></description>
+            <link>https://www.israelnationalnews.com/news/433708</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433708</guid>
             <pubDate>Sun, 27 Sep 2026 13:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Secret of Joy and Unity during Sukkot]]></title>
-            <description><![CDATA[In Moses’ blessing to Issachar and Zevulun lies a message to the Jewish people: complete joy is created when each person recognizes the value of the other, and understands that without him the picture is not complete.]]></description>
-            <link>https://www.israelnationalnews.com/news/433709</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433709</guid>
+            <description><![CDATA[The Secret of Joy and Unity during Sukkot]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694246</guid>
             <pubDate>Sun, 27 Sep 2026 13:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Explosives scare at US airbase in Britain amid Iranian threats]]></title>
-            <description><![CDATA[Several arrested near RAF Fairford as bomb disposal experts examine vehicles and residents are evacuated, following Iranian threats against US bomber base.]]></description>
-            <link>https://www.israelnationalnews.com/news/433702</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433702</guid>
+            <description><![CDATA[Explosives scare at US airbase in Britain amid Iranian threats]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694245</guid>
             <pubDate>Sun, 27 Sep 2026 12:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israeli gymnast Artem Dolgopyat wins gold in FIG Artistic World Challenge Cup]]></title>
-            <description><![CDATA[Israeli gymnast Artem Dolgopyat won the gold medal in the floor exercise final at the 2026 FIG Artistic World Challenge Cup in Paris today, delivering an impressive routine and earning a score of 14.500 points.]]></description>
+            <description><![CDATA[Israeli gymnast Artem Dolgopyat wins gold in FIG Artistic World Challenge Cup]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694244</guid>
             <pubDate>Sun, 27 Sep 2026 12:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Palestinian Arab arrested for alleged burglaries in Modi'in Illit]]></title>
-            <description><![CDATA[Judea and Samaria District police arrested a Palestinian Arab man in his 50s from Shuqba overnight on suspicion of involvement in burglaries at residential homes in Modi'in Illit and the theft of jewelry and cash.
-
-During an operation conducted by the Modi'in Illit police station, accompanied by IDF forces, officers raided the suspect's home. During the search, jewelry believed to have been stolen was seized.]]></description>
+            <description><![CDATA[Palestinian Arab arrested for alleged burglaries in Modi'in Illit]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694243</guid>
             <pubDate>Sun, 27 Sep 2026 12:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chabad to Netanyahu before UN speech: ‘Bring light into the darkness’]]></title>
-            <description><![CDATA[Chabad-Lubavitch delegation presented Prime Minister Benjamin Netanyahu with the Four Species and the Lubavitcher Rebbe’s teachings, offering encouragement ahead of his address to the UN General Assembly.]]></description>
-            <link>https://www.israelnationalnews.com/news/433707</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433707</guid>
+            <description><![CDATA[Chabad to Netanyahu before UN speech: ‘Bring light into the darkness’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694242</guid>
             <pubDate>Sun, 27 Sep 2026 12:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Sukkot celebrations light up yeshivas across Israel]]></title>
-            <description><![CDATA[From Ashkelon to Samaria, Religious Zionist students, rabbis and communities come together for dancing and music at Simchat Beit Hasho'eva celebrations.]]></description>
-            <link>https://www.israelnationalnews.com/news/433705</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433705</guid>
+            <description><![CDATA[Watch: Sukkot celebrations light up yeshivas across Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694241</guid>
             <pubDate>Sun, 27 Sep 2026 11:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF eliminates Hamas commander who held nine Israeli hostages]]></title>
-            <description><![CDATA[Muhammad Gabain, who held nine Israelis captive in Gaza, eliminated in airstrike after working to rebuild Hamas capabilities, plan new attacks.]]></description>
-            <link>https://www.israelnationalnews.com/news/433706</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433706</guid>
+            <description><![CDATA[IDF eliminates Hamas commander who held nine Israeli hostages]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694240</guid>
             <pubDate>Sun, 27 Sep 2026 10:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The spirit of wisdom]]></title>
-            <description><![CDATA[What defines an authentic Sage of Israel?]]></description>
-            <link>https://www.israelnationalnews.com/news/433704</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433704</guid>
+            <description><![CDATA[The spirit of wisdom]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694239</guid>
             <pubDate>Sun, 27 Sep 2026 10:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katz orders full closure of Judea and Samaria over holiday]]></title>
-            <description><![CDATA[Palestinian Authority workers barred from entering Israeli communities during the holiday, with few exceptions.]]></description>
-            <link>https://www.israelnationalnews.com/news/433701</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433701</guid>
+            <description><![CDATA[Katz orders full closure of Judea and Samaria over holiday]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694238</guid>
             <pubDate>Sun, 27 Sep 2026 10:35:00 GMT</pubDate>
         </item>
         <item>
@@ -227,69 +290,6 @@ During an operation conducted by the Modi'in Illit police station, accompanied b
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694237</guid>
             <pubDate>Sun, 27 Sep 2026 10:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smotrich: Wage war on terror in Judea and Samaria - just like in Gaza]]></title>
-            <description><![CDATA[Smotrich: Wage war on terror in Judea and Samaria - just like in Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694236</guid>
-            <pubDate>Sun, 27 Sep 2026 09:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caught on camera: Gaza terrorist uses child to move weapons]]></title>
-            <description><![CDATA[Caught on camera: Gaza terrorist uses child to move weapons]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694235</guid>
-            <pubDate>Sun, 27 Sep 2026 09:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sukkot: The perspective From heaven]]></title>
-            <description><![CDATA[Sukkot: The perspective From heaven]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694234</guid>
-            <pubDate>Sun, 27 Sep 2026 08:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two haredi IDF battalions join forces in northern Israel for first time]]></title>
-            <description><![CDATA[Two haredi IDF battalions join forces in northern Israel for first time]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694233</guid>
-            <pubDate>Sun, 27 Sep 2026 08:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A thousand etrogim cannot replace one aravah]]></title>
-            <description><![CDATA[A thousand etrogim cannot replace one aravah]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694232</guid>
-            <pubDate>Sun, 27 Sep 2026 08:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NAZA’s allegation of a system: What the evidence really shows]]></title>
-            <description><![CDATA[NAZA’s allegation of a system: What the evidence really shows]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694231</guid>
-            <pubDate>Sun, 27 Sep 2026 07:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jewish surgeon fired after October 7? US sues Ohio hospital]]></title>
-            <description><![CDATA[Jewish surgeon fired after October 7? US sues Ohio hospital]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694230</guid>
-            <pubDate>Sun, 27 Sep 2026 07:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gallant reveals: Hamas warned Shin Bet weeks before October 7]]></title>
-            <description><![CDATA[Gallant reveals: Hamas warned Shin Bet weeks before October 7]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694229</guid>
-            <pubDate>Sun, 27 Sep 2026 07:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wokes demand a new hierarchy - not equality]]></title>
-            <description><![CDATA[Wokes demand a new hierarchy - not equality]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694228</guid>
-            <pubDate>Sun, 27 Sep 2026 07:24:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

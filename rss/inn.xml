@@ -4,11 +4,60 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 00:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 06:19:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Sep 2026 00:17:50 GMT</pubDate>
+        <pubDate>Sun, 27 Sep 2026 06:19:00 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Report: Noa Argamani's kidnapper eliminated in Gaza strike]]></title>
+            <description><![CDATA[Terrorist filmed riding the motorcycle carrying Noa Argamani into Gaza on October 7 reportedly killed in Nuseirat, as Israel continues its hunt for the kidnappers.]]></description>
+            <link>https://www.israelnationalnews.com/news/433687</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433687</guid>
+            <pubDate>Sun, 27 Sep 2026 06:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asher to haredi voters: Don't fall for Smotrich and Ben Gvir]]></title>
+            <description><![CDATA[UTJ chairman MK Yakov Asher urges haredi unity, warns against rival parties courting haredi voters.]]></description>
+            <link>https://www.israelnationalnews.com/news/433686</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433686</guid>
+            <pubDate>Sun, 27 Sep 2026 05:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Terrorist who kidnapped Noa Argamani on October 7 is eliminated]]></title>
+            <description><![CDATA[Report: Terrorist who kidnapped Noa Argamani on October 7 is eliminated]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694223</guid>
+            <pubDate>Sun, 27 Sep 2026 05:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mamdani’s genocide accusation: Why the silence on Iran?]]></title>
+            <description><![CDATA[Mamdani’s genocide accusation: Why the silence on Iran?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694222</guid>
+            <pubDate>Sun, 27 Sep 2026 05:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI halts training after AI model bypasses restrictions]]></title>
+            <description><![CDATA[AI agent reportedly bypasses internet restrictions during OpenAI training run, prompting company to suspend some advanced model training.]]></description>
+            <link>https://www.israelnationalnews.com/news/433684</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433684</guid>
+            <pubDate>Sun, 27 Sep 2026 04:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cassif compares IDF to Hamas]]></title>
+            <description><![CDATA[Cassif compares IDF to Hamas]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694220</guid>
+            <pubDate>Sun, 27 Sep 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huckabee fires back at Mamdani: "Israel didn't commit genocide"]]></title>
+            <description><![CDATA[U.S. Ambassador Mike Huckabee rejected genocide accusations against Israel and blasted New York Mayor Mamdani's threats against Prime Minister Benjamin Netanyahu, saying: "You can't silence the truth."]]></description>
+            <link>https://www.israelnationalnews.com/news/433682</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433682</guid>
+            <pubDate>Sun, 27 Sep 2026 01:48:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ex-Haniyeh Bodyguard Granted UK Citizenship, Later Arrested Over Alleged Anti-Jewish Plot]]></title>
             <description><![CDATA[Haniyeh’s former bodyguard gained UK citizenship before his arrest over an alleged plot to target Jews in Europe and UK.]]></description>
@@ -196,65 +245,49 @@ The incident is under review.
         </item>
         <item>
             <title><![CDATA[Chag Sameach from Israel!]]></title>
-            <description><![CDATA[Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of the holiday of Sukkot. Jerusalem candle lighting time is 17:52 on Friday. Our North American desk will keep you informed until the 18:30 EDT candle lighting time in New York.
-
-The updates from Israel will resume Saturday night, following the conclusion of Shabbat and Sukkot at 19:07 in Jerusalem.
-
-Shabbat Shalom and Chag Sameach!]]></description>
+            <description><![CDATA[Chag Sameach from Israel!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_306095</guid>
             <pubDate>Fri, 25 Sep 2026 15:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russian strikes in Ukraine shut down country’s largest steel plant]]></title>
-            <description><![CDATA[Ukraine’s largest steel plant has been shut down following Russian strikes after ArcelorMittal announced that it was no longer safe to continue operating the facility.
-
-Meanwhile, five people were killed in Russian strikes on Kyiv, including a 14-year-old Israeli boy. Other areas across the Ukrainian capital were also hit.]]></description>
+            <description><![CDATA[Russian strikes in Ukraine shut down country’s largest steel plant]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694196</guid>
             <pubDate>Fri, 25 Sep 2026 14:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liberman: Next coalition must be built on values of a Jewish and democratic state]]></title>
-            <description><![CDATA[Yisrael Beytenu chairman Avigdor Liberman said the next coalition must be based on the principles of a Jewish and democratic state, equal rights and obligations, and “one law" for all citizens.
-
-He said that following “the three most difficult years in the history of the State of Israel," the country must return to the values on which it was founded, which he said were reflected in Theodor Herzl’s "The Jewish State" and in Israel’s Declaration of Independence.]]></description>
+            <description><![CDATA[Liberman: Next coalition must be built on values of a Jewish and democratic state]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694195</guid>
             <pubDate>Fri, 25 Sep 2026 14:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zelenskyy: US proposed trilateral meeting with Russia and Ukraine in UAE]]></title>
-            <description><![CDATA[Ukrainian President Volodymyr Zelenskyy said that during his meeting with US President Donald Trump, Washington proposed holding technical-level trilateral talks in the United Arab Emirates involving the US, Ukraine and Russia.
-
-According to Zelenskyy, no date has yet been set for the meeting, and Ukraine is awaiting the US proposal on the matter.]]></description>
+            <description><![CDATA[Zelenskyy: US proposed trilateral meeting with Russia and Ukraine in UAE]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694194</guid>
             <pubDate>Fri, 25 Sep 2026 14:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF eliminates Hamas commander who took part in holding October 7 hostages]]></title>
-            <description><![CDATA[Hassan Mahmoud Siam infiltrated Israel during the October 7 massacre and was involved in holding Amit Soussana, Keith and Aviva Siegel, and Dafna Elyakim captive in Gaza.]]></description>
-            <link>https://www.israelnationalnews.com/news/433660</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/433660</guid>
+            <description><![CDATA[IDF eliminates Hamas commander who took part in holding October 7 hostages]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694193</guid>
             <pubDate>Fri, 25 Sep 2026 13:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ahead of UN speech, Netanyahu meets Chabad delegation and receives Four Species]]></title>
-            <description><![CDATA[Prime Minister Benjamin Netanyahu met with a delegation of Chabad rabbis before departing for New York. The delegation presented him with the Four Species and spoke with him ahead of his UN address.
-
-During the meeting, the participants sang “L’chatchila Ariber" with Netanyahu and presented him with the book Oseh Shalom.
-
-Rabbi Yosef Yitzchak Aharonov told Netanyahu: “You are going there carrying a great torch on behalf of the entire Jewish people."]]></description>
+            <description><![CDATA[Ahead of UN speech, Netanyahu meets Chabad delegation and receives Four Species]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694192</guid>
             <pubDate>Fri, 25 Sep 2026 13:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senior Iran leader's adviser threatens regional aviation: 'Flights open to everyone - or no one']]></title>
-            <description><![CDATA[Mohammad Mokhber, a senior adviser to Iran’s Supreme Leader, threatened Friday to disrupt air traffic across the region amid US sanctions on Iran’s aviation industry.
-
-“If Iran cannot operate flights and receive aviation services at airports, no other country in the region will be able to do so either," he said.]]></description>
+            <description><![CDATA[Senior Iran leader's adviser threatens regional aviation: 'Flights open to everyone - or no one']]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694191</guid>
             <pubDate>Fri, 25 Sep 2026 13:29:00 GMT</pubDate>
@@ -279,55 +312,6 @@ Rabbi Yosef Yitzchak Aharonov told Netanyahu: “You are going there carrying a 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694188</guid>
             <pubDate>Fri, 25 Sep 2026 12:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14-year-old Israeli killed in drone strike on Kyiv residential building]]></title>
-            <description><![CDATA[14-year-old Israeli killed in drone strike on Kyiv residential building]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694187</guid>
-            <pubDate>Fri, 25 Sep 2026 12:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘The crown of our head has fallen’: Rabbi David Batzri laid to rest]]></title>
-            <description><![CDATA[‘The crown of our head has fallen’: Rabbi David Batzri laid to rest]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694186</guid>
-            <pubDate>Fri, 25 Sep 2026 12:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF reinforces several sectors ahead of Sukkot]]></title>
-            <description><![CDATA[IDF reinforces several sectors ahead of Sukkot]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694185</guid>
-            <pubDate>Fri, 25 Sep 2026 12:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Special Arutz Sheva interview: Operating at sea - in ways one can only imagine]]></title>
-            <description><![CDATA[Special Arutz Sheva interview: Operating at sea - in ways one can only imagine]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694184</guid>
-            <pubDate>Fri, 25 Sep 2026 11:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF launches interceptor at suspicious aerial target in southern Lebanon]]></title>
-            <description><![CDATA[IDF launches interceptor at suspicious aerial target in southern Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694183</guid>
-            <pubDate>Fri, 25 Sep 2026 11:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘He always wanted to do more’: Friend remembers reservist killed by IDF drone blast]]></title>
-            <description><![CDATA[‘He always wanted to do more’: Friend remembers reservist killed by IDF drone blast]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694182</guid>
-            <pubDate>Fri, 25 Sep 2026 11:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14-year-old Israeli killed in Russian drone strike on Kyiv]]></title>
-            <description><![CDATA[14-year-old Israeli killed in Russian drone strike on Kyiv]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694181</guid>
-            <pubDate>Fri, 25 Sep 2026 11:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,39 +1,4 @@
 {
-  "flash_694205": {
-    "description": "UN human rights office adds 61 companies to its database of companies blacklisted over activities in Judea and Samaria, drawing condemnation from Israel.\n\n(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Sukkot in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)",
-    "link": "/news/433668",
-    "date": "Sep 26, 2026"
-  },
-  "flash_694204": {
-    "description": "Brooklyn man faces hate-crime charges after allegedly chasing a Jewish victim with a knife while shouting “Heil f---ing Hitler\".\n\n(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Sukkot in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)",
-    "link": "/news/433667",
-    "date": "Sep 26, 2026"
-  },
-  "flash_222161": {
-    "description": "Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat and the holiday of Sukkot in North America, where they are being written now.\n\nUpdates will resume Sunday night from Israel, following the conclusion of Shabbat and Sukkot at 19:07 Jerusalem time.\n\nShabbat Shalom and Chag Sameach!",
-    "link": "/flashes",
-    "date": "Sep 26, 2026"
-  },
-  "flash_694211": {
-    "description": "Israeli Consulate takes its fight against NAZA to Lincoln Center, challenging the film’s credibility with giant screens.",
-    "link": "/news/433674",
-    "date": "Sep 26, 2026"
-  },
-  "flash_694210": {
-    "description": "Two Hamas terrorists, including Nukhba platoon commander, eliminated in separate Gaza strikes after violating ceasefire.",
-    "link": "/news/433673",
-    "date": "Sep 26, 2026"
-  },
-  "flash_694208": {
-    "description": "A woman wearing an 'Israel kills children' T-shirt drew a response from Jewish teenagers outside a kosher bakery in Pico-Robertson, who waved Israeli flags and sang “Am Yisrael Chai.\"",
-    "link": "/news/433671",
-    "date": "Sep 26, 2026"
-  },
-  "flash_694206": {
-    "description": "IDF targets Hezbollah weapons storage facility in southern Lebanon after identifying arms used to threaten Israeli soldiers operating in the Security Zone.",
-    "link": "/news/433669",
-    "date": "Sep 26, 2026"
-  },
   "flash_694218": {
     "description": "Haniyeh’s former bodyguard gained UK citizenship before his arrest over an alleged plot to target Jews in Europe and UK.",
     "link": "/news/433681",
@@ -44,40 +9,10 @@
     "link": "/news/433680",
     "date": "Sep 27, 2026"
   },
-  "flash_694215": {
-    "description": "Security experts tell i24NEWS of the threat from armed Palestinian Authority forces, raising questions about their training, growing numbers and the future of security coordination.",
-    "link": "/news/433677",
-    "date": "Sep 26, 2026"
-  },
-  "flash_694213": {
-    "description": "Bezalel Zini requests six-hour break from house arrest to visit his brother, Shin Bet Director David Zini, for a family gathering.",
-    "link": "/news/433675",
-    "date": "Sep 26, 2026"
-  },
-  "flash_694209": {
-    "description": "Pleasant holiday weather set to give way to rain and falling temperatures, forecasters say.",
-    "link": "/news/433672",
-    "date": "Sep 26, 2026"
-  },
-  "flash_694207": {
-    "description": "Trump rejects Tehran’s seven-day ceasefire plan to reopen the Strait of Hormuz, as Iran insists Washington must meet its conditions before nuclear talks can resume.",
-    "link": "/news/433670",
-    "date": "Sep 26, 2026"
-  },
   "flash_694216": {
     "description": "NYPD investigates whether three men emerging from a sewer near Netanyahu’s hotel posed a security threat.",
     "link": "/news/433679",
     "date": "Sep 27, 2026"
-  },
-  "flash_694214": {
-    "description": "Belgian intelligence says attacks on a synagogue and Jewish neighborhood were carried out in response to an Iranian call targeting Jewish and Israeli interests worldwide.",
-    "link": "/news/433678",
-    "date": "Sep 26, 2026"
-  },
-  "flash_694212": {
-    "description": "A new investigation says Abbas Kamel spent all of 67 minutes in Israel warning of a looming Hamas escalation.",
-    "link": "/news/433676",
-    "date": "Sep 26, 2026"
   },
   "flash_694225": {
     "description": "Terrorist filmed riding the motorcycle carrying Noa Argamani into Gaza on October 7 reportedly killed in Nuseirat, as Israel continues its hunt for the kidnappers.",
@@ -632,6 +567,76 @@
   "flash_694322": {
     "description": "Overnight (Monday), IDF observation posts and the Israeli Air Force’s Aerial Control Unit identified a drone crossing from the east into Israeli territory in an attempt to smuggle weapons.\n\nFollowing the identification, IDF soldiers were dispatched to the area and located the drone, which was carrying nine Kalashnikov rifles, magazines, and a handgun.\n\nThe weapons were transferred to the security forces for further handling.",
     "link": "/flashes",
+    "date": "Sep 28, 2026"
+  },
+  "flash_694363": {
+    "description": "Arkia, Sun d’Or and Israir are set to launch direct flights to Morocco this fall as Israel-Morocco ties deepen and travel demand rises.",
+    "link": "/news/433807",
+    "date": "Sep 29, 2026"
+  },
+  "flash_694362": {
+    "description": "Thousands from across Israel take part in the traditional Jerusalem March during Sukkot, concluding with a festive family celebration in Sacher Park.",
+    "link": "/news/433806",
+    "date": "Sep 29, 2026"
+  },
+  "flash_694361": {
+    "description": "Lebanese PM Nawaf Salam urges implementation of the Israel framework, including an Israeli withdrawal and Hezbollah disarmament, during talks with Rubio.",
+    "link": "/news/433805",
+    "date": "Sep 29, 2026"
+  },
+  "flash_694359": {
+    "description": "The Finance Ministry opposes ZIM’s request to approve its proposed merger with German shipping giant Hapag-Lloyd and FIMI Opportunity Funds.",
+    "link": "/news/433804",
+    "date": "Sep 29, 2026"
+  },
+  "flash_694357": {
+    "description": "Home Front Command: Terrorist infiltration ruled out in Havat Maginzi in Samaria",
+    "link": "/flashes",
+    "date": "Sep 29, 2026"
+  },
+  "flash_694355": {
+    "description": "OpenAI has scrapped plans to release GPT-6.1 Astra after the AI model failed to meet the company’s safety standards amid growing scrutiny of AI security.",
+    "link": "/news/433802",
+    "date": "Sep 29, 2026"
+  },
+  "flash_694353": {
+    "description": "Sirens were sounded in Samaria following a suspected terrorist infiltration at Havat Maginzi.\n\nResidents were instructed to enter their safe rooms, securely lock the doors, and remain below window level. Residents are instructed not to leave the safe room until receiving an official notification from the authorities.",
+    "link": "/flashes",
+    "date": "Sep 29, 2026"
+  },
+  "flash_694351": {
+    "description": "Iranian parliament member Hamid Rezaei has been sentenced to 10 months in the notorious Evin Prison after being convicted of “publishing false statements\" against Parliament Speaker Mohammad-Bagher Ghalibaf.",
+    "link": "/flashes",
+    "date": "Sep 29, 2026"
+  },
+  "flash_694348": {
+    "description": "President Trump rejects an Axios report that he offered Iran sanctions relief and frozen funds, insisting, “I offered them NOTHING!\"",
+    "link": "/news/433799",
+    "date": "Sep 29, 2026"
+  },
+  "flash_694346": {
+    "description": "Trump says the Iran war will end “very soon\" with a US victory, warning of the global consequences of a nuclear-armed Iran: Israel would be wiped out, there would be no Middle East",
+    "link": "/news/433798",
+    "date": "Sep 29, 2026"
+  },
+  "flash_694343": {
+    "description": "A surprise inspection conducted by the Ministry at the “Medica\" clinic in Ramat Hahayal found medical staff exceeding their professional authority, systemic failures, and an immediate danger to patients.",
+    "link": "/news/433796",
+    "date": "Sep 28, 2026"
+  },
+  "flash_694341": {
+    "description": "Ahead of the US release of a new documentary, details are being allowed for publication from behind the scenes of the pager operation in September 2024.",
+    "link": "/news/433793",
+    "date": "Sep 28, 2026"
+  },
+  "flash_694339": {
+    "description": "MDA paramedic Tzvika Rider, whose son was murdered in Be'eri on October 7, took his first call in the new ambulance dedicated to his son's memory, and it was a woman in labor.",
+    "link": "/news/433794",
+    "date": "Sep 28, 2026"
+  },
+  "flash_694337": {
+    "description": "The PA Foreign Ministry issued a statement against comments by Finance Minister Bezalel Smotrich, who responded: “The terror authority understands the significance of the settlement revolution.\"",
+    "link": "/news/433792",
     "date": "Sep 28, 2026"
   }
 }

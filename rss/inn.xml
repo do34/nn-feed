@@ -4,11 +4,32 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 22:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 01:39:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Oct 2026 22:48:06 GMT</pubDate>
+        <pubDate>Mon, 05 Oct 2026 01:39:25 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IDF honors Unit 8200 officer who warned before Oct. 7]]></title>
+            <description><![CDATA[IDF Chief of Staff Eyal Zamir honors Unit 8200 CWO who warned before October 7 that Hamas was preparing a large-scale surprise attack.]]></description>
+            <link>https://www.israelnationalnews.com/news/434110</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434110</guid>
+            <pubDate>Mon, 05 Oct 2026 01:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brazil election headed to runoff as no candidate secures 50%]]></title>
+            <description><![CDATA[Flavio Bolsonaro leads Brazil's President Lula with 48.47% of the vote as results come in, meaning a runoff will take place on October 25.]]></description>
+            <link>https://www.israelnationalnews.com/news/434109</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434109</guid>
+            <pubDate>Mon, 05 Oct 2026 00:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US withdraws bombers from UK base amid suspected Iran-backed terror plot]]></title>
+            <description><![CDATA[The US has withdrawn all bombers from RAF Fairford in England after commanders received new threats about a suspected Iran-backed plot targeting the base.]]></description>
+            <link>https://www.israelnationalnews.com/news/434108</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434108</guid>
+            <pubDate>Sun, 04 Oct 2026 23:58:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Suspect eliminated attempting to infiltrate IDF post in southern Syria Security Zone]]></title>
             <description><![CDATA[A short while ago, IDF soldiers identified a suspect attempting to infiltrate an IDF post in the Security Zone in southern Syria. Following a quick identification, the soldiers fired toward the suspect and eliminated him. No IDF injuries were reported.]]></description>
@@ -32,9 +53,9 @@
         </item>
         <item>
             <title><![CDATA[Security failures exposed after Flydubai incident]]></title>
-            <description><![CDATA[Security failures exposed after Flydubai incident]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694751</guid>
+            <description><![CDATA[An NSC probe will examine a series of warnings, missed intelligence and unresolved responsibility questions that allowed the hijacker to fly to Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/434105</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434105</guid>
             <pubDate>Sun, 04 Oct 2026 20:50:00 GMT</pubDate>
         </item>
         <item>
@@ -55,9 +76,9 @@ Eisenkot called on Netanyahu to provide the public with direct answers regarding
         </item>
         <item>
             <title><![CDATA[Ireland players snub Israeli team a second time]]></title>
-            <description><![CDATA[Ireland players snub Israeli team a second time]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694748</guid>
+            <description><![CDATA[Ireland’s players lowered their heads during Hatikvah and refused the customary handshake as political tensions overshadowed their latest Nations League meeting with Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/434102</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434102</guid>
             <pubDate>Sun, 04 Oct 2026 19:53:00 GMT</pubDate>
         </item>
         <item>
@@ -69,9 +90,9 @@ Eisenkot called on Netanyahu to provide the public with direct answers regarding
         </item>
         <item>
             <title><![CDATA[March honoring fight against antisemitism marred by antisemitism]]></title>
-            <description><![CDATA[March honoring fight against antisemitism marred by antisemitism]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694746</guid>
+            <description><![CDATA[A march marking the 1936 stand against fascists in Jewish east London drew chants excluding Zionists, as Jewish groups fought to reclaim their place in its history.]]></description>
+            <link>https://www.israelnationalnews.com/news/434100</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434100</guid>
             <pubDate>Sun, 04 Oct 2026 19:41:00 GMT</pubDate>
         </item>
         <item>
@@ -184,9 +205,9 @@ Recently, the terrorist was identified advancing terrorist activities against ID
         </item>
         <item>
             <title><![CDATA[Israel to open embassy in Congo]]></title>
-            <description><![CDATA[Israel to open embassy in Congo]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694731</guid>
+            <description><![CDATA[Israel will establish an embassy in Kinshasa, the capital of the Democratic Republic of the Congo, as the Congolese government prepares to move its embassy in Israel to Jerusalem.]]></description>
+            <link>https://www.israelnationalnews.com/news/434086</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434086</guid>
             <pubDate>Sun, 04 Oct 2026 15:44:00 GMT</pubDate>
         </item>
         <item>
@@ -212,23 +233,23 @@ Recently, the terrorist was identified advancing terrorist activities against ID
         </item>
         <item>
             <title><![CDATA[Smotrich orders drop in fuel prices]]></title>
-            <description><![CDATA[The order signed by the Finance Minister following an agreement with the prime minister reduces the fuel excise tax, so that the price of 95-octane gasoline will fall from 8.27 shekels to 7.77 shekels per liter.]]></description>
-            <link>https://www.israelnationalnews.com/news/434082</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434082</guid>
+            <description><![CDATA[Smotrich orders drop in fuel prices]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694727</guid>
             <pubDate>Sun, 04 Oct 2026 13:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Stop lying’: Protesters confront ‘NAZA’ screening in the Hamptons]]></title>
-            <description><![CDATA[About 100 protesters gathered outside Sag Harbor Cinema, while the IAC urged future screenings to include survivor testimony and context.]]></description>
-            <link>https://www.israelnationalnews.com/news/434081</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434081</guid>
+            <description><![CDATA[‘Stop lying’: Protesters confront ‘NAZA’ screening in the Hamptons]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694726</guid>
             <pubDate>Sun, 04 Oct 2026 13:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arutz Sheva Exclusive IDF rabbi relives the horrors he saw after the massacre]]></title>
-            <description><![CDATA[Rabbi Avihud Schwartz, head of the halakha division in the IDF Rabbinate, tells Arutz Sheva about the unbearable scenes, agonizing identifications, and emotional encounters with families that have stayed with him since October 7.]]></description>
-            <link>https://www.israelnationalnews.com/news/434079</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434079</guid>
+            <description><![CDATA[Arutz Sheva Exclusive IDF rabbi relives the horrors he saw after the massacre]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694725</guid>
             <pubDate>Sun, 04 Oct 2026 12:53:00 GMT</pubDate>
         </item>
         <item>
@@ -279,27 +300,6 @@ Recently, the terrorist was identified advancing terrorist activities against ID
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694718</guid>
             <pubDate>Sun, 04 Oct 2026 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Channel 14's unusual attack on Likud]]></title>
-            <description><![CDATA[Channel 14's unusual attack on Likud]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694717</guid>
-            <pubDate>Sun, 04 Oct 2026 10:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police mishap: Thieves released with stolen goods]]></title>
-            <description><![CDATA[Police mishap: Thieves released with stolen goods]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694716</guid>
-            <pubDate>Sun, 04 Oct 2026 09:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspected Ebola case at Sheba Medical Center]]></title>
-            <description><![CDATA[Suspected Ebola case at Sheba Medical Center]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694715</guid>
-            <pubDate>Sun, 04 Oct 2026 09:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

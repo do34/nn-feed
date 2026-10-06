@@ -4,11 +4,55 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 19:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 23:36:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Oct 2026 19:22:38 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 23:36:26 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Texas Gov. Abbott orders flags lowered in memory of October 7 victims]]></title>
+            <description><![CDATA[Texas Governor Greg Abbott orders US and Texas flags lowered to half-staff to honor the victims of Hamas’ October 7 massacre, on the third anniversary of the attack.]]></description>
+            <link>https://www.israelnationalnews.com/news/434215</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434215</guid>
+            <pubDate>Tue, 06 Oct 2026 23:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It can never be erased': Israel marks October 7 anniversary at the UN]]></title>
+            <description><![CDATA[Israel’s UN mission marks three years since October 7 with Eliya Cohen and Ziv Abud sharing their story as US envoy Mike Waltz vows it won’t happen again.]]></description>
+            <link>https://www.israelnationalnews.com/news/434214</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434214</guid>
+            <pubDate>Tue, 06 Oct 2026 22:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reports from Gaza: Explosion in eastern Gaza City, fighter jets flying at low altitude]]></title>
+            <description><![CDATA[Arab channels report that IDF forces detonated an explosive device in the eastern part of the Tuffah neighborhood in Gaza City. Columns of smoke were seen in the area following the explosion.
+
+It was also reported that Israeli fighter jets are flying at low altitude over the Gaza Strip and releasing flares.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694876</guid>
+            <pubDate>Tue, 06 Oct 2026 21:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Satellite images reveal: Iran has resumed activity at nuclear site struck by Israel]]></title>
+            <description><![CDATA[Satellite images reveal: Iran has resumed activity at nuclear site struck by Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694875</guid>
+            <pubDate>Tue, 06 Oct 2026 21:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump: Iran war will end 'pretty soon', you’ll find out how]]></title>
+            <description><![CDATA[President Trump predicts the Iran war will end “pretty soon", adding: “They’re not a bully anymore."]]></description>
+            <link>https://www.israelnationalnews.com/news/434212</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434212</guid>
+            <pubDate>Tue, 06 Oct 2026 20:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Class action lawsuit against Rami Levy approved]]></title>
+            <description><![CDATA[Class action lawsuit against Rami Levy approved]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694873</guid>
+            <pubDate>Tue, 06 Oct 2026 19:34:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zini warns the security cabinet about developments in the Bedouin sector]]></title>
             <description><![CDATA[Shin Bet chief David Zini warned of 'very concerning' attempts to establish 'quasi-military' frameworks in the Bedouin sector.]]></description>
@@ -186,37 +230,37 @@
         </item>
         <item>
             <title><![CDATA[Netanyahu warns: Hamas may try to influence Israeli elections]]></title>
-            <description><![CDATA[Prime Minister Netanyahu says Hamas may try to attack Israel ahead of elections to influence vote, warns Israel prepared to thwart such attempts, respond with 'tremendous force.']]></description>
-            <link>https://www.israelnationalnews.com/news/434188</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434188</guid>
+            <description><![CDATA[Netanyahu warns: Hamas may try to influence Israeli elections]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694847</guid>
             <pubDate>Tue, 06 Oct 2026 11:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sa’ar: 'We don't have the privilege of surrendering']]></title>
-            <description><![CDATA[Foreign Minister Gideon Sa’ar warns international political, legal and economic pressure aims to force Israel to establish Palestinian state that would threaten Israel's very existence.]]></description>
-            <link>https://www.israelnationalnews.com/news/434186</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434186</guid>
+            <description><![CDATA[Sa’ar: 'We don't have the privilege of surrendering']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694846</guid>
             <pubDate>Tue, 06 Oct 2026 11:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saudi-backed forces capture Mokha]]></title>
-            <description><![CDATA[Saudi-backed Yemeni forces capture strategic port city of Mokha, after Houthi attacks Jazan and Najran airports, causing injuries and damage.]]></description>
-            <link>https://www.israelnationalnews.com/news/434185</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434185</guid>
+            <description><![CDATA[Saudi-backed forces capture Mokha]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694845</guid>
             <pubDate>Tue, 06 Oct 2026 11:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ASOS users hit with alarming hack warning from official app]]></title>
-            <description><![CDATA[Thousands of users received a shocking notification claiming hackers had breached ASOS systems and were threatening to leak data - sent on the company's own app.]]></description>
-            <link>https://www.israelnationalnews.com/news/434187</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434187</guid>
+            <description><![CDATA[ASOS users hit with alarming hack warning from official app]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694844</guid>
             <pubDate>Tue, 06 Oct 2026 10:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UTJ chairman warns of haredi voter turnout drop]]></title>
-            <description><![CDATA[MK Yaakov Asher warns demographic growth in haredi community must be reflected at polls, amid anger over the draft crisis and competition from new haredi parties.]]></description>
-            <link>https://www.israelnationalnews.com/news/434174</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434174</guid>
+            <description><![CDATA[UTJ chairman warns of haredi voter turnout drop]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694843</guid>
             <pubDate>Tue, 06 Oct 2026 10:21:00 GMT</pubDate>
         </item>
         <item>
@@ -246,48 +290,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694839</guid>
             <pubDate>Tue, 06 Oct 2026 08:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Avinatan Or reveals: Terrorist promised another October 7]]></title>
-            <description><![CDATA[Avinatan Or reveals: Terrorist promised another October 7]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694838</guid>
-            <pubDate>Tue, 06 Oct 2026 07:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katz raises Gaza alert ahead of October 7 anniversary]]></title>
-            <description><![CDATA[Katz raises Gaza alert ahead of October 7 anniversary]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694837</guid>
-            <pubDate>Tue, 06 Oct 2026 07:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guterres marks October 7 with call for a permanent Gaza ceasefire]]></title>
-            <description><![CDATA[Guterres marks October 7 with call for a permanent Gaza ceasefire]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694836</guid>
-            <pubDate>Tue, 06 Oct 2026 07:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amcha Yisrael candidate: Open to government with center-left]]></title>
-            <description><![CDATA[Amcha Yisrael candidate: Open to government with center-left]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694835</guid>
-            <pubDate>Tue, 06 Oct 2026 06:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gaza intelligence officer's explosive defense revealed]]></title>
-            <description><![CDATA[Gaza intelligence officer's explosive defense revealed]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694834</guid>
-            <pubDate>Tue, 06 Oct 2026 05:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Car explosion in Jerusalem leaves two injured]]></title>
-            <description><![CDATA[Car explosion in Jerusalem leaves two injured]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_694833</guid>
-            <pubDate>Tue, 06 Oct 2026 05:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 10:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 16:10:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Oct 2026 10:58:00 GMT</pubDate>
+        <pubDate>Sat, 10 Oct 2026 16:10:04 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[IDF eliminates two terrorists in Gaza, including October 7 attacker]]></title>
+            <description><![CDATA[IDF, Shin Bet, eliminates Islamic Jihad commander who infiltrated Israel on October 7, Hamas Nukhba terrorist in separate strikes in Khan Yunis.]]></description>
+            <link>https://www.israelnationalnews.com/news/434378</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434378</guid>
+            <pubDate>Sat, 10 Oct 2026 16:04:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shabbat Shalom!]]></title>
             <description><![CDATA[Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat in North America, where they are being written now.
@@ -260,9 +267,9 @@ The Prime Minister’s Office said the two expressed their intention to renew th
         </item>
         <item>
             <title><![CDATA[Mamdani spit on the graves of October 7 victims]]></title>
-            <description><![CDATA[Acknowledging the reality of who the aggressors were, the scale and barbaric nature of the atrocities they committed, and the basic humanity of the victims, would put the war into a “context" Mamdani can never admit. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/434352</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434352</guid>
+            <description><![CDATA[Mamdani spit on the graves of October 7 victims]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695049</guid>
             <pubDate>Fri, 09 Oct 2026 10:08:00 GMT</pubDate>
         </item>
         <item>
@@ -327,13 +334,6 @@ The Prime Minister’s Office said the two expressed their intention to renew th
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695040</guid>
             <pubDate>Fri, 09 Oct 2026 08:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Environment Ministry traps West Nile virus-infected mosquitoes in northern and central Israel]]></title>
-            <description><![CDATA[Environment Ministry traps West Nile virus-infected mosquitoes in northern and central Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695039</guid>
-            <pubDate>Fri, 09 Oct 2026 08:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

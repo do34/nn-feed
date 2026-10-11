@@ -4,11 +4,78 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 18:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 22:41:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 18:38:15 GMT</pubDate>
+        <pubDate>Sun, 11 Oct 2026 22:41:25 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Ben Gvir convinced: Likud wants to form a government with Eisenkot]]></title>
+            <description><![CDATA[Otzma Yehudit chairman Itamar Ben Gvir warns that Likud could join forces with Gadi Eisenkot, but stresses: "My only candidate for prime minister is Netanyahu."]]></description>
+            <link>https://www.israelnationalnews.com/news/434449</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434449</guid>
+            <pubDate>Sun, 11 Oct 2026 22:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF to conduct military exercise in Dead Sea hotel area on Monday]]></title>
+            <description><![CDATA[A military exercise will take place Monday morning in the Dead Sea hotel area, within the Tamar and Megilot Regional Councils.
+
+During the exercise, increased activity by security forces and military vehicles is expected in the area, and gunfire and explosions will be heard.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695166</guid>
+            <pubDate>Sun, 11 Oct 2026 21:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Footage shows deadly Houthi missile strike on Riyadh airport]]></title>
+            <description><![CDATA[Watch: Footage shows deadly Houthi missile strike on Riyadh airport]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695165</guid>
+            <pubDate>Sun, 11 Oct 2026 21:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF: Terrorist who crossed Yellow Line in southern Gaza eliminated]]></title>
+            <description><![CDATA[IDF forces operating in the southern Gaza Strip identified a terrorist earlier on Sunday who crossed the Yellow Line and, according to the military, posed an immediate threat.
+
+The forces eliminated the terrorist shortly after identifying him.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695164</guid>
+            <pubDate>Sun, 11 Oct 2026 20:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bennett's statement sparks backlash within opposition]]></title>
+            <description><![CDATA[Together chairman Naftali Bennett says Netanyahu could serve as a minister in his government if he accepts his party's principles. Eisenkot and Liberman reject the idea.]]></description>
+            <link>https://www.israelnationalnews.com/news/434447</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434447</guid>
+            <pubDate>Sun, 11 Oct 2026 20:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shas lawmaker demands Jewish teachers for Jewish school]]></title>
+            <description><![CDATA[Shas lawmaker demands Jewish teachers for Jewish school]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695162</guid>
+            <pubDate>Sun, 11 Oct 2026 20:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A firing squad for Hasan will encourage Jihadi terror]]></title>
+            <description><![CDATA[For “self-sacrificing" terrorist enemies, nothing could be more fulfilling than the publicity and eternal fame conferred by a US firing squad. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/434445</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434445</guid>
+            <pubDate>Sun, 11 Oct 2026 19:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel approves Board of Peace team to disarm Hamas]]></title>
+            <description><![CDATA[Israel approves Board of Peace team to disarm Hamas]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695160</guid>
+            <pubDate>Sun, 11 Oct 2026 18:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘The pain remains’: Rabbi who lost daughter, and son in battle, speaks of grief and faith]]></title>
+            <description><![CDATA[Rabbi David Ben Pinchas, who lost his daughter in a car accident and his son in battle in Rafah, speaks about grief, his son’s heroism and faith that remains unshaken: “The pain remains, but it does not affect my faith."]]></description>
+            <link>https://www.israelnationalnews.com/news/434443</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434443</guid>
+            <pubDate>Sun, 11 Oct 2026 18:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Israel and its Arab neighbors can choke Iran's Iraqi proxies]]></title>
             <description><![CDATA[Baghdad goes through the motions of pushing disarmament deadlines into the distant future, but Iranian officials have made it clear that their proxies are in Iraq to stay. Things can be done to make that a untenable for Iraq. Opinion.]]></description>
@@ -34,7 +101,7 @@ Read More]]></description>
         </item>
         <item>
             <title><![CDATA[Netanyahu: 'Launch investigation on participants in the film “Naza."]]></title>
-            <description><![CDATA[Netanyahu: 'Launch investigation on participants in the film “Naza."]]></description>
+            <description><![CDATA[Netanyahu calls on IDF Chief of Staff, Shin Bet chief, and Attorney General to launch investigation on participants in the film “Naza."]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695155</guid>
             <pubDate>Sun, 11 Oct 2026 17:08:00 GMT</pubDate>
@@ -48,7 +115,9 @@ Read More]]></description>
         </item>
         <item>
             <title><![CDATA[IDF: Interceptor launched at suspicious aerial target in southern Lebanon]]></title>
-            <description><![CDATA[IDF: Interceptor launched at suspicious aerial target in southern Lebanon]]></description>
+            <description><![CDATA[An interceptor was launched a short time ago at a suspicious aerial target identified in an area of southern Lebanon where IDF forces are operating. The results of the interception are being investigated.
+
+No alerts were activated, in accordance with policy.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695153</guid>
             <pubDate>Sun, 11 Oct 2026 16:52:00 GMT</pubDate>
@@ -64,9 +133,9 @@ MDA teams treated the injured and evacuated them to Beilinson Hospital in Petah 
         </item>
         <item>
             <title><![CDATA[Knesset Speaker urges pardon after Netanyahu trial revelation]]></title>
-            <description><![CDATA[Knesset Speaker urges pardon after Netanyahu trial revelation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695151</guid>
+            <description><![CDATA[Knesset Speaker Amir Ohana appealed to President Isaac Herzog on Sunday, urging him to grant Prime Minister Benjamin Netanyahu a pardon following former Attorney General Avichai Mandelblit’s testimony in Netanyahu’s trial.]]></description>
+            <link>https://www.israelnationalnews.com/news/434438</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434438</guid>
             <pubDate>Sun, 11 Oct 2026 16:11:00 GMT</pubDate>
         </item>
         <item>
@@ -92,9 +161,9 @@ MDA teams treated the injured and evacuated them to Beilinson Hospital in Petah 
         </item>
         <item>
             <title><![CDATA[Hospital by day, terror site by night]]></title>
-            <description><![CDATA[Hospital by day, terror site by night]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695147</guid>
+            <description><![CDATA[The IDF released footage and intelligence indicating that Hamas is continuing to keep the Kamal Adwan Hospital in Jabaliya fully operational.]]></description>
+            <link>https://www.israelnationalnews.com/news/434436</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434436</guid>
             <pubDate>Sun, 11 Oct 2026 15:27:00 GMT</pubDate>
         </item>
         <item>
@@ -106,9 +175,9 @@ MDA teams treated the injured and evacuated them to Beilinson Hospital in Petah 
         </item>
         <item>
             <title><![CDATA[Arkia expands US-Israel flights: 'You can count on us']]></title>
-            <description><![CDATA[Arkia expands US-Israel flights: 'You can count on us']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695145</guid>
+            <description><![CDATA[With daily flights between New York and Israel except Shabbat, expanded aircraft capacity, kosher meals, and a new JetBlue agreement, Arkia is offering travelers greater flexibility and connectivity.]]></description>
+            <link>https://www.israelnationalnews.com/news/434419</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434419</guid>
             <pubDate>Sun, 11 Oct 2026 14:45:00 GMT</pubDate>
         </item>
         <item>
@@ -129,9 +198,9 @@ Netanyahu added: “Israel looks forward to a strong Middle East - one that stan
         </item>
         <item>
             <title><![CDATA[IDF eliminates October 7 Kissufim outpost raid commander in Gaza]]></title>
-            <description><![CDATA[IDF eliminates October 7 Kissufim outpost raid commander in Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695142</guid>
+            <description><![CDATA[The IDF eliminated a Hamas Nukhba commander who helped lead the October 7 massacre on the Kissufim outpost and participated in abducting Israelis.]]></description>
+            <link>https://www.israelnationalnews.com/news/434434</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434434</guid>
             <pubDate>Sun, 11 Oct 2026 14:25:00 GMT</pubDate>
         </item>
         <item>
@@ -164,65 +233,65 @@ Netanyahu added: “Israel looks forward to a strong Middle East - one that stan
         </item>
         <item>
             <title><![CDATA['A rock doesn’t become dangerous only when it hits Tel Aviv']]></title>
-            <description><![CDATA['A rock doesn’t become dangerous only when it hits Tel Aviv,' Binyamin Council chief Israel Ganz slams media, after rocks hurled at cars speeding along the Ayalon Highway damaged several vehicles.]]></description>
-            <link>https://www.israelnationalnews.com/news/434429</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434429</guid>
+            <description><![CDATA['A rock doesn’t become dangerous only when it hits Tel Aviv']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695137</guid>
             <pubDate>Sun, 11 Oct 2026 12:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More than $100 million: How Qatar continued funneling aid into Gaza with Israel’s approval]]></title>
-            <description><![CDATA[Israel allowed Qatar to funnel more than $100 million in aid to Gaza during the war and hostage negotiations, including fuel, food and infrastructure repairs, raising concerns that Hamas benefited indirectly.]]></description>
-            <link>https://www.israelnationalnews.com/news/434428</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434428</guid>
+            <description><![CDATA[More than $100 million: How Qatar continued funneling aid into Gaza with Israel’s approval]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695136</guid>
             <pubDate>Sun, 11 Oct 2026 12:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Woman steals holy books from gravesite and sets them on fire]]></title>
-            <description><![CDATA[Israel Police arrested a Haifa resident suspected of stealing holy books from the tomb of the Talmudic sage Rabbi Avdimi of Haifa, setting them on fire, and documenting the act.]]></description>
-            <link>https://www.israelnationalnews.com/news/434427</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434427</guid>
+            <description><![CDATA[Woman steals holy books from gravesite and sets them on fire]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695135</guid>
             <pubDate>Sun, 11 Oct 2026 11:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Arabs arrested in nighttime raid two months after injuring officer]]></title>
-            <description><![CDATA[Border Police arrested two Palestinian Arabs in al-Ram over an August rock attack in Binyamin that left a female officer injured.]]></description>
-            <link>https://www.israelnationalnews.com/news/434426</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434426</guid>
+            <description><![CDATA[Watch: Arabs arrested in nighttime raid two months after injuring officer]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695134</guid>
             <pubDate>Sun, 11 Oct 2026 11:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senior officer leaves IDF after review into alleged abuse of authority]]></title>
-            <description><![CDATA[Brig. Gen. Yogev Bar-Sheshet will leave the IDF after a command review into alleged abuse of authority and disclosure of classified information.]]></description>
-            <link>https://www.israelnationalnews.com/news/434425</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434425</guid>
+            <description><![CDATA[Senior officer leaves IDF after review into alleged abuse of authority]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695133</guid>
             <pubDate>Sun, 11 Oct 2026 11:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haaretz attacks Ben Gvir: 'Security prisons have become torture facilities']]></title>
-            <description><![CDATA[A Haaretz editorial attacks Ben Gvir's policies toward terrorist prisoners: "Security prisons have become torture facilities."]]></description>
-            <link>https://www.israelnationalnews.com/news/434424</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434424</guid>
+            <description><![CDATA[Haaretz attacks Ben Gvir: 'Security prisons have become torture facilities']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695132</guid>
             <pubDate>Sun, 11 Oct 2026 10:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man killed in tiger attack at UK wildlife park]]></title>
-            <description><![CDATA[Man dies after entering a tiger enclosure at Yorkshire Wildlife Park in England.]]></description>
-            <link>https://www.israelnationalnews.com/news/434423</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434423</guid>
+            <description><![CDATA[Man killed in tiger attack at UK wildlife park]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695131</guid>
             <pubDate>Sun, 11 Oct 2026 10:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israeli Aerospace Industries to unveil new radar system at US Defense exhibition]]></title>
-            <description><![CDATA[IAI's new POINT@AIR system combines long-range radar detection, 360-degree coverage, and continuous surveillance using a compact, mobile aerostat platform.]]></description>
-            <link>https://www.israelnationalnews.com/news/434421</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434421</guid>
+            <description><![CDATA[Israeli Aerospace Industries to unveil new radar system at US Defense exhibition]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695130</guid>
             <pubDate>Sun, 11 Oct 2026 09:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Living under conceptzia': Stark warning that a massacre in Judea and Samaria is possible]]></title>
-            <description><![CDATA[How can Israel prepare for an October 7-style attack originating in Judea and Samaria? Col. (res.) Hezi Nehama answers.]]></description>
-            <link>https://www.israelnationalnews.com/news/434420</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434420</guid>
+            <description><![CDATA['Living under conceptzia': Stark warning that a massacre in Judea and Samaria is possible]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695129</guid>
             <pubDate>Sun, 11 Oct 2026 09:33:00 GMT</pubDate>
         </item>
         <item>
@@ -231,69 +300,6 @@ Netanyahu added: “Israel looks forward to a strong Middle East - one that stan
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695128</guid>
             <pubDate>Sun, 11 Oct 2026 08:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feiglin fires back at Tucker Carlson: 'Who are you to lecture us on morality?']]></title>
-            <description><![CDATA[Feiglin fires back at Tucker Carlson: 'Who are you to lecture us on morality?']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695127</guid>
-            <pubDate>Sun, 11 Oct 2026 08:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Entry denied: Articles against Israel cost journalist her position]]></title>
-            <description><![CDATA[Entry denied: Articles against Israel cost journalist her position]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695126</guid>
-            <pubDate>Sun, 11 Oct 2026 08:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Following calls for sanctions on Israel: German journalist denied entry]]></title>
-            <description><![CDATA[Following calls for sanctions on Israel: German journalist denied entry]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695125</guid>
-            <pubDate>Sun, 11 Oct 2026 08:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Danger to the public': Police paid hookah tobacco stores]]></title>
-            <description><![CDATA['Danger to the public': Police paid hookah tobacco stores]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695124</guid>
-            <pubDate>Sun, 11 Oct 2026 07:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mandelblit admits: I did not authorize all police actions in Netanyahu's case]]></title>
-            <description><![CDATA[Mandelblit admits: I did not authorize all police actions in Netanyahu's case]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695123</guid>
-            <pubDate>Sun, 11 Oct 2026 07:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2,000-year-old aqueduct that supplied water to Temple Mount uncovered in Jerusalem]]></title>
-            <description><![CDATA[2,000-year-old aqueduct that supplied water to Temple Mount uncovered in Jerusalem]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695122</guid>
-            <pubDate>Sun, 11 Oct 2026 07:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Embassy in Saudi Arabia to employees: Permission required to use airports in Jeddah and Dammam]]></title>
-            <description><![CDATA[US Embassy in Saudi Arabia to employees: Permission required to use airports in Jeddah and Dammam]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695121</guid>
-            <pubDate>Sun, 11 Oct 2026 06:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Avinatan Or’s mother reveals captor’s final words: 'Hamas is weak']]></title>
-            <description><![CDATA[Avinatan Or’s mother reveals captor’s final words: 'Hamas is weak']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695120</guid>
-            <pubDate>Sun, 11 Oct 2026 06:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mystery on the Lebanese border]]></title>
-            <description><![CDATA[Mystery on the Lebanese border]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695119</guid>
-            <pubDate>Sun, 11 Oct 2026 05:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

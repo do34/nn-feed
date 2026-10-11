@@ -4,11 +4,62 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 20:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 00:07:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Oct 2026 20:29:12 GMT</pubDate>
+        <pubDate>Sun, 11 Oct 2026 00:07:03 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[12 killed, 309 wounded in missile attack on Riyadh airport]]></title>
+            <description><![CDATA[At least 12 people killed and 309 wounded in a missile attack on Riyadh's airport, believed to have been carried out by the Houthis.]]></description>
+            <link>https://www.israelnationalnews.com/news/434398</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434398</guid>
+            <pubDate>Sat, 10 Oct 2026 23:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: US pressured Israel to strike Iran before elections]]></title>
+            <description><![CDATA[Trump administration urged Israel to launch a strike against Iran amid concerns over Tehran's military buildup, asking Israel to bear political risks ahead of elections, journalist Ben Caspit reports.]]></description>
+            <link>https://www.israelnationalnews.com/news/434396</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434396</guid>
+            <pubDate>Sat, 10 Oct 2026 21:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37 Years Later: Bereaved family demands removal of monument to terrorist]]></title>
+            <description><![CDATA[37 Years Later: Bereaved family demands removal of monument to terrorist]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695101</guid>
+            <pubDate>Sat, 10 Oct 2026 21:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unconfirmed report: Houthi strike on Saudi airport left 12 dead, 50 injured]]></title>
+            <description><![CDATA[Unconfirmed report: Houthi strike on Saudi airport left 12 dead, 50 injured]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695100</guid>
+            <pubDate>Sat, 10 Oct 2026 20:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A grotesque choice for the Nobel Peace Prize]]></title>
+            <description><![CDATA[A grotesque choice for the Nobel Peace Prize]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695099</guid>
+            <pubDate>Sat, 10 Oct 2026 20:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF: No unusual findings on Lebanon border]]></title>
+            <description><![CDATA[IDF: Following the sirens sounded at 19:57 in Arab al-Aramshe, IDF surveillance identified an unknown aerial subject on the border with Lebanon.
+
+IDF soldiers are continuing to search the area, and until now, no suspicious findings were located. There are currently no special instructions for the home front.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695098</guid>
+            <pubDate>Sat, 10 Oct 2026 20:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sderot Yeshiva: Three years, two Simchat Torah celebrations]]></title>
+            <description><![CDATA[Moving video contrasts Simchat Torah at Sderot Yeshiva just hours after the October 7 massacre, with students singing under armed guard, and this year's celebrations filled with dancing and joy. Watch.]]></description>
+            <link>https://www.israelnationalnews.com/news/434391</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434391</guid>
+            <pubDate>Sat, 10 Oct 2026 20:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Man seriously wounded after accident gunfire]]></title>
             <description><![CDATA[Man, 28, seriously wounded in Yavne after gun allegedly discharged from legally owned firearm; police investigate.]]></description>
@@ -39,9 +90,9 @@
         </item>
         <item>
             <title><![CDATA[Israel sends emergency aid to Panama following earthquake]]></title>
-            <description><![CDATA[Israel sends emergency aid to Panama following earthquake]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695092</guid>
+            <description><![CDATA[Israel providing drinking water, essential food supplies, to communities affected by Panama earthquake, following instructions from Foreign Minister Gideon Sa'ar.]]></description>
+            <link>https://www.israelnationalnews.com/news/434390</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434390</guid>
             <pubDate>Sat, 10 Oct 2026 19:35:00 GMT</pubDate>
         </item>
         <item>
@@ -53,9 +104,9 @@
         </item>
         <item>
             <title><![CDATA[Between humans, lions, and hyenas]]></title>
-            <description><![CDATA[Between humans, lions, and hyenas]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695090</guid>
+            <description><![CDATA[The humanity of animals and the barbarity of man. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/434388</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434388</guid>
             <pubDate>Sat, 10 Oct 2026 19:18:00 GMT</pubDate>
         </item>
         <item>
@@ -81,9 +132,9 @@
         </item>
         <item>
             <title><![CDATA[Panama rocked by 7.7 magnitude earthquake]]></title>
-            <description><![CDATA[Panama rocked by 7.7 magnitude earthquake]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695086</guid>
+            <description><![CDATA[A powerful 7.7-magnitude earthquake struck Panama on Friday, October 9, causing widespread damage to buildings and infrastructure, injuring at least 27 people and prompting evacuations across the country.]]></description>
+            <link>https://www.israelnationalnews.com/news/434384</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434384</guid>
             <pubDate>Sat, 10 Oct 2026 18:37:00 GMT</pubDate>
         </item>
         <item>
@@ -95,9 +146,9 @@
         </item>
         <item>
             <title><![CDATA[Israel reveals codename for plane hijacking protocol]]></title>
-            <description><![CDATA[Israel reveals codename for plane hijacking protocol]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695084</guid>
+            <description><![CDATA[Israel has revealed the name of the IDF's emergency protocol for a civilian aircraft hijacking, used during the Flydubai incident.]]></description>
+            <link>https://www.israelnationalnews.com/news/434383</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434383</guid>
             <pubDate>Sat, 10 Oct 2026 17:37:00 GMT</pubDate>
         </item>
         <item>
@@ -123,9 +174,9 @@
         </item>
         <item>
             <title><![CDATA[Historic first: Israeli Air Force joins Morocco airshow]]></title>
-            <description><![CDATA[Historic first: Israeli Air Force joins Morocco airshow]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695080</guid>
+            <description><![CDATA[Israeli Air Force delegation participates in Marrakech Airshow for the first time since the Abraham Accords, meeting Moroccan military officials to strengthen defense ties and cooperation.]]></description>
+            <link>https://www.israelnationalnews.com/news/434379</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434379</guid>
             <pubDate>Sat, 10 Oct 2026 16:20:00 GMT</pubDate>
         </item>
         <item>
@@ -186,73 +237,51 @@ Announcing the appointment on Truth Social, Trump praised Zacharia’s communica
         </item>
         <item>
             <title><![CDATA[Netanyahu slams Nobel Peace Prize for Navi Pillay: Lost its moral compass]]></title>
-            <description><![CDATA[Netanyahu condemns the Nobel Peace Prize awarded to Navi Pillay, accusing her of spreading anti-Israel accusations and criticizing the Nobel Committee.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/434375</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434375</guid>
+            <description><![CDATA[Netanyahu slams Nobel Peace Prize for Navi Pillay: Lost its moral compass]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695074</guid>
             <pubDate>Fri, 09 Oct 2026 20:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump: War with Iran will be over soon, one way or another]]></title>
-            <description><![CDATA[President Trump says the war with Iran will end soon, either through diplomacy or military action, as the Pentagon prepares possible strikes on Iranian targets.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/434374</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434374</guid>
+            <description><![CDATA[Trump: War with Iran will be over soon, one way or another]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695073</guid>
             <pubDate>Fri, 09 Oct 2026 19:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump offers White House press secretary post to Katie Zacharia]]></title>
-            <description><![CDATA[Trump's Truth Social communications adviser Katie Zacharia has been offered the White House press secretary role following Karoline Leavitt's departure in August.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/434373</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434373</guid>
+            <description><![CDATA[Trump offers White House press secretary post to Katie Zacharia]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695072</guid>
             <pubDate>Fri, 09 Oct 2026 18:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tragic end: Body of Israeli missing in Greece found after nearly three weeks]]></title>
-            <description><![CDATA[The body of Ami Yogev, 46, from Modi'in, found on Mount Olympus in Greece, approximately two and a half weeks after he was last seen. He apparently fell from a considerable height.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/434372</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434372</guid>
+            <description><![CDATA[Tragic end: Body of Israeli missing in Greece found after nearly three weeks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695071</guid>
             <pubDate>Fri, 09 Oct 2026 18:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Magnitude 7.6 earthquake strikes Panama City, tsunami warning issued]]></title>
-            <description><![CDATA[A magnitude 7.6 earthquake struck Panama City, the capital of Panama, on Friday.
-
-US authorities warned of a possible tsunami along the coasts of Panama and Colombia in the coming hours.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <description><![CDATA[Magnitude 7.6 earthquake strikes Panama City, tsunami warning issued]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695070</guid>
             <pubDate>Fri, 09 Oct 2026 18:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF strikes Syrian terrorist who operated under the direction of the Iranian regime]]></title>
-            <description><![CDATA[The IDF on Friday conducted a precise aerial strike targeting the terrorist Yusuf Ali Al-Hassoun, said the IDF Spokesperson's Unit.
-
-It added that Al-Hassoun operated under the direction of the Iranian regime and advanced terrorist attacks targeting Israeli civilians and IDF soldiers operating in southern Syria.
-
-Over the past year, said the IDF, Al-Hassoun planned and advanced attacks against IDF soldiers that were thwarted, including the launching of explosive drones and rockets toward IDF soldiers in southern Syria.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <description><![CDATA[IDF strikes Syrian terrorist who operated under the direction of the Iranian regime]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695069</guid>
             <pubDate>Fri, 09 Oct 2026 18:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu welcomes US sanctions on ICC]]></title>
-            <description><![CDATA[Prime Minister Benjamin Netanyahu welcomed the US decision to sanction the International Criminal Court".
-
-“The ICC is not a court. It is a political body that poses a mortal threat to law abiding democracies worldwide and to the very idea of national sovereignty. Thank you for your leadership," said Netanyahu.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/434370</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434370</guid>
+            <description><![CDATA[Netanyahu welcomes US sanctions on ICC]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695068</guid>
             <pubDate>Fri, 09 Oct 2026 17:55:00 GMT</pubDate>
         </item>
         <item>
@@ -275,55 +304,6 @@ Over the past year, said the IDF, Al-Hassoun planned and advanced attacks agains
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695066</guid>
             <pubDate>Fri, 09 Oct 2026 14:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sa'ar slams Abbas over election delay: 'Fooling the international community']]></title>
-            <description><![CDATA[Sa'ar slams Abbas over election delay: 'Fooling the international community']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695065</guid>
-            <pubDate>Fri, 09 Oct 2026 14:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yinon Magal apologizes to Bibas family]]></title>
-            <description><![CDATA[Yinon Magal apologizes to Bibas family]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695064</guid>
-            <pubDate>Fri, 09 Oct 2026 14:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Parasitic population’: Yair Golan’s controversial remarks about haredim]]></title>
-            <description><![CDATA[‘Parasitic population’: Yair Golan’s controversial remarks about haredim]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695063</guid>
-            <pubDate>Fri, 09 Oct 2026 13:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Author of history]]></title>
-            <description><![CDATA[Author of history]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695062</guid>
-            <pubDate>Fri, 09 Oct 2026 13:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why would you not murder?]]></title>
-            <description><![CDATA[Why would you not murder?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695061</guid>
-            <pubDate>Fri, 09 Oct 2026 13:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthi war escalates: 3 killed in Riyadh airport attack, fierce fighting in Yemen]]></title>
-            <description><![CDATA[Houthi war escalates: 3 killed in Riyadh airport attack, fierce fighting in Yemen]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695060</guid>
-            <pubDate>Fri, 09 Oct 2026 13:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FDA approves Teva’s once-monthly schizophrenia treatment]]></title>
-            <description><![CDATA[FDA approves Teva’s once-monthly schizophrenia treatment]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695059</guid>
-            <pubDate>Fri, 09 Oct 2026 13:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

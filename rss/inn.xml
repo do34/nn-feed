@@ -4,11 +4,73 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 22:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 02:06:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 22:41:25 GMT</pubDate>
+        <pubDate>Mon, 12 Oct 2026 02:06:20 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Netanyahu demands investigation into participants in NAZA film]]></title>
+            <description><![CDATA[Prime Minister Netanyahu calls on the IDF Chief of Staff, Shin Bet chief, and Attorney General to launch a comprehensive investigation into participants in the anti-Israel film and pursue criminal charges.]]></description>
+            <link>https://www.israelnationalnews.com/news/434454</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434454</guid>
+            <pubDate>Mon, 12 Oct 2026 01:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Houthi missile intercepted in southwestern Saudi Arabia]]></title>
+            <description><![CDATA[The Saudi-led military coalition announced that it intercepted a missile launched by the Houthi terrorist organization toward the city of Khamis Mushait in southwestern Saudi Arabia.
+
+Shortly before the interception was announced, incoming missile alerts were activated in the nearby city of Abha.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695174</guid>
+            <pubDate>Mon, 12 Oct 2026 01:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Amazon in talks to acquire Israeli AI startup Decart]]></title>
+            <description><![CDATA[Report: Amazon in talks to acquire Israeli AI startup Decart]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695173</guid>
+            <pubDate>Mon, 12 Oct 2026 01:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FAA warns US airlines of flight risks over Saudi Arabia]]></title>
+            <description><![CDATA[The FAA warns US airlines of aviation risks over Saudi Arabia following deadly strikes on Riyadh airport, citing military activity and navigation interference.]]></description>
+            <link>https://www.israelnationalnews.com/news/434452</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434452</guid>
+            <pubDate>Mon, 12 Oct 2026 00:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[White House new press secretary to assume her post on Monday]]></title>
+            <description><![CDATA[White House new press secretary to assume her post on Monday]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695171</guid>
+            <pubDate>Mon, 12 Oct 2026 00:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK and US issue travel and aviation warnings for Saudi Arabia]]></title>
+            <description><![CDATA[The British Embassy in Saudi Arabia issued a travel advisory urging British nationals to avoid nonessential travel to the cities of Jeddah and Dammam, as well as to all airports across the country, with the exception of the airport in Medina.
+
+Meanwhile, the US Federal Aviation Administration (FAA) instructed American airlines to exercise heightened caution when operating flights to Saudi Arabia.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695170</guid>
+            <pubDate>Sun, 11 Oct 2026 23:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran: US response to conditions for reopening Strait of Hormuz is insufficient]]></title>
+            <description><![CDATA[Iran says the US response to its seven conditions for reopening the Strait of Hormuz is insufficient, as indirect negotiations continue through Qatar.]]></description>
+            <link>https://www.israelnationalnews.com/news/434450</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434450</guid>
+            <pubDate>Sun, 11 Oct 2026 23:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia: One killed, 11 injured in most recent attack on Riyadh airport]]></title>
+            <description><![CDATA[Saudi Arabia's General Authority of Civil Aviation announced that a Pakistani national was killed and 11 others were injured in an attack on King Khalid International Airport in Riyadh on Sunday afternoon.
+
+The injured were evacuated for medical treatment. According to the authority, the attack also caused property damage.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695168</guid>
+            <pubDate>Sun, 11 Oct 2026 22:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ben Gvir convinced: Likud wants to form a government with Eisenkot]]></title>
             <description><![CDATA[Otzma Yehudit chairman Itamar Ben Gvir warns that Likud could join forces with Gadi Eisenkot, but stresses: "My only candidate for prime minister is Netanyahu."]]></description>
@@ -27,9 +89,9 @@ During the exercise, increased activity by security forces and military vehicles
         </item>
         <item>
             <title><![CDATA[Watch: Footage shows deadly Houthi missile strike on Riyadh airport]]></title>
-            <description><![CDATA[Watch: Footage shows deadly Houthi missile strike on Riyadh airport]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695165</guid>
+            <description><![CDATA[Footage published by Al Arabiya shows the Houthi missile attack on Riyadh's King Khalid International Airport that killed at least 13 people and injured over 300.]]></description>
+            <link>https://www.israelnationalnews.com/news/434448</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434448</guid>
             <pubDate>Sun, 11 Oct 2026 21:03:00 GMT</pubDate>
         </item>
         <item>
@@ -50,9 +112,9 @@ The forces eliminated the terrorist shortly after identifying him.]]></descripti
         </item>
         <item>
             <title><![CDATA[Shas lawmaker demands Jewish teachers for Jewish school]]></title>
-            <description><![CDATA[Shas lawmaker demands Jewish teachers for Jewish school]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695162</guid>
+            <description><![CDATA[Shas chairman Yinon Azoulay says Jewish schools should employ Jewish teachers exclusively.]]></description>
+            <link>https://www.israelnationalnews.com/news/434446</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434446</guid>
             <pubDate>Sun, 11 Oct 2026 20:03:00 GMT</pubDate>
         </item>
         <item>
@@ -64,9 +126,9 @@ The forces eliminated the terrorist shortly after identifying him.]]></descripti
         </item>
         <item>
             <title><![CDATA[Israel approves Board of Peace team to disarm Hamas]]></title>
-            <description><![CDATA[Israel approves Board of Peace team to disarm Hamas]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695160</guid>
+            <description><![CDATA[Israel has approved an American team's entry into Gaza to map sites where Hamas terrorists could surrender their weapons.]]></description>
+            <link>https://www.israelnationalnews.com/news/434444</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434444</guid>
             <pubDate>Sun, 11 Oct 2026 18:54:00 GMT</pubDate>
         </item>
         <item>
@@ -175,60 +237,58 @@ MDA teams treated the injured and evacuated them to Beilinson Hospital in Petah 
         </item>
         <item>
             <title><![CDATA[Arkia expands US-Israel flights: 'You can count on us']]></title>
-            <description><![CDATA[With daily flights between New York and Israel except Shabbat, expanded aircraft capacity, kosher meals, and a new JetBlue agreement, Arkia is offering travelers greater flexibility and connectivity.]]></description>
-            <link>https://www.israelnationalnews.com/news/434419</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434419</guid>
+            <description><![CDATA[Arkia expands US-Israel flights: 'You can count on us']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695145</guid>
             <pubDate>Sun, 11 Oct 2026 14:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu condemns Houthi attack on Riyadh airport: ‘Terror targets innocent people’]]></title>
-            <description><![CDATA[Prime Minister Benjamin Netanyahu condemned the Houthi attack on Riyadh airport, saying: “Terror targets innocent people and seeks to spread fear. It must be confronted with determination."
-
-Netanyahu added: “Israel looks forward to a strong Middle East - one that stands united against threats, protects its people, and builds a future of security, cooperation, and prosperity for all the peoples of our region."]]></description>
+            <description><![CDATA[Netanyahu condemns Houthi attack on Riyadh airport: ‘Terror targets innocent people’]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695144</guid>
             <pubDate>Sun, 11 Oct 2026 14:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump: Russia and Ukraine to stop attacking each other’s energy facilities]]></title>
-            <description><![CDATA[US President Donald Trump announced that Russia and Ukraine would stop attacking each other’s energy facilities, warning both sides: “Do not violate the agreement."]]></description>
+            <description><![CDATA[Trump: Russia and Ukraine to stop attacking each other’s energy facilities]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695143</guid>
             <pubDate>Sun, 11 Oct 2026 14:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF eliminates October 7 Kissufim outpost raid commander in Gaza]]></title>
-            <description><![CDATA[The IDF eliminated a Hamas Nukhba commander who helped lead the October 7 massacre on the Kissufim outpost and participated in abducting Israelis.]]></description>
-            <link>https://www.israelnationalnews.com/news/434434</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434434</guid>
+            <description><![CDATA[IDF eliminates October 7 Kissufim outpost raid commander in Gaza]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695142</guid>
             <pubDate>Sun, 11 Oct 2026 14:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who leaked info? Yahalomi affair escalates: Suspected invasion of privacy]]></title>
-            <description><![CDATA[Israel’s Privacy Protection Authority has ordered a police inquiry after private messages, AI searches and financial information about Mali and Liel Yahalomi were leaked.]]></description>
-            <link>https://www.israelnationalnews.com/news/434433</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434433</guid>
+            <description><![CDATA[Who leaked info? Yahalomi affair escalates: Suspected invasion of privacy]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695141</guid>
             <pubDate>Sun, 11 Oct 2026 14:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[42.2 km of longing: Bereaved family members run in Chicago Marathon]]></title>
-            <description><![CDATA[25 bereaved family members and fellow runners take part in the Chicago Marathon, running in memory of loved ones. The team left Israel on October 7, three years after the massacre, following months of joint training.]]></description>
-            <link>https://www.israelnationalnews.com/news/434432</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434432</guid>
+            <description><![CDATA[42.2 km of longing: Bereaved family members run in Chicago Marathon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695140</guid>
             <pubDate>Sun, 11 Oct 2026 13:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smotrich: Election may put Hesder yeshiva funding at risk]]></title>
-            <description><![CDATA[Finance Minister Bezalel Smotrich warns that a change of government could threaten yeshivas, religious institutions and Jewish communities in Judea and Samaria.]]></description>
-            <link>https://www.israelnationalnews.com/news/434431</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434431</guid>
+            <description><![CDATA[Smotrich: Election may put Hesder yeshiva funding at risk]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695139</guid>
             <pubDate>Sun, 11 Oct 2026 13:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mysterious cave found in central Israel]]></title>
-            <description><![CDATA[Digging tools found in a cave near Rosh HaAyin. The IDF ruled out a tunnel but circumstances surrounding the excavation are still under investigation.]]></description>
-            <link>https://www.israelnationalnews.com/news/434430</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434430</guid>
+            <description><![CDATA[Mysterious cave found in central Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695138</guid>
             <pubDate>Sun, 11 Oct 2026 12:58:00 GMT</pubDate>
         </item>
         <item>
@@ -244,62 +304,6 @@ Netanyahu added: “Israel looks forward to a strong Middle East - one that stan
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695136</guid>
             <pubDate>Sun, 11 Oct 2026 12:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman steals holy books from gravesite and sets them on fire]]></title>
-            <description><![CDATA[Woman steals holy books from gravesite and sets them on fire]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695135</guid>
-            <pubDate>Sun, 11 Oct 2026 11:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Arabs arrested in nighttime raid two months after injuring officer]]></title>
-            <description><![CDATA[Watch: Arabs arrested in nighttime raid two months after injuring officer]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695134</guid>
-            <pubDate>Sun, 11 Oct 2026 11:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senior officer leaves IDF after review into alleged abuse of authority]]></title>
-            <description><![CDATA[Senior officer leaves IDF after review into alleged abuse of authority]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695133</guid>
-            <pubDate>Sun, 11 Oct 2026 11:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Haaretz attacks Ben Gvir: 'Security prisons have become torture facilities']]></title>
-            <description><![CDATA[Haaretz attacks Ben Gvir: 'Security prisons have become torture facilities']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695132</guid>
-            <pubDate>Sun, 11 Oct 2026 10:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man killed in tiger attack at UK wildlife park]]></title>
-            <description><![CDATA[Man killed in tiger attack at UK wildlife park]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695131</guid>
-            <pubDate>Sun, 11 Oct 2026 10:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli Aerospace Industries to unveil new radar system at US Defense exhibition]]></title>
-            <description><![CDATA[Israeli Aerospace Industries to unveil new radar system at US Defense exhibition]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695130</guid>
-            <pubDate>Sun, 11 Oct 2026 09:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Living under conceptzia': Stark warning that a massacre in Judea and Samaria is possible]]></title>
-            <description><![CDATA['Living under conceptzia': Stark warning that a massacre in Judea and Samaria is possible]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695129</guid>
-            <pubDate>Sun, 11 Oct 2026 09:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspected terror attack attempt: Palestinian from Al-Eizariya arrested with knife]]></title>
-            <description><![CDATA[Suspected terror attack attempt: Palestinian from Al-Eizariya arrested with knife]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695128</guid>
-            <pubDate>Sun, 11 Oct 2026 08:59:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

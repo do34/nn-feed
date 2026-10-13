@@ -4,11 +4,111 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 17:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 22:31:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 17:57:43 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 22:31:08 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Netanyahu confirms Egyptian intelligence chief visited Israel before October 7]]></title>
+            <description><![CDATA[Netanyahu confirms Egypt's intelligence chief visited Israel before October 7 but denies meeting him: "I want to know the truth. There are cameras."]]></description>
+            <link>https://www.israelnationalnews.com/news/434569</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434569</guid>
+            <pubDate>Tue, 13 Oct 2026 22:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Threat cleared: Delta flight departs New York for Tel Aviv]]></title>
+            <description><![CDATA[A Delta Air Lines flight delayed in New York following a bomb threat was cleared for takeoff to Tel Aviv after security checks were completed.
+
+The threat was determined to be a hoax, marking the second false bomb threat made by a prankster since Tuesday morning.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695323</guid>
+            <pubDate>Tue, 13 Oct 2026 21:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defense Minister: Iran attempting to influence Israeli elections]]></title>
+            <description><![CDATA[Defense Minister Israel Katz warns that Iran and its proxies are attempting to carry out terrorist attacks aimed at influencing the outcome of Israel's elections.]]></description>
+            <link>https://www.israelnationalnews.com/news/434568</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434568</guid>
+            <pubDate>Tue, 13 Oct 2026 21:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hezbollah's weaponry harms civilians on both sides of the border]]></title>
+            <description><![CDATA[Northern Israel and Southern Lebanon are littered with the remnants of war, shrapnel, rocket components, and unexploded ordnance (UXOs) from Hezbollah's attacks. Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/434567</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434567</guid>
+            <pubDate>Tue, 13 Oct 2026 20:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope Leo XIV diagnosed with lung cancer, undergoes surgery]]></title>
+            <description><![CDATA[Pope Leo XIV diagnosed with lung cancer, undergoes surgery]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695320</guid>
+            <pubDate>Tue, 13 Oct 2026 20:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dedicating Torah learning to the recovery of the injured]]></title>
+            <description><![CDATA[Neria Dov ben Chana’s mother explains what it means to dedicate Torah learning to someone.]]></description>
+            <link>https://www.israelnationalnews.com/news/434565</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434565</guid>
+            <pubDate>Tue, 13 Oct 2026 20:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another bomb threat targets Delta flight to Tel Aviv]]></title>
+            <description><![CDATA[Another bomb threat targets Delta flight to Tel Aviv]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695318</guid>
+            <pubDate>Tue, 13 Oct 2026 20:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tzvi Yechezkeli: 'Iran is exposing Saudi Arabia's weakness']]></title>
+            <description><![CDATA[Zvi Yehezkeli believes Tehran is presenting plans for a possible escalation ahead of the US midterm elections and even threatening a ground invasion of the UAE.]]></description>
+            <link>https://www.israelnationalnews.com/news/434564</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434564</guid>
+            <pubDate>Tue, 13 Oct 2026 19:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump warns Houthis after attacks on Saudi Arabia: 'I will never forget!']]></title>
+            <description><![CDATA[Trump warns Houthis after attacks on Saudi Arabia: 'I will never forget!']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695316</guid>
+            <pubDate>Tue, 13 Oct 2026 19:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A container ship was attacked in the Strait of Hormuz for the second time in a day]]></title>
+            <description><![CDATA[The British Maritime Trade Center reported an attack on a container ship in the Strait of Hormuz. This is the second attack on a container ship in the Strait within a day, along with attacks on tankers.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695315</guid>
+            <pubDate>Tue, 13 Oct 2026 19:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A blow to Winter: Davidi Ben-Zion quits Amcha Yisrael party]]></title>
+            <description><![CDATA[A blow to Winter: Davidi Ben-Zion quits Amcha Yisrael party]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695314</guid>
+            <pubDate>Tue, 13 Oct 2026 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rabbi David Stav: 'We abandoned Judaism']]></title>
+            <description><![CDATA[The chairman of the Tzohar rabbinical organization argues that the achievements of the Judea and Samaria enterprise came at the cost of concessions on religion-and-state issues and handing control of religious institutions to the haredi community.]]></description>
+            <link>https://www.israelnationalnews.com/news/434560</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434560</guid>
+            <pubDate>Tue, 13 Oct 2026 18:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Gvir demands death penalty for murderer of Netanel Shakron]]></title>
+            <description><![CDATA[Ben Gvir demands death penalty for murderer of Netanel Shakron]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695312</guid>
+            <pubDate>Tue, 13 Oct 2026 18:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Special interview with Iran’s chief rabbi]]></title>
+            <description><![CDATA[In an interview with an Iranian television channel, Rabbi Younes Hamami Lalehzar claimed that synagogues in Iran do not require special security, while also criticizing Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/434559</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434559</guid>
+            <pubDate>Tue, 13 Oct 2026 18:07:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ban on appointing ILA chief: Smotrich slams High Court, calls ruling a 'legal injustice']]></title>
             <description><![CDATA[Smotrich slammed the High Court for delaying Yehuda Eliyahu’s appointment as Israel Land Authority director-general until after the elections, vowing to remove 'extremist elements' from the judicial system.]]></description>
@@ -123,9 +223,9 @@
         </item>
         <item>
             <title><![CDATA['A fraud is a fraud': Ben Gvir and Bennett clash in heated exchange]]></title>
-            <description><![CDATA[National Security Minister Itamar Ben Gvir challenges 'Together' leader Naftali Bennett to debate as they clash at Walla!, trading accusations over cooperation with Ra'am leader MK Mansour Abbas.]]></description>
-            <link>https://www.israelnationalnews.com/news/434543</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434543</guid>
+            <description><![CDATA['A fraud is a fraud': Ben Gvir and Bennett clash in heated exchange]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695294</guid>
             <pubDate>Tue, 13 Oct 2026 11:34:00 GMT</pubDate>
         </item>
         <item>
@@ -137,169 +237,59 @@
         </item>
         <item>
             <title><![CDATA[Jared Kushner marks one year since release of Israeli hostages: 'A moment I will never forget']]></title>
-            <description><![CDATA[Jared Kushner, advisor to US President Donald Trump, on Tuesday marked one year since the release of the final 20 living Israeli hostages from Gaza, recalling their reunions with their families as "one of the most special moments of my life."
-
-"One year ago today, all 20 remaining living Israeli hostages finally came home after two years of unimaginable suffering in Gaza," Kushner wrote. "After so much pain, uncertainty, and heartbreak, seeing families embrace their loved ones again was something I will never forget." He added that the hostages "endured hell" while their families demonstrated "extraordinary strength, courage, and resilience."
-
-Kushner expressed gratitude to President Trump for his "leadership and determination," as well as to Vice President JD Vance, Secretary of State Marco Rubio, and partners in Israel, Qatar, Egypt, and Turkey. He specifically thanked Prime Minister Benjamin Netanyahu, Ron Dermer, and senior officials from the countries involved for their efforts in securing the hostages' release.
-
-"Above all, today belongs to the freed hostages and their families," Kushner concluded. "Their strength and determination will always inspire me."]]></description>
+            <description><![CDATA[Jared Kushner marks one year since release of Israeli hostages: 'A moment I will never forget']]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695292</guid>
             <pubDate>Tue, 13 Oct 2026 11:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israir halts Marrakech flight sales following Flydubai attack]]></title>
-            <description><![CDATA[Israir freezes plans to expand flights to Morocco, suspends ticket sales to Marrakech following the Flydubai attack.]]></description>
-            <link>https://www.israelnationalnews.com/news/434542</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434542</guid>
+            <description><![CDATA[Israir halts Marrakech flight sales following Flydubai attack]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695291</guid>
             <pubDate>Tue, 13 Oct 2026 10:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yeshiva Committee issues unusual guidelines to students]]></title>
-            <description><![CDATA[Committee of Yeshivas in the Land of Israel issues unusual guidelines urging haredi yeshiva students to avoid encounters with military authorities, take precautions against legal complications.]]></description>
-            <link>https://www.israelnationalnews.com/news/434538</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434538</guid>
+            <description><![CDATA[Yeshiva Committee issues unusual guidelines to students]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695290</guid>
             <pubDate>Tue, 13 Oct 2026 10:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[15-year-old girl detained for alleged racist attack on woman]]></title>
-            <description><![CDATA[Police detained a 15-year-old girl for questioning on suspicion of assaulting a woman on a bus in Ramat Gan, cursing at her and throwing socks at her, allegedly out of a racist motive.
-
-At the conclusion of her questioning, the girl was released under restrictive conditions.]]></description>
+            <description><![CDATA[15-year-old girl detained for alleged racist attack on woman]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695289</guid>
             <pubDate>Tue, 13 Oct 2026 09:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joint List makes Palestinian state a condition for post-election support]]></title>
-            <description><![CDATA[Yousef Jabareen says any talks on Joint List support for an alternative government must include a diplomatic path toward a Palestinian state in the 1967 borders.]]></description>
-            <link>https://www.israelnationalnews.com/news/434541</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434541</guid>
+            <description><![CDATA[Joint List makes Palestinian state a condition for post-election support]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695288</guid>
             <pubDate>Tue, 13 Oct 2026 09:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two daycare staff questioned after six toddlers escape]]></title>
-            <description><![CDATA[Police question two staff members at Petah Tikva daycare after six toddlers wandered out unsupervised, release both under restrictive conditions.]]></description>
-            <link>https://www.israelnationalnews.com/news/434540</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434540</guid>
+            <description><![CDATA[Two daycare staff questioned after six toddlers escape]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695287</guid>
             <pubDate>Tue, 13 Oct 2026 09:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recorded anti-Jewish hate crimes rise 10% in England and Wales]]></title>
-            <description><![CDATA[New UK government figures reveal 10% rise in antisemitic hate crimes in England and Wales, with 3,162 offenses recorded.]]></description>
-            <link>https://www.israelnationalnews.com/news/434539</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434539</guid>
+            <description><![CDATA[Recorded anti-Jewish hate crimes rise 10% in England and Wales]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695286</guid>
             <pubDate>Tue, 13 Oct 2026 09:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10 infants suffer allergic reactions at Beitar Illit daycare]]></title>
-            <description><![CDATA[Magen David Adom teams treat approximately 10 infants suffering mild allergic reactions at Beitar Illit daycare center; all 150 infants evacuated.]]></description>
-            <link>https://www.israelnationalnews.com/news/434537</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434537</guid>
+            <description><![CDATA[10 infants suffer allergic reactions at Beitar Illit daycare]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695285</guid>
             <pubDate>Tue, 13 Oct 2026 08:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Held onto munition for an hour: Disturbing details from deadly school trip explosion]]></title>
-            <description><![CDATA[Students say they found missiles and carried a cluster munition for over an hour before it exploded during lunch, killing 14-year-old Elazar Yair Wilensky.]]></description>
-            <link>https://www.israelnationalnews.com/news/434536</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434536</guid>
-            <pubDate>Tue, 13 Oct 2026 08:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deadly school trip exposes confusion over unexploded ordnance]]></title>
-            <description><![CDATA[Army Radio investigation reveals conflicting claims over responsibility for clearing unexploded munitions in northern Israel, where hundreds or thousands of dangerous remnants may remain after the war.]]></description>
-            <link>https://www.israelnationalnews.com/news/434533</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434533</guid>
-            <pubDate>Tue, 13 Oct 2026 08:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two employees detained after toddlers flee kindergarten]]></title>
-            <description><![CDATA[Petah Tikva police opened an investigation following a report that several toddlers had left a kindergarten in the city and were seen wandering alone in the street without adult supervision while riding toy cars. The incident took place on Sunday.
-
-Officers who were called to the scene located the toddlers and returned them to their parents.
-
-As part of the investigation, two female staff members from the kindergarten, Petah Tikva residents in their 40s and 50s, were detained for questioning last night. At the conclusion of their questioning, both were released under restrictive conditions.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695282</guid>
-            <pubDate>Tue, 13 Oct 2026 07:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Fatal school trip approved despite warning of closed trail]]></title>
-            <description><![CDATA[KKL-JNF says area where a student was killed by unexploded ordnance was closed to hikers; Education Ministry insists approved route avoided restricted area.]]></description>
-            <link>https://www.israelnationalnews.com/news/434532</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434532</guid>
-            <pubDate>Tue, 13 Oct 2026 07:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bodycam footage: IDF foils terror attack in northern Samaria]]></title>
-            <description><![CDATA[Bodycam footage: IDF foils terror attack in northern Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695280</guid>
-            <pubDate>Tue, 13 Oct 2026 07:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New details from tragic explosion: Teens held onto munition for over an hour before it exploded]]></title>
-            <description><![CDATA[New details from tragic explosion: Teens held onto munition for over an hour before it exploded]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695279</guid>
-            <pubDate>Tue, 13 Oct 2026 07:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northern Israel UFO panic: IDF finds mystery object was likely a balloon]]></title>
-            <description><![CDATA[Northern Israel UFO panic: IDF finds mystery object was likely a balloon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695278</guid>
-            <pubDate>Tue, 13 Oct 2026 07:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police complaint filed over threats to Moshe Feiglin]]></title>
-            <description><![CDATA[Police complaint filed over threats to Moshe Feiglin]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695277</guid>
-            <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Terror attack foiled: Four Islamic Jihad terrorists arrested in Samaria]]></title>
-            <description><![CDATA[Terror attack foiled: Four Islamic Jihad terrorists arrested in Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695276</guid>
-            <pubDate>Tue, 13 Oct 2026 06:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF abandons outpost, leaves ammunition unsecured]]></title>
-            <description><![CDATA[IDF abandons outpost, leaves ammunition unsecured]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695275</guid>
-            <pubDate>Tue, 13 Oct 2026 05:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anonymous report received of bomb on Delta flight that landed in Israel]]></title>
-            <description><![CDATA[Anonymous report received of bomb on Delta flight that landed in Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695274</guid>
-            <pubDate>Tue, 13 Oct 2026 05:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Following tragedy in the north: Education Ministry providing emotional support to students]]></title>
-            <description><![CDATA[Following tragedy in the north: Education Ministry providing emotional support to students]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695273</guid>
-            <pubDate>Tue, 13 Oct 2026 05:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Terror suspect caught posing as Israeli while filming train station]]></title>
-            <description><![CDATA[Terror suspect caught posing as Israeli while filming train station]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695272</guid>
-            <pubDate>Tue, 13 Oct 2026 05:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Channel 14 targets Haddad-But its own archive tells another story]]></title>
-            <description><![CDATA[Channel 14 targets Haddad-But its own archive tells another story]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695271</guid>
-            <pubDate>Tue, 13 Oct 2026 05:17:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

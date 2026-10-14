@@ -4,11 +4,60 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 22:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 01:37:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 22:31:08 GMT</pubDate>
+        <pubDate>Wed, 14 Oct 2026 01:37:26 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Trump warns Iran: Wait till you see what we do]]></title>
+            <description><![CDATA[US President Donald Trump on Tuesday night issued a warning to Iran, threatening the US would "do a number" on the Islamic Republic and hinting Washington has had it with Tehran's tactics.]]></description>
+            <link>https://www.israelnationalnews.com/news/434572</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434572</guid>
+            <pubDate>Wed, 14 Oct 2026 01:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump: Iran is a failed country, decision on next steps coming very soon]]></title>
+            <description><![CDATA[President Trump says a decision on Iran is imminent, citing its economic crisis as speculation grows over possible renewed US strikes before the midterm elections.]]></description>
+            <link>https://www.israelnationalnews.com/news/434572</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434572</guid>
+            <pubDate>Wed, 14 Oct 2026 01:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man critically injured after crashing car on roadside in Tel Aviv]]></title>
+            <description><![CDATA[Man critically injured after crashing car on roadside in Tel Aviv]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695329</guid>
+            <pubDate>Wed, 14 Oct 2026 00:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran summons British ambassador over RAF Fairford allegations]]></title>
+            <description><![CDATA[Iran summons Britain's ambassador and threatens to reconsider relations after UK officials accused Tehran of directing a suspected plot at RAF Fairford.]]></description>
+            <link>https://www.israelnationalnews.com/news/434571</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434571</guid>
+            <pubDate>Wed, 14 Oct 2026 00:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia arrests Japanese journalist on suspicion of spying for Tokyo]]></title>
+            <description><![CDATA[Russia arrests Japanese journalist on suspicion of spying for Tokyo]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695327</guid>
+            <pubDate>Tue, 13 Oct 2026 23:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dutch police arrest 20-year-old suspected of planning terror attack]]></title>
+            <description><![CDATA[Dutch police arrest a 20-year-old suspected of planning a terrorist attack near Rotterdam. Weapons seized after reports of his plans to kill multiple people.]]></description>
+            <link>https://www.israelnationalnews.com/news/434570</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434570</guid>
+            <pubDate>Tue, 13 Oct 2026 23:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia: Aramco building attacked, fire breaks out]]></title>
+            <description><![CDATA[Saudi Arabia: Aramco building attacked, fire breaks out]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695325</guid>
+            <pubDate>Tue, 13 Oct 2026 22:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netanyahu confirms Egyptian intelligence chief visited Israel before October 7]]></title>
             <description><![CDATA[Netanyahu confirms Egypt's intelligence chief visited Israel before October 7 but denies meeting him: "I want to know the truth. There are cameras."]]></description>
@@ -41,9 +90,9 @@ The threat was determined to be a hoax, marking the second false bomb threat mad
         </item>
         <item>
             <title><![CDATA[Pope Leo XIV diagnosed with lung cancer, undergoes surgery]]></title>
-            <description><![CDATA[Pope Leo XIV diagnosed with lung cancer, undergoes surgery]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695320</guid>
+            <description><![CDATA[Pope Leo XIV diagnosed with lung cancer after surgery in Rome. Doctors removed part of his right lung, and the Vatican reported no complications.]]></description>
+            <link>https://www.israelnationalnews.com/news/434566</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434566</guid>
             <pubDate>Tue, 13 Oct 2026 20:45:00 GMT</pubDate>
         </item>
         <item>
@@ -55,7 +104,9 @@ The threat was determined to be a hoax, marking the second false bomb threat mad
         </item>
         <item>
             <title><![CDATA[Another bomb threat targets Delta flight to Tel Aviv]]></title>
-            <description><![CDATA[Another bomb threat targets Delta flight to Tel Aviv]]></description>
+            <description><![CDATA[A Delta Air Lines flight scheduled to depart New York for Tel Aviv a short time ago was denied clearance for takeoff following a bomb threat alleging that an explosive device had been planted on board.
+
+The aircraft will remain on the ground until all security checks have been completed.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695318</guid>
             <pubDate>Tue, 13 Oct 2026 20:09:00 GMT</pubDate>
@@ -69,9 +120,9 @@ The threat was determined to be a hoax, marking the second false bomb threat mad
         </item>
         <item>
             <title><![CDATA[Trump warns Houthis after attacks on Saudi Arabia: 'I will never forget!']]></title>
-            <description><![CDATA[Trump warns Houthis after attacks on Saudi Arabia: 'I will never forget!']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695316</guid>
+            <description><![CDATA[US President Donald Trump accuses the Houthis of attacking Saudi Arabia to drive up oil prices ahead of the US elections, warns that the Iranian-backed group has not learned its lesson from previous American strikes.]]></description>
+            <link>https://www.israelnationalnews.com/news/434563</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434563</guid>
             <pubDate>Tue, 13 Oct 2026 19:26:00 GMT</pubDate>
         </item>
         <item>
@@ -83,9 +134,9 @@ The threat was determined to be a hoax, marking the second false bomb threat mad
         </item>
         <item>
             <title><![CDATA[A blow to Winter: Davidi Ben-Zion quits Amcha Yisrael party]]></title>
-            <description><![CDATA[A blow to Winter: Davidi Ben-Zion quits Amcha Yisrael party]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695314</guid>
+            <description><![CDATA[Davidi Ben-Zion quits Amcha Yisrael, warning it may fail to cross the electoral threshold. Smotrich praises a 'brave act'; Netanyahu says Winter endangers the right-wing bloc.]]></description>
+            <link>https://www.israelnationalnews.com/news/434562</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434562</guid>
             <pubDate>Tue, 13 Oct 2026 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -97,9 +148,9 @@ The threat was determined to be a hoax, marking the second false bomb threat mad
         </item>
         <item>
             <title><![CDATA[Ben Gvir demands death penalty for murderer of Netanel Shakron]]></title>
-            <description><![CDATA[Ben Gvir demands death penalty for murderer of Netanel Shakron]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695312</guid>
+            <description><![CDATA[The National Security Minister appealed to the Military Advocate General, questioning why an indictment has yet to be filed against the terrorist who murdered Netanel Shakron in a shooting attack in Binyamin.]]></description>
+            <link>https://www.israelnationalnews.com/news/434561</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434561</guid>
             <pubDate>Tue, 13 Oct 2026 18:22:00 GMT</pubDate>
         </item>
         <item>
@@ -174,51 +225,51 @@ The threat was determined to be a hoax, marking the second false bomb threat mad
         </item>
         <item>
             <title><![CDATA[France will soon call out the army to stop the barbarians]]></title>
-            <description><![CDATA[At this moment there is nothing more important in Europe, nothing more indicative of its future, than what is happening in France. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/434524</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434524</guid>
+            <description><![CDATA[France will soon call out the army to stop the barbarians]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695301</guid>
             <pubDate>Tue, 13 Oct 2026 13:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Following security threats: Israel to ban certain types of drones]]></title>
-            <description><![CDATA[Defense Minister Israel Katz is expected to sign an order on Sunday banning the operation of fiber-optic and SIM-controlled drones for six months, following security threats.]]></description>
-            <link>https://www.israelnationalnews.com/news/434550</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434550</guid>
+            <description><![CDATA[Following security threats: Israel to ban certain types of drones]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695300</guid>
             <pubDate>Tue, 13 Oct 2026 13:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ISIS attack plot against IDF soldiers in Jerusalem foiled]]></title>
-            <description><![CDATA[18-year-old Umm al-Fahm resident arrested on suspicion of pledging allegiance to ISIS and planning an attack on IDF soldiers in Jerusalem’s Old City.]]></description>
-            <link>https://www.israelnationalnews.com/news/434549</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434549</guid>
+            <description><![CDATA[ISIS attack plot against IDF soldiers in Jerusalem foiled]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695299</guid>
             <pubDate>Tue, 13 Oct 2026 13:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ramim Ridge tragedy: Injured by shrapnel, teen saves friends on school trip]]></title>
-            <description><![CDATA[Fifteen-year-old Yair was injured in the unexploded ordnance blast on the Ramim Ridge but rushed to treat his friends.]]></description>
-            <link>https://www.israelnationalnews.com/news/434548</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434548</guid>
+            <description><![CDATA[Ramim Ridge tragedy: Injured by shrapnel, teen saves friends on school trip]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695298</guid>
             <pubDate>Tue, 13 Oct 2026 12:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teen detained over racist attack on Druze woman aboard bus]]></title>
-            <description><![CDATA[Police question 15-year-old girl suspected of throwing socks, shouting insults at Druze woman speaking Arabic on a bus.]]></description>
-            <link>https://www.israelnationalnews.com/news/434547</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434547</guid>
+            <description><![CDATA[Teen detained over racist attack on Druze woman aboard bus]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695297</guid>
             <pubDate>Tue, 13 Oct 2026 12:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yesha Council launches situation room to combat fake news about Judea and Samaria]]></title>
-            <description><![CDATA[JSR information center to provide real-time reports, footage, and analysis, aiming to counter misinformation and provide accurate information to audiences worldwide.]]></description>
-            <link>https://www.israelnationalnews.com/news/434546</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434546</guid>
+            <description><![CDATA[Yesha Council launches situation room to combat fake news about Judea and Samaria]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695296</guid>
             <pubDate>Tue, 13 Oct 2026 11:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From Mexico to Australia: Eight Jewish educators honored at global conference in Israel]]></title>
-            <description><![CDATA[President Herzog and Minister Chikli attend inaugural Global Jewish Teacher Award ceremony, recognizing educators for contributions to Jewish identity and strengthening ties with Israel.]]></description>
-            <link>https://www.israelnationalnews.com/news/434545</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434545</guid>
+            <description><![CDATA[From Mexico to Australia: Eight Jewish educators honored at global conference in Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695295</guid>
             <pubDate>Tue, 13 Oct 2026 11:35:00 GMT</pubDate>
         </item>
         <item>
@@ -241,55 +292,6 @@ The threat was determined to be a hoax, marking the second false bomb threat mad
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695292</guid>
             <pubDate>Tue, 13 Oct 2026 11:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israir halts Marrakech flight sales following Flydubai attack]]></title>
-            <description><![CDATA[Israir halts Marrakech flight sales following Flydubai attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695291</guid>
-            <pubDate>Tue, 13 Oct 2026 10:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yeshiva Committee issues unusual guidelines to students]]></title>
-            <description><![CDATA[Yeshiva Committee issues unusual guidelines to students]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695290</guid>
-            <pubDate>Tue, 13 Oct 2026 10:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15-year-old girl detained for alleged racist attack on woman]]></title>
-            <description><![CDATA[15-year-old girl detained for alleged racist attack on woman]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695289</guid>
-            <pubDate>Tue, 13 Oct 2026 09:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joint List makes Palestinian state a condition for post-election support]]></title>
-            <description><![CDATA[Joint List makes Palestinian state a condition for post-election support]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695288</guid>
-            <pubDate>Tue, 13 Oct 2026 09:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two daycare staff questioned after six toddlers escape]]></title>
-            <description><![CDATA[Two daycare staff questioned after six toddlers escape]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695287</guid>
-            <pubDate>Tue, 13 Oct 2026 09:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recorded anti-Jewish hate crimes rise 10% in England and Wales]]></title>
-            <description><![CDATA[Recorded anti-Jewish hate crimes rise 10% in England and Wales]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695286</guid>
-            <pubDate>Tue, 13 Oct 2026 09:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 infants suffer allergic reactions at Beitar Illit daycare]]></title>
-            <description><![CDATA[10 infants suffer allergic reactions at Beitar Illit daycare]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695285</guid>
-            <pubDate>Tue, 13 Oct 2026 08:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,70 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 15:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 19:21:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 15:14:55 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 19:21:41 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Liberman blasts Eisenkot: Benny Gantz 2, seeking to form government with Netanyahu]]></title>
+            <description><![CDATA[Yisrael Beytenu chairman Avigdor Liberman accuses Gadi Eisenkot of seeking a coalition with Netanyahu, Deri, and Goldknopf: "Gadi Eisenkot is Benny Gantz 2."
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/434732</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434732</guid>
+            <pubDate>Fri, 16 Oct 2026 19:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump fires White House press secretary Katie Zacharia after just one week]]></title>
+            <description><![CDATA[President Trump removes Katie Zacharia as White House press secretary after a troubled debut, questions about her legal credentials and just one week on the job.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/434731</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434731</guid>
+            <pubDate>Fri, 16 Oct 2026 18:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump: Israel helping Saudi Arabia against Houthis, normalization closer than ever]]></title>
+            <description><![CDATA[Trump: Israel helping Saudi Arabia against Houthis, normalization closer than ever]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695523</guid>
+            <pubDate>Fri, 16 Oct 2026 17:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sharp rise in overseas voting: Nearly 87% turnout at Israeli diplomatic missions]]></title>
+            <description><![CDATA[Voting for the 26th Knesset at Israeli diplomatic missions worldwide has concluded, with turnout reaching 86.7%, compared to 69.6% in the previous election.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/434729</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434729</guid>
+            <pubDate>Fri, 16 Oct 2026 17:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF: Two interceptors launched at false target in southern Lebanon]]></title>
+            <description><![CDATA[IDF: Two interceptors launched at false target in southern Lebanon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695521</guid>
+            <pubDate>Fri, 16 Oct 2026 16:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interceptor launched toward suspicious target in southern Lebanon]]></title>
+            <description><![CDATA[An interceptor was launched on Friday evening toward a suspicious aerial target identified in the area in which IDF soldiers are operating in southern Lebanon, the IDF Spokesperson's Unit said.
+
+No sirens were sounded in accordance with protocol.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695520</guid>
+            <pubDate>Fri, 16 Oct 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shabbat Shalom from Israel!]]></title>
+            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
+            <pubDate>Fri, 16 Oct 2026 14:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[To remove the threat, IDF eliminates Nukhba commander who infiltrated Re’im Base on 10/7]]></title>
             <description><![CDATA[The terrorist infiltrated the Re’im Base during the October 7 massacre and recently advanced attacks against IDF troops and Israeli civilians, in violation of the ceasefire.]]></description>
@@ -134,9 +193,9 @@ The IDF added: "Police forces and forensic investigators from the Judea and Sama
         </item>
         <item>
             <title><![CDATA[Shabbat Shalom: To those who give us reason to sing]]></title>
-            <description><![CDATA[Shabbat Shalom: To those who give us reason to sing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695504</guid>
+            <description><![CDATA[In this difficult week, you gave Jews somewhere to put down the weight for a few hours. You reminded us how good it feels to belong to this extraordinary people.]]></description>
+            <link>https://www.israelnationalnews.com/news/434719</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434719</guid>
             <pubDate>Fri, 16 Oct 2026 09:35:00 GMT</pubDate>
         </item>
         <item>
@@ -176,9 +235,9 @@ The IDF added: "Police forces and forensic investigators from the Judea and Sama
         </item>
         <item>
             <title><![CDATA[To our leaders -- please get out of the mud]]></title>
-            <description><![CDATA[To our leaders -- please get out of the mud]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695498</guid>
+            <description><![CDATA[Our leaders should stop mud-slinging and come together like Thomas Jefferson and James Madison and Benjamin Franklin, who did not agree on everything either, to prepare Eretz Israel for the future. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/434712</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434712</guid>
             <pubDate>Fri, 16 Oct 2026 07:07:00 GMT</pubDate>
         </item>
         <item>
@@ -190,51 +249,51 @@ The IDF added: "Police forces and forensic investigators from the Judea and Sama
         </item>
         <item>
             <title><![CDATA[IDF takes out October 7 Hamas commander]]></title>
-            <description><![CDATA[In separate strikes, IDF eliminates Islamic Jihad terrorist, Hamas weapons production commander who infiltrated Israel on October 7.]]></description>
-            <link>https://www.israelnationalnews.com/news/434709</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434709</guid>
+            <description><![CDATA[IDF takes out October 7 Hamas commander]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695496</guid>
             <pubDate>Fri, 16 Oct 2026 06:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Not rocket science: New car hits the road - and the air]]></title>
-            <description><![CDATA[Elon Musk unveils Tesla's new Roadster with rocket-like thrusters, showcasing aerial stunts and acceleration from 0 to 60 mph in under a second. Production is targeted for 2028.]]></description>
-            <link>https://www.israelnationalnews.com/news/434708</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434708</guid>
+            <description><![CDATA[Not rocket science: New car hits the road - and the air]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695495</guid>
             <pubDate>Fri, 16 Oct 2026 06:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Poll: Likud plunges to 18 seats, Arab parties reach record high]]></title>
-            <description><![CDATA[New Maariv poll shows Likud losing two seats as Arab parties climb to combined 14, political blocs tie at 51 seats each.]]></description>
-            <link>https://www.israelnationalnews.com/news/434707</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434707</guid>
+            <description><![CDATA[Poll: Likud plunges to 18 seats, Arab parties reach record high]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695494</guid>
             <pubDate>Fri, 16 Oct 2026 05:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brazil election poll: Pro-Israel Bolsonaro leads Lula by two points ahead of runoff]]></title>
-            <description><![CDATA[Flavio Bolsonaro leads Brazilian President Lula 47% to 45% in a new Datafolha poll ahead of the October 25 runoff, narrowing his previous four-point advantage.]]></description>
-            <link>https://www.israelnationalnews.com/news/434706</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434706</guid>
+            <description><![CDATA[Brazil election poll: Pro-Israel Bolsonaro leads Lula by two points ahead of runoff]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695493</guid>
             <pubDate>Fri, 16 Oct 2026 03:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two years since Sinwar's elimination: IDF reveals his orders before October 7]]></title>
-            <description><![CDATA[Marking two years since Yahya Sinwar's elimination, the IDF releases a handwritten document in which the Hamas leader ordered terrorists to document atrocities on October 7.]]></description>
-            <link>https://www.israelnationalnews.com/news/434705</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434705</guid>
+            <description><![CDATA[Two years since Sinwar's elimination: IDF reveals his orders before October 7]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695492</guid>
             <pubDate>Fri, 16 Oct 2026 03:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Called Netanyahu a 'Qatari agent': PM to sue former close aide]]></title>
-            <description><![CDATA[After Yoav Horowitz accused Netanyahu of being a "Qatari agent," the Likud announces that the Prime Minister would file a 500,000-shekel defamation lawsuit.]]></description>
-            <link>https://www.israelnationalnews.com/news/434704</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434704</guid>
+            <description><![CDATA[Called Netanyahu a 'Qatari agent': PM to sue former close aide]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695491</guid>
             <pubDate>Fri, 16 Oct 2026 03:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indonesia's Islamic council demands cancellation of Bocelli concerts over Israel]]></title>
-            <description><![CDATA[Indonesia's leading Islamic council calls for the cancellation of two Andrea Bocelli concerts, citing the Italian tenor's support for Israel and its military.]]></description>
-            <link>https://www.israelnationalnews.com/news/434703</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434703</guid>
+            <description><![CDATA[Indonesia's Islamic council demands cancellation of Bocelli concerts over Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695490</guid>
             <pubDate>Fri, 16 Oct 2026 02:43:00 GMT</pubDate>
         </item>
         <item>
@@ -257,55 +316,6 @@ The IDF added: "Police forces and forensic investigators from the Judea and Sama
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695487</guid>
             <pubDate>Fri, 16 Oct 2026 01:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three young children and a teacher killed in Oregon elementary school shooting]]></title>
-            <description><![CDATA[Three young children and a teacher killed in Oregon elementary school shooting]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695486</guid>
-            <pubDate>Fri, 16 Oct 2026 01:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China's Foreign Minister calls for Palestinian state during talks in Azerbaijan]]></title>
-            <description><![CDATA[China's Foreign Minister calls for Palestinian state during talks in Azerbaijan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695485</guid>
-            <pubDate>Fri, 16 Oct 2026 01:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Military service for all, Finance Ministry: Zelekha unveils economic plan, slams Netanyahu]]></title>
-            <description><![CDATA[Military service for all, Finance Ministry: Zelekha unveils economic plan, slams Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695484</guid>
-            <pubDate>Fri, 16 Oct 2026 01:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump when asked if he trusts Netanyahu: I don't trust anybody]]></title>
-            <description><![CDATA[Trump when asked if he trusts Netanyahu: I don't trust anybody]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695483</guid>
-            <pubDate>Fri, 16 Oct 2026 00:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump rules out nuclear strike on Iran, says no plans for ground troops]]></title>
-            <description><![CDATA[Trump rules out nuclear strike on Iran, says no plans for ground troops]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695482</guid>
-            <pubDate>Fri, 16 Oct 2026 00:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rubio to Lebanon's President: Confiscated explosives must not be returned to Hezbollah]]></title>
-            <description><![CDATA[Rubio to Lebanon's President: Confiscated explosives must not be returned to Hezbollah]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695481</guid>
-            <pubDate>Fri, 16 Oct 2026 00:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Oregon school shooter was a 16-year-old teen]]></title>
-            <description><![CDATA[Report: Oregon school shooter was a 16-year-old teen]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695480</guid>
-            <pubDate>Thu, 15 Oct 2026 23:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

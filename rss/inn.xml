@@ -4,11 +4,95 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 00:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 05:31:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 00:12:22 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 05:31:05 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Brazil election poll: Pro-Israel Bolsonaro leads Lula by two points ahead of runoff]]></title>
+            <description><![CDATA[Flavio Bolsonaro leads Brazilian President Lula 47% to 45% in a new Datafolha poll ahead of the October 25 runoff, narrowing his previous four-point advantage.]]></description>
+            <link>https://www.israelnationalnews.com/news/434706</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434706</guid>
+            <pubDate>Fri, 16 Oct 2026 03:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two years since Sinwar's elimination: IDF reveals his orders before October 7]]></title>
+            <description><![CDATA[Marking two years since Yahya Sinwar's elimination, the IDF releases a handwritten document in which the Hamas leader ordered terrorists to document atrocities on October 7.]]></description>
+            <link>https://www.israelnationalnews.com/news/434705</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434705</guid>
+            <pubDate>Fri, 16 Oct 2026 03:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Called Netanyahu a 'Qatari agent': PM to sue former close aide]]></title>
+            <description><![CDATA[Called Netanyahu a 'Qatari agent': PM to sue former close aide]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695491</guid>
+            <pubDate>Fri, 16 Oct 2026 03:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia's Islamic council demands cancellation of Bocelli concerts over Israel]]></title>
+            <description><![CDATA[Indonesia's leading Islamic council calls for the cancellation of two Andrea Bocelli concerts, citing the Italian tenor's support for Israel and its military.]]></description>
+            <link>https://www.israelnationalnews.com/news/434703</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434703</guid>
+            <pubDate>Fri, 16 Oct 2026 02:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German court jails two men over Iranian plot to assassinate Jewish leaders]]></title>
+            <description><![CDATA[German court jails two men over Iranian plot to assassinate Jewish leaders]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695489</guid>
+            <pubDate>Fri, 16 Oct 2026 02:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese FM to Herzog: Palestinian issue 'the greatest historical injustice of the century']]></title>
+            <description><![CDATA[Chinese Foreign Minister Wang Yi urges Israel to reverse Jewish community construction in Judea and Samaria and reaffirms Beijing's support for a Palestinian state.]]></description>
+            <link>https://www.israelnationalnews.com/news/434700</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434700</guid>
+            <pubDate>Fri, 16 Oct 2026 02:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CENTCOM rejects Iran's claims on Hormuz, cargo ship sinking and US deaths]]></title>
+            <description><![CDATA[US Central Command disputes Iranian claims of control over the Strait of Hormuz, the sinking of a Singapore-flagged ship and hundreds of American military deaths.]]></description>
+            <link>https://www.israelnationalnews.com/news/434701</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434701</guid>
+            <pubDate>Fri, 16 Oct 2026 01:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three young children and a teacher killed in Oregon elementary school shooting]]></title>
+            <description><![CDATA[Three young children and a teacher killed in Oregon elementary school shooting]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695486</guid>
+            <pubDate>Fri, 16 Oct 2026 01:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China's Foreign Minister calls for Palestinian state during talks in Azerbaijan]]></title>
+            <description><![CDATA[Chinese Foreign Minister Wang Yi reiterates Beijing's support for Palestinian statehood and a two-state solution.]]></description>
+            <link>https://www.israelnationalnews.com/news/434700</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434700</guid>
+            <pubDate>Fri, 16 Oct 2026 01:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Military service for all, Finance Ministry: Zelekha unveils economic plan, slams Netanyahu]]></title>
+            <description><![CDATA[Military service for all, Finance Ministry: Zelekha unveils economic plan, slams Netanyahu]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695484</guid>
+            <pubDate>Fri, 16 Oct 2026 01:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump when asked if he trusts Netanyahu: I don't trust anybody]]></title>
+            <description><![CDATA[Trump when asked if he trusts Netanyahu: I don't trust anybody]]></description>
+            <link>https://www.israelnationalnews.com/news/434698</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434698</guid>
+            <pubDate>Fri, 16 Oct 2026 00:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump rules out nuclear strike on Iran, says no plans for ground troops]]></title>
+            <description><![CDATA[President Trump says he will not use nuclear weapons against Iran and has no plans to deploy ground troops, amid reports of a possible MOAB strike.]]></description>
+            <link>https://www.israelnationalnews.com/news/434698</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434698</guid>
+            <pubDate>Fri, 16 Oct 2026 00:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rubio to Lebanon's President: Confiscated explosives must not be returned to Hezbollah]]></title>
             <description><![CDATA[Secretary of State Marco Rubio urges Lebanon to hold those behind a Hezbollah explosives shipment accountable and warns against returning the seized weapons to the group.]]></description>
@@ -32,9 +116,9 @@
         </item>
         <item>
             <title><![CDATA[Israeli-founded cybersecurity firm Varonis to be acquired by Proofpoint for $6.3 billion]]></title>
-            <description><![CDATA[Israeli-founded cybersecurity firm Varonis to be acquired by Proofpoint for $6.3 billion]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695478</guid>
+            <description><![CDATA[Proofpoint agrees to acquire Israeli-founded cybersecurity company Varonis for $6.3 billion in cash, combining their data protection and AI security capabilities.]]></description>
+            <link>https://www.israelnationalnews.com/news/434695</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434695</guid>
             <pubDate>Thu, 15 Oct 2026 23:10:00 GMT</pubDate>
         </item>
         <item>
@@ -46,9 +130,9 @@
         </item>
         <item>
             <title><![CDATA[Rubio’s flawed masterpiece]]></title>
-            <description><![CDATA[Rubio’s flawed masterpiece]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695476</guid>
+            <description><![CDATA[Judaism, not ancient Greece, is foundational to the moral greatness of the West. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/434693</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434693</guid>
             <pubDate>Thu, 15 Oct 2026 22:55:00 GMT</pubDate>
         </item>
         <item>
@@ -129,9 +213,9 @@ No sirens were sounded in accordance with protocol.]]></description>
         </item>
         <item>
             <title><![CDATA[Israel on high alert: Fears of pre-election escalation]]></title>
-            <description><![CDATA[Israel on high alert: Fears of pre-election escalation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695465</guid>
+            <description><![CDATA[Israel is monitoring Iranian missile tests and regional threats amid fears that a miscalculation could trigger a wider conflict ahead of elections in Israel and the US.]]></description>
+            <link>https://www.israelnationalnews.com/news/434688</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434688</guid>
             <pubDate>Thu, 15 Oct 2026 19:33:00 GMT</pubDate>
         </item>
         <item>
@@ -143,165 +227,73 @@ No sirens were sounded in accordance with protocol.]]></description>
         </item>
         <item>
             <title><![CDATA[PM Netanyahu speaks with US Secretary of State Rubio]]></title>
-            <description><![CDATA[Prime Minister Benjamin Netanyahu spoke on Thursday with US Secretary of State Marco Rubio.]]></description>
+            <description><![CDATA[PM Netanyahu speaks with US Secretary of State Rubio]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695463</guid>
             <pubDate>Thu, 15 Oct 2026 19:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Draft evaders barred from civil service jobs under new enforcement rules]]></title>
-            <description><![CDATA[Draft-eligible individuals who fail to regularize their status must provide IDF clearance within five days of winning a civil service tender or risk losing the job.]]></description>
-            <link>https://www.israelnationalnews.com/news/434686</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434686</guid>
+            <description><![CDATA[Draft evaders barred from civil service jobs under new enforcement rules]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695462</guid>
             <pubDate>Thu, 15 Oct 2026 18:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[District Court overturns decision to release Samaria security official]]></title>
-            <description><![CDATA[The District Court accepted the police appeal and overturned the decision regarding the security official from Samaria, whose identifying details are under a gag order.
-
-His detention was extended by an additional five days, and he is expected to be transferred to an Israel Prison Service facility on Sunday. The judge asked law enforcement authorities to consider an earlier transfer and even his release before the end of the detention period.]]></description>
+            <description><![CDATA[District Court overturns decision to release Samaria security official]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695461</guid>
             <pubDate>Thu, 15 Oct 2026 18:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drama at wedding: Groom’s father collapses, is resuscitated and regains consciousness]]></title>
-            <description><![CDATA[A man in his 60s collapsed at his son’s wedding. Guests performed CPR and delivered three defibrillator shocks before MDA paramedics restored his pulse and he regained consciousness.]]></description>
-            <link>https://www.israelnationalnews.com/news/434685</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434685</guid>
+            <description><![CDATA[Drama at wedding: Groom’s father collapses, is resuscitated and regains consciousness]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695460</guid>
             <pubDate>Thu, 15 Oct 2026 18:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Riot in Jerusalem's Abu Tor neighborhood, building and vehicle set on fire]]></title>
-            <description><![CDATA[A violent riot broke out in the Abu Tor neighborhood of Jerusalem following a suspected murder and against the backdrop of an ongoing dispute between families.
-
-According to police, a residential building and a vehicle were apparently set on fire during the riot. Police officers and Border Police forces are working to restore order, while firefighting crews were dispatched to the scene. No injuries have been reported at this stage.]]></description>
+            <description><![CDATA[Riot in Jerusalem's Abu Tor neighborhood, building and vehicle set on fire]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695459</guid>
             <pubDate>Thu, 15 Oct 2026 18:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amb. Danon warns Hezbollah: 'Do not attempt to exploit Israel’s election period']]></title>
-            <description><![CDATA[Israel’s Ambassador to the UN, Danny Danon, issues a direct warning to Iran and Hezbollah: 'Anyone who dares to attack us will face a devastating response.']]></description>
-            <link>https://www.israelnationalnews.com/news/434684</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434684</guid>
+            <description><![CDATA[Amb. Danon warns Hezbollah: 'Do not attempt to exploit Israel’s election period']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695458</guid>
             <pubDate>Thu, 15 Oct 2026 17:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Israel raised alert level over a possible security threats to elections]]></title>
-            <description><![CDATA[Israel has raised its level of alert in recent days amid concerns over a possible security escalation, less than two weeks before the elections, Kan News reported.
-
-At this stage, there is no concrete information indicating that Iran or Hezbollah intends to attack, but the IDF is monitoring missile and drone tests being conducted by Iran.
-
-A security official said: “We are acting to ensure that we are not caught by surprise."]]></description>
+            <description><![CDATA[Report: Israel raised alert level over a possible security threats to elections]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695457</guid>
             <pubDate>Thu, 15 Oct 2026 17:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump cancels planned livestream of Fort Hood terrorist's execution]]></title>
-            <description><![CDATA[President Donald Trump announces that Nidal Hasan's execution will proceed by firing squad, but will not be broadcast to the public. Victims' immediate families will be permitted to attend.]]></description>
-            <link>https://www.israelnationalnews.com/news/434683</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434683</guid>
+            <description><![CDATA[Trump cancels planned livestream of Fort Hood terrorist's execution]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695456</guid>
             <pubDate>Thu, 15 Oct 2026 17:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Horror in a suitcase: 92 venomous reptiles discovered at German airport]]></title>
-            <description><![CDATA[Customs officers were stunned to find 37 live venomous snakes and 55 lizards hidden in a Mexican passenger’s suitcase, concealed in shampoo bottles, socks and clothing.]]></description>
-            <link>https://www.israelnationalnews.com/news/434682</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434682</guid>
+            <description><![CDATA[Horror in a suitcase: 92 venomous reptiles discovered at German airport]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695455</guid>
             <pubDate>Thu, 15 Oct 2026 17:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More than 25 years later: Second 9/11 victim identified through new DNA technology]]></title>
-            <description><![CDATA[New York City officials have identified another victim of the September 11 terrorist attacks using advanced genetic genealogy, bringing the total number of identified victims to 1,655.]]></description>
-            <link>https://www.israelnationalnews.com/news/434681</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434681</guid>
+            <description><![CDATA[More than 25 years later: Second 9/11 victim identified through new DNA technology]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695454</guid>
             <pubDate>Thu, 15 Oct 2026 17:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF and ISA eliminated two Gaza terrorists involved in weapons smuggling]]></title>
-            <description><![CDATA[IDF and ISA eliminated two terrorists who facilitated the smuggling of weapons and military equipment into Gaza.]]></description>
-            <link>https://www.israelnationalnews.com/news/434680</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434680</guid>
-            <pubDate>Thu, 15 Oct 2026 16:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[B'Tsalmo urges Wiz founder to open McDonald's branches in Judea and Samaria]]></title>
-            <description><![CDATA[B'Tsalmo calls on Assaf Rappaport, who is in advanced talks to acquire the McDonald's Israel franchise, to end the chain's longstanding absence from Judea and Samaria.]]></description>
-            <link>https://www.israelnationalnews.com/news/434679</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434679</guid>
-            <pubDate>Thu, 15 Oct 2026 16:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I want to hold a Kalashnikov and shoot Jews': IDF reveals letter written by Sinwar's son]]></title>
-            <description><![CDATA['I want to hold a Kalashnikov and shoot Jews': IDF reveals letter written by Sinwar's son]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695451</guid>
-            <pubDate>Thu, 15 Oct 2026 16:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yakir Kososhvili, 35, named as victim of Kiryat Gat Intel plant fire]]></title>
-            <description><![CDATA[Yakir Kososhvili, 35, named as victim of Kiryat Gat Intel plant fire]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695450</guid>
-            <pubDate>Thu, 15 Oct 2026 15:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ayelet Shaked longs for a time when Israeli politics was free of hatred]]></title>
-            <description><![CDATA[Ayelet Shaked longs for a time when Israeli politics was free of hatred]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695449</guid>
-            <pubDate>Thu, 15 Oct 2026 15:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hezbollah admits ownership of Lebanese-seized explosives: 'Bound for Attacks on IDF']]></title>
-            <description><![CDATA[Hezbollah admits ownership of Lebanese-seized explosives: 'Bound for Attacks on IDF']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695448</guid>
-            <pubDate>Thu, 15 Oct 2026 15:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two killed in Houthi missile attack on Yemeni government headquarters]]></title>
-            <description><![CDATA[Two killed in Houthi missile attack on Yemeni government headquarters]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695447</guid>
-            <pubDate>Thu, 15 Oct 2026 15:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rabbi Shmuel Eliyahu: ‘Every vote helps shape the future of Israel’]]></title>
-            <description><![CDATA[Rabbi Shmuel Eliyahu: ‘Every vote helps shape the future of Israel’]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695445</guid>
-            <pubDate>Thu, 15 Oct 2026 15:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CENTCOM: USS George H.W. Bush returned to Arabian Sea after break in Thailand]]></title>
-            <description><![CDATA[CENTCOM: USS George H.W. Bush returned to Arabian Sea after break in Thailand]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695444</guid>
-            <pubDate>Thu, 15 Oct 2026 14:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF arrests key terrorist weapons trader in Jenin]]></title>
-            <description><![CDATA[IDF arrests key terrorist weapons trader in Jenin]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695443</guid>
-            <pubDate>Thu, 15 Oct 2026 14:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: A chase in Rahat ends with a surprise for Border Police officers]]></title>
-            <description><![CDATA[Watch: A chase in Rahat ends with a surprise for Border Police officers]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695442</guid>
-            <pubDate>Thu, 15 Oct 2026 14:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: I called al-Sharaa, and the Druze massacre stopped]]></title>
-            <description><![CDATA[Netanyahu: I called al-Sharaa, and the Druze massacre stopped]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695441</guid>
-            <pubDate>Thu, 15 Oct 2026 14:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

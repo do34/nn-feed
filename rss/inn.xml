@@ -4,11 +4,18 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 21:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 23:47:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Oct 2026 21:15:59 GMT</pubDate>
+        <pubDate>Sat, 17 Oct 2026 23:47:16 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Did Yinon Magal call Eisenkot a 'monkey'? TV host clarifies remarks]]></title>
+            <description><![CDATA[Channel 14 host Yinon Magal clarifies controversy after calling Gadi Eisenkot a "monkey," citing criminal underworld slang.]]></description>
+            <link>https://www.israelnationalnews.com/news/434750</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434750</guid>
+            <pubDate>Sat, 17 Oct 2026 23:32:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The essence of the Land of Israel]]></title>
             <description><![CDATA[Jews outside Israel vs. Jews in Israel on praying for rain.]]></description>
@@ -48,9 +55,9 @@ Magen David Adom (MDA) teams arriving at the scene found him not breathing and w
         </item>
         <item>
             <title><![CDATA[Herzog apologizes to photographer attacked in Samaria]]></title>
-            <description><![CDATA[Herzog apologizes to photographer attacked in Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695540</guid>
+            <description><![CDATA[President Isaac Herzog calls Washington Post photographer Heidi Levine following assault in Binyamin Region, condemning violence and demanding authorities bring those responsible to justice.]]></description>
+            <link>https://www.israelnationalnews.com/news/434745</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434745</guid>
             <pubDate>Sat, 17 Oct 2026 20:18:00 GMT</pubDate>
         </item>
         <item>
@@ -62,9 +69,9 @@ Magen David Adom (MDA) teams arriving at the scene found him not breathing and w
         </item>
         <item>
             <title><![CDATA[Opposition scrambles to stop Trump from backing Netanyahu]]></title>
-            <description><![CDATA[Opposition scrambles to stop Trump from backing Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695538</guid>
+            <description><![CDATA[As Israel's election approaches, opposition figures are reportedly working behind the scenes to prevent Trump from endorsing Netanyahu and influencing the battle to form the next government.]]></description>
+            <link>https://www.israelnationalnews.com/news/434744</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434744</guid>
             <pubDate>Sat, 17 Oct 2026 19:47:00 GMT</pubDate>
         </item>
         <item>
@@ -250,11 +257,7 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[19-year-old Norwegian recruited for murder for €25,000 sentenced to 20 years in UK]]></title>
-            <description><![CDATA[Johannes Natland, a 19-year-old Norwegian, was sentenced to 20 years in prison in the UK on Friday after being convicted of conspiracy to commit murder on behalf of the Swedish criminal network Foxtrot, which is linked to the Iranian regime.
-
-Natland was arrested in March 2025 in a hotel room in northern England, hours before the planned murder, with two firearms and ammunition in his possession. He admitted possessing the weapons but denied intending to carry out the killing.
-
-London police stressed that no evidence had been found linking Iran directly to this particular case.]]></description>
+            <description><![CDATA[19-year-old Norwegian recruited for murder for €25,000 sentenced to 20 years in UK]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695518</guid>
             <pubDate>Fri, 16 Oct 2026 13:35:00 GMT</pubDate>
@@ -321,13 +324,6 @@ London police stressed that no evidence had been found linking Iran directly to 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695509</guid>
             <pubDate>Fri, 16 Oct 2026 10:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Great Educator]]></title>
-            <description><![CDATA[The Great Educator]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695508</guid>
-            <pubDate>Fri, 16 Oct 2026 09:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

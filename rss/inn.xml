@@ -4,11 +4,69 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 19:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 22:15:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Oct 2026 19:15:00 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 22:15:24 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[HaTzibbur HaCharedi party chairman rejects pressure to withdraw]]></title>
+            <description><![CDATA[Nine days before elections, Moti Leitner rejects calls to withdraw his HaTzibbur HaCharedi party, insisting it will cross.]]></description>
+            <link>https://www.israelnationalnews.com/news/434805</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434805</guid>
+            <pubDate>Sun, 18 Oct 2026 22:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Riots and looting in Milan: Over 200 arrested, most of them minors]]></title>
+            <description><![CDATA[Violent riots erupted in Milan for the second consecutive day amid protests over the rising cost of living. The demonstrations escalated into widespread looting in the city center.
+
+According to media reports, more than 200 people have been arrested, over 80% of them minors. Italian Prime Minister Giorgia Meloni announced that she will convene an emergency meeting tomorrow in response to the unrest.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695610</guid>
+            <pubDate>Sun, 18 Oct 2026 21:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran's FM threatens Trump after endorsement of Netanyahu: 'Be our guest']]></title>
+            <description><![CDATA[Iran's Foreign Minister Abbas Araghchi warns Trump after his endorsement of Netanyahu in Israel's election, accusing the Prime Minister of seeking another war.]]></description>
+            <link>https://www.israelnationalnews.com/news/434804</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434804</guid>
+            <pubDate>Sun, 18 Oct 2026 21:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three polls, different results: Likud and Eisenkot battle for first place]]></title>
+            <description><![CDATA[Nine days before Israel's elections, three polls show differing results: Eisenkot leads in Kan 11's survey, while Likud tops the i24NEWS and Channel 14 polls.]]></description>
+            <link>https://www.israelnationalnews.com/news/434803</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434803</guid>
+            <pubDate>Sun, 18 Oct 2026 20:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lufthansa confirms: Bomb threat on flight from Israel to Vienna, plane landed safely]]></title>
+            <description><![CDATA[Lufthansa Group confirmed Sunday evening that a bomb threat had been received concerning an Austrian Airlines aircraft traveling from Tel Aviv to Vienna, Austria. Following the threat, the flight was diverted for an emergency landing in Sofia, Bulgaria's capital.]]></description>
+            <link>https://www.israelnationalnews.com/news/434800</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434800</guid>
+            <pubDate>Sun, 18 Oct 2026 20:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu unveils new security doctrine: From defense to offense]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu outlines ten principles for Israel's security, emphasizing preemptive strikes, military independence, defeating enemies, and strengthening the nation's Jewish identity.]]></description>
+            <link>https://www.israelnationalnews.com/news/434801</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434801</guid>
+            <pubDate>Sun, 18 Oct 2026 20:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Macron ‘shocked’ by riots sweeping through France]]></title>
+            <description><![CDATA[Macron vows to prosecute rioters as more than 2,000 are arrested and over 600 security personnel injured in unrest across France.]]></description>
+            <link>https://www.israelnationalnews.com/news/434802</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434802</guid>
+            <pubDate>Sun, 18 Oct 2026 19:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Likud activist pulls out pacifier, mocking Eisenkot on live TV]]></title>
+            <description><![CDATA[Likud activist Shlomi Vaknin holds up pacifier during live interview, mocking Yashar! leader Gadi Eisenkot's reaction to being called a 'monkey' by media personality Yinon Magal.]]></description>
+            <link>https://www.israelnationalnews.com/news/434798</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434798</guid>
+            <pubDate>Sun, 18 Oct 2026 19:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bomb threat forces Austrian Airlines flight from Tel Aviv to Vienna to divert to Sofia]]></title>
             <description><![CDATA[Austrian Airlines flight from Ben Gurion Airport to Vienna declares an in-flight emergency following a reported bomb threat. No explosive device has been confirmed.]]></description>
@@ -53,9 +111,9 @@
         </item>
         <item>
             <title><![CDATA[What is your ark?‫‬]]></title>
-            <description><![CDATA[What is your ark?‫‬]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695598</guid>
+            <description><![CDATA[Each of us must find our own “Noah’s ark" that will provide us with stability and protection in a turbulent world:]]></description>
+            <link>https://www.israelnationalnews.com/news/434794</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434794</guid>
             <pubDate>Sun, 18 Oct 2026 16:31:00 GMT</pubDate>
         </item>
         <item>
@@ -116,7 +174,11 @@
         </item>
         <item>
             <title><![CDATA[Following Paris synagogue vandalism, Minister Sofer orders acceleration of French aliyah]]></title>
-            <description><![CDATA[Following Paris synagogue vandalism, Minister Sofer orders acceleration of French aliyah]]></description>
+            <description><![CDATA[Aliyah and Integration Minister Ofir Sofer condemned the vandalism of a synagogue in Paris and ordered steps to accelerate the immigration to Israel of French Jews who have already opened aliyah files.
+
+As part of the initiative, the ministry will proactively contact prospective immigrants to help remove obstacles and encourage them to make aliyah immediately.
+
+Sofer criticized French President Emmanuel Macron and called on his government to combat antisemitism and ensure the safety of the Jewish community.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695589</guid>
             <pubDate>Sun, 18 Oct 2026 13:22:00 GMT</pubDate>
@@ -171,58 +233,58 @@ Trump wrote on Truth Social: “France is burning! The immigration of people fro
         </item>
         <item>
             <title><![CDATA[Israel’s neighborhood Is getting rougher]]></title>
-            <description><![CDATA[What Yemen should teach the West about Israel’s enemies. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/434782</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434782</guid>
+            <description><![CDATA[Israel’s neighborhood Is getting rougher]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695581</guid>
             <pubDate>Sun, 18 Oct 2026 12:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New kind of terrorism: 20+ livestock poisoning incidents in Judea and Samaria in one year]]></title>
-            <description><![CDATA[Meir Bertler of Shomer Yosh calls poisoning incidents in Judea and Samaria 'a new form of terrorism,' saying poison is being spread in grazing areas and water sources.]]></description>
-            <link>https://www.israelnationalnews.com/news/434781</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434781</guid>
+            <description><![CDATA[New kind of terrorism: 20+ livestock poisoning incidents in Judea and Samaria in one year]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695580</guid>
             <pubDate>Sun, 18 Oct 2026 12:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hamas flag & stolen license plates: Vehicle inspection leads to weapons discovery in Dura]]></title>
-            <description><![CDATA[An inspection of a suspicious vehicle in Dura uncovered a Hamas flag and stolen Israeli license plates, leading to a search of a nearby garage where handguns and an improvised firearm were discovered.]]></description>
-            <link>https://www.israelnationalnews.com/news/434780</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434780</guid>
+            <description><![CDATA[Hamas flag & stolen license plates: Vehicle inspection leads to weapons discovery in Dura]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695579</guid>
             <pubDate>Sun, 18 Oct 2026 11:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Severe scandal at Kaplan Hospital: Blood samples allegedly taken without consent]]></title>
-            <description><![CDATA[Kaplan Medical Center's cardiology chief faces allegations of collecting blood samples without patient consent, weeks after a residency training scandal emerged.]]></description>
-            <link>https://www.israelnationalnews.com/news/434779</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434779</guid>
+            <description><![CDATA[Severe scandal at Kaplan Hospital: Blood samples allegedly taken without consent]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695578</guid>
             <pubDate>Sun, 18 Oct 2026 11:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are we a wise and discerning people?]]></title>
-            <description><![CDATA[Today, there are wise and discerning haredim are willing to say out loud: "We want to join our brothers and sisters in defending and contributing to our state! Give us ways to do so that respect our principles, and we will be there, with you and for you." Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/434777</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434777</guid>
+            <description><![CDATA[Are we a wise and discerning people?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695577</guid>
             <pubDate>Sun, 18 Oct 2026 11:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Journalist's response sparks demand for investigation]]></title>
-            <description><![CDATA[Director General of the Ministry of Religious Services demands an investigation into Haaretz journalist Yael Friedson on suspicion of incitement to violence.]]></description>
-            <link>https://www.israelnationalnews.com/news/434776</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434776</guid>
+            <description><![CDATA[Journalist's response sparks demand for investigation]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695576</guid>
             <pubDate>Sun, 18 Oct 2026 11:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The directive was issued, but the enthusiasm has disappeared]]></title>
-            <description><![CDATA[After days of speculation, the Gerrer Rebbe has instructed his followers to vote for United Torah Judaism. However, the limited wording of his directive and the absence of instructions to campaign have sparked controversy in the political arena.]]></description>
-            <link>https://www.israelnationalnews.com/news/434775</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434775</guid>
+            <description><![CDATA[The directive was issued, but the enthusiasm has disappeared]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695575</guid>
             <pubDate>Sun, 18 Oct 2026 11:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Security coordinators descend on IDF HQ over colleague's arrest: ‘A red line was crossed’]]></title>
-            <description><![CDATA[Security coordinators protested outside IDF headquarters in Tel Aviv, demanding intervention over the alleged harsh detention of a colleague from Samaria.]]></description>
-            <link>https://www.israelnationalnews.com/news/434774</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434774</guid>
+            <description><![CDATA[Security coordinators descend on IDF HQ over colleague's arrest: ‘A red line was crossed’]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695574</guid>
             <pubDate>Sun, 18 Oct 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -238,62 +300,6 @@ Trump wrote on Truth Social: “France is burning! The immigration of people fro
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695572</guid>
             <pubDate>Sun, 18 Oct 2026 10:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shocking footage: Rioters ransack Paris synagogue]]></title>
-            <description><![CDATA[Shocking footage: Rioters ransack Paris synagogue]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695571</guid>
-            <pubDate>Sun, 18 Oct 2026 10:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arutz Sheva poll: Who will win the elections? Depends who you ask]]></title>
-            <description><![CDATA[Arutz Sheva poll: Who will win the elections? Depends who you ask]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695570</guid>
-            <pubDate>Sun, 18 Oct 2026 09:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: 'Let the death-before-enlistment people go to prison']]></title>
-            <description><![CDATA[Netanyahu: 'Let the death-before-enlistment people go to prison']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695569</guid>
-            <pubDate>Sun, 18 Oct 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JPPI poll: 65% of Jewish Israelis identify with the right ahead of elections]]></title>
-            <description><![CDATA[JPPI poll: 65% of Jewish Israelis identify with the right ahead of elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695568</guid>
-            <pubDate>Sun, 18 Oct 2026 08:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Without prior warning: Extremist haredi protesters block Gan Yavne Interchange]]></title>
-            <description><![CDATA[Without prior warning: Extremist haredi protesters block Gan Yavne Interchange]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695567</guid>
-            <pubDate>Sun, 18 Oct 2026 07:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Arabs caught in trunk attempting to enter Jerusalem]]></title>
-            <description><![CDATA[Watch: Arabs caught in trunk attempting to enter Jerusalem]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695566</guid>
-            <pubDate>Sun, 18 Oct 2026 07:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kroizer to be questioned, file police misconduct complaint]]></title>
-            <description><![CDATA[Kroizer to be questioned, file police misconduct complaint]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695565</guid>
-            <pubDate>Sun, 18 Oct 2026 06:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK counterterror police target mother over support for Israel]]></title>
-            <description><![CDATA[UK counterterror police target mother over support for Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695564</guid>
-            <pubDate>Sun, 18 Oct 2026 06:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

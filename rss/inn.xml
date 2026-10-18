@@ -4,11 +4,60 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 16:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 19:15:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Oct 2026 16:28:02 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 19:15:00 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Bomb threat forces Austrian Airlines flight from Tel Aviv to Vienna to divert to Sofia]]></title>
+            <description><![CDATA[Austrian Airlines flight from Ben Gurion Airport to Vienna declares an in-flight emergency following a reported bomb threat. No explosive device has been confirmed.]]></description>
+            <link>https://www.israelnationalnews.com/news/434800</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434800</guid>
+            <pubDate>Sun, 18 Oct 2026 19:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ron Dermer among eight honored for contributions to Israel]]></title>
+            <description><![CDATA[Prestigious award presented on Yom Ha'aliyah recognizes English-speaking immigrants whose contributions have made a lasting impact on the State of Israel]]></description>
+            <link>https://www.israelnationalnews.com/news/434799</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434799</guid>
+            <pubDate>Sun, 18 Oct 2026 19:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Axios: Trump breaks precedent with dramatic Netanyahu endorsement ahead of Israel elections]]></title>
+            <description><![CDATA[Nine days before Israel’s elections, Trump gives Netanyahu his “Complete and Total Endorsement" in an unprecedented intervention, Axios’ Barak Ravid reports.]]></description>
+            <link>https://www.israelnationalnews.com/news/434797</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434797</guid>
+            <pubDate>Sun, 18 Oct 2026 18:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minister harassed at hospital days after birth of son]]></title>
+            <description><![CDATA[Negev and Galilee Minister Yitzhak Waserlauf is verbally harassed by left-wing activist while visiting Tel Aviv clinic with newborn son.]]></description>
+            <link>https://www.israelnationalnews.com/news/434796</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434796</guid>
+            <pubDate>Sun, 18 Oct 2026 18:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rabbi Yitzhak Yosef: Jewish law forbids voting for Ben Gvir's party]]></title>
+            <description><![CDATA[Rabbi Yitzhak Yosef rules that supporting Otzma Yehudit is prohibited under Jewish law because of Itamar Ben Gvir's visits to the Temple Mount and his encouragement of others to ascend the site.]]></description>
+            <link>https://www.israelnationalnews.com/news/434795</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434795</guid>
+            <pubDate>Sun, 18 Oct 2026 17:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ofir Deli, 43, from Eli, was killed in a motorcycle accident in Thailand]]></title>
+            <description><![CDATA[An Israeli was killed in a motorcycle accident in Thailand’s Krabi province. His family has been notified, and the Foreign Ministry is arranging the return of his body to Israel. The accident is under investigation.]]></description>
+            <link>https://www.israelnationalnews.com/news/434784</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434784</guid>
+            <pubDate>Sun, 18 Oct 2026 17:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is your ark?‫‬]]></title>
+            <description><![CDATA[What is your ark?‫‬]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695598</guid>
+            <pubDate>Sun, 18 Oct 2026 16:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Obama’s warped, insidious narrative distorts historical fact]]></title>
             <description><![CDATA[In Belfast, Obama repeated a dishonest, mendacious, and vile charge while concealing the evidence needed to judge it - because that evidence would refute it. Opinion.]]></description>
@@ -25,9 +74,9 @@
         </item>
         <item>
             <title><![CDATA[Shas MK warns: Every wasted vote hands power to the left]]></title>
-            <description><![CDATA[Shas MK warns: Every wasted vote hands power to the left]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695595</guid>
+            <description><![CDATA[Former minister Michael Malkieli warns haredi voters who stay home or support parties unlikely to enter Knesset could help bring left to power, threaten Israel's Jewish identity.]]></description>
+            <link>https://www.israelnationalnews.com/news/434788</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434788</guid>
             <pubDate>Sun, 18 Oct 2026 15:42:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +88,9 @@
         </item>
         <item>
             <title><![CDATA[Trump throws support behind Netanyahu ahead of elections]]></title>
-            <description><![CDATA[Trump throws support behind Netanyahu ahead of elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695593</guid>
+            <description><![CDATA[US President Donald Trump announces support for Israeli Prime Minister Benjamin Netanyahu, calling him a 'great warrior' and 'even greater partner for peace.']]></description>
+            <link>https://www.israelnationalnews.com/news/434791</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434791</guid>
             <pubDate>Sun, 18 Oct 2026 14:54:00 GMT</pubDate>
         </item>
         <item>
@@ -81,17 +130,10 @@
         </item>
         <item>
             <title><![CDATA[Aliyah in the spirit of Na’aseh v’Nishma]]></title>
-            <description><![CDATA[Aliyah in the spirit of Na’aseh v’Nishma]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695587</guid>
+            <description><![CDATA[Aliyah is a tikun for The Sin of the Spies.]]></description>
+            <link>https://www.israelnationalnews.com/news/434785</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434785</guid>
             <pubDate>Sun, 18 Oct 2026 13:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[43-year-old Israeli killed in motorcycle accident in Thailand]]></title>
-            <description><![CDATA[An Israeli was killed in a motorcycle accident in Thailand’s Krabi province. His family has been notified, and the Foreign Ministry is arranging the return of his body to Israel. The accident is under investigation.]]></description>
-            <link>https://www.israelnationalnews.com/news/434784</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434784</guid>
-            <pubDate>Sun, 18 Oct 2026 13:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran’s new defense minister: Heavy fighter jet built domestically expected to take flight next year]]></title>
@@ -143,9 +185,9 @@ Trump wrote on Truth Social: “France is burning! The immigration of people fro
         </item>
         <item>
             <title><![CDATA[Hamas flag & stolen license plates: Vehicle inspection leads to weapons discovery in Dura]]></title>
-            <description><![CDATA[Hamas flag & stolen license plates: Vehicle inspection leads to weapons discovery in Dura]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695579</guid>
+            <description><![CDATA[An inspection of a suspicious vehicle in Dura uncovered a Hamas flag and stolen Israeli license plates, leading to a search of a nearby garage where handguns and an improvised firearm were discovered.]]></description>
+            <link>https://www.israelnationalnews.com/news/434780</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434780</guid>
             <pubDate>Sun, 18 Oct 2026 11:58:00 GMT</pubDate>
         </item>
         <item>
@@ -185,46 +227,44 @@ Trump wrote on Truth Social: “France is burning! The immigration of people fro
         </item>
         <item>
             <title><![CDATA[President Isaac Herzog to depart for a diplomatic visit to Budapest]]></title>
-            <description><![CDATA[On October 20, President Isaac Herzog will depart for a 12-hour visit to Budapest, Hungary. During the visit, President Herzog will be received at the Sándor Palace by President András Baka of Hungary. The two presidents will hold a diplomatic meeting to discuss deepening cooperation and strengthening relations between the two countries. President Herzog will then meet with the Prime Minister of Hungary, Péter Magyar, for a diplomatic meeting on advancing bilateral cooperation between the two countries.
-
-At the center of the visit will be President Herzog’s address to the international Voice of the People conference. The conference is part of a global initiative established by President Herzog that brings together Jewish leaders and young people from the Diaspora and from Israel, with the aim of strengthening ties and advancing a shared dialogue on the challenges facing the Jewish people. President Herzog will conclude the visit with a meeting with the leaders of Hungary’s Jewish community.]]></description>
+            <description><![CDATA[President Isaac Herzog to depart for a diplomatic visit to Budapest]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695573</guid>
             <pubDate>Sun, 18 Oct 2026 10:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Antisemitic drawing of Messi sparks outrage in the US]]></title>
-            <description><![CDATA[A mathematics teacher at a public school in Brooklyn, New York, posted a caricature of the Argentine soccer star resembling Nazi propaganda.]]></description>
-            <link>https://www.israelnationalnews.com/news/434773</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434773</guid>
+            <description><![CDATA[Antisemitic drawing of Messi sparks outrage in the US]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695572</guid>
             <pubDate>Sun, 18 Oct 2026 10:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shocking footage: Rioters ransack Paris synagogue]]></title>
-            <description><![CDATA[Rioters wreak havoc in 19th Arrondissement synagogue, throwing holy books and religious items on the floor, as violent riots rock the country.]]></description>
-            <link>https://www.israelnationalnews.com/news/434772</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434772</guid>
+            <description><![CDATA[Shocking footage: Rioters ransack Paris synagogue]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695571</guid>
             <pubDate>Sun, 18 Oct 2026 10:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arutz Sheva poll: Who will win the elections? Depends who you ask]]></title>
-            <description><![CDATA[Arutz Sheva's Election Barometer finds 65% of coalition voters expect Netanyahu to remain PM, while 48% of opposition voters predict a change.]]></description>
-            <link>https://www.israelnationalnews.com/news/434771</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434771</guid>
+            <description><![CDATA[Arutz Sheva poll: Who will win the elections? Depends who you ask]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695570</guid>
             <pubDate>Sun, 18 Oct 2026 09:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu: 'Let the death-before-enlistment people go to prison']]></title>
-            <description><![CDATA[The Prime Minister presented a plan Sunday morning to enlist 23,000 haredi men over three and a half years and issued a stern warning to those who categorically oppose military service.]]></description>
-            <link>https://www.israelnationalnews.com/news/434770</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434770</guid>
+            <description><![CDATA[Netanyahu: 'Let the death-before-enlistment people go to prison']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695569</guid>
             <pubDate>Sun, 18 Oct 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JPPI poll: 65% of Jewish Israelis identify with the right ahead of elections]]></title>
-            <description><![CDATA[New JPPI survey finds the political right dominating Jewish Israelis' self-identification, while security tops voter priorities and 79% view elections as critical.]]></description>
-            <link>https://www.israelnationalnews.com/news/434768</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434768</guid>
+            <description><![CDATA[JPPI poll: 65% of Jewish Israelis identify with the right ahead of elections]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695568</guid>
             <pubDate>Sun, 18 Oct 2026 08:41:00 GMT</pubDate>
         </item>
         <item>
@@ -254,48 +294,6 @@ At the center of the visit will be President Herzog’s address to the internati
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695564</guid>
             <pubDate>Sun, 18 Oct 2026 06:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Under the radar: IDF's surprising move in Lebanon]]></title>
-            <description><![CDATA[Under the radar: IDF's surprising move in Lebanon]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695563</guid>
-            <pubDate>Sun, 18 Oct 2026 05:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The threat of AI: Suspects threatened to blow up airports]]></title>
-            <description><![CDATA[The threat of AI: Suspects threatened to blow up airports]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695562</guid>
-            <pubDate>Sun, 18 Oct 2026 05:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These are the most misunderstood teenagers in Israel]]></title>
-            <description><![CDATA[These are the most misunderstood teenagers in Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695561</guid>
-            <pubDate>Sun, 18 Oct 2026 05:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weather forecast: Cooler than usual, light rain in the north and on the coast]]></title>
-            <description><![CDATA[Weather forecast: Cooler than usual, light rain in the north and on the coast]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695560</guid>
-            <pubDate>Sun, 18 Oct 2026 05:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The UN and the hatred of the Jewish State]]></title>
-            <description><![CDATA[The UN and the hatred of the Jewish State]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695559</guid>
-            <pubDate>Sun, 18 Oct 2026 05:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Lebanon informed US of willingness to participate in military talks with Israel in Florida]]></title>
-            <description><![CDATA[Report: Lebanon informed US of willingness to participate in military talks with Israel in Florida]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695558</guid>
-            <pubDate>Sun, 18 Oct 2026 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

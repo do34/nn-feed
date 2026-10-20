@@ -4,11 +4,81 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 23:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 03:41:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 23:21:21 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 03:41:17 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Arkia flight from New York to Israel lands in Canada due to medical emergency]]></title>
+            <description><![CDATA[An Arkia flight from New York to Tel Aviv was forced to make an unscheduled landing in Canada following a medical emergency on board.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695692</guid>
+            <pubDate>Tue, 20 Oct 2026 03:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK threatens sanctions against companies involved in E1 construction]]></title>
+            <description><![CDATA[British Foreign Secretary Ed Miliband warns companies bidding on E1 construction projects near Jerusalem that they could face sanctions.]]></description>
+            <link>https://www.israelnationalnews.com/news/434869</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434869</guid>
+            <pubDate>Tue, 20 Oct 2026 03:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christiane Amanpour to leave CNN after 43 years]]></title>
+            <description><![CDATA[Christiane Amanpour to leave CNN after 43 years]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695690</guid>
+            <pubDate>Tue, 20 Oct 2026 02:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court rejects 9/11 mastermind's bid to restore plea deal]]></title>
+            <description><![CDATA[US Supreme Court rejects Khalid Sheikh Mohammed's attempt to reinstate a plea deal that would spare him the death penalty, clearing the way for a 2028 trial.]]></description>
+            <link>https://www.israelnationalnews.com/news/434867</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434867</guid>
+            <pubDate>Tue, 20 Oct 2026 02:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El-Sayed lashes out: Israel is not a US ally]]></title>
+            <description><![CDATA[El-Sayed lashes out: Israel is not a US ally]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695688</guid>
+            <pubDate>Tue, 20 Oct 2026 02:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYPD investigates hate crime after Manhattan bank vandalized]]></title>
+            <description><![CDATA[NYPD investigates possible antisemitic hate crime after Palestine Action claims vandalism at a Manhattan bank, amid rising concern over attacks on New York Jews.]]></description>
+            <link>https://www.israelnationalnews.com/news/434865</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434865</guid>
+            <pubDate>Tue, 20 Oct 2026 01:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Two killed in Israeli airstrike in western Gaza City]]></title>
+            <description><![CDATA[Report: Two killed in Israeli airstrike in western Gaza City]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695686</guid>
+            <pubDate>Tue, 20 Oct 2026 01:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany summons Iranian ambassador over plot to attack Jewish leaders]]></title>
+            <description><![CDATA[Germany summons Iran's ambassador after two men are jailed over a plot targeting prominent Jewish figures. Tehran rejects the allegations and summons Berlin's envoy.]]></description>
+            <link>https://www.israelnationalnews.com/news/434864</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434864</guid>
+            <pubDate>Tue, 20 Oct 2026 01:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran's Revolutionary Guards threaten to target internet cables in Strait of Hormuz]]></title>
+            <description><![CDATA[Iran's Revolutionary Guards threaten to target internet cables in Strait of Hormuz]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695684</guid>
+            <pubDate>Tue, 20 Oct 2026 00:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vance declines to endorse Netanyahu: I’m not getting involved in the Israeli election]]></title>
+            <description><![CDATA[Vice President JD Vance declines to endorse Netanyahu in Israel's election despite Trump's support, explains he is focusing on the midterms.]]></description>
+            <link>https://www.israelnationalnews.com/news/434863</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434863</guid>
+            <pubDate>Tue, 20 Oct 2026 00:05:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Following Gantz's withdrawal: Right-wing leaders step up pressure on Ofer Winter]]></title>
             <description><![CDATA[Benny Gantz's withdrawal from the Knesset race sparks calls on the right to prevent wasted votes on parties polling below the electoral threshold.]]></description>
@@ -27,9 +97,9 @@ Read more]]></description>
         </item>
         <item>
             <title><![CDATA[Ben Gvir to Arutz Sheva: If we don't win double-digit seats, they'll leave us out]]></title>
-            <description><![CDATA[Ben Gvir to Arutz Sheva: If we don't win double-digit seats, they'll leave us out]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695680</guid>
+            <description><![CDATA[Despite Netanyahu's promises of a senior position in the next government, Ben Gvir fears the Prime Minister will prefer a coalition with Eisenkot.]]></description>
+            <link>https://www.israelnationalnews.com/news/434860</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434860</guid>
             <pubDate>Mon, 19 Oct 2026 22:10:00 GMT</pubDate>
         </item>
         <item>
@@ -43,9 +113,9 @@ Two of the sources said Ukrainian President Volodymyr Zelenskyy is also expected
         </item>
         <item>
             <title><![CDATA[Concerns in Syria over possible unusual move by Netanyahu]]></title>
-            <description><![CDATA[Concerns in Syria over possible unusual move by Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695678</guid>
+            <description><![CDATA[Syrian officials fear Prime Minister Benjamin Netanyahu could take extraordinary action on Syrian territory to gain a political advantage ahead of Israel's elections.]]></description>
+            <link>https://www.israelnationalnews.com/news/434859</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434859</guid>
             <pubDate>Mon, 19 Oct 2026 21:17:00 GMT</pubDate>
         </item>
         <item>
@@ -71,9 +141,9 @@ Two of the sources said Ukrainian President Volodymyr Zelenskyy is also expected
         </item>
         <item>
             <title><![CDATA[Yes, there’s a Genocide being waged in Gaza!]]></title>
-            <description><![CDATA[Yes, there’s a Genocide being waged in Gaza!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695674</guid>
+            <description><![CDATA[The genocide that is being waged in the Middle East is from the Arabs to the Arabs. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/434855</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434855</guid>
             <pubDate>Mon, 19 Oct 2026 19:04:00 GMT</pubDate>
         </item>
         <item>
@@ -171,135 +241,59 @@ The IDF stated that it remains in close contact with the local communities and s
         </item>
         <item>
             <title><![CDATA[Feiglin's vision for Israel: A warning to Netanyahu and a plan for Gaza]]></title>
-            <description><![CDATA[Moshe Feiglin tells Arutz Sheva that Netanyahu should have resigned, calls for fundamental change in Israel's military strategy, and explains decision to run alongside Bezalel Smotrich.]]></description>
-            <link>https://www.israelnationalnews.com/news/434841</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434841</guid>
+            <description><![CDATA[Feiglin's vision for Israel: A warning to Netanyahu and a plan for Gaza]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695660</guid>
             <pubDate>Mon, 19 Oct 2026 15:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sudan: 80 people killed in UAV attack at transporation station]]></title>
-            <description><![CDATA[At least 80 people were killed in a drone attack near a market and a transportation station in the town of A-Dibab in the state of West Kordofan in Sudan. This was reported by the AFP news agency, citing a medical source and an eyewitness. Most of the dead were civilians waiting for transportation home.]]></description>
+            <description><![CDATA[Sudan: 80 people killed in UAV attack at transporation station]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695659</guid>
             <pubDate>Mon, 19 Oct 2026 14:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hazardous materials leak at Intel plant: Emergency forces still working on site]]></title>
-            <description><![CDATA[Fire and rescue teams continue to operate at the Intel plant following a leak of hazardous materials, in cooperation with police forces, the Ministry of Environmental Protection, and the plant's emergency team.
-
-The forces operating at the scene are formulating an operational plan for further handling of the incident.]]></description>
+            <description><![CDATA[Hazardous materials leak at Intel plant: Emergency forces still working on site]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695658</guid>
             <pubDate>Mon, 19 Oct 2026 14:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meyer Habib slams Macron: France is paying the price]]></title>
-            <description><![CDATA[Habib criticizes the Macron administration following riots and looting in France, accuses the authorities of failing to act, and links hostility toward Israel to the crisis gripping the country.]]></description>
-            <link>https://www.israelnationalnews.com/news/434842</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434842</guid>
+            <description><![CDATA[Meyer Habib slams Macron: France is paying the price]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695657</guid>
             <pubDate>Mon, 19 Oct 2026 14:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Qatar to build two power plants in Lebanon and supply it with natural gas for 20 years]]></title>
-            <description><![CDATA[Qatar is expected to build two power plants in Lebanon and sign an agreement to supply liquefied natural gas to the country for 20 years, according to a draft plan for the Lebanese electricity sector obtained by Reuters.]]></description>
+            <description><![CDATA[Report: Qatar to build two power plants in Lebanon and supply it with natural gas for 20 years]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695656</guid>
             <pubDate>Mon, 19 Oct 2026 14:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foreign Minister Sa'ar speaks with Polish counterpart]]></title>
-            <description><![CDATA[Israeli Foreign Minister Gideon Sa'ar spoke on the phone on Monday with Poland’s Deputy Prime Minister and Foreign Minister, Radosław Sikorski.
-
-The two discussed the significant increase in Israeli tourism to Poland and opportunities to expand cooperation, dialogue, and investment between the countries. In addition, they discussed the war in Ukraine and the situation in the Middle East.
-
-Sa'ar updated Minister Sikorski on the police investigation into the incident in Judea and Samaria involving several diplomats, including the Polish Consul.]]></description>
+            <description><![CDATA[Foreign Minister Sa'ar speaks with Polish counterpart]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695655</guid>
             <pubDate>Mon, 19 Oct 2026 14:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Political bombshell: Benny Gantz withdraws from election race]]></title>
-            <description><![CDATA[Blue and White chairman Benny Gantz announced that he will not run in the upcoming elections.]]></description>
-            <link>https://www.israelnationalnews.com/news/434840</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434840</guid>
+            <description><![CDATA[Political bombshell: Benny Gantz withdraws from election race]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695654</guid>
             <pubDate>Mon, 19 Oct 2026 13:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Captivity survivor's mother: Netanyahu bears responsibility for nurturing Hamas in Gaza]]></title>
-            <description><![CDATA[The mother of former hostage Avinatan Or blames the Prime Minister for allowing funds to flow to Hamas and for the prolonged war, but stops short of saying he should have resigned.]]></description>
-            <link>https://www.israelnationalnews.com/news/434839</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434839</guid>
+            <description><![CDATA[Captivity survivor's mother: Netanyahu bears responsibility for nurturing Hamas in Gaza]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695653</guid>
             <pubDate>Mon, 19 Oct 2026 12:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2 terrorists planning immenent terror attack arrested]]></title>
-            <description><![CDATA[2 terrorists planning immenent terror attack arrested]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695652</guid>
-            <pubDate>Mon, 19 Oct 2026 12:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk pledges $10.5 billion in SpaceX shares to every child in America]]></title>
-            <description><![CDATA[Elon Musk pledges $10.5 billion in SpaceX shares to every child in America]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695651</guid>
-            <pubDate>Mon, 19 Oct 2026 12:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doctor who joined ISIS receives 27-month sentence]]></title>
-            <description><![CDATA[Doctor who joined ISIS receives 27-month sentence]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695650</guid>
-            <pubDate>Mon, 19 Oct 2026 12:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katz: IDF ready to destroy Hamas, demilitarize Gaza]]></title>
-            <description><![CDATA[Katz: IDF ready to destroy Hamas, demilitarize Gaza]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695649</guid>
-            <pubDate>Mon, 19 Oct 2026 12:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu's harsh warning: 'Don't try us']]></title>
-            <description><![CDATA[Netanyahu's harsh warning: 'Don't try us']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695648</guid>
-            <pubDate>Mon, 19 Oct 2026 11:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katz rules out administrative detention for Jewish residents of Judea and Samaria]]></title>
-            <description><![CDATA[Katz rules out administrative detention for Jewish residents of Judea and Samaria]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695647</guid>
-            <pubDate>Mon, 19 Oct 2026 10:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fleur Hassan-Nahoum attacked in stone-throwing incident in Binyamin]]></title>
-            <description><![CDATA[Fleur Hassan-Nahoum attacked in stone-throwing incident in Binyamin]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695646</guid>
-            <pubDate>Mon, 19 Oct 2026 10:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF on highest alert, reinforces forces ahead of elections]]></title>
-            <description><![CDATA[IDF on highest alert, reinforces forces ahead of elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695645</guid>
-            <pubDate>Mon, 19 Oct 2026 10:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Travel adapter recalled due to electric shock and fire risk]]></title>
-            <description><![CDATA[Travel adapter recalled due to electric shock and fire risk]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695644</guid>
-            <pubDate>Mon, 19 Oct 2026 10:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF reveals Hamas plot to bomb Gaza refugee camps]]></title>
-            <description><![CDATA[IDF reveals Hamas plot to bomb Gaza refugee camps]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695643</guid>
-            <pubDate>Mon, 19 Oct 2026 09:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

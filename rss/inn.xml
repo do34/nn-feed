@@ -4,11 +4,66 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 22:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 01:19:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Oct 2026 22:10:51 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 01:19:51 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[UK police re-arrest two suspects in Iranian plot targeting US bomber base]]></title>
+            <description><![CDATA[British counterterrorism police re-arrest two men suspected of assisting Iranian intelligence near RAF Fairford, a base used by US bombers in strikes on Iran.]]></description>
+            <link>https://www.israelnationalnews.com/news/434923</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434923</guid>
+            <pubDate>Wed, 21 Oct 2026 01:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Iraq to gradually close border crossings with Iran in coming days]]></title>
+            <description><![CDATA[Iraq's Prime Minister has ordered the gradual closure of several border crossings with Iran over the coming days, an Iraqi government official told Al Jazeera.
+
+According to the official, the Al-Sheeb border crossing will be closed to passenger traffic and the movement of goods starting Wednesday.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695753</guid>
+            <pubDate>Wed, 21 Oct 2026 00:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran refuses to surrender enriched uranium, sets conditions for US talks]]></title>
+            <description><![CDATA[Iran refuses to surrender enriched uranium, sets conditions for US talks]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695752</guid>
+            <pubDate>Wed, 21 Oct 2026 00:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Witkoff to present Putin with peace proposal following talks with Zelenskyy]]></title>
+            <description><![CDATA[US envoy Steve Witkoff is expected to present Russian President Vladimir Putin with a proposed peace agreement following talks with Ukrainian President Volodymyr Zelenskyy, Axios reported.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695751</guid>
+            <pubDate>Tue, 20 Oct 2026 23:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu: Iran may use its proxies to disrupt the election]]></title>
+            <description><![CDATA[Netanyahu: Iran may use its proxies to disrupt the election]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695750</guid>
+            <pubDate>Tue, 20 Oct 2026 23:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanese report: Hezbollah raises alert level as disagreements emerge in talks With Israel]]></title>
+            <description><![CDATA[Hezbollah has raised its alert level in recent days amid concerns over a possible escalation with Israel or growing internal tensions in Lebanon, the Lebanese Al-Jadeed television channel reported.
+
+According to the report, the latest round of talks between Israeli and Lebanese military delegations, held Tuesday in Tampa, Florida, has concluded and is expected to resume tomorrow. During the discussions, disagreements emerged over who would have the authority to oversee the implementation of security arrangements in southern Lebanon.
+
+The report also claimed that the Lebanese government reserves the right to oppose any mechanism that would give Israel direct influence over the Lebanese military's movements and decisions in the south of the country.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695749</guid>
+            <pubDate>Tue, 20 Oct 2026 22:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Ali from Baghdad' turns out to be Israeli named Hezi: The live TV prank in Paris]]></title>
+            <description><![CDATA[Journalist Neria Kraus interviewed a man in Paris who claimed to be an Arab supporter of Israel. Only later did she discover he was Hezi from Kfar Shalem.]]></description>
+            <link>https://www.israelnationalnews.com/news/434920</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434920</guid>
+            <pubDate>Tue, 20 Oct 2026 22:22:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: IDF to replace Border Police in Judea and Samaria, freeing officers to combat crime]]></title>
             <description><![CDATA[Senior officials from the IDF, Israel Security Agency (Shin Bet), and Israel Police met and decided that IDF soldiers would take over some of the duties currently performed by Border Police officers in Judea and Samaria, allowing the officers to focus on combating nationalist crime and riots in the area, Kan 11 News reported.]]></description>
@@ -123,9 +178,9 @@
         </item>
         <item>
             <title><![CDATA[Afternoon of a writer-part 2]]></title>
-            <description><![CDATA[Afternoon of a writer-part 2]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695731</guid>
+            <description><![CDATA[During the 1950s, you would not become mayor of New York City IF YOU WERE A COMMUNIST. You would be in JAIL. Op-ed.]]></description>
+            <link>https://www.israelnationalnews.com/news/434903</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434903</guid>
             <pubDate>Tue, 20 Oct 2026 15:28:00 GMT</pubDate>
         </item>
         <item>
@@ -176,51 +231,51 @@ The report says the proposal has received US approval and preliminary Iranian ag
         </item>
         <item>
             <title><![CDATA[Herzog in Hungary: 'Alliance of freedom-loving nations critical to confronting Iran']]></title>
-            <description><![CDATA[President Isaac Herzog met Hungarian President András Baka in Budapest, praising Hungary's commitment to combating antisemitism and strengthening ties with Israel.]]></description>
-            <link>https://www.israelnationalnews.com/news/434895</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434895</guid>
+            <description><![CDATA[Herzog in Hungary: 'Alliance of freedom-loving nations critical to confronting Iran']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695724</guid>
             <pubDate>Tue, 20 Oct 2026 13:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[High alert: The Chief of Staff's pre-election message]]></title>
-            <description><![CDATA[IDF Chief of Staff Lt. Gen. Eyal Zamir visited a large-scale Gaza Division exercise and warned that Israel's enemies continue planning attacks despite suffering heavy blows.]]></description>
-            <link>https://www.israelnationalnews.com/news/434894</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434894</guid>
+            <description><![CDATA[High alert: The Chief of Staff's pre-election message]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695723</guid>
             <pubDate>Tue, 20 Oct 2026 12:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[French riots: Messi memorabilia looted]]></title>
-            <description><![CDATA[A Barcelona match jersey and captain's armband bearing the Argentine star's signature were stolen from a store in central Paris during the riots in the French capital.]]></description>
-            <link>https://www.israelnationalnews.com/news/434893</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434893</guid>
+            <description><![CDATA[French riots: Messi memorabilia looted]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695722</guid>
             <pubDate>Tue, 20 Oct 2026 12:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Special search effort for man missing near Jerusalem]]></title>
-            <description><![CDATA[A 23-year-old man has been missing from Jerusalem since August 2, prompting an extensive search by specialist dog teams.]]></description>
-            <link>https://www.israelnationalnews.com/news/434892</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434892</guid>
+            <description><![CDATA[Special search effort for man missing near Jerusalem]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695721</guid>
             <pubDate>Tue, 20 Oct 2026 12:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Walla! poll: Hendel in, Winter out. Eisenkot's lead grows]]></title>
-            <description><![CDATA[New Walla! poll gives Eisenkot's Yashar 23 seats to Likud's 19, as Netanyahu's bloc falls to 48 seats and neither side secures a majority.]]></description>
-            <link>https://www.israelnationalnews.com/news/434891</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434891</guid>
+            <description><![CDATA[Walla! poll: Hendel in, Winter out. Eisenkot's lead grows]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695720</guid>
             <pubDate>Tue, 20 Oct 2026 11:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF develops new test that could change who gets recruited]]></title>
-            <description><![CDATA[The IDF is developing a new assessment to uncover hidden talents and open military career paths to candidates who may have been overlooked by traditional recruitment screening.]]></description>
-            <link>https://www.israelnationalnews.com/news/434890</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434890</guid>
+            <description><![CDATA[IDF develops new test that could change who gets recruited]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695719</guid>
             <pubDate>Tue, 20 Oct 2026 11:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Netanyahu, no haredim: Reservists Party sets coalition red lines]]></title>
-            <description><![CDATA[Yoaz Hendel and Yaron Zelekha rule out joining a Netanyahu-Haredi coalition, demand universal conscription, and warn of a threat to Israel's future.]]></description>
-            <link>https://www.israelnationalnews.com/news/434889</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/434889</guid>
+            <description><![CDATA[No Netanyahu, no haredim: Reservists Party sets coalition red lines]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695718</guid>
             <pubDate>Tue, 20 Oct 2026 10:56:00 GMT</pubDate>
         </item>
         <item>
@@ -243,55 +298,6 @@ The report says the proposal has received US approval and preliminary Iranian ag
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695715</guid>
             <pubDate>Tue, 20 Oct 2026 09:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian MP in critical condition after suspected attack]]></title>
-            <description><![CDATA[Australian MP in critical condition after suspected attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695714</guid>
-            <pubDate>Tue, 20 Oct 2026 09:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Over 540 terrorist infrastructure sites destroyed in southern Lebanon security zone]]></title>
-            <description><![CDATA[Over 540 terrorist infrastructure sites destroyed in southern Lebanon security zone]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695713</guid>
-            <pubDate>Tue, 20 Oct 2026 09:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Driver suspected of trafficking illegal entrants nearly runs down officer near Modi'in]]></title>
-            <description><![CDATA[Driver suspected of trafficking illegal entrants nearly runs down officer near Modi'in]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695712</guid>
-            <pubDate>Tue, 20 Oct 2026 09:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudis report intercepting Houthi missile launched at Riyadh]]></title>
-            <description><![CDATA[Saudis report intercepting Houthi missile launched at Riyadh]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695711</guid>
-            <pubDate>Tue, 20 Oct 2026 09:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mandelblit admits: I did not approve a bribery investigation against Netanyahu]]></title>
-            <description><![CDATA[Mandelblit admits: I did not approve a bribery investigation against Netanyahu]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695710</guid>
-            <pubDate>Tue, 20 Oct 2026 08:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[64,000 haredi draft dodgers could face tougher penalties]]></title>
-            <description><![CDATA[64,000 haredi draft dodgers could face tougher penalties]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695709</guid>
-            <pubDate>Tue, 20 Oct 2026 08:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police investigating arson in Burqa, confrontation in Ein Yabrud]]></title>
-            <description><![CDATA[Police investigating arson in Burqa, confrontation in Ein Yabrud]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695708</guid>
-            <pubDate>Tue, 20 Oct 2026 08:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

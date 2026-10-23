@@ -4,11 +4,64 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 22:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 01:15:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 22:08:53 GMT</pubDate>
+        <pubDate>Fri, 23 Oct 2026 01:15:42 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Florida man arrested over threats to Jewish congressman Jared Moskowitz]]></title>
+            <description><![CDATA[Boca Raton man arrested after allegedly threatening Rep. Jared Moskowitz's life, the latest in a series of threats against the Jewish congressman.]]></description>
+            <link>https://www.israelnationalnews.com/news/435040</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435040</guid>
+            <pubDate>Fri, 23 Oct 2026 01:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia: Two drones launched toward southern region intercepted]]></title>
+            <description><![CDATA[The Saudi-led coalition announced that it intercepted and destroyed two drones launched toward the southern part of the kingdom.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695895</guid>
+            <pubDate>Fri, 23 Oct 2026 00:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Podcast | From Noah to Abraham: God's search for man]]></title>
+            <description><![CDATA[What is Midrash? Exploring the world of the Oral Torah.]]></description>
+            <link>https://www.israelnationalnews.com/news/435038</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435038</guid>
+            <pubDate>Fri, 23 Oct 2026 00:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jerusalem: Protesters storm building hosting United Torah Judaism meeting]]></title>
+            <description><![CDATA[Protesters forced their way into a building in Jerusalem's Beit Yisrael neighborhood where a gathering attended by representatives of the United Torah Judaism party was taking place.
+
+The protesters claimed that MK Yitzhak Pindrus was also present at the event.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695893</guid>
+            <pubDate>Thu, 22 Oct 2026 23:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Trump eyes multi-day Iran offensive after midterms]]></title>
+            <description><![CDATA[Report: Trump eyes multi-day Iran offensive after midterms]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695892</guid>
+            <pubDate>Thu, 22 Oct 2026 23:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Young man seriously injured in stabbing in Hof HaSharon Regional Council]]></title>
+            <description><![CDATA[A 24-year-old man was seriously injured in a stabbing incident in the Hof HaSharon Regional Council area.
+
+Magen David Adom (MDA) paramedics and EMTs evacuated him to Meir Hospital in Kfar Saba.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695891</guid>
+            <pubDate>Thu, 22 Oct 2026 22:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concern in Lebanon: Hezbollah may attempt to destabilize the government]]></title>
+            <description><![CDATA[Concern in Lebanon: Hezbollah may attempt to destabilize the government]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695890</guid>
+            <pubDate>Thu, 22 Oct 2026 22:11:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Avi Maoz: We have not held talks with any political party]]></title>
             <description><![CDATA[Noam LeIsrael party chairman MK Avi Maoz responded to a Kan 11 News report claiming that Bezalel Smotrich has been holding discreet talks with his party regarding its possible withdrawal from the Knesset race.
@@ -27,9 +80,9 @@
         </item>
         <item>
             <title><![CDATA[Trump signals more strikes on Iran: We may do it a little bit further]]></title>
-            <description><![CDATA[Trump signals more strikes on Iran: We may do it a little bit further]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695887</guid>
+            <description><![CDATA[President Trump suggests the US could launch additional strikes against Iran, following reports that Washington and Israel are preparing new military operations.]]></description>
+            <link>https://www.israelnationalnews.com/news/435034</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435034</guid>
             <pubDate>Thu, 22 Oct 2026 21:08:00 GMT</pubDate>
         </item>
         <item>
@@ -41,9 +94,9 @@
         </item>
         <item>
             <title><![CDATA[Ahead of elections: Unusual appeal by leading Religious Zionist Rabbis]]></title>
-            <description><![CDATA[Ahead of elections: Unusual appeal by leading Religious Zionist Rabbis]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695885</guid>
+            <description><![CDATA[Leading Religious Zionist rabbis issue an emergency letter warning against voting for parties that may fail to cross the electoral threshold. "This is a matter of life and death."]]></description>
+            <link>https://www.israelnationalnews.com/news/435032</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435032</guid>
             <pubDate>Thu, 22 Oct 2026 19:57:00 GMT</pubDate>
         </item>
         <item>
@@ -69,9 +122,9 @@
         </item>
         <item>
             <title><![CDATA[12-year-old Ruth Teller killed in accident in Yitzhar]]></title>
-            <description><![CDATA[12-year-old Ruth Teller killed in accident in Yitzhar]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695881</guid>
+            <description><![CDATA[Ruth Teller, 12, was critically injured Thursday afternoon while riding an electric bicycle in the community of Yitzhar in Samaria.]]></description>
+            <link>https://www.israelnationalnews.com/news/435028</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435028</guid>
             <pubDate>Thu, 22 Oct 2026 18:39:00 GMT</pubDate>
         </item>
         <item>
@@ -176,51 +229,51 @@ IDF soldiers were dispatched to the scene and are conducting searches for armed 
         </item>
         <item>
             <title><![CDATA[Initial report: Shooting in Homesh area]]></title>
-            <description><![CDATA[Initial report - A report was received regarding a shooting in the area of Homesh. IDF soldiers were dispatched to the scene.]]></description>
+            <description><![CDATA[Initial report: Shooting in Homesh area]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695866</guid>
             <pubDate>Thu, 22 Oct 2026 14:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yitzhar: 12-year-old girl critically injured while riding bicycle]]></title>
-            <description><![CDATA[Magen David Adom and IDF medical teams are performing resuscitation efforts on a girl approximately 12 years old who was injured while riding a bicycle in the community of Yitzhar in Samaria.]]></description>
-            <link>https://www.israelnationalnews.com/news/435017</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435017</guid>
+            <description><![CDATA[Yitzhar: 12-year-old girl critically injured while riding bicycle]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695865</guid>
             <pubDate>Thu, 22 Oct 2026 14:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Tefillin for every child": Journalist slams Deri's election promise]]></title>
-            <description><![CDATA[Amichai Attali criticized Deri's "Tefillin for Every Child" program, claiming that its real purpose is to create jobs for political associates.]]></description>
-            <link>https://www.israelnationalnews.com/news/435015</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435015</guid>
+            <description><![CDATA["Tefillin for every child": Journalist slams Deri's election promise]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695864</guid>
             <pubDate>Thu, 22 Oct 2026 13:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modelyo raises approximately $17 million to secure cloud and AI]]></title>
-            <description><![CDATA[Modelyo announced on Thursday, October 22, 2026, that it has raised approximately $17 million, primarily from U.S. investors, to accelerate the development of its Sovereign Confidential Cloud platform and expand its international operations.]]></description>
-            <link>https://www.israelnationalnews.com/news/435014</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435014</guid>
+            <description><![CDATA[Modelyo raises approximately $17 million to secure cloud and AI]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695863</guid>
             <pubDate>Thu, 22 Oct 2026 13:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I Got Death Threats': Model sues UN envoy for 500,000 NIS over Nazi comparison]]></title>
-            <description><![CDATA[Israeli actress and model Sarai Givaty ​​has filed a defamation lawsuit seeking half a million shekels in damages against Francesca Albanese, the UN Human Rights Council’s Special Rapporteur on the Palestinian Territories.]]></description>
-            <link>https://www.israelnationalnews.com/news/435013</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435013</guid>
+            <description><![CDATA['I Got Death Threats': Model sues UN envoy for 500,000 NIS over Nazi comparison]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695862</guid>
             <pubDate>Thu, 22 Oct 2026 12:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Vile murderer": Herzog assures there will be no pardon for Yigal Amir]]></title>
-            <description><![CDATA[At the memorial ceremony for Yitzhak and Leah Rabin, President Herzog warned against political violence ahead of the elections and made clear that he opposes granting a pardon to the Prime Minister's assassin.]]></description>
-            <link>https://www.israelnationalnews.com/news/435012</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435012</guid>
+            <description><![CDATA["Vile murderer": Herzog assures there will be no pardon for Yigal Amir]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695861</guid>
             <pubDate>Thu, 22 Oct 2026 12:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At Kerem Shalom: Protesters block Gaza aid trucks, demand Hamas disarmament]]></title>
-            <description><![CDATA[Protesters block approximately 50 aid trucks near Kerem Shalom, demanding Gaza's demilitarization, end to Hamas-empowering 'humanitarian' aid.]]></description>
-            <link>https://www.israelnationalnews.com/news/435009</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435009</guid>
+            <description><![CDATA[At Kerem Shalom: Protesters block Gaza aid trucks, demand Hamas disarmament]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695860</guid>
             <pubDate>Thu, 22 Oct 2026 12:22:00 GMT</pubDate>
         </item>
         <item>
@@ -243,55 +296,6 @@ IDF soldiers were dispatched to the scene and are conducting searches for armed 
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695857</guid>
             <pubDate>Thu, 22 Oct 2026 11:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unusual meeting at haredi leader's home]]></title>
-            <description><![CDATA[Unusual meeting at haredi leader's home]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695856</guid>
-            <pubDate>Thu, 22 Oct 2026 10:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli aerospace giant launches Boeing 777 conversions in US]]></title>
-            <description><![CDATA[Israeli aerospace giant launches Boeing 777 conversions in US]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695855</guid>
-            <pubDate>Thu, 22 Oct 2026 10:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deri promises: Free tefillin for every bar mitzvah boy in Israel]]></title>
-            <description><![CDATA[Deri promises: Free tefillin for every bar mitzvah boy in Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695854</guid>
-            <pubDate>Thu, 22 Oct 2026 09:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu to Arutz Sheva: Report Trump blocked Iran strike is 'incorrect']]></title>
-            <description><![CDATA[Netanyahu to Arutz Sheva: Report Trump blocked Iran strike is 'incorrect']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695853</guid>
-            <pubDate>Thu, 22 Oct 2026 09:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu to Arutz Sheva: Report Trump blocked Iran strike is 'incorrect']]></title>
-            <description><![CDATA[Netanyahu to Arutz Sheva: Report Trump blocked Iran strike is 'incorrect']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695852</guid>
-            <pubDate>Thu, 22 Oct 2026 09:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Journalist admits vandalizing Nazi collaborator monuments in Canada]]></title>
-            <description><![CDATA[Journalist admits vandalizing Nazi collaborator monuments in Canada]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695851</guid>
-            <pubDate>Thu, 22 Oct 2026 09:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain should be paying Israel reparations]]></title>
-            <description><![CDATA[Britain should be paying Israel reparations]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695850</guid>
-            <pubDate>Thu, 22 Oct 2026 08:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

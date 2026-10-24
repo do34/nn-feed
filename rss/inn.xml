@@ -4,11 +4,60 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 17:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 20:19:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 17:52:51 GMT</pubDate>
+        <pubDate>Sat, 24 Oct 2026 20:19:48 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Fall back! Israel turns clocks back tonight]]></title>
+            <description><![CDATA[Israel switches to winter time overnight as clocks move back one hour at 2:00 a.m., giving Israelis an extra hour of sleep but bringing earlier sunsets.]]></description>
+            <link>https://www.israelnationalnews.com/news/435088</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435088</guid>
+            <pubDate>Sat, 24 Oct 2026 20:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran reportedly ready to target submarine cables if war resumes]]></title>
+            <description><![CDATA[Iran has developed detailed plans to attack undersea communications cables in the Gulf if the United States and Israel launch renewed military strikes.]]></description>
+            <link>https://www.israelnationalnews.com/news/435089</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435089</guid>
+            <pubDate>Sat, 24 Oct 2026 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US intelligence warns of advanced Iranian assassination plots]]></title>
+            <description><![CDATA[US intelligence warns that Iran has intensified assassination plots against American officials abroad, with some reaching advanced stages, Axios report says.]]></description>
+            <link>https://www.israelnationalnews.com/news/435087</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435087</guid>
+            <pubDate>Sat, 24 Oct 2026 19:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Following terror attack: IDF arrests 40 terror suspects in sweeping raids]]></title>
+            <description><![CDATA[Israeli security forces raid 400 locations across Judea and Samaria, arresting approximately 40 suspects, including Hamas and Islamic Jihad terrorists, and destroying memorials honoring terrorists.]]></description>
+            <link>https://www.israelnationalnews.com/news/435086</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435086</guid>
+            <pubDate>Sat, 24 Oct 2026 18:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Nobel Peace Prize turned inside out]]></title>
+            <description><![CDATA[The committee cited Pillay for ensuring that genocide is prosecuted, yet the most prominent genocide charge of her career was a despicable libel. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/435085</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435085</guid>
+            <pubDate>Sat, 24 Oct 2026 18:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yair Golan threatens Channel 14, Eli Academy]]></title>
+            <description><![CDATA[Yair Golan's election demands include shutting down Channel 14 if it refuses to sign an ethics code, cutting funding to a pre-military academy, and taking control of four key ministries.]]></description>
+            <link>https://www.israelnationalnews.com/news/435084</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435084</guid>
+            <pubDate>Sat, 24 Oct 2026 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Winter rejects serving under Eisenkot, then hugs him on live TV]]></title>
+            <description><![CDATA[Ofer Winter declares that an "enormous ideological gulf" separates him from Gadi Eisenkot and rules out serving under him. Moments later, the two meet in the studio and embrace.]]></description>
+            <link>https://www.israelnationalnews.com/news/435083</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435083</guid>
+            <pubDate>Sat, 24 Oct 2026 17:59:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Over 9000 IDF lone soldiers gather for annual errands support event]]></title>
             <description><![CDATA[Nefesh B’Nefesh and FIDF, together with the IDF, bring essential government, military and civilian services under one roof for thousands of Lone Soldiers]]></description>
@@ -25,9 +74,9 @@
         </item>
         <item>
             <title><![CDATA[Chabad man returns to tefillin outreach day after stabbing]]></title>
-            <description><![CDATA[Chabad man returns to tefillin outreach day after stabbing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695957</guid>
+            <description><![CDATA[A Chabad Jew was stabbed in NYC. He returned the next day to continue wrapping tefillin.]]></description>
+            <link>https://www.israelnationalnews.com/news/435080</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435080</guid>
             <pubDate>Sat, 24 Oct 2026 16:10:00 GMT</pubDate>
         </item>
         <item>
@@ -206,16 +255,16 @@ The Ukrainian city, which was captured by Russia, is under a heavy siege and fac
         </item>
         <item>
             <title><![CDATA[How we vote]]></title>
-            <description><![CDATA[Regardless of the candidates or the election outcome, we should recognize and appreciate the profound zechut of possessing the right to vote in our own country.]]></description>
-            <link>https://www.israelnationalnews.com/news/435064</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435064</guid>
+            <description><![CDATA[How we vote]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695938</guid>
             <pubDate>Fri, 23 Oct 2026 13:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Something unexpected is happening in haredi politics]]></title>
-            <description><![CDATA[This new party is picking up the gauntlet of staying haredi but accepting national responsibilities, and they are climbing in popularity but still need our support to make it a reality. GO OUT AND VOTE. Op-ed.]]></description>
-            <link>https://www.israelnationalnews.com/news/435063</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435063</guid>
+            <description><![CDATA[Something unexpected is happening in haredi politics]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695937</guid>
             <pubDate>Fri, 23 Oct 2026 12:59:00 GMT</pubDate>
         </item>
         <item>
@@ -227,30 +276,30 @@ The Ukrainian city, which was captured by Russia, is under a heavy siege and fac
         </item>
         <item>
             <title><![CDATA['He wanted to massacre us all': One dead, four injured in shooting spree near Paris]]></title>
-            <description><![CDATA[A gunman opened fire on passersby in Trappes, near Paris, wounding four, including a 12-year-old girl. The mayor said he sought to cause a massacre. The suspect was arrested, and counterterrorism authorities are involved in the investigation.]]></description>
-            <link>https://www.israelnationalnews.com/news/435062</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435062</guid>
+            <description><![CDATA['He wanted to massacre us all': One dead, four injured in shooting spree near Paris]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695935</guid>
             <pubDate>Fri, 23 Oct 2026 12:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The coming elections: A voter’s guide to Israel’s perplexing “polito-sphere"]]></title>
-            <description><![CDATA[The decision of whom not to vote for is no less consequential than that of whom to vote for.Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/435061</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435061</guid>
+            <description><![CDATA[The coming elections: A voter’s guide to Israel’s perplexing “polito-sphere"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695934</guid>
             <pubDate>Fri, 23 Oct 2026 12:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ron and Yuval fell killed in shooting attack near Hebron]]></title>
-            <description><![CDATA[Staff Sergeant Ron Yonatan Roytman and Sergeant Yuval Shai Svilem fell in combat on Friday morning during the shooting attack at the Judea Junction.]]></description>
-            <link>https://www.israelnationalnews.com/news/435060</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435060</guid>
+            <description><![CDATA[Ron and Yuval fell killed in shooting attack near Hebron]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695933</guid>
             <pubDate>Fri, 23 Oct 2026 12:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“EVIL": A slogan that describes our enemies]]></title>
-            <description><![CDATA[Israel and the Jews must win the slogan war. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/435059</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435059</guid>
+            <description><![CDATA[“EVIL": A slogan that describes our enemies]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695932</guid>
             <pubDate>Fri, 23 Oct 2026 12:21:00 GMT</pubDate>
         </item>
         <item>
@@ -273,55 +322,6 @@ The Ukrainian city, which was captured by Russia, is under a heavy siege and fac
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695929</guid>
             <pubDate>Fri, 23 Oct 2026 11:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF investigating: Did AFP photographer have prior knowledge of attack?]]></title>
-            <description><![CDATA[IDF investigating: Did AFP photographer have prior knowledge of attack?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695928</guid>
-            <pubDate>Fri, 23 Oct 2026 11:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF closes Hebron and Halul, Duvdevan Unit deployed to the area]]></title>
-            <description><![CDATA[IDF closes Hebron and Halul, Duvdevan Unit deployed to the area]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695927</guid>
-            <pubDate>Fri, 23 Oct 2026 10:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Following shooting, police to increase vehicle checks]]></title>
-            <description><![CDATA[Following shooting, police to increase vehicle checks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695926</guid>
-            <pubDate>Fri, 23 Oct 2026 10:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prisoner of Zion Baruch Asher passed away]]></title>
-            <description><![CDATA[Prisoner of Zion Baruch Asher passed away]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695925</guid>
-            <pubDate>Fri, 23 Oct 2026 10:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Huckabee? Will media give shooting attack same level of coverage as olive harvest?]]></title>
-            <description><![CDATA[Huckabee? Will media give shooting attack same level of coverage as olive harvest?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695924</guid>
-            <pubDate>Fri, 23 Oct 2026 10:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF soldiers revive 700-year-old Jewish tradition on Lebanese border]]></title>
-            <description><![CDATA[IDF soldiers revive 700-year-old Jewish tradition on Lebanese border]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695923</guid>
-            <pubDate>Fri, 23 Oct 2026 09:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long Island: Man attempted to set synagogue on fire]]></title>
-            <description><![CDATA[Long Island: Man attempted to set synagogue on fire]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695922</guid>
-            <pubDate>Fri, 23 Oct 2026 09:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

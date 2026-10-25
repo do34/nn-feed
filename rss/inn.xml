@@ -4,11 +4,81 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 00:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 05:45:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Oct 2026 00:53:15 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 05:45:04 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Let there be no strife: The future of Torah life in Israel is at stake]]></title>
+            <description><![CDATA[We cannot afford to weaken ourselves through unnecessary divisions.]]></description>
+            <link>https://www.israelnationalnews.com/news/435103</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435103</guid>
+            <pubDate>Sun, 25 Oct 2026 05:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Benjamin Netanyahu and the weight of leadership]]></title>
+            <description><![CDATA[Three decades at the center of Israel’s history. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/435102</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435102</guid>
+            <pubDate>Sun, 25 Oct 2026 05:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian officials: American citizens are considered legitimate targets]]></title>
+            <description><![CDATA[Iranian officials: American citizens are considered legitimate targets]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695979</guid>
+            <pubDate>Sun, 25 Oct 2026 05:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran reports meeting with Mojtaba Khamenei amid questions over his whereabouts]]></title>
+            <description><![CDATA[Iran's judiciary reports a meeting between its chief and Supreme Leader Mojtaba Khamenei, who has not appeared publicly since March.]]></description>
+            <link>https://www.israelnationalnews.com/news/435101</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435101</guid>
+            <pubDate>Sun, 25 Oct 2026 04:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Paris Rioters wave the ‘Palestinian’ flag]]></title>
+            <description><![CDATA[Why Paris Rioters wave the ‘Palestinian’ flag]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695977</guid>
+            <pubDate>Sun, 25 Oct 2026 04:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspect detained after Hitler's former retreat in Germany is torched]]></title>
+            <description><![CDATA[A major fire breaks out at Hitler's former Alpine retreat in Bavaria, “the Eagle’s Nest", with 200 emergency personnel deployed and a suspect detained as police investigate the cause.]]></description>
+            <link>https://www.israelnationalnews.com/news/435099</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435099</guid>
+            <pubDate>Sun, 25 Oct 2026 04:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump on Iran: We have to make sure they never have a nuclear weapon]]></title>
+            <description><![CDATA[Trump on Iran: We have to make sure they never have a nuclear weapon]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695975</guid>
+            <pubDate>Sun, 25 Oct 2026 03:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hitler's 'Mein Kampf' found at home of suspect in Paris-area shooting]]></title>
+            <description><![CDATA[French police discover Hitler's "Mein Kampf" at the home of a suspect in a shooting near Paris that killed one and wounded five, including a critically injured girl.]]></description>
+            <link>https://www.israelnationalnews.com/news/435097</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435097</guid>
+            <pubDate>Sun, 25 Oct 2026 02:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Riyadh airport to resume flights despite renewed Houthi threats]]></title>
+            <description><![CDATA[Riyadh airport to resume flights despite renewed Houthi threats]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695973</guid>
+            <pubDate>Sun, 25 Oct 2026 01:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: US military has strike plans ready for Iran]]></title>
+            <description><![CDATA[CENTCOM has reportedly prepared several options for renewed strikes against Iran after the midterms, pending Trump’s approval.]]></description>
+            <link>https://www.israelnationalnews.com/news/435095</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435095</guid>
+            <pubDate>Sun, 25 Oct 2026 00:22:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did you remember to turn back your clocks? Israel 'falls back' to Winter Time]]></title>
             <description><![CDATA[Israel switches to Winter Time, turning clocks back one hour from 2:00 a.m. to 1:00 a.m. Winter Time will remain in effect until March 26, 2027.]]></description>
@@ -165,165 +235,73 @@ The forces have begun conducting precise, targeted and thorough searches through
         </item>
         <item>
             <title><![CDATA[Trump: We may do another little operation in Iran]]></title>
-            <description><![CDATA[US President Donald Trump said another operation in Iran is possible.
-
-Speaking at a rally in Florida, the President stated, “We may do another little Operation Epic Fury, or they will agree. If they're smart, they will just say, ‘Let's get down to business.’ But I doubt they will do that because perhaps they're not smart.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/435075</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435075</guid>
+            <description><![CDATA[Trump: We may do another little operation in Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695952</guid>
             <pubDate>Fri, 23 Oct 2026 20:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US Ambassador to Turkey: Could there be an Iran strike this weekend? Absolutely]]></title>
-            <description><![CDATA[US Ambassador Tom Barrack says military strikes on Iran could happen this weekend, warning Trump is serious about taking action if diplomacy fails. Trump responds: I don’t know anything about it.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/435075</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435075</guid>
+            <description><![CDATA[US Ambassador to Turkey: Could there be an Iran strike this weekend? Absolutely]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695951</guid>
             <pubDate>Fri, 23 Oct 2026 19:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Final Israeli election polls: Eisenkot leads, neither bloc secures majority]]></title>
-            <description><![CDATA[Final television polls ahead of Tuesday’s elections show Eisenkot's Yashar party leading Likud, while neither Netanyahu's bloc nor the opposition reaches 61 seats.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/435074</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435074</guid>
+            <description><![CDATA[Final Israeli election polls: Eisenkot leads, neither bloc secures majority]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695950</guid>
             <pubDate>Fri, 23 Oct 2026 18:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump on Iran: We could take the whole country]]></title>
-            <description><![CDATA[President Trump says Iran is economically crippled and the US controls the Strait of Hormuz, while leaving open the possibility of further military strikes.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/435073</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435073</guid>
+            <description><![CDATA[Trump on Iran: We could take the whole country]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695949</guid>
             <pubDate>Fri, 23 Oct 2026 18:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF chief at Judea Junction attack scene: We are at the highest level of readiness]]></title>
-            <description><![CDATA[IDF Chief Eyal Zamir says soldiers killed in the Judea Junction shooting prevented a more serious attack, vows to pursue those responsible and reinforces troops in the area.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/435072</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435072</guid>
+            <description><![CDATA[IDF chief at Judea Junction attack scene: We are at the highest level of readiness]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695948</guid>
             <pubDate>Fri, 23 Oct 2026 17:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Arutz Sheva-Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of Shabbat. Jerusalem candle lighting time is 17:18 on Friday. Our North American desk will keep you informed until the 17:46 EDT candle lighting time in New York.
-
-The updates from Israel will resume Saturday night, following the conclusion of Shabbat at 18:34 in Jerusalem.
-
-Shabbat Shalom!]]></description>
+            <description><![CDATA[Shabbat Shalom from Israel!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
             <pubDate>Fri, 23 Oct 2026 14:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Covenant between the Halves]]></title>
-            <description><![CDATA[An in depth study based on known commentaries.]]></description>
-            <link>https://www.israelnationalnews.com/news/435071</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435071</guid>
+            <description><![CDATA[The Covenant between the Halves]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695947</guid>
             <pubDate>Fri, 23 Oct 2026 14:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF to simulate surprise attack and infiltration into Israel in large-scale drill]]></title>
-            <description><![CDATA[The IDF will hold a large-scale military exercise in northern and central Israel this coming Sunday and Monday, involving the Israeli Air Force and forces from the Northern and Central Commands.
-
-The exercise will simulate scenarios including a surprise attack, infiltration into Israeli territory by air and land, and escalation across multiple fronts simultaneously.
-
-Increased movement of security forces and aircraft is expected over the two days. The IDF stressed that the exercise is planned in advance and that there is no concern about an actual security incident.]]></description>
+            <description><![CDATA[IDF to simulate surprise attack and infiltration into Israel in large-scale drill]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695946</guid>
             <pubDate>Fri, 23 Oct 2026 13:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[White House: Russia-Ukraine ceasefire reached through Melania Trump’s mediation]]></title>
-            <description><![CDATA[The White House announced that a ceasefire had been reached between Russia and Ukraine in the area of the city of Oleshky in the Kherson region, through the mediation of Melania Trump.
-
-The Ukrainian city, which was captured by Russia, is under a heavy siege and facing a severe humanitarian crisis. According to reports, the approximately 2,000 residents remaining in the city have been forced to survive by eating grass due to food shortages.]]></description>
+            <description><![CDATA[White House: Russia-Ukraine ceasefire reached through Melania Trump’s mediation]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695945</guid>
             <pubDate>Fri, 23 Oct 2026 13:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Let there not be fighting between us, for we are brothers']]></title>
-            <description><![CDATA[Even when brothers disagree and even if they live completely different lifestyles, their love must transcend their differences.]]></description>
-            <link>https://www.israelnationalnews.com/news/435070</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435070</guid>
+            <description><![CDATA['Let there not be fighting between us, for we are brothers']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695944</guid>
             <pubDate>Fri, 23 Oct 2026 13:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After shooting attack: Bulldozers in operation on the outskirts of Hebron]]></title>
-            <description><![CDATA[After shooting attack: Bulldozers in operation on the outskirts of Hebron]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695943</guid>
-            <pubDate>Fri, 23 Oct 2026 13:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parashat Lech Lecha: Parenting advice from Abraham]]></title>
-            <description><![CDATA[Parashat Lech Lecha: Parenting advice from Abraham]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695942</guid>
-            <pubDate>Fri, 23 Oct 2026 13:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Demolitions begin near Hebron hours after deadly terror attack]]></title>
-            <description><![CDATA[Demolitions begin near Hebron hours after deadly terror attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695941</guid>
-            <pubDate>Fri, 23 Oct 2026 13:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hikers attacked in Samaria: 'They beat us with clubs and filmed us']]></title>
-            <description><![CDATA[Hikers attacked in Samaria: 'They beat us with clubs and filmed us']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695940</guid>
-            <pubDate>Fri, 23 Oct 2026 13:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least seven killed in shooting at church funeral in Jordan]]></title>
-            <description><![CDATA[At least seven killed in shooting at church funeral in Jordan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695939</guid>
-            <pubDate>Fri, 23 Oct 2026 13:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How we vote]]></title>
-            <description><![CDATA[How we vote]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695938</guid>
-            <pubDate>Fri, 23 Oct 2026 13:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Something unexpected is happening in haredi politics]]></title>
-            <description><![CDATA[Something unexpected is happening in haredi politics]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695937</guid>
-            <pubDate>Fri, 23 Oct 2026 12:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Achi Party, led by Rabbi Yoram Abargil, withdraws from Knesset run]]></title>
-            <description><![CDATA[Achi Party, led by Rabbi Yoram Abargil, withdraws from Knesset run]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695936</guid>
-            <pubDate>Fri, 23 Oct 2026 12:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['He wanted to massacre us all': One dead, four injured in shooting spree near Paris]]></title>
-            <description><![CDATA['He wanted to massacre us all': One dead, four injured in shooting spree near Paris]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695935</guid>
-            <pubDate>Fri, 23 Oct 2026 12:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The coming elections: A voter’s guide to Israel’s perplexing “polito-sphere"]]></title>
-            <description><![CDATA[The coming elections: A voter’s guide to Israel’s perplexing “polito-sphere"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_695934</guid>
-            <pubDate>Fri, 23 Oct 2026 12:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

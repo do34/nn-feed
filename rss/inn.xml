@@ -4,11 +4,102 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 16:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 21:24:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 16:33:01 GMT</pubDate>
+        <pubDate>Mon, 26 Oct 2026 21:24:14 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA["Don't stand on the sidelines": Rabbi Dudi Dudkevitch issues call ahead of elections]]></title>
+            <description><![CDATA[In a special lecture ahead of the elections, Rabbi Dudi Dudkevitch emphasized that voting is not merely a civic right, but a Torah obligation and a responsibility toward the future of the country.]]></description>
+            <link>https://www.israelnationalnews.com/news/435202</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435202</guid>
+            <pubDate>Mon, 26 Oct 2026 21:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jordan launches airstrikes in Syria in retaliation for deadly church attack]]></title>
+            <description><![CDATA[Jordanian fighter jets strike terrorist hideouts in southern Syria after a deadly church funeral shooting killed nine people and wounded 34.]]></description>
+            <link>https://www.israelnationalnews.com/news/435201</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435201</guid>
+            <pubDate>Mon, 26 Oct 2026 20:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump praises Netanyahu on eve of election: "He did a very good job"]]></title>
+            <description><![CDATA[Trump praises Netanyahu on eve of election: "He did a very good job"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696095</guid>
+            <pubDate>Mon, 26 Oct 2026 19:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7.3 Million eligible voters: Your complete guide to Israel's elections]]></title>
+            <description><![CDATA[Ahead of Israel's Knesset elections, find out where and when to vote, what identification to bring, which rides are free, and when results are expected.]]></description>
+            <link>https://www.israelnationalnews.com/news/435200</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435200</guid>
+            <pubDate>Mon, 26 Oct 2026 19:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The antisemitic pro-Abdul El-Sayed ad sparking controversy]]></title>
+            <description><![CDATA[The antisemitic pro-Abdul El-Sayed ad sparking controversy]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696093</guid>
+            <pubDate>Mon, 26 Oct 2026 19:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Following campaign video, Agam Berger slams Yair Golan]]></title>
+            <description><![CDATA[Captivity survivor Agam Berger criticized a campaign video released by Yair Golan's Democrats Party that combined footage of the October 7 attacks with political messages.]]></description>
+            <link>https://www.israelnationalnews.com/news/435198</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435198</guid>
+            <pubDate>Mon, 26 Oct 2026 18:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ponevezh Yeshiva dispute: Supreme Court delays eviction until August]]></title>
+            <description><![CDATA[Ponevezh Yeshiva dispute: Supreme Court delays eviction until August]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696091</guid>
+            <pubDate>Mon, 26 Oct 2026 18:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF eliminates four Hamas and Islamic Jihad terrorists in Gaza]]></title>
+            <description><![CDATA[The IDF eliminated four Hamas and Islamic Jihad terrorists in strikes across the Gaza Strip over the weekend, including a Hamas Nukhba cell commander and a sniper who targeted Israeli troops.]]></description>
+            <link>https://www.israelnationalnews.com/news/435196</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435196</guid>
+            <pubDate>Mon, 26 Oct 2026 17:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia, Turkey and Pakistan hold high-level talks with Iran]]></title>
+            <description><![CDATA[Saudi Arabia, Turkey and Pakistan hold high-level talks with Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696089</guid>
+            <pubDate>Mon, 26 Oct 2026 17:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mr. President, Iran Is not Venezuela: Think twice!]]></title>
+            <description><![CDATA[if you insist on applying the Venezuelan model to Iran, Mr. President, history may remember you not for completing the struggle against Islamic terrorism, but for leaving that struggle unfinished. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/435194</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435194</guid>
+            <pubDate>Mon, 26 Oct 2026 17:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Hezbollah rebuilding military capabilities with Iranian funding]]></title>
+            <description><![CDATA[Report: Hezbollah rebuilding military capabilities with Iranian funding]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696087</guid>
+            <pubDate>Mon, 26 Oct 2026 17:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eretz Yisrael is real]]></title>
+            <description><![CDATA[The next time you are offered the opportunity to join a new Jewish community in America with glatt kosher restaurants and bakeries, magnificent shuls, luxurious mikvahs, affordable villas, and all the comforts of your dreams, think twice.]]></description>
+            <link>https://www.israelnationalnews.com/news/435192</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435192</guid>
+            <pubDate>Mon, 26 Oct 2026 16:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poll: Israelis want security, Americans want unity]]></title>
+            <description><![CDATA[Poll: Israelis want security, Americans want unity]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696085</guid>
+            <pubDate>Mon, 26 Oct 2026 16:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report in Russia: Putin to meet with Iranian president and Qatari emir tomorrow]]></title>
             <description><![CDATA[Russian President Vladimir Putin is expected to meet with Iranian President Masoud Pezeshkian in Moscow tomorrow. The two are also expected to meet with the Emir of Qatar later.]]></description>
@@ -25,9 +116,9 @@
         </item>
         <item>
             <title><![CDATA[Footage from Khan Yunis: IDF strikes terrorists emerging from tunnel]]></title>
-            <description><![CDATA[Footage from Khan Yunis: IDF strikes terrorists emerging from tunnel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696082</guid>
+            <description><![CDATA[After IDF troops identified three terrorists exiting a tunnel shaft in Khan Yunis, an aircraft struck the shaft and the terrorists.]]></description>
+            <link>https://www.israelnationalnews.com/news/435189</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435189</guid>
             <pubDate>Mon, 26 Oct 2026 15:53:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +130,9 @@
         </item>
         <item>
             <title><![CDATA['A step away from disaster': Yitzhar residents demand IDF action after rock attack]]></title>
-            <description><![CDATA['A step away from disaster': Yitzhar residents demand IDF action after rock attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696080</guid>
+            <description><![CDATA[Following a rock attack on families traveling home, Yitzhar residents demand the IDF clear buildings and groves near the road to prevent further attacks.]]></description>
+            <link>https://www.israelnationalnews.com/news/435188</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435188</guid>
             <pubDate>Mon, 26 Oct 2026 15:29:00 GMT</pubDate>
         </item>
         <item>
@@ -62,9 +153,9 @@ Sources in Lebanon said that the organization is also working to rehabilitate it
         </item>
         <item>
             <title><![CDATA[Rabbis Release special prayer ahead of Israel's Knesset elections]]></title>
-            <description><![CDATA[Rabbis Release special prayer ahead of Israel's Knesset elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696077</guid>
+            <description><![CDATA[Tzohar Rabbinical Organization releases a special prayer for Israel's elections, emphasizing national unity, shared responsibility, and mutual respect.]]></description>
+            <link>https://www.israelnationalnews.com/news/435186</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435186</guid>
             <pubDate>Mon, 26 Oct 2026 14:38:00 GMT</pubDate>
         </item>
         <item>
@@ -76,9 +167,9 @@ Sources in Lebanon said that the organization is also working to rehabilitate it
         </item>
         <item>
             <title><![CDATA[Haredi leader: 'Color Black' party will burn in hell]]></title>
-            <description><![CDATA[Haredi leader: 'Color Black' party will burn in hell]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696075</guid>
+            <description><![CDATA[Lithuanian-haredi leader Rabbi Dov Lando says haredi 'Color Black' party uninterested in entering Knesset, will 'burn in hell.']]></description>
+            <link>https://www.israelnationalnews.com/news/435173</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435173</guid>
             <pubDate>Mon, 26 Oct 2026 14:28:00 GMT</pubDate>
         </item>
         <item>
@@ -90,9 +181,9 @@ Sources in Lebanon said that the organization is also working to rehabilitate it
         </item>
         <item>
             <title><![CDATA[Prof. Asher Cohen to Arutz Sheva: Voter turnout gap could change election results]]></title>
-            <description><![CDATA[Prof. Asher Cohen to Arutz Sheva: Voter turnout gap could change election results]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696073</guid>
+            <description><![CDATA[One day before the elections, Prof. Asher Cohen points to the gap in voter turnout between left-wing and right-wing strongholds, highlighting a factor that could determine the outcome.]]></description>
+            <link>https://www.israelnationalnews.com/news/435183</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435183</guid>
             <pubDate>Mon, 26 Oct 2026 14:13:00 GMT</pubDate>
         </item>
         <item>
@@ -104,9 +195,9 @@ Sources in Lebanon said that the organization is also working to rehabilitate it
         </item>
         <item>
             <title><![CDATA[Herzog warns of 'onslaught on Israel' from the Netherlands]]></title>
-            <description><![CDATA[Herzog warns of 'onslaught on Israel' from the Netherlands]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696071</guid>
+            <description><![CDATA[Receiving five new ambassadors, Israeli President Isaac Herzog voices concern over Dutch criticism of Israel, while calling for stronger ties with France and expanded cooperation with Austria and African nations.]]></description>
+            <link>https://www.israelnationalnews.com/news/435180</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435180</guid>
             <pubDate>Mon, 26 Oct 2026 13:50:00 GMT</pubDate>
         </item>
         <item>
@@ -118,9 +209,9 @@ Sources in Lebanon said that the organization is also working to rehabilitate it
         </item>
         <item>
             <title><![CDATA[IDF uncovers mysterious tunnel shaft near Hebron terrorist's home]]></title>
-            <description><![CDATA[IDF uncovers mysterious tunnel shaft near Hebron terrorist's home]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696069</guid>
+            <description><![CDATA[Searches following deadly terror attack reveal 15-meter-deep shaft near terrorist's home in Hebron, with electronic device inside.]]></description>
+            <link>https://www.israelnationalnews.com/news/435178</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435178</guid>
             <pubDate>Mon, 26 Oct 2026 12:49:00 GMT</pubDate>
         </item>
         <item>
@@ -139,9 +230,9 @@ Sources in Lebanon said that the organization is also working to rehabilitate it
         </item>
         <item>
             <title><![CDATA[Palestinian woman joins race for UN chair]]></title>
-            <description><![CDATA[Lana Nusseibeh, a senior Emirati diplomat of Palestinian descent, has entered the race to become the next secretary-general of the United Nations.]]></description>
-            <link>https://www.israelnationalnews.com/news/435176</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435176</guid>
+            <description><![CDATA[Palestinian woman joins race for UN chair]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696066</guid>
             <pubDate>Mon, 26 Oct 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -153,9 +244,9 @@ Sources in Lebanon said that the organization is also working to rehabilitate it
         </item>
         <item>
             <title><![CDATA[Bodycam footage reveals: Five terrorists arrested in Qabatiya operation]]></title>
-            <description><![CDATA[Paratroopers arrest five Hamas and Islamic Jihad terrorists in Qabatiya; Battalion 202 raids over 50 locations in Binyamin during separate counterterrorism operation.]]></description>
-            <link>https://www.israelnationalnews.com/news/435171</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435171</guid>
+            <description><![CDATA[Bodycam footage reveals: Five terrorists arrested in Qabatiya operation]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696064</guid>
             <pubDate>Mon, 26 Oct 2026 10:45:00 GMT</pubDate>
         </item>
         <item>
@@ -167,129 +258,38 @@ Sources in Lebanon said that the organization is also working to rehabilitate it
         </item>
         <item>
             <title><![CDATA[MedEx returns to London to strengthen Israeli healthcare]]></title>
-            <description><![CDATA[Over 130 British doctors looking to move to Israel attended the MedEx UK event in London on Sunday.]]></description>
-            <link>https://www.israelnationalnews.com/news/435172</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435172</guid>
+            <description><![CDATA[MedEx returns to London to strengthen Israeli healthcare]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696062</guid>
             <pubDate>Mon, 26 Oct 2026 09:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senior IDF officers to Winter: 'You could bring down the entire right']]></title>
-            <description><![CDATA[Four senior reserve officers who served alongside Ofer Winter urge him to withdraw from elections, warning his party could waste crucial votes, cost right-wing bloc its majority.]]></description>
-            <link>https://www.israelnationalnews.com/news/435168</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435168</guid>
+            <description><![CDATA[Senior IDF officers to Winter: 'You could bring down the entire right']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696061</guid>
             <pubDate>Mon, 26 Oct 2026 09:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu rejects CNN report that Trump blocked Iran strike]]></title>
-            <description><![CDATA[CNN claims Prime Minister Benjamin Netanyahu sought joint US-Israeli attack on Iran before elections, failed to secure US President Donald Trump's approval. Prime Minister's Office: Fake news.]]></description>
-            <link>https://www.israelnationalnews.com/news/435170</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435170</guid>
+            <description><![CDATA[Netanyahu rejects CNN report that Trump blocked Iran strike]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696060</guid>
             <pubDate>Mon, 26 Oct 2026 08:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[South Tel Aviv activist passes away at 74]]></title>
-            <description><![CDATA[Sheffi Paz, a prominent activist who led the struggle on behalf of South Tel Aviv residents and against illegal immigration, died Monday morning at the age of 74.]]></description>
-            <link>https://www.israelnationalnews.com/news/435169</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435169</guid>
+            <description><![CDATA[South Tel Aviv activist passes away at 74]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696059</guid>
             <pubDate>Mon, 26 Oct 2026 08:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katz: Israel never planned pre-election strike on Iran]]></title>
-            <description><![CDATA[Defense Minister Israel Katz denies reports of disagreements between the government and IDF over Iran, saying no plans to launch attack before elections.]]></description>
-            <link>https://www.israelnationalnews.com/news/435166</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435166</guid>
+            <description><![CDATA[Katz: Israel never planned pre-election strike on Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696058</guid>
             <pubDate>Mon, 26 Oct 2026 07:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three terror suspects arrested in Judea and Samaria weapons raids]]></title>
-            <description><![CDATA[Israeli security forces arrest three suspects, including one with suspected Hamas ties, in operations in Bethlehem and Hebron.]]></description>
-            <link>https://www.israelnationalnews.com/news/435165</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435165</guid>
-            <pubDate>Mon, 26 Oct 2026 07:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Court frees Samaria security chief accused in shooting incident]]></title>
-            <description><![CDATA[After weeks of controversy, a judge ordered the release of Samaria security coordinator Pinchas Ran to house arrest.]]></description>
-            <link>https://www.israelnationalnews.com/news/435167</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435167</guid>
-            <pubDate>Mon, 26 Oct 2026 07:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Israel too democratic to govern?]]></title>
-            <description><![CDATA[The problem isn't representing the voters. It's the ability to govern effectively. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/435164</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435164</guid>
-            <pubDate>Mon, 26 Oct 2026 06:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New plan seeks major changes to Israel's education and courts]]></title>
-            <description><![CDATA[New plan seeks major changes to Israel's education and courts]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696054</guid>
-            <pubDate>Mon, 26 Oct 2026 06:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Election Day washout? Thunderstorms, floods forecast for Israel]]></title>
-            <description><![CDATA[Election Day washout? Thunderstorms, floods forecast for Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696053</guid>
-            <pubDate>Mon, 26 Oct 2026 06:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lessons from the past to guide your hand on election day]]></title>
-            <description><![CDATA[Lessons from the past to guide your hand on election day]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696052</guid>
-            <pubDate>Mon, 26 Oct 2026 05:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: Which account should you draw from first in retirement?]]></title>
-            <description><![CDATA[Podcast: Which account should you draw from first in retirement?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696051</guid>
-            <pubDate>Mon, 26 Oct 2026 04:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CENTCOM chief declares: Strait of Hormuz is free from Iranian mines]]></title>
-            <description><![CDATA[CENTCOM chief declares: Strait of Hormuz is free from Iranian mines]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696050</guid>
-            <pubDate>Mon, 26 Oct 2026 04:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reports in Yemen: Explosions in Sanaa; Saudi-led coalition says depots and launchers destroyed]]></title>
-            <description><![CDATA[Reports in Yemen: Explosions in Sanaa; Saudi-led coalition says depots and launchers destroyed]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696049</guid>
-            <pubDate>Mon, 26 Oct 2026 04:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman arrested and charged after Jewish man stabbed in Manhattan]]></title>
-            <description><![CDATA[Woman arrested and charged after Jewish man stabbed in Manhattan]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696048</guid>
-            <pubDate>Mon, 26 Oct 2026 04:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Montreal man sues police after arrest for waving Israeli flag]]></title>
-            <description><![CDATA[Montreal man sues police after arrest for waving Israeli flag]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696047</guid>
-            <pubDate>Mon, 26 Oct 2026 03:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Jewish leaders declare Green Party racist over 'Zionism is racism' policy]]></title>
-            <description><![CDATA[UK Jewish leaders declare Green Party racist over 'Zionism is racism' policy]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696046</guid>
-            <pubDate>Mon, 26 Oct 2026 03:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump on Iran: I’m going to make a great deal]]></title>
-            <description><![CDATA[Trump on Iran: I’m going to make a great deal]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696045</guid>
-            <pubDate>Mon, 26 Oct 2026 03:09:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

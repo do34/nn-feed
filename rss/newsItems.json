@@ -1,69 +1,4 @@
 {
-  "flash_629916": {
-    "description": "Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat in North America, where they are being written now.\n\nUpdates will resume Saturday night from Israel, following the conclusion of Shabbat at 18:34 Jerusalem time.\n\nShabbat Shalom!",
-    "link": "/flashes",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695955": {
-    "description": "Otzma Yehudit chairman Itamar Ben Gvir warns that Netanyahu wants a broad government with Gadi Eisenkot and urges right-wing voters not to abandon his party.\n\n(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)",
-    "link": "/news/435078",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695959": {
-    "description": "Nefesh B’Nefesh and FIDF, together with the IDF, bring essential government, military and civilian services under one roof for thousands of Lone Soldiers",
-    "link": "/news/435082",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695958": {
-    "description": "Channel 12 poll gives anti-Netanyahu bloc 70 Knesset seats, but only 56 without Arab parties, as bloc's voters largely prefer minority government relying on United Arab List for support.",
-    "link": "/news/435081",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695956": {
-    "description": "Terrorists cross Gaza 'yellow line' in two separate incidents, IDF eliminates threats.",
-    "link": "/news/435079",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695966": {
-    "description": "Israel switches to winter time overnight as clocks move back one hour at 2:00 a.m., giving Israelis an extra hour of sleep but bringing earlier sunsets.",
-    "link": "/news/435088",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695965": {
-    "description": "Iran has developed detailed plans to attack undersea communications cables in the Gulf if the United States and Israel launch renewed military strikes.",
-    "link": "/news/435089",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695964": {
-    "description": "US intelligence warns that Iran has intensified assassination plots against American officials abroad, with some reaching advanced stages, Axios report says.",
-    "link": "/news/435087",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695963": {
-    "description": "Israeli security forces raid 400 locations across Judea and Samaria, arresting approximately 40 suspects, including Hamas and Islamic Jihad terrorists, and destroying memorials honoring terrorists.",
-    "link": "/news/435086",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695962": {
-    "description": "The committee cited Pillay for ensuring that genocide is prosecuted, yet the most prominent genocide charge of her career was a despicable libel. Opinion.",
-    "link": "/news/435085",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695961": {
-    "description": "Yair Golan's election demands include shutting down Channel 14 if it refuses to sign an ethics code, cutting funding to a pre-military academy, and taking control of four key ministries.",
-    "link": "/news/435084",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695960": {
-    "description": "Ofer Winter declares that an \"enormous ideological gulf\" separates him from Gadi Eisenkot and rules out serving under him. Moments later, the two meet in the studio and embrace.",
-    "link": "/news/435083",
-    "date": "Oct 24, 2026"
-  },
-  "flash_695957": {
-    "description": "A Chabad Jew was stabbed in NYC. He returned the next day to continue wrapping tefillin.",
-    "link": "/news/435080",
-    "date": "Oct 24, 2026"
-  },
   "flash_695969": {
     "description": "When an American envoy says antisemitism “didn’t exist,\" suggests Zionism became a problem in 1948 and repeatedly gives Israel's adversaries the benefit of the doubt, the question is no longer one unfortunate choice of words. It is one of judgment. Opinion.",
     "link": "/news/435092",
@@ -73,11 +8,6 @@
     "description": "The Har Hebron Regional Council has announced plans to establish two new communities and six agricultural farms in the southern Hebron Hills following Friday's deadly terrorist attack near Hebron.",
     "link": "/news/435091",
     "date": "Oct 25, 2026"
-  },
-  "flash_695967": {
-    "description": "Rabbi Moshe Tzadka, a leading Sephardic haredi rabbi, instructs followers not to vote for Shas over the military draft dispute. Aryeh Deri scrambles to enlist senior rabbis to reverse the decision.",
-    "link": "/news/435090",
-    "date": "Oct 24, 2026"
   },
   "flash_695971": {
     "description": "Israel switches to Winter Time, turning clocks back one hour from 2:00 a.m. to 1:00 a.m. Winter Time will remain in effect until March 26, 2027.",
@@ -647,6 +577,46 @@
   "flash_696069": {
     "description": "Searches following deadly terror attack reveal 15-meter-deep shaft near terrorist's home in Hebron, with electronic device inside.",
     "link": "/news/435178",
+    "date": "Oct 26, 2026"
+  },
+  "flash_696104": {
+    "description": "Syria's Border Crossings and Customs Authority announced the closure of the Nasib border crossing with Jordan following a Jordanian strike in southern Syria.\n\nThe authority said that passenger and cargo traffic through the crossing had been suspended in both directions.",
+    "link": "/flashes",
+    "date": "Oct 27, 2026"
+  },
+  "flash_696103": {
+    "description": "Trump defends the war against Iran, warning that Tehran's missiles could threaten US cities: It should’ve been done a long time ago.",
+    "link": "/news/435207",
+    "date": "Oct 27, 2026"
+  },
+  "flash_696101": {
+    "description": "Israeli actress Gal Gadot receives an honorary doctorate from Bar-Ilan University, reflecting on October 7, Jewish unity and mutual responsibility while urging Israelis to vote.",
+    "link": "/news/435205",
+    "date": "Oct 27, 2026"
+  },
+  "flash_696099": {
+    "description": "President Trump denies reports that Netanyahu sought another endorsement ahead of Israel's election, while praising the Prime Minister's leadership and their joint actions against Iran.",
+    "link": "/news/435204",
+    "date": "Oct 27, 2026"
+  },
+  "flash_696095": {
+    "description": "United States President Donald Trump praised Prime Minister Benjamin Netanyahu in a conversation with reporters, saying: \"Netanyahu has done a very good job as prime minister, under extremely challenging conditions.\"",
+    "link": "/flashes",
+    "date": "Oct 26, 2026"
+  },
+  "flash_696093": {
+    "description": "A campaign ad from Cenk Uygur's PAC backing Michigan Senate candidate Abdul El-Sayed sparked antisemitism accusations after blaming US grocery prices on aid to Israel.",
+    "link": "/news/435199",
+    "date": "Oct 26, 2026"
+  },
+  "flash_696089": {
+    "description": "Saudi, Turkish and Pakistani officials meet Iranian leaders in Tehran to discuss de-escalation as Houthi attacks continue and Egypt backs Saudi defense.",
+    "link": "/news/435195",
+    "date": "Oct 26, 2026"
+  },
+  "flash_696087": {
+    "description": "Reuters reports that Hezbollah has received tens of millions of dollars from Iran to replenish its arsenal, develop explosive drones, and prepare for a possible renewal of fighting with Israel.",
+    "link": "/news/435193",
     "date": "Oct 26, 2026"
   }
 }

@@ -4,11 +4,62 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 21:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 01:12:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 21:24:14 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 01:12:30 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Syria-Jordan border crossing closed following Jordanian strike in Syria]]></title>
+            <description><![CDATA[Syria's Border Crossings and Customs Authority announced the closure of the Nasib border crossing with Jordan following a Jordanian strike in southern Syria.
+
+The authority said that passenger and cargo traffic through the crossing had been suspended in both directions.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696104</guid>
+            <pubDate>Tue, 27 Oct 2026 00:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump on Iran war: We had no choice, we didn’t start the war]]></title>
+            <description><![CDATA[Trump defends the war against Iran, warning that Tehran's missiles could threaten US cities: It should’ve been done a long time ago.]]></description>
+            <link>https://www.israelnationalnews.com/news/435207</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435207</guid>
+            <pubDate>Tue, 27 Oct 2026 00:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Danon confronts Francesca Albanese at UN, hands her resignation letter]]></title>
+            <description><![CDATA[Watch: Danon confronts Francesca Albanese at UN, hands her resignation letter]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696102</guid>
+            <pubDate>Mon, 26 Oct 2026 23:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gal Gadot receives honorary doctorate from Bar-Ilan University: Israel's always my home]]></title>
+            <description><![CDATA[Israeli actress Gal Gadot receives an honorary doctorate from Bar-Ilan University, reflecting on October 7, Jewish unity and mutual responsibility while urging Israelis to vote.]]></description>
+            <link>https://www.israelnationalnews.com/news/435205</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435205</guid>
+            <pubDate>Mon, 26 Oct 2026 23:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Gvir slams Likud: They're trying to push us below the electoral threshold]]></title>
+            <description><![CDATA[Ben Gvir slams Likud: They're trying to push us below the electoral threshold]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696100</guid>
+            <pubDate>Mon, 26 Oct 2026 22:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['He has done a very good job': Trump denies Netanyahu requested second endorsement]]></title>
+            <description><![CDATA[President Trump denies reports that Netanyahu sought another endorsement ahead of Israel's election, while praising the Prime Minister's leadership and their joint actions against Iran.]]></description>
+            <link>https://www.israelnationalnews.com/news/435204</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435204</guid>
+            <pubDate>Mon, 26 Oct 2026 22:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Walter Koenig, Jewish actor who played Chekov on 'Star Trek,' dies at 90]]></title>
+            <description><![CDATA[Walter Koenig, Jewish actor who played Chekov on 'Star Trek,' dies at 90]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696098</guid>
+            <pubDate>Mon, 26 Oct 2026 21:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Don't stand on the sidelines": Rabbi Dudi Dudkevitch issues call ahead of elections]]></title>
             <description><![CDATA[In a special lecture ahead of the elections, Rabbi Dudi Dudkevitch emphasized that voting is not merely a civic right, but a Torah obligation and a responsibility toward the future of the country.]]></description>
@@ -25,7 +76,7 @@
         </item>
         <item>
             <title><![CDATA[Trump praises Netanyahu on eve of election: "He did a very good job"]]></title>
-            <description><![CDATA[Trump praises Netanyahu on eve of election: "He did a very good job"]]></description>
+            <description><![CDATA[United States President Donald Trump praised Prime Minister Benjamin Netanyahu in a conversation with reporters, saying: "Netanyahu has done a very good job as prime minister, under extremely challenging conditions."]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696095</guid>
             <pubDate>Mon, 26 Oct 2026 19:56:00 GMT</pubDate>
@@ -39,9 +90,9 @@
         </item>
         <item>
             <title><![CDATA[The antisemitic pro-Abdul El-Sayed ad sparking controversy]]></title>
-            <description><![CDATA[The antisemitic pro-Abdul El-Sayed ad sparking controversy]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696093</guid>
+            <description><![CDATA[A campaign ad from Cenk Uygur's PAC backing Michigan Senate candidate Abdul El-Sayed sparked antisemitism accusations after blaming US grocery prices on aid to Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/435199</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435199</guid>
             <pubDate>Mon, 26 Oct 2026 19:25:00 GMT</pubDate>
         </item>
         <item>
@@ -67,9 +118,9 @@
         </item>
         <item>
             <title><![CDATA[Saudi Arabia, Turkey and Pakistan hold high-level talks with Iran]]></title>
-            <description><![CDATA[Saudi Arabia, Turkey and Pakistan hold high-level talks with Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696089</guid>
+            <description><![CDATA[Saudi, Turkish and Pakistani officials meet Iranian leaders in Tehran to discuss de-escalation as Houthi attacks continue and Egypt backs Saudi defense.]]></description>
+            <link>https://www.israelnationalnews.com/news/435195</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435195</guid>
             <pubDate>Mon, 26 Oct 2026 17:28:00 GMT</pubDate>
         </item>
         <item>
@@ -81,9 +132,9 @@
         </item>
         <item>
             <title><![CDATA[Report: Hezbollah rebuilding military capabilities with Iranian funding]]></title>
-            <description><![CDATA[Report: Hezbollah rebuilding military capabilities with Iranian funding]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696087</guid>
+            <description><![CDATA[Reuters reports that Hezbollah has received tens of millions of dollars from Iran to replenish its arsenal, develop explosive drones, and prepare for a possible renewal of fighting with Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/435193</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435193</guid>
             <pubDate>Mon, 26 Oct 2026 17:06:00 GMT</pubDate>
         </item>
         <item>
@@ -174,51 +225,51 @@ Sources in Lebanon said that the organization is also working to rehabilitate it
         </item>
         <item>
             <title><![CDATA[UN commission accuses Israel of 'extermination'; Israel slams 'misinformation campaign']]></title>
-            <description><![CDATA[UN-appointed inquiry alleges extermination in Judea and Samaria and genocide in Gaza; Israeli mission accuses investigators of distorting history.]]></description>
-            <link>https://www.israelnationalnews.com/news/435184</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435184</guid>
+            <description><![CDATA[UN commission accuses Israel of 'extermination'; Israel slams 'misinformation campaign']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696074</guid>
             <pubDate>Mon, 26 Oct 2026 14:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prof. Asher Cohen to Arutz Sheva: Voter turnout gap could change election results]]></title>
-            <description><![CDATA[One day before the elections, Prof. Asher Cohen points to the gap in voter turnout between left-wing and right-wing strongholds, highlighting a factor that could determine the outcome.]]></description>
-            <link>https://www.israelnationalnews.com/news/435183</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435183</guid>
+            <description><![CDATA[Prof. Asher Cohen to Arutz Sheva: Voter turnout gap could change election results]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696073</guid>
             <pubDate>Mon, 26 Oct 2026 14:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Israel too democratic to govern?]]></title>
-            <description><![CDATA[The problem isn't representing the voters. it's the ability to govern effectively. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/435182</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435182</guid>
+            <description><![CDATA[Is Israel too democratic to govern?]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696072</guid>
             <pubDate>Mon, 26 Oct 2026 13:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Herzog warns of 'onslaught on Israel' from the Netherlands]]></title>
-            <description><![CDATA[Receiving five new ambassadors, Israeli President Isaac Herzog voices concern over Dutch criticism of Israel, while calling for stronger ties with France and expanded cooperation with Austria and African nations.]]></description>
-            <link>https://www.israelnationalnews.com/news/435180</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435180</guid>
+            <description><![CDATA[Herzog warns of 'onslaught on Israel' from the Netherlands]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696071</guid>
             <pubDate>Mon, 26 Oct 2026 13:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel to supply Cyprus with advanced naval patrol vessel]]></title>
-            <description><![CDATA[Israel signs defense deal to supply Cyprus with new patrol vessel equipped with advanced Rafael naval systems, upgrade an existing vessel.]]></description>
-            <link>https://www.israelnationalnews.com/news/435181</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435181</guid>
+            <description><![CDATA[Israel to supply Cyprus with advanced naval patrol vessel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696070</guid>
             <pubDate>Mon, 26 Oct 2026 13:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF uncovers mysterious tunnel shaft near Hebron terrorist's home]]></title>
-            <description><![CDATA[Searches following deadly terror attack reveal 15-meter-deep shaft near terrorist's home in Hebron, with electronic device inside.]]></description>
-            <link>https://www.israelnationalnews.com/news/435178</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435178</guid>
+            <description><![CDATA[IDF uncovers mysterious tunnel shaft near Hebron terrorist's home]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696069</guid>
             <pubDate>Mon, 26 Oct 2026 12:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Attorney indicted on charges of contact with foreign agent]]></title>
-            <description><![CDATA[The State Prosecutor's Office filed an indictment on Monday against an Israeli attorney accused of maintaining contact with a foreign agent and obstructing an investigation.]]></description>
-            <link>https://www.israelnationalnews.com/news/435179</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435179</guid>
+            <description><![CDATA[Attorney indicted on charges of contact with foreign agent]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696068</guid>
             <pubDate>Mon, 26 Oct 2026 12:39:00 GMT</pubDate>
         </item>
         <item>
@@ -241,55 +292,6 @@ Sources in Lebanon said that the organization is also working to rehabilitate it
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696065</guid>
             <pubDate>Mon, 26 Oct 2026 10:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bodycam footage reveals: Five terrorists arrested in Qabatiya operation]]></title>
-            <description><![CDATA[Bodycam footage reveals: Five terrorists arrested in Qabatiya operation]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696064</guid>
-            <pubDate>Mon, 26 Oct 2026 10:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli defense giant Elbit secures $200 million deal in Asia-Pacific]]></title>
-            <description><![CDATA[Israeli defense giant Elbit secures $200 million deal in Asia-Pacific]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696063</guid>
-            <pubDate>Mon, 26 Oct 2026 10:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MedEx returns to London to strengthen Israeli healthcare]]></title>
-            <description><![CDATA[MedEx returns to London to strengthen Israeli healthcare]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696062</guid>
-            <pubDate>Mon, 26 Oct 2026 09:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senior IDF officers to Winter: 'You could bring down the entire right']]></title>
-            <description><![CDATA[Senior IDF officers to Winter: 'You could bring down the entire right']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696061</guid>
-            <pubDate>Mon, 26 Oct 2026 09:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu rejects CNN report that Trump blocked Iran strike]]></title>
-            <description><![CDATA[Netanyahu rejects CNN report that Trump blocked Iran strike]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696060</guid>
-            <pubDate>Mon, 26 Oct 2026 08:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Tel Aviv activist passes away at 74]]></title>
-            <description><![CDATA[South Tel Aviv activist passes away at 74]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696059</guid>
-            <pubDate>Mon, 26 Oct 2026 08:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katz: Israel never planned pre-election strike on Iran]]></title>
-            <description><![CDATA[Katz: Israel never planned pre-election strike on Iran]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696058</guid>
-            <pubDate>Mon, 26 Oct 2026 07:54:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

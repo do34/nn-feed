@@ -4,11 +4,91 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 21:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 01:36:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2026 21:34:05 GMT</pubDate>
+        <pubDate>Fri, 30 Oct 2026 01:36:12 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Kerry warns Trump against new Iran strikes]]></title>
+            <description><![CDATA[Former Secretary of State John Kerry warns that renewed US strikes on Iran would undermine negotiations and criticizes Trump's withdrawal from the 2015 nuclear deal.]]></description>
+            <link>https://www.israelnationalnews.com/news/435378</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435378</guid>
+            <pubDate>Fri, 30 Oct 2026 01:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian report: Revolutionary Guards intercept hostile fighter jet near Qeshm]]></title>
+            <description><![CDATA[Iran's Tasnim news agency reported that "the Islamic Revolutionary Guard Corps (IRGC) Aerospace Force intercepted a hostile fighter jet in the Qeshm area and forced it to leave the airspace."]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696398</guid>
+            <pubDate>Fri, 30 Oct 2026 00:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crypto firms freeze billions amid suspected Binance hack]]></title>
+            <description><![CDATA[Circle, Tether and Ripple move to block funds linked to a possible Binance hack as investigators track billions in cryptocurrency and major digital assets decline.]]></description>
+            <link>https://www.israelnationalnews.com/news/435377</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435377</guid>
+            <pubDate>Fri, 30 Oct 2026 00:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Young woman seriously injured in single-vehicle accident on Route 463 in Binyamin]]></title>
+            <description><![CDATA[A 22-year-old woman was seriously injured in a single-vehicle accident after the car she was traveling in struck a guardrail on Route 463 in the Binyamin region.
+
+Magen David Adom (MDA) paramedics evacuated her by helicopter to Sheba Hospital at Tel Hashomer. The driver sustained minor injuries. Police have launched an investigation.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696396</guid>
+            <pubDate>Thu, 29 Oct 2026 23:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The new faces of the right: Meet the incoming Knesset members]]></title>
+            <description><![CDATA[12 newcomers are set to enter the Knesset alongside veteran lawmakers, including several who became prominent following the October 7 massacre and the war.]]></description>
+            <link>https://www.israelnationalnews.com/news/435376</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435376</guid>
+            <pubDate>Thu, 29 Oct 2026 23:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Central Elections Committee publishes final election results]]></title>
+            <description><![CDATA[Central Elections Committee Publishes Final Election Results
+
+The Central Elections Committee has published the final results of Israel's 26th Knesset elections following the completion of the double-envelope ballot count and an initial review of the results from regular polling stations.
+
+According to the results, Likud won 27 seats, Yashar 21, Beyachad 12, and the Joint List 11. The Democrats and Ra'am each won eight seats, while Yisrael Beytenu, Otzma Yehudit, and United Torah Judaism secured seven seats each. Shas and the Religious Zionist Party each won six seats. All other parties failed to cross the electoral threshold. The current coalition secured 53 seats, the change bloc 48, and the Arab parties a combined 19.
+
+Voter turnout stood at 77.9%. A total of 5,716,665 votes were counted, of which 5,690,778 were valid and 25,887 were invalid. The electoral threshold was 3.25%, equivalent to 184,947 votes.
+
+The Central Elections Committee clarified that the results remain subject to election integrity checks and minor adjustments that may be made during the verification process. The results will be submitted to the President of Israel on Wednesday, November 4.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696394</guid>
+            <pubDate>Thu, 29 Oct 2026 22:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ahead of another Iran strike? Report: CENTCOM chief briefs Trump at the White House]]></title>
+            <description><![CDATA[Wall Street Journal reports CENTCOM commander Brad Cooper briefed Trump on military options against Iran as Washington prepares for possible renewed strikes while pursuing diplomatic contacts.]]></description>
+            <link>https://www.israelnationalnews.com/news/435374</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435374</guid>
+            <pubDate>Thu, 29 Oct 2026 22:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Love and Self-Sacrifice]]></title>
+            <description><![CDATA[Love and Self-Sacrifice]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696392</guid>
+            <pubDate>Thu, 29 Oct 2026 21:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu and Smotrich meet to coordinate next steps following election results]]></title>
+            <description><![CDATA[Prime Minister Benjamin Netanyahu and Finance Minister Bezalel Smotrich met on Thursday to coordinate their next steps in light of the election results.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696391</guid>
+            <pubDate>Thu, 29 Oct 2026 21:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Be strong and courageous!]]></title>
+            <description><![CDATA[The Akeidah came to uproot an ethical system which emanated from man, and to build in its place a firmly based Divine sytem of morality.]]></description>
+            <link>https://www.israelnationalnews.com/news/435372</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435372</guid>
+            <pubDate>Thu, 29 Oct 2026 21:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The righteous never die]]></title>
             <description><![CDATA[For Meir Kahane's yahrzeit, yehi zichro baruch. In memoriam.]]></description>
@@ -25,9 +105,9 @@
         </item>
         <item>
             <title><![CDATA[Investigation of Michigan's Democratic U.S. Senate nominee]]></title>
-            <description><![CDATA[Investigation of Michigan's Democratic U.S. Senate nominee]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696387</guid>
+            <description><![CDATA[A six part investigation shows the real El-Sayed. All six links are below. If you live in Michigan, you have now been warned. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/435369</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435369</guid>
             <pubDate>Thu, 29 Oct 2026 21:02:00 GMT</pubDate>
         </item>
         <item>
@@ -39,9 +119,9 @@
         </item>
         <item>
             <title><![CDATA[Political deadlock: All the ways to form a government]]></title>
-            <description><![CDATA[Political deadlock: All the ways to form a government]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696385</guid>
+            <description><![CDATA[Neither Netanyahu nor Eisenkot commands a Knesset majority, leaving Israel facing difficult coalition negotiations, a unity government, or new elections.]]></description>
+            <link>https://www.israelnationalnews.com/news/435368</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435368</guid>
             <pubDate>Thu, 29 Oct 2026 20:34:00 GMT</pubDate>
         </item>
         <item>
@@ -53,9 +133,9 @@
         </item>
         <item>
             <title><![CDATA[Western and Islamic concepts of migration: clash of civilizations]]></title>
-            <description><![CDATA[Western and Islamic concepts of migration: clash of civilizations]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696383</guid>
+            <description><![CDATA[While the Western interpretation of migration aims at integrating Muslim immigrants, the Islamic interpretation of hijra aims at dominating the Western “infidel." Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/435366</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435366</guid>
             <pubDate>Thu, 29 Oct 2026 20:27:00 GMT</pubDate>
         </item>
         <item>
@@ -67,9 +147,9 @@
         </item>
         <item>
             <title><![CDATA[Suspicions: Countries other than Qatar attempted to interfere in election]]></title>
-            <description><![CDATA[Suspicions: Countries other than Qatar attempted to interfere in election]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696381</guid>
+            <description><![CDATA[The Shin Bet is investigating suspicions that at least two additional countries, besides Qatar, attempted to influence Israel's elections through illicit funding.]]></description>
+            <link>https://www.israelnationalnews.com/news/435363</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435363</guid>
             <pubDate>Thu, 29 Oct 2026 19:05:00 GMT</pubDate>
         </item>
         <item>
@@ -81,7 +161,7 @@
         </item>
         <item>
             <title><![CDATA[Yair Golan meets Mnasour Abbas]]></title>
-            <description><![CDATA[Yair Golan meets Mnasour Abbas]]></description>
+            <description><![CDATA[יאיר גולן ומנסור עבאסצילום: דוברות]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696379</guid>
             <pubDate>Thu, 29 Oct 2026 17:42:00 GMT</pubDate>
@@ -97,9 +177,9 @@
         </item>
         <item>
             <title><![CDATA[Blakeman or a bad bargain]]></title>
-            <description><![CDATA[Blakeman or a bad bargain]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696377</guid>
+            <description><![CDATA[Let's hope New York's Jews realize that voting Democrat means going the way Europe has gone - and there is no way back once the mistake has been made. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/435361</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435361</guid>
             <pubDate>Thu, 29 Oct 2026 17:22:00 GMT</pubDate>
         </item>
         <item>
@@ -113,9 +193,9 @@ Read more]]></description>
         </item>
         <item>
             <title><![CDATA[Haredi draft riots: Officer hit in head with rock, police use stun grenades]]></title>
-            <description><![CDATA[Haredi draft riots: Officer hit in head with rock, police use stun grenades]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696375</guid>
+            <description><![CDATA[Violent clashes erupt as haredi protesters block Route 4 over the arrest of a draft evader; police deploy stun grenades, and an officer is injured by a rock.]]></description>
+            <link>https://www.israelnationalnews.com/news/435359</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435359</guid>
             <pubDate>Thu, 29 Oct 2026 16:48:00 GMT</pubDate>
         </item>
         <item>
@@ -157,9 +237,9 @@ Eisenkot announced that his teams were preparing to submit bills when the Knesse
         </item>
         <item>
             <title><![CDATA[Haredi party leader admits election failure: 'I failed, but we'll be back']]></title>
-            <description><![CDATA[After receiving 10,000 votes in elections, Moti Leitner takes responsibility for party's election defeat, acknowledges campaign mistakes, and vows to continue fighting for change within haredi society.]]></description>
-            <link>https://www.israelnationalnews.com/news/435350</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435350</guid>
+            <description><![CDATA[Haredi party leader admits election failure: 'I failed, but we'll be back']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696369</guid>
             <pubDate>Thu, 29 Oct 2026 15:42:00 GMT</pubDate>
         </item>
         <item>
@@ -178,132 +258,52 @@ Eisenkot announced that his teams were preparing to submit bills when the Knesse
         </item>
         <item>
             <title><![CDATA[Eisenkot and Golan meet following elections]]></title>
-            <description><![CDATA[Yashar party chairman Gadi Eisenkot and Democrats party chairman Yair Golan met on Thursday to discuss the election results.
-
-A statement said: "During the meeting, the two also discussed their shared commitment to fulfilling the will of the voters as quickly as possible."
-
-יאיר גולן וגדי איזנקוטצילום: דוברות]]></description>
+            <description><![CDATA[Eisenkot and Golan meet following elections]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696366</guid>
             <pubDate>Thu, 29 Oct 2026 15:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Following Flydubai hijacking: Airlines required to submit crew details in advance]]></title>
-            <description><![CDATA[Following the Flydubai security lapse, authorities have decided to revise airline regulations, requiring carriers to submit crew members' details 48 hours before departure.]]></description>
-            <link>https://www.israelnationalnews.com/news/435355</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435355</guid>
+            <description><![CDATA[Following Flydubai hijacking: Airlines required to submit crew details in advance]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696365</guid>
             <pubDate>Thu, 29 Oct 2026 15:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Draft dodgers arrested, haredi protests set to disrupt traffic]]></title>
-            <description><![CDATA[Following the arrests of two yeshiva students, the Jerusalem Faction plans mass protests as police prepare to close Highway 4 and other roads near Bnei Brak.]]></description>
-            <link>https://www.israelnationalnews.com/news/435354</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435354</guid>
+            <description><![CDATA[Draft dodgers arrested, haredi protests set to disrupt traffic]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696364</guid>
             <pubDate>Thu, 29 Oct 2026 15:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Double-envelope ballot counting has concluded]]></title>
-            <description><![CDATA[The Central Elections Committee announced that the counting of double-envelope ballots has been completed.
-
-So far, results from 12,644 polling stations have been entered into the system, totaling 5,589,836 votes. Of these, 5,564,764 are valid votes and 25,072 are invalid.]]></description>
+            <description><![CDATA[Double-envelope ballot counting has concluded]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696363</guid>
             <pubDate>Thu, 29 Oct 2026 14:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[President Herzog calls King of Spain following deadly train crash]]></title>
-            <description><![CDATA[President Isaac Herzog called King Felipe VI of Spain to express his deep condolences following the deadly train collision in Spain on Wednesday.
-
-During the call, President Herzog conveyed his heartfelt sympathy to His Majesty the King, the families of the victims, and the Spanish people, and he wished a full and speedy recovery to all those injured.]]></description>
+            <description><![CDATA[President Herzog calls King of Spain following deadly train crash]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696362</guid>
             <pubDate>Thu, 29 Oct 2026 14:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Following Flydubai security lapse: Airlines to be required to report crew details in advance]]></title>
-            <description><![CDATA[Following the Flydubai security lapse, authorities have decided to revise the guidelines for airlines, which will now be required to submit their crew members' details 48 hours before departure.
-
-The new guidelines are intended to allow advance screening of crew members and prevent similar incidents from recurring.]]></description>
+            <description><![CDATA[Following Flydubai security lapse: Airlines to be required to report crew details in advance]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696361</guid>
             <pubDate>Thu, 29 Oct 2026 14:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Blown wildly out of proportion': Journalist challenges Qatari funding affair]]></title>
-            <description><![CDATA[Journalist Avishai Grinzaig questions why Shin Bet disclosed suspected Qatari funding after the elections, while the scope of the affair remains unclear.]]></description>
-            <link>https://www.israelnationalnews.com/news/435353</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435353</guid>
+            <description><![CDATA['Blown wildly out of proportion': Journalist challenges Qatari funding affair]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696360</guid>
             <pubDate>Thu, 29 Oct 2026 14:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orit Strock: Ra'am is dangerous with or without Qatari bribery]]></title>
-            <description><![CDATA[Orit Strock: Ra'am is dangerous with or without Qatari bribery]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696359</guid>
-            <pubDate>Thu, 29 Oct 2026 14:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After drone strike: ZIM cargo ship sinks in Black Sea]]></title>
-            <description><![CDATA[After drone strike: ZIM cargo ship sinks in Black Sea]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696358</guid>
-            <pubDate>Thu, 29 Oct 2026 13:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With 97.3% of votes counted: No change in bloc standings]]></title>
-            <description><![CDATA[With 97.3% of votes counted: No change in bloc standings]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696357</guid>
-            <pubDate>Thu, 29 Oct 2026 13:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Qatar denies interfering in Israel's elections]]></title>
-            <description><![CDATA[Qatar denies interfering in Israel's elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696356</guid>
-            <pubDate>Thu, 29 Oct 2026 12:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miki Zohar: Israeli public won't forgive government with Arab parties]]></title>
-            <description><![CDATA[Miki Zohar: Israeli public won't forgive government with Arab parties]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696355</guid>
-            <pubDate>Thu, 29 Oct 2026 12:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hendel vows to keep fighting for a third political bloc]]></title>
-            <description><![CDATA[Hendel vows to keep fighting for a third political bloc]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696354</guid>
-            <pubDate>Thu, 29 Oct 2026 12:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liberman draws red lines: No Netanyahu, haredim or Arab parties]]></title>
-            <description><![CDATA[Liberman draws red lines: No Netanyahu, haredim or Arab parties]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696353</guid>
-            <pubDate>Thu, 29 Oct 2026 12:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ahead of haredi protest in Bnei Brak: Traffic congestion and disruptions expected on Route 4]]></title>
-            <description><![CDATA[Ahead of haredi protest in Bnei Brak: Traffic congestion and disruptions expected on Route 4]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696352</guid>
-            <pubDate>Thu, 29 Oct 2026 12:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Herzog on election interference: This is a sensitive moment, we must investigate]]></title>
-            <description><![CDATA[Herzog on election interference: This is a sensitive moment, we must investigate]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696351</guid>
-            <pubDate>Thu, 29 Oct 2026 11:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ra'am fraud case: Three school principals arrested]]></title>
-            <description><![CDATA[Ra'am fraud case: Three school principals arrested]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696350</guid>
-            <pubDate>Thu, 29 Oct 2026 10:48:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

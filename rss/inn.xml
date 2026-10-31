@@ -4,11 +4,60 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 13:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 18:14:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Oct 2026 13:21:41 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2026 18:14:08 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[El-Sayed in the Brotherhood's orbit]]></title>
+            <description><![CDATA["Sure. Yeah, Absolutely." The long road to Abdul El-Sayed's three-word Muslim Brotherhood disavowal. Part I of a six part series. If you vote in Michigan, you have been warned.]]></description>
+            <link>https://www.israelnationalnews.com/news/435421</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435421</guid>
+            <pubDate>Sat, 31 Oct 2026 17:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From the streets of Paris to the synagogues of NY]]></title>
+            <description><![CDATA[As revolutionary agitation, Islamist extremism and anti-Jewish incitement converge, America must confront a dangerous erosion of Jewish security before hatred becomes an accepted feature of public life. We must hoose candidates who will fight antisemitism. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/435420</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435420</guid>
+            <pubDate>Sat, 31 Oct 2026 17:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[National Insurance Institute sues Jerusalem municipality]]></title>
+            <description><![CDATA[Nearly six years after a Jerusalem resident was injured on his way to work, the National Insurance Institute is seeking NIS 645,000 in compensation.]]></description>
+            <link>https://www.israelnationalnews.com/news/435419</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435419</guid>
+            <pubDate>Sat, 31 Oct 2026 17:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The great mitzva of hospitality]]></title>
+            <description><![CDATA[The great mitzva of hospitality]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696444</guid>
+            <pubDate>Sat, 31 Oct 2026 17:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran's supreme leader threatens Israel and the United States]]></title>
+            <description><![CDATA[Iranian Supreme Leader Mojtaba Khamenei has threatened immediate retaliation against any future attacks on Iran, declaring that American and Israeli assets will be within range of Iranian forces.]]></description>
+            <link>https://www.israelnationalnews.com/news/435417</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435417</guid>
+            <pubDate>Sat, 31 Oct 2026 17:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gas prices to drop Sunday, then rise again just days later]]></title>
+            <description><![CDATA[Gasoline prices in Israel expected to drop by 42 agorot per liter on Sunday, before rising again as fuel tax relief is reduced.]]></description>
+            <link>https://www.israelnationalnews.com/news/435416</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435416</guid>
+            <pubDate>Sat, 31 Oct 2026 16:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Historic Chofetz Chaim Yeshiva reopens in Belarus]]></title>
+            <description><![CDATA[A famed rabbi’s Belarus yeshiva reopens for students for the first time since World War II.]]></description>
+            <link>https://www.israelnationalnews.com/news/435415</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435415</guid>
+            <pubDate>Sat, 31 Oct 2026 15:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shabbat Shalom!]]></title>
             <description><![CDATA[Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat in North America, where they are being written now.
@@ -192,53 +241,51 @@ Shabbat Shalom!]]></description>
         </item>
         <item>
             <title><![CDATA[IDF arrests four terrorists from Jenin terror network]]></title>
-            <description><![CDATA[IDF: Yesterday (Thursday), IDF soldiers completed an operation in the Jenin area, during which they apprehended four terrorists who traded in weapons and had previously operated as part of the Jenin terror network dismantled during Operation “Iron Wall."
-
-The terrorists were transferred for further questioning by the security forces.]]></description>
+            <description><![CDATA[IDF arrests four terrorists from Jenin terror network]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696419</guid>
             <pubDate>Fri, 30 Oct 2026 07:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel's forecast: Winter weather over weekend]]></title>
-            <description><![CDATA[Light rainfall, cooler temperatures expected Friday, before a gradual warming trend early next week.]]></description>
-            <link>https://www.israelnationalnews.com/news/435390</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435390</guid>
+            <description><![CDATA[Israel's forecast: Winter weather over weekend]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696418</guid>
             <pubDate>Fri, 30 Oct 2026 07:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spanish dictionary retains antisemitic definition]]></title>
-            <description><![CDATA[Two years after a judge’s order, a Spanish dictionary still defines ‘Jewish’ as ‘miserly.’]]></description>
-            <link>https://www.israelnationalnews.com/news/435393</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435393</guid>
+            <description><![CDATA[Spanish dictionary retains antisemitic definition]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696417</guid>
             <pubDate>Fri, 30 Oct 2026 07:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bus driver killed, 30 girls injured, in crash in southern Israel]]></title>
-            <description><![CDATA[Bus carrying girls on a trip collides with tractor on Highway 25 in southern Israel, killing the driver and injuring approximately 30 people.]]></description>
-            <link>https://www.israelnationalnews.com/news/435392</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435392</guid>
+            <description><![CDATA[Bus driver killed, 30 girls injured, in crash in southern Israel]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696416</guid>
             <pubDate>Fri, 30 Oct 2026 06:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lapid: Forming a government 'will be difficult, no guarantees']]></title>
-            <description><![CDATA['Together' party MK Yair Lapid acknowledges challenges of forming government following elections, claims 'overwhelming Israeli majority' came to support his bloc at polling stations.]]></description>
-            <link>https://www.israelnationalnews.com/news/435391</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435391</guid>
+            <description><![CDATA[Lapid: Forming a government 'will be difficult, no guarantees']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696415</guid>
             <pubDate>Fri, 30 Oct 2026 06:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[There was only one Abraham]]></title>
-            <description><![CDATA[Where are you? At home, taking care of yourself, or out in the public square like Abraham, showing how a Jewish life should be lived?]]></description>
-            <link>https://www.israelnationalnews.com/news/435389</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435389</guid>
+            <description><![CDATA[There was only one Abraham]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696414</guid>
             <pubDate>Fri, 30 Oct 2026 05:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A supermajority coalition built around national survival]]></title>
-            <description><![CDATA[A strong Israel Coalition aiming for 80 seats, opposing Palestinian Arab Statehood and ending blanket draft exemptions. Opinion.]]></description>
-            <link>https://www.israelnationalnews.com/news/435388</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435388</guid>
+            <description><![CDATA[A supermajority coalition built around national survival]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696413</guid>
             <pubDate>Fri, 30 Oct 2026 05:14:00 GMT</pubDate>
         </item>
         <item>
@@ -261,55 +308,6 @@ The terrorists were transferred for further questioning by the security forces.]
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696410</guid>
             <pubDate>Fri, 30 Oct 2026 04:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The alarming rise of Islamic power]]></title>
-            <description><![CDATA[The alarming rise of Islamic power]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696409</guid>
-            <pubDate>Fri, 30 Oct 2026 04:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Binance security breach: Estimated losses reach $6.3 billion]]></title>
-            <description><![CDATA[Binance security breach: Estimated losses reach $6.3 billion]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696408</guid>
-            <pubDate>Fri, 30 Oct 2026 04:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Avdija scores 24 points as Portland suffers first loss of the season]]></title>
-            <description><![CDATA[Avdija scores 24 points as Portland suffers first loss of the season]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696407</guid>
-            <pubDate>Fri, 30 Oct 2026 04:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYPD scraps planned deal with Israeli surveillance firm following pressure on Mamdani]]></title>
-            <description><![CDATA[NYPD scraps planned deal with Israeli surveillance firm following pressure on Mamdani]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696406</guid>
-            <pubDate>Fri, 30 Oct 2026 04:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vance: Trump will not let Iran conflict become a 'forever war']]></title>
-            <description><![CDATA[Vance: Trump will not let Iran conflict become a 'forever war']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696405</guid>
-            <pubDate>Fri, 30 Oct 2026 03:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pompeo: Military campaign against Iran was years overdue]]></title>
-            <description><![CDATA[Pompeo: Military campaign against Iran was years overdue]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696404</guid>
-            <pubDate>Fri, 30 Oct 2026 03:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspect in NYC stabbings of Orthodox Jews linked to earlier attack on Jewish teen]]></title>
-            <description><![CDATA[Suspect in NYC stabbings of Orthodox Jews linked to earlier attack on Jewish teen]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_696403</guid>
-            <pubDate>Fri, 30 Oct 2026 02:58:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

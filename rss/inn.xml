@@ -4,30 +4,244 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 03:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 12:10:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Nov 2026 03:13:17 GMT</pubDate>
+        <pubDate>Tue, 10 Nov 2026 12:10:59 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
+            <title><![CDATA['Despite pain and bleeding' Elisha Medan to stand while being sworn into Knesset]]></title>
+            <description><![CDATA[Likud MK-elect Elisha Medan, who lost both legs fighting in Gaza, vows to stand on his prosthetics during his Knesset swearing-in despite severe pain.]]></description>
+            <link>https://www.israelnationalnews.com/news/435958</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435958</guid>
+            <pubDate>Tue, 10 Nov 2026 11:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bennett's 24-year-old MK makes history: 'We are here to represent the youth']]></title>
+            <description><![CDATA[At just 24, Bennett's Yonatan Shalev becomes the youngest MK in Israeli history, pledging to represent a generation he says has been abandoned.]]></description>
+            <link>https://www.israelnationalnews.com/news/435957</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435957</guid>
+            <pubDate>Tue, 10 Nov 2026 11:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From reserves to Knesset: MK-elect Eitam's message before swearing in]]></title>
+            <description><![CDATA[From reserves to Knesset: MK-elect Eitam's message before swearing in]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697134</guid>
+            <pubDate>Tue, 10 Nov 2026 11:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anti-Zionist actress leaving Israel]]></title>
+            <description><![CDATA[Actress and director Einat Weizman, who describes herself as anti-Zionist, is moving to Athens with her family following professional and political difficulties.]]></description>
+            <link>https://www.israelnationalnews.com/news/435955</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435955</guid>
+            <pubDate>Tue, 10 Nov 2026 10:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu to submit appointment of Gideon Sa'ar as Interior Minister for government]]></title>
+            <description><![CDATA[Netanyahu to submit appointment of Gideon Sa'ar as Interior Minister for government]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697132</guid>
+            <pubDate>Tue, 10 Nov 2026 10:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FDA Warning: Rare risk linked to weight-loss drugs]]></title>
+            <description><![CDATA[The US Food and Drug Administration has ordered the addition of a warning about a rare eye disease that can cause sudden vision loss.]]></description>
+            <link>https://www.israelnationalnews.com/news/435954</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435954</guid>
+            <pubDate>Tue, 10 Nov 2026 10:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['More than a defense partner': Israel strengthens military ties with Morocco]]></title>
+            <description><![CDATA['More than a defense partner': Israel strengthens military ties with Morocco]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697130</guid>
+            <pubDate>Tue, 10 Nov 2026 10:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shocking: Swastika drawn on MDA emergency vehicle in Jerusalem]]></title>
+            <description><![CDATA[An MDA volunteer discovers a swastika drawn on the Israeli flag displayed on his emergency response vehicle in Jerusalem, with the MDA logos defaced.]]></description>
+            <link>https://www.israelnationalnews.com/news/435952</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435952</guid>
+            <pubDate>Tue, 10 Nov 2026 09:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haredi Newspaper: 'The right is no better than the left']]></title>
+            <description><![CDATA[Haredi Newspaper: 'The right is no better than the left']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697128</guid>
+            <pubDate>Tue, 10 Nov 2026 09:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The prohibition against tattooing]]></title>
+            <description><![CDATA[It is forbidden by Torah law to inscribe letters or designs into the skin in a manner that causes them to remain there permanently. The prohibition applies equally to men and women, and to every part of the body.]]></description>
+            <link>https://www.israelnationalnews.com/news/435947</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435947</guid>
+            <pubDate>Tue, 10 Nov 2026 08:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don't give up what matters most]]></title>
+            <description><![CDATA[Don't give up what matters most]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697126</guid>
+            <pubDate>Tue, 10 Nov 2026 08:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Authorities warns public against sharks off Hadera coast]]></title>
+            <description><![CDATA[The Israel Nature and Parks Authority is warning against diving and snorkeling near Hadera power stations due to the return of sharks in the area.]]></description>
+            <link>https://www.israelnationalnews.com/news/435943</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435943</guid>
+            <pubDate>Tue, 10 Nov 2026 08:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eisenkot's Bloc reaches deal on Knesset Speaker, key committee chairs]]></title>
+            <description><![CDATA[Eisenkot's Bloc reaches deal on Knesset Speaker, key committee chairs]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697124</guid>
+            <pubDate>Tue, 10 Nov 2026 08:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America cannot call condemnation a victory]]></title>
+            <description><![CDATA[We Jews stood up for the rights of others because we believed in America. Now America must demonstrate that those same rights protect us. Words are not enough.Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/435944</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435944</guid>
+            <pubDate>Tue, 10 Nov 2026 08:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When antisemitic rhetoric masquerades as America First]]></title>
+            <description><![CDATA[When antisemitic rhetoric masquerades as America First]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697122</guid>
+            <pubDate>Tue, 10 Nov 2026 08:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Israel’s election fix the West’s antisemitism?]]></title>
+            <description><![CDATA[From the American midterms to British school corridors, the past few weeks have exposed how readily politicians exploit hostility to Israel and how easily Western societies excuse hatred of Jews. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/435941</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435941</guid>
+            <pubDate>Tue, 10 Nov 2026 08:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF Chief: 'It will be fine' mentality caused October 7]]></title>
+            <description><![CDATA[IDF Chief: 'It will be fine' mentality caused October 7]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697120</guid>
+            <pubDate>Tue, 10 Nov 2026 08:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eisenkot: Matan Kahana to be appointed as Knesset Speaker]]></title>
+            <description><![CDATA[Eisenkot: Matan Kahana to be appointed as Knesset Speaker]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697119</guid>
+            <pubDate>Tue, 10 Nov 2026 08:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family of London man who died following police TASER incident slams authorities]]></title>
+            <description><![CDATA[Family of London man who died following police TASER incident slams authorities]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697118</guid>
+            <pubDate>Tue, 10 Nov 2026 07:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UTJ to discuss alignment with Netanyahu bloc]]></title>
+            <description><![CDATA[The United Torah Judaism (UTJ) faction will convene its first faction meeting this afternoon, with discussions focusing on whether to cooperate with the right-wing bloc in the Knesset.
+
+During the meeting, faction members are expected to discuss whether to align themselves with the Netanyahu bloc and firmly oppose all legislative initiatives advanced by the opposition bloc.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697117</guid>
+            <pubDate>Tue, 10 Nov 2026 07:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New tax proposal could add hundreds of shekels to flight costs]]></title>
+            <description><![CDATA[The Israel Tax Authority recommends taxing aircraft departing from Israel, potentially raising ticket prices by about NIS 58 for flights to Europe and NIS 274 for long-haul flights.]]></description>
+            <link>https://www.israelnationalnews.com/news/435938</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435938</guid>
+            <pubDate>Tue, 10 Nov 2026 07:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iraqi PM asks to arrest pro-Iranian militia members, partners threaten to break-up coalition]]></title>
+            <description><![CDATA[Iraqi PM asks to arrest pro-Iranian militia members, partners threaten to break-up coalition]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697115</guid>
+            <pubDate>Tue, 10 Nov 2026 06:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Houthis report Saudi strikes on energy facilities in Sana'a]]></title>
+            <description><![CDATA[Houthi-affiliated media outlets reported early Tuesday morning that the Saudi Air Force had struck energy facilities in Sana'a, the capital of Yemen.
+
+According to the reports, the targets included a gas facility in the northern part of the city and a building belonging to the Houthis' oil company.]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697114</guid>
+            <pubDate>Tue, 10 Nov 2026 06:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Second UK air base sees US aircraft evacuation amid Iranian threat]]></title>
+            <description><![CDATA[Second UK air base sees US aircraft evacuation amid Iranian threat]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697113</guid>
+            <pubDate>Tue, 10 Nov 2026 06:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anti-Israel activist launches Senate bid against pro-Israel Democrat Fetterman]]></title>
+            <description><![CDATA[Gaza-born activist Ahmed Moor launches a 2028 Senate campaign against John Fetterman, targeting the Pennsylvania Democrat's staunch support for Israel.]]></description>
+            <link>https://www.israelnationalnews.com/news/435935</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435935</guid>
+            <pubDate>Tue, 10 Nov 2026 04:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trial of Charlie Kirk's accused killer set for June 2028]]></title>
+            <description><![CDATA[Trial of Charlie Kirk's accused killer set for June 2028]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697111</guid>
+            <pubDate>Tue, 10 Nov 2026 04:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Kill all Jews': Man threatens Jewish mother and child at New York store]]></title>
+            <description><![CDATA[A Long Island man is accused of making shooting gestures and shouting antisemitic threats at a mother and her young daughter inside a wholesale store.]]></description>
+            <link>https://www.israelnationalnews.com/news/435933</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435933</guid>
+            <pubDate>Tue, 10 Nov 2026 03:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ashdod: Red Alert siren to sound during naval base exercise]]></title>
+            <description><![CDATA[Ashdod: Red Alert siren to sound during naval base exercise]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697109</guid>
+            <pubDate>Tue, 10 Nov 2026 03:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump defends Hegseth as Republican lawmaker forces impeachment vote]]></title>
+            <description><![CDATA[Rep. Thomas Massie moves to force a House vote on eight impeachment articles against Pete Hegseth, prompting Trump to defend his Secretary of War.]]></description>
+            <link>https://www.israelnationalnews.com/news/435932</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435932</guid>
+            <pubDate>Tue, 10 Nov 2026 03:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[26th Knesset to open: 120 MKs to be sworn in at festive ceremony]]></title>
+            <description><![CDATA[26th Knesset to open: 120 MKs to be sworn in at festive ceremony]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697107</guid>
+            <pubDate>Tue, 10 Nov 2026 03:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[France blames Iran for cyberattack on 700 supermarkets]]></title>
-            <description><![CDATA[France accuses Iran of a massive cyberattack that damaged refrigeration systems at 700 retailers, as similar incidents across Europe prompt warnings in Israel.]]></description>
-            <link>https://www.israelnationalnews.com/news/435931</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435931</guid>
+            <description><![CDATA[France blames Iran for cyberattack on 700 supermarkets]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697106</guid>
             <pubDate>Tue, 10 Nov 2026 02:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Armed man arrested after attempting to enter Washington, DC synagogue]]></title>
-            <description><![CDATA[Security personnel at Washington Hebrew Congregation intercept a Virginia man carrying a loaded revolver. Police arrest him, and no injuries reported.]]></description>
-            <link>https://www.israelnationalnews.com/news/435930</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435930</guid>
+            <description><![CDATA[Armed man arrested after attempting to enter Washington, DC synagogue]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697105</guid>
             <pubDate>Tue, 10 Nov 2026 02:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Netanyahu pressing Trump for renewed Iran strikes]]></title>
-            <description><![CDATA[Netanyahu reportedly wants Trump to resume strikes on Iran, while Saudi Arabia, the UAE, Qatar and Turkey urge Washington to prioritize diplomacy.]]></description>
-            <link>https://www.israelnationalnews.com/news/435928</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435928</guid>
+            <description><![CDATA[Report: Netanyahu pressing Trump for renewed Iran strikes]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697104</guid>
             <pubDate>Tue, 10 Nov 2026 01:47:00 GMT</pubDate>
         </item>
         <item>
@@ -39,7 +253,7 @@
         </item>
         <item>
             <title><![CDATA[Saudi Arabia intercepts ballistic missile launched by Houthis]]></title>
-            <description><![CDATA[Saudi Arabia announced that it had intercepted a ballistic missile launched by the Houthis from Yemen toward the southern part of the country.]]></description>
+            <description><![CDATA[Saudi Arabia intercepts ballistic missile launched by Houthis]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697102</guid>
             <pubDate>Tue, 10 Nov 2026 00:54:00 GMT</pubDate>
@@ -53,7 +267,7 @@
         </item>
         <item>
             <title><![CDATA[Maccabi Tel Aviv wins Winner Cup after comeback against Hapoel Tel Aviv]]></title>
-            <description><![CDATA[Maccabi Tel Aviv's basketball team overcame a 23-point deficit to defeat Hapoel Tel Aviv 86-75 on Monday evening, claiming the Winner Cup for the 12th time in club history.]]></description>
+            <description><![CDATA[Maccabi Tel Aviv wins Winner Cup after comeback against Hapoel Tel Aviv]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697100</guid>
             <pubDate>Mon, 09 Nov 2026 23:40:00 GMT</pubDate>
@@ -67,231 +281,17 @@
         </item>
         <item>
             <title><![CDATA[IDF opens fire at terrorists planning to throw rocks at Israeli vehicles in Samaria, hits confirmed]]></title>
-            <description><![CDATA[IDF troops operating overnight on the outskirts of the village of Burqa in Samaria spotted several terrorists preparing to throw rocks at a highway used by Israeli vehicles.
-
-According to the IDF Spokesperson's Unit, the operation was conducted in an area where several rock-throwing attacks against Israeli vehicles have recently occurred. The troops opened fire at the terrorists to eliminate the threat, and hits were confirmed.]]></description>
+            <description><![CDATA[IDF opens fire at terrorists planning to throw rocks at Israeli vehicles in Samaria, hits confirmed]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697098</guid>
             <pubDate>Mon, 09 Nov 2026 22:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Farley Weiss: "The Jewish People Are Too Much on the Defensive"]]></title>
-            <description><![CDATA[During a solidarity mission to Israel, Farley Weiss warned of growing anti-Israel sentiment in American politics but stressed that Israel still has powerful friends in Washington. "We have to be on the offensive," he said.]]></description>
-            <link>https://www.israelnationalnews.com/news/435925</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435925</guid>
+            <description><![CDATA[Farley Weiss: "The Jewish People Are Too Much on the Defensive"]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697097</guid>
             <pubDate>Mon, 09 Nov 2026 22:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump: Military action against Iran doesn’t seem to be a very necessary thing]]></title>
-            <description><![CDATA[Trump: Military action against Iran doesn’t seem to be a very necessary thing]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697096</guid>
-            <pubDate>Mon, 09 Nov 2026 22:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump: Gulf states favor Iran blockade, US ready to strike if necessary]]></title>
-            <description><![CDATA[Trump says Gulf states support maintaining pressure on Iran through a naval blockade and Operation Iron Gate, while the US remains prepared for further strikes.]]></description>
-            <link>https://www.israelnationalnews.com/news/435924</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435924</guid>
-            <pubDate>Mon, 09 Nov 2026 21:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump: Qatar and Saudi Arabia prefer peace with Iran, US is prepared to attack]]></title>
-            <description><![CDATA[Trump: Qatar and Saudi Arabia prefer peace with Iran, US is prepared to attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697094</guid>
-            <pubDate>Mon, 09 Nov 2026 20:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump backs War Secretary Hegseth amid attempts to impeach him]]></title>
-            <description><![CDATA[US President Donald Trump expressed support for Secretary of War Pete Hegseth following efforts to remove him from office, saying: "He won two wars."]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697093</guid>
-            <pubDate>Mon, 09 Nov 2026 20:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rubio: "Israel can purchase weapons from us, we won't have to fund it anymore"]]></title>
-            <description><![CDATA[Rubio: "Israel can purchase weapons from us, we won't have to fund it anymore"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697092</guid>
-            <pubDate>Mon, 09 Nov 2026 20:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A message for Sigd, the sacred Ethiopian Jewish holiday]]></title>
-            <description><![CDATA[A unique Sigd message.]]></description>
-            <link>https://www.israelnationalnews.com/news/435923</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435923</guid>
-            <pubDate>Mon, 09 Nov 2026 20:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Golden remembrance stones]]></title>
-            <description><![CDATA[Two childhoods shatttered in Berlin, two family stories remembered together.]]></description>
-            <link>https://www.israelnationalnews.com/news/435922</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435922</guid>
-            <pubDate>Mon, 09 Nov 2026 20:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu associate was in contact with Mansour Abbas while PM attacked Ra'am]]></title>
-            <description><![CDATA[As Netanyahu warns against a government dependent on Arab parties, his close associate Natan Eshel has been working behind the scenes to communicate with Mansour Abbas.]]></description>
-            <link>https://www.israelnationalnews.com/news/435921</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435921</guid>
-            <pubDate>Mon, 09 Nov 2026 20:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mysterious Russian plane that landed in Israel was carrying Russian officials]]></title>
-            <description><![CDATA[A source familiar with the details told Kan News that senior Russian officials were aboard the Russian aircraft that landed at Ben Gurion Airport yesterday. According to the report, the landing may have been a stopover en route to a Russia-Ukraine peace summit scheduled to be hosted by the United States in Abu Dhabi tomorrow.]]></description>
-            <link>https://www.israelnationalnews.com/news/435906</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435906</guid>
-            <pubDate>Mon, 09 Nov 2026 20:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Never Again' faces historic test, German Chancellor warns]]></title>
-            <description><![CDATA[Marking Kristallnacht's 88th anniversary, Chancellor Friedrich Merz warns of widespread antisemitism, pledges support for Israel, and urges action.]]></description>
-            <link>https://www.israelnationalnews.com/news/435920</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435920</guid>
-            <pubDate>Mon, 09 Nov 2026 19:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3,039 dunams: Major development project advances in Gush Etzion]]></title>
-            <description><![CDATA[IDF Central Command chief Maj. Gen. Avi Bluth has signed an order establishing the jurisdictional boundaries of a new industrial zone near the Tarkumiya Crossing, which is expected to strengthen Gush Etzion's economy.]]></description>
-            <link>https://www.israelnationalnews.com/news/435919</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435919</guid>
-            <pubDate>Mon, 09 Nov 2026 19:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Historic achievement": Another community officially recognized in northern Samaria]]></title>
-            <description><![CDATA[The Interior Ministry has granted an official locality code to the community of Noa in northern Samaria, completing its regularization process and granting it formal recognition.]]></description>
-            <link>https://www.israelnationalnews.com/news/435918</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435918</guid>
-            <pubDate>Mon, 09 Nov 2026 19:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump's Board of Peace criticizes Israel, Hamas following Gaza floods]]></title>
-            <description><![CDATA[The Board of Peace calls on Israel to accelerate entry of winter supplies after severe flooding in Gaza, while also demanding that Hamas disarm.]]></description>
-            <link>https://www.israelnationalnews.com/news/435917</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435917</guid>
-            <pubDate>Mon, 09 Nov 2026 18:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PA arrests suspects in sale of Jericho homes to Jews]]></title>
-            <description><![CDATA[A spokesman for the Palestinian Authority security forces confirmed that suspects were arrested for selling houses to Jews near Jericho.
-
-According to the Saudi newspaper "Asharq Al-Awsat", the detainees are intermediaries who were involved in transferring the houses to Jews.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697083</guid>
-            <pubDate>Mon, 09 Nov 2026 18:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Board of Peace criticizes both Israel and Hamas]]></title>
-            <description><![CDATA[Following the flooding in Gaza, the Board of Peace called on Israel to accelerate the entry of humanitarian supplies into the Strip, and on Hamas to disarm and transfer power. The council warned that those who fail to meet their commitments will face consequences.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697082</guid>
-            <pubDate>Mon, 09 Nov 2026 18:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voters in 8 Illinois communities back repeal of anti-BDS law]]></title>
-            <description><![CDATA[Voters in eight Illinois communities back nonbinding measures opposing the state's anti-BDS law, despite objections from local Jewish organizations.]]></description>
-            <link>https://www.israelnationalnews.com/news/435916</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435916</guid>
-            <pubDate>Mon, 09 Nov 2026 17:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF: Over 91,000 tents, 8,200 trucks of winter supplies enter Gaza]]></title>
-            <description><![CDATA[IDF and COGAT advance winter preparations in Gaza, facilitating the entry of shelter equipment, medical supplies, and sanitation infrastructure while working to prevent Hamas from exploiting humanitarian aid.]]></description>
-            <link>https://www.israelnationalnews.com/news/435915</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435915</guid>
-            <pubDate>Mon, 09 Nov 2026 17:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France accuses Iran of cyberattack on supermarket refrigerators]]></title>
-            <description><![CDATA[France has accused Iran of responsibility for the cyberattack on supermarket refrigerators and warned that Iran "will bear the consequences."]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697079</guid>
-            <pubDate>Mon, 09 Nov 2026 17:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defense Ministry: Flydubai passengers to be recognized as victims of terrorism]]></title>
-            <description><![CDATA[Following official confirmation from investigative authorities, the Defense Ministry has recognized the attempted terrorist attack on a flight to Israel as an act of terrorism and referred the decision to the National Insurance Institute.]]></description>
-            <link>https://www.israelnationalnews.com/news/435914</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435914</guid>
-            <pubDate>Mon, 09 Nov 2026 17:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blinken and Pompeo agree: End of US military aid won't hurt Israel ties]]></title>
-            <description><![CDATA[Former US Secretaries of State Blinken and Pompeo say ending military aid would not weaken US-Israel ties, but disagree sharply over Iran and Gaza.]]></description>
-            <link>https://www.israelnationalnews.com/news/435913</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/435913</guid>
-            <pubDate>Mon, 09 Nov 2026 17:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eisonkot or other Yashar MK will be next Knesset Speaker]]></title>
-            <description><![CDATA[Eisonkot or other Yashar MK will be next Knesset Speaker]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697076</guid>
-            <pubDate>Mon, 09 Nov 2026 17:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liberman, Eisenkot agree on who should be next Knesset Speaker]]></title>
-            <description><![CDATA[Liberman, Eisenkot agree on who should be next Knesset Speaker]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697075</guid>
-            <pubDate>Mon, 09 Nov 2026 17:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We were ready for any mission': Inside the Jewish return to Jericho]]></title>
-            <description><![CDATA['We were ready for any mission': Inside the Jewish return to Jericho]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697074</guid>
-            <pubDate>Mon, 09 Nov 2026 17:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After Democratic victory, Trump questions integrity of midterm elections]]></title>
-            <description><![CDATA[After Democratic victory, Trump questions integrity of midterm elections]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697073</guid>
-            <pubDate>Mon, 09 Nov 2026 15:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkish intelligence chief issues warning over Israel's next government]]></title>
-            <description><![CDATA[Turkish intelligence chief issues warning over Israel's next government]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697072</guid>
-            <pubDate>Mon, 09 Nov 2026 15:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jewish belonging should not require a police escort]]></title>
-            <description><![CDATA[Jewish belonging should not require a police escort]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697071</guid>
-            <pubDate>Mon, 09 Nov 2026 15:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israelis fear foreign influence. They doubt their government can counter it.]]></title>
-            <description><![CDATA[Israelis fear foreign influence. They doubt their government can counter it.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697070</guid>
-            <pubDate>Mon, 09 Nov 2026 15:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu calls for unity government: "Enough with the boycotts, I won't rule snyone out"]]></title>
-            <description><![CDATA[Netanyahu calls for unity government: "Enough with the boycotts, I won't rule snyone out"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697069</guid>
-            <pubDate>Mon, 09 Nov 2026 15:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defense Ministry: Flydubai passengers to be recognized as victims of hostilities]]></title>
-            <description><![CDATA[Defense Ministry: Flydubai passengers to be recognized as victims of hostilities]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697068</guid>
-            <pubDate>Mon, 09 Nov 2026 14:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: NVIDA shares drop by 8%]]></title>
-            <description><![CDATA[Report: NVIDA shares drop by 8%]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_697067</guid>
-            <pubDate>Mon, 09 Nov 2026 14:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

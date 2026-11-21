@@ -4,324 +4,290 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 12:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 19:57:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Nov 2026 12:10:17 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 19:57:26 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
+            <title><![CDATA[Bennett and Liberman face the right-wing test]]></title>
+            <description><![CDATA[Three paths to forming a government are taking shape within the opposition, but can Bennett and Liberman rebuild their ties with the right-wing camp? Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/436766</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436766</guid>
+            <pubDate>Sat, 21 Nov 2026 19:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two types of repentance]]></title>
+            <description><![CDATA[Is it possible to find a rational explanation for a movement that causes the return of the Nation of Israel to its Land?]]></description>
+            <link>https://www.israelnationalnews.com/news/436765</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436765</guid>
+            <pubDate>Sat, 21 Nov 2026 19:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Likud's unity terms: End boycotts, oppose Palestinian state, resolve conscription]]></title>
+            <description><![CDATA[Likud's unity terms: End boycotts, oppose Palestinian state, resolve conscription]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698118</guid>
+            <pubDate>Sat, 21 Nov 2026 19:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Interceptor missile falls in Bahrain]]></title>
+            <description><![CDATA[Following sirens in Bahrain, interceptor missile reported fallen in residential neighborhood.]]></description>
+            <link>https://www.israelnationalnews.com/news/436763</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436763</guid>
+            <pubDate>Sat, 21 Nov 2026 18:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sirens sound in Bahrain; government urges civilians to seek shelter]]></title>
+            <description><![CDATA[Sirens sound in Bahrain; government urges civilians to seek shelter]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698116</guid>
+            <pubDate>Sat, 21 Nov 2026 18:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strategic Adviser: Deri's big mistake]]></title>
+            <description><![CDATA[Strategic adviser Moran Ajami analyzes Shas's electoral defeat, Deri's mistake in handling the military draft crisis, and how the party can win back the traditional voters who abandoned it.]]></description>
+            <link>https://www.israelnationalnews.com/news/436760</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436760</guid>
+            <pubDate>Sat, 21 Nov 2026 18:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Singing in the gas]]></title>
+            <description><![CDATA[Singing in the gas]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698114</guid>
+            <pubDate>Sat, 21 Nov 2026 18:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bennett outlines conditions for unity government led by Eisenkot]]></title>
+            <description><![CDATA[Former PM Naftali Bennett pledges to form a Zionist unity government led by Gadi Eisenkot, but rules out joining Netanyahu. He outlines three principles for the next government, warning Likud not to waste the 29 days left in Eisenkot's mandate.]]></description>
+            <link>https://www.israelnationalnews.com/news/436758</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436758</guid>
+            <pubDate>Sat, 21 Nov 2026 18:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bnei Akiva unveils new 'tribe' name: Shevet Kedem]]></title>
+            <description><![CDATA[Bnei Akiva unveils new 'tribe' name: Shevet Kedem]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698112</guid>
+            <pubDate>Sat, 21 Nov 2026 18:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Holocaust was not an instance of colonialism]]></title>
+            <description><![CDATA[Holocaust distortion is not merely false. It is morally obscene-an assault not only on the dead, but on truth itself. The hatred that marked Jews for destruction is not just an episode in the general history of persecution. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/436756</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436756</guid>
+            <pubDate>Sat, 21 Nov 2026 18:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bene vale, adieu, auf wiedersehen Western Civilization]]></title>
+            <description><![CDATA[Bene vale, adieu, auf wiedersehen Western Civilization]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698110</guid>
+            <pubDate>Sat, 21 Nov 2026 17:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chief rabbi bans mixed-gender physiotherapy practice]]></title>
+            <description><![CDATA[After complaints by religious female students, Rabbi Kalman Ber bars mixed-gender physical practice without medical need, urging policy changes. 'Students must not be required to choose between their studies and their faith.']]></description>
+            <link>https://www.israelnationalnews.com/news/436754</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436754</guid>
+            <pubDate>Sat, 21 Nov 2026 17:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mamdani arrested twice by the NYPD unit he now plans to disband]]></title>
+            <description><![CDATA[Mamdani arrested twice by the NYPD unit he now plans to disband]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698108</guid>
+            <pubDate>Sat, 21 Nov 2026 17:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kibbutz founder marks 100th birthday with 10th Talmud completion]]></title>
+            <description><![CDATA[Dr. Moshe Sachs, a co-founder of Kibbutz Shaalvim, marked his 100th birthday by completing the Talmud for the 10th time.]]></description>
+            <link>https://www.israelnationalnews.com/news/436752</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436752</guid>
+            <pubDate>Sat, 21 Nov 2026 17:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of Israeli flags along Route 60 in overnight operation by dozens of youths]]></title>
+            <description><![CDATA[Thousands of Israeli flags along Route 60 in overnight operation by dozens of youths]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698106</guid>
+            <pubDate>Sat, 21 Nov 2026 17:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US on high alert after FlyDubai attack]]></title>
+            <description><![CDATA[US security agencies warn of attempts to attack passenger aircraft inspired by the attempted hijacking of a flight from Dubai to Tel Aviv.]]></description>
+            <link>https://www.israelnationalnews.com/news/436750</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436750</guid>
+            <pubDate>Sat, 21 Nov 2026 17:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF: Islamic Jihad terrorists were not aid workers]]></title>
+            <description><![CDATA[IDF: Islamic Jihad terrorists were not aid workers]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698104</guid>
+            <pubDate>Sat, 21 Nov 2026 16:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ayala Hasson announces move to Channel 14]]></title>
+            <description><![CDATA[Following a dispute with Kan, Ayala Hasson announced she was joining Channel 14 and criticized her former employers.]]></description>
+            <link>https://www.israelnationalnews.com/news/436748</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436748</guid>
+            <pubDate>Sat, 21 Nov 2026 16:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Media Feud: i24NEWS accuses Kan of silencing right-wing voices]]></title>
+            <description><![CDATA[Media Feud: i24NEWS accuses Kan of silencing right-wing voices]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698102</guid>
+            <pubDate>Sat, 21 Nov 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The engagement bringing joy to Acre]]></title>
+            <description><![CDATA[Yael Eitan, sister of Noam, a soldier and musician killed in Gaza, is engaged to Oz Rubin. His brother Amichai fought despite fatal wounds, saving lives on Simchat Torah. The bereaved families, both tied to Acre, celebrate building a new home.]]></description>
+            <link>https://www.israelnationalnews.com/news/436746</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436746</guid>
+            <pubDate>Sat, 21 Nov 2026 16:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New pill brings hope for pancreatic cancer patients]]></title>
+            <description><![CDATA[New pill brings hope for pancreatic cancer patients]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698100</guid>
+            <pubDate>Sat, 21 Nov 2026 16:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran unveils underground missile city: 'There are surprises']]></title>
+            <description><![CDATA[Islamic Republic unveils 'underground missile city,' issues a threatening message: 'There are surprises. There will be no hesitation in using force.']]></description>
+            <link>https://www.israelnationalnews.com/news/436744</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436744</guid>
+            <pubDate>Sat, 21 Nov 2026 16:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Refael Hayoun to Tzvi Yehezkeli: Hamas rebuilding its strength, switching to drones]]></title>
+            <description><![CDATA[Refael Hayoun to Tzvi Yehezkeli: Hamas rebuilding its strength, switching to drones]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698098</guid>
+            <pubDate>Sat, 21 Nov 2026 16:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Israel tracking Iranian push to rebuild missile arsenal]]></title>
+            <description><![CDATA[Officials in Jerusalem are concerned about the rapid rebuilding of Iran's ballistic missile capabilities and the relocation of military and nuclear infrastructure underground.]]></description>
+            <link>https://www.israelnationalnews.com/news/436742</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436742</guid>
+            <pubDate>Sat, 21 Nov 2026 16:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netanyahu effigy burned at Milan protest]]></title>
+            <description><![CDATA[Netanyahu effigy burned at Milan protest]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698096</guid>
+            <pubDate>Sat, 21 Nov 2026 15:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian missiles land in Poland; NATO scrambles aircraft]]></title>
+            <description><![CDATA[Two Russian cruise missiles and a drone land in southeastern Poland near Ukraine and an exercise involving 11 NATO states; Warsaw accuses Moscow of deliberate provocation as NATO condemns airspace violation.]]></description>
+            <link>https://www.israelnationalnews.com/news/436740</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436740</guid>
+            <pubDate>Sat, 21 Nov 2026 15:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jerusalem upgrades infrastructure in haredi neighborhoods]]></title>
+            <description><![CDATA[Jerusalem upgrades infrastructure in haredi neighborhoods]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698094</guid>
+            <pubDate>Sat, 21 Nov 2026 15:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woman from Shfela region dies after contracting rabies]]></title>
+            <description><![CDATA[Shamir Medical Center announces that a woman in her 30s died of rabies contracted from a dog she took in. Her family was by her side.]]></description>
+            <link>https://www.israelnationalnews.com/news/436738</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436738</guid>
+            <pubDate>Sat, 21 Nov 2026 15:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Murder on the way to school]]></title>
+            <description><![CDATA[Murder on the way to school]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698092</guid>
+            <pubDate>Sat, 21 Nov 2026 15:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran claims it hit an F-16; US denies report]]></title>
+            <description><![CDATA[Iranian media claimed air defense systems hit a US fighter jet over the Gulf, forcing it to make an emergency landing. US Central Command rejected the report, stating that all its aircraft were safe.]]></description>
+            <link>https://www.israelnationalnews.com/news/436736</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436736</guid>
+            <pubDate>Sat, 21 Nov 2026 15:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF chief confirms: Preparing for Iran to possess unconventional weapons]]></title>
+            <description><![CDATA[IDF chief confirms: Preparing for Iran to possess unconventional weapons]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698090</guid>
+            <pubDate>Sat, 21 Nov 2026 15:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liberman: Only a coalition with haredi parties can replace Netanyahu]]></title>
+            <description><![CDATA[Liberman: Only a coalition with haredi parties can replace Netanyahu]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698089</guid>
+            <pubDate>Sat, 21 Nov 2026 15:26:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shabbat Shalom!]]></title>
-            <description><![CDATA[Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat in North America, where they are being written now.
-
-Updates will resume Saturday night from Israel, following the conclusion of Shabbat at 17:16 Jerusalem time.
-
-Shabbat Shalom!]]></description>
+            <description><![CDATA[Shabbat Shalom!]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_629916</guid>
             <pubDate>Fri, 20 Nov 2026 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Netanyahu demands no state October 7 inquiry as condition for unity government]]></title>
-            <description><![CDATA[Netanyahu reportedly demands that no state inquiry into October 7 be established during a unity government's term, as talks with Eisenkot address a possible rotation deal.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/436733</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436733</guid>
+            <description><![CDATA[Report: Netanyahu demands no state October 7 inquiry as condition for unity government]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698088</guid>
             <pubDate>Fri, 20 Nov 2026 20:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vance on Iran war and midterms loss: My job is to support Trump]]></title>
-            <description><![CDATA[Vice President JD Vance asked whether the war in Iran was worth the Republican midterm losses, stresses his support for the president's policy.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/436732</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436732</guid>
+            <description><![CDATA[Vance on Iran war and midterms loss: My job is to support Trump]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698087</guid>
             <pubDate>Fri, 20 Nov 2026 20:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IDF strikes Hamas terrorists planning attacks in Gaza, including October 7 infiltrators]]></title>
-            <description><![CDATA[IDF strikes Hamas terrorists meeting in central Gaza to plan attacks against Israelis.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/436731</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436731</guid>
+            <description><![CDATA[IDF strikes Hamas terrorists planning attacks in Gaza, including October 7 infiltrators]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698086</guid>
             <pubDate>Fri, 20 Nov 2026 20:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Terrorist behind 2024 bombing that wounded two Israelis surrenders to IDF]]></title>
-            <description><![CDATA[Ahmad Yaqoub, who led the terrorist cell behind a 2024 bombing near the Gilboa security barrier, surrenderד following weeks of IDF operations to capture him.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/436730</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436730</guid>
+            <description><![CDATA[Terrorist behind 2024 bombing that wounded two Israelis surrenders to IDF]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698085</guid>
             <pubDate>Fri, 20 Nov 2026 20:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump warns Iran: US will not allow development of a 'dirty bomb']]></title>
-            <description><![CDATA[Trump vows to prevent Iran from developing a radioactive dirty bomb following reports of a possible threat to Washington, while US officials rule out an imminent attack.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/436729</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436729</guid>
+            <description><![CDATA[Trump warns Iran: US will not allow development of a 'dirty bomb']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698084</guid>
             <pubDate>Fri, 20 Nov 2026 19:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran strike imminent? IDF Spokesperson urges public to ignore rumors]]></title>
-            <description><![CDATA[IDF Spokesperson Effie Defrin says the military remains prepared for defensive and offensive scenarios, but public safety guidelines remain unchanged amid Iran reports.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/436728</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436728</guid>
+            <description><![CDATA[Iran strike imminent? IDF Spokesperson urges public to ignore rumors]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698083</guid>
             <pubDate>Fri, 20 Nov 2026 18:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump: Iran wants a deal, but its terms are unacceptable]]></title>
-            <description><![CDATA[Trump says Iran is seeking an agreement with Washington but refuses to accept its terms, as reports suggest the US and Israel are considering renewed strikes.
-
-(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
-            <link>https://www.israelnationalnews.com/news/436727</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436727</guid>
+            <description><![CDATA[Trump: Iran wants a deal, but its terms are unacceptable]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698082</guid>
             <pubDate>Fri, 20 Nov 2026 18:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shabbat Shalom from Israel!]]></title>
-            <description><![CDATA[Arutz Sheva-Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of Shabbat. Jerusalem candle lighting time is 15:58 on Friday. Our North American desk will keep you informed until the 16:16 EST candle lighting time in New York.
-
-The updates from Israel will resume Saturday night, following the conclusion of Shabbat at 17:16 in Jerusalem.
-
-Shabbat Shalom!]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
-            <pubDate>Fri, 20 Nov 2026 14:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I will not blink': Eisenkot sends stern message amid coalition deadlock]]></title>
-            <description><![CDATA[Yashar leader says coalition talks cannot continue indefinitely, sharply criticizes Netanyahu and warns against missing a chance to replace the government. If talks on a broad government fail, he plans to form a national emergency government.]]></description>
-            <link>https://www.israelnationalnews.com/news/436726</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436726</guid>
-            <pubDate>Fri, 20 Nov 2026 13:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unusual moment on Lebanese TV: Christian commentator wears Jewish kippah]]></title>
-            <description><![CDATA[During a live Lebanese TV broadcast, Christian commentator Charles Jabbour wears a kippah bearing a Star of David and the name of the Israeli series Fauda.]]></description>
-            <link>https://www.israelnationalnews.com/news/436725</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436725</guid>
-            <pubDate>Fri, 20 Nov 2026 13:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yisrael Beytenu MK rules out government with Arabs]]></title>
-            <description><![CDATA[Amid efforts to form a government with the support of the Arab parties, MK Sharon Sharabi (Yisrael Beytenu) made clear that he would not support such a move.
-
-"I stand by my promise and will continue to uphold it: I will not be part of a coalition that relies on supporters of terrorism, whether from within or from outside. Some principles are non-negotiable, and some values cannot be compromised," he declared.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698079</guid>
-            <pubDate>Fri, 20 Nov 2026 13:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eisenkot: 'I won't drag things out. At right time, I'll present a new, good government for approval']]></title>
-            <description><![CDATA[Yashar party chairman Gadi Eisenkot announced that if efforts to form a broad government fail, he will move to establish a national emergency government.
-
-"This is not a threat for negotiating purposes. It is a decision I have made based on my understanding of the responsibility and duties entrusted to me at this time of emergency," he said.
-
-Eisenkot added that he intends to present a new government to the Knesset for approval at the appropriate time.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698078</guid>
-            <pubDate>Fri, 20 Nov 2026 13:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Officers from Moroccan Army arrive to partake in Gaza stabilization force]]></title>
-            <description><![CDATA[Additional officers from the Royal Moroccan Army have arrived to participate in the International Stabilization Force in Gaza. According to the ISF, the officers will add capacity to medical operations and logistics planning.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698077</guid>
-            <pubDate>Fri, 20 Nov 2026 13:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran says Trump left China empty-handed, vows to keep Strait of Hormuz Closed]]></title>
-            <description><![CDATA[Iranian adviser Mohammad Mokhber claims Trump's summit with Xi and Putin weakened US influence, while insisting Hormuz remains a red line for Tehran.]]></description>
-            <link>https://www.israelnationalnews.com/news/436724</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436724</guid>
-            <pubDate>Fri, 20 Nov 2026 13:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBS News: Israel and US weigh new military offensive against Iran]]></title>
-            <description><![CDATA[CBS News reports that Israel and the US are considering fresh strikes on Iran as Tehran rebuilds its missiles and Trump weighs military action.]]></description>
-            <link>https://www.israelnationalnews.com/news/436723</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436723</guid>
-            <pubDate>Fri, 20 Nov 2026 13:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBS News: Israel and US considering new assault on Iran in short term]]></title>
-            <description><![CDATA[CBS News: Israel and US considering new assault on Iran in short term]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698074</guid>
-            <pubDate>Fri, 20 Nov 2026 12:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF's 401st Brigade trains to recover damaged tanks under fire]]></title>
-            <description><![CDATA[Drawing on lessons from three years of war, the 401st Brigade's technology and maintenance teams practiced rescuing trapped soldiers, recovering damaged combat vehicles, and responding to battlefield emergencies.]]></description>
-            <link>https://www.israelnationalnews.com/news/436722</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436722</guid>
-            <pubDate>Fri, 20 Nov 2026 12:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iraq reclaims positions from Iran-backed Kataib Hezbollah militia]]></title>
-            <description><![CDATA[Iraqi forces take control of positions held by Kataib Hezbollah in Jurf al-Sakhar after a tense standoff, with roads set to reopen to civilians.]]></description>
-            <link>https://www.israelnationalnews.com/news/436721</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436721</guid>
-            <pubDate>Fri, 20 Nov 2026 12:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF eliminates October 7 infiltrator, senior Nukhba commanders in Gaza]]></title>
-            <description><![CDATA[IDF and Shin Bet eliminate senior Hamas and Islamic Jihad Nukhba operatives, including an October 7 infiltrator, in strikes across the Gaza Strip.]]></description>
-            <link>https://www.israelnationalnews.com/news/436720</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436720</guid>
-            <pubDate>Fri, 20 Nov 2026 12:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The secret to stress-free living]]></title>
-            <description><![CDATA[We can address an injustice without allowing resentment to dictate our lives, for example.]]></description>
-            <link>https://www.israelnationalnews.com/news/436719</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436719</guid>
-            <pubDate>Fri, 20 Nov 2026 12:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Security forces seize 15 drones in Judea and Samaria]]></title>
-            <description><![CDATA[IDF, Border Police, and Judea and Samaria District Police forces confiscated approximately 15 drones across Judea and Samaria over the past week as part of a targeted operation to prevent the use of drones for terrorist purposes, including carrying and dropping explosives.
-
-According to the IDF Spokesperson's Unit, more than 500 drones have been confiscated in the area since the beginning of 2026.
-
-The IDF noted that the possession and operation of drones are prohibited in the area under an order issued by the IDF Central Command chief, and that efforts to counter the threat are ongoing.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698069</guid>
-            <pubDate>Fri, 20 Nov 2026 11:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When strength becomes a weakness]]></title>
-            <description><![CDATA[It is not prosperity that Hosea condemns. It is the response to it.]]></description>
-            <link>https://www.israelnationalnews.com/news/436718</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436718</guid>
-            <pubDate>Fri, 20 Nov 2026 11:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi led coalition issues evacuation warning for Houthi-controlled port of Hodeida]]></title>
-            <description><![CDATA[Saudi led coalition issues evacuation warning for Houthi-controlled port of Hodeida]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698067</guid>
-            <pubDate>Fri, 20 Nov 2026 11:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthis: Saudi airspace to be target of operations in coming hours]]></title>
-            <description><![CDATA[The Houthi terrorist rebels in Yemen have issued a statement warning aviation companies that Saudi airspace is unsafe, as it will become a theater for their operations in the coming hours. The terror group noted that "the sacred airspace over Mecca and Medina" is not included in the warning.]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698066</guid>
-            <pubDate>Fri, 20 Nov 2026 11:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu warns against minority government: "This must stop immediately"]]></title>
-            <description><![CDATA[The PM said he recently briefed Liberman, Bennett and Eisenkot on security and urged a unity government. He opposed a minority government backed by Arab parties, "It's inconceivable. Every hour we wait is an hour wasted".]]></description>
-            <link>https://www.israelnationalnews.com/news/436717</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436717</guid>
-            <pubDate>Fri, 20 Nov 2026 11:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[National consolidation]]></title>
-            <description><![CDATA[The struggles within Yaakov's young family are mirrrored in our young state's history. With maturity, come the recognition and understanding that we must live together, despite differences of opinion and roles.]]></description>
-            <link>https://www.israelnationalnews.com/news/436716</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436716</guid>
-            <pubDate>Fri, 20 Nov 2026 11:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu: "We are at a historic crossroads, responsibility means unity"]]></title>
-            <description><![CDATA[Prime Minister Benjamin Netanyahu addressed the security and political situation, saying: "We are at a historic crossroads. I briefed Lieberman and Eisenkot on the security situation. Responsibility means unity."
-
-Netanyahu also addressed the possibility of forming a minority government, saying: "I hear that there is an intention to swear in a minority government as early as the beginning of next week. It is inconceivable."]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698063</guid>
-            <pubDate>Fri, 20 Nov 2026 11:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dutch Jews increasingly afraid to display Jewish identity amid rising antisemitism]]></title>
-            <description><![CDATA[Doron Sanders, president of the Mizrachi movement in the Netherlands, tells Arutz Sheva that growing antisemitism is prompting some Jews to conceal their identity, while others are considering immigrating to Israel.]]></description>
-            <link>https://www.israelnationalnews.com/news/436715</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436715</guid>
-            <pubDate>Fri, 20 Nov 2026 11:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israir signs partnership with American Airlines, expanding global connections]]></title>
-            <description><![CDATA[Israir passengers will gain access to hundreds of destinations across the Americas through a new agreement with American Airlines, which plans to resume direct flights to Israel in March 2027.]]></description>
-            <link>https://www.israelnationalnews.com/news/436714</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436714</guid>
-            <pubDate>Fri, 20 Nov 2026 10:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From shiva to the delivery room: President Herzog's moving call]]></title>
-            <description><![CDATA[From shiva to the delivery room: President Herzog's moving call]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698060</guid>
-            <pubDate>Fri, 20 Nov 2026 10:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Beware of declared friends" | Hamodia attacks Likud and Smotrich]]></title>
-            <description><![CDATA["Beware of declared friends" | Hamodia attacks Likud and Smotrich]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698059</guid>
-            <pubDate>Fri, 20 Nov 2026 10:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After a week-long struggle: Osher to be laid to rest]]></title>
-            <description><![CDATA[After a week-long struggle: Osher to be laid to rest]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698058</guid>
-            <pubDate>Fri, 20 Nov 2026 10:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arkia to resume flights to Morocco]]></title>
-            <description><![CDATA[Arkia to resume flights to Morocco]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698057</guid>
-            <pubDate>Fri, 20 Nov 2026 10:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hadar Miller blasts Ahmad Tibi: 'When the Jewish people awaken, their roar will be heard']]></title>
-            <description><![CDATA[Hadar Miller blasts Ahmad Tibi: 'When the Jewish people awaken, their roar will be heard']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698056</guid>
-            <pubDate>Fri, 20 Nov 2026 10:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nearly 150 US state leaders gather to combat antisemitism]]></title>
-            <description><![CDATA[Nearly 150 US state leaders gather to combat antisemitism]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698055</guid>
-            <pubDate>Fri, 20 Nov 2026 10:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MK Jabareen alleges incitement; Likud issues warning]]></title>
-            <description><![CDATA[MK Jabareen alleges incitement; Likud issues warning]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698054</guid>
-            <pubDate>Fri, 20 Nov 2026 10:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drone uncovers illegal bird trapping in Hebron Hills]]></title>
-            <description><![CDATA[Drone uncovers illegal bird trapping in Hebron Hills]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698053</guid>
-            <pubDate>Fri, 20 Nov 2026 09:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel extends David's Sling interception range]]></title>
-            <description><![CDATA[Israel extends David's Sling interception range]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698052</guid>
-            <pubDate>Fri, 20 Nov 2026 09:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[They promised not to destroy the world. Promised to whom?]]></title>
-            <description><![CDATA[They promised not to destroy the world. Promised to whom?]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698051</guid>
-            <pubDate>Fri, 20 Nov 2026 09:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

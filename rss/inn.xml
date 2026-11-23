@@ -4,11 +4,74 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 21:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 02:18:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Nov 2026 21:39:41 GMT</pubDate>
+        <pubDate>Mon, 23 Nov 2026 02:18:26 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Smotrich's initiative: 1,515 new housing units in Judea and Samaria]]></title>
+            <description><![CDATA[Planning authorities will advance plans for 1,515 housing units in Karnei Shomron, Harasha, and Etz Efraim, including a new assisted living complex in Karnei Shomron.]]></description>
+            <link>https://www.israelnationalnews.com/news/436868</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436868</guid>
+            <pubDate>Mon, 23 Nov 2026 02:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delta fixes technical glitch after nationwide flight delays]]></title>
+            <description><![CDATA[Delta Air Lines restores an automated system after a malfunction disrupts flights nationwide, causing widespread delays as Thanksgiving travel begins.]]></description>
+            <link>https://www.israelnationalnews.com/news/436867</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436867</guid>
+            <pubDate>Mon, 23 Nov 2026 01:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanese PM condemns IDF spokeswoman's visit to local school]]></title>
+            <description><![CDATA[Lebanese Prime Minister Nawaf Salam accuses Israel of exploiting children for propaganda after an IDF spokeswoman's visit to a school in southern Lebanon.]]></description>
+            <link>https://www.israelnationalnews.com/news/436866</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436866</guid>
+            <pubDate>Mon, 23 Nov 2026 01:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump hosts holders of his cryptocurrency, which has lost over 98% of its value]]></title>
+            <description><![CDATA[Trump hosts holders of his cryptocurrency, which has lost over 98% of its value]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698257</guid>
+            <pubDate>Mon, 23 Nov 2026 00:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[National Traffic Police Commander involved in road accident]]></title>
+            <description><![CDATA[National Traffic Police Commander Amir Jibli involved in a road accident near Ra'anana Junction in which a cyclist sustains moderate injuries.]]></description>
+            <link>https://www.israelnationalnews.com/news/436865</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436865</guid>
+            <pubDate>Mon, 23 Nov 2026 00:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Egypt: Cargo ship crew foils three pirate attacks off Yemen's coast]]></title>
+            <description><![CDATA[Egypt: Cargo ship crew foils three pirate attacks off Yemen's coast]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698255</guid>
+            <pubDate>Sun, 22 Nov 2026 23:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Icy stares, unusual hand positions: Putin's bodyguards stir online speculation]]></title>
+            <description><![CDATA[A video allegedly filmed during a summit in China showing Russian President Vladimir Putin's bodyguards has gone viral, sparking speculation about their security tactics.]]></description>
+            <link>https://www.israelnationalnews.com/news/436864</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436864</guid>
+            <pubDate>Sun, 22 Nov 2026 23:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Even the robots hate Israel: 'Death to Israel' chant in Tehran]]></title>
+            <description><![CDATA[Even the robots hate Israel: 'Death to Israel' chant in Tehran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698253</guid>
+            <pubDate>Sun, 22 Nov 2026 22:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump: Iranian attacks have increased following Democrats' midterm victory]]></title>
+            <description><![CDATA[Trump says Iran has intensified its missile and drone attacks since the Democrats' midterm victory, while accusing Democrats of contributing to higher oil prices.]]></description>
+            <link>https://www.israelnationalnews.com/news/436862</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436862</guid>
+            <pubDate>Sun, 22 Nov 2026 22:14:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Itamar Eitam: Investigative report endangers IDF soldiers]]></title>
             <description><![CDATA[MK Eitam calls on the Israeli Public Broadcasting Corporation to cancel an investigative report on IDF operations in Gaza, warning that its broadcast could endanger soldiers.]]></description>
@@ -25,7 +88,11 @@
         </item>
         <item>
             <title><![CDATA[MK Peretz responds to attacks: 'No one has a monopoly on love of the land']]></title>
-            <description><![CDATA[MK Peretz responds to attacks: 'No one has a monopoly on love of the land']]></description>
+            <description><![CDATA[MK Eliyasaf Peretz of the Yashar party responded to an offensive social media post about him that stated, "The successful brothers are gone, and we're left with the trash." Peretz replied that he had served nearly 500 days of reserve duty over the past three years and that his family had paid a heavy price. "We lost those dearest to us, but we did not lose faith in our path," he wrote.
+
+Peretz emphasized that he remains a right-winger and that his decision to pursue a different political path does not change his values. "No one has a monopoly on love of the land, Zionism, or loyalty to the State of Israel," he wrote, calling for an end to hatred over political disagreements.
+
+"We can disagree, criticize, and even be angry, but the hatred and venom must stop."]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698249</guid>
             <pubDate>Sun, 22 Nov 2026 20:35:00 GMT</pubDate>
@@ -39,7 +106,11 @@
         </item>
         <item>
             <title><![CDATA[Unrest in Jerusalem: Police working to disperse haredi rioters]]></title>
-            <description><![CDATA[Unrest in Jerusalem: Police working to disperse haredi rioters]]></description>
+            <description><![CDATA[Jerusalem District Police officers, Border Police personnel, and Special Patrol Unit forces are working to disperse a riot involving extremist haredi protesters on Bar-Ilan Street in Jerusalem, during which roads were blocked and infrastructure was damaged.
+
+Police said that after an officer declared the gathering unlawful and ordered the demonstrators to leave, they refused to comply.
+
+As a result, security forces began dispersing the protesters, using force and crowd-control measures.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698247</guid>
             <pubDate>Sun, 22 Nov 2026 20:09:00 GMT</pubDate>
@@ -67,7 +138,9 @@
         </item>
         <item>
             <title><![CDATA[Tragedy in France: Israeli dies during ski trip]]></title>
-            <description><![CDATA[Tragedy in France: Israeli dies during ski trip]]></description>
+            <description><![CDATA[An Israeli citizen died following a cardiac event while on a ski vacation at the Val Thorens resort in France.
+
+Members of the ZAKA international unit, in coordination with the Foreign Ministry, are working with local authorities in France to obtain the necessary permits and complete the procedures required to repatriate his body to Israel.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698243</guid>
             <pubDate>Sun, 22 Nov 2026 19:36:00 GMT</pubDate>
@@ -81,9 +154,9 @@
         </item>
         <item>
             <title><![CDATA[He fought a terrorist with his bare hands and lived to tell his story]]></title>
-            <description><![CDATA[He fought a terrorist with his bare hands and lived to tell his story]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698241</guid>
+            <description><![CDATA[Eight years after surviving a brutal terrorist attack in Beit El, Neve Rotem recalls his fight for life and the mission he discovered through survival.]]></description>
+            <link>https://www.israelnationalnews.com/news/436854</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436854</guid>
             <pubDate>Sun, 22 Nov 2026 19:13:00 GMT</pubDate>
         </item>
         <item>
@@ -123,9 +196,9 @@
         </item>
         <item>
             <title><![CDATA[Trump considers resuming major military strikes on Iran in 2027]]></title>
-            <description><![CDATA[Trump considers resuming major military strikes on Iran in 2027]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698235</guid>
+            <description><![CDATA[In Fox News interview, Trump signals possible renewed strikes on Iran in 2027, warns Iranian ships against challenging US blockade, and voices frustration with talks.]]></description>
+            <link>https://www.israelnationalnews.com/news/436849</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436849</guid>
             <pubDate>Sun, 22 Nov 2026 18:03:00 GMT</pubDate>
         </item>
         <item>
@@ -137,9 +210,9 @@
         </item>
         <item>
             <title><![CDATA[Historic failure at UN climate summit as COP31 talks collapse in Turkey]]></title>
-            <description><![CDATA[Historic failure at UN climate summit as COP31 talks collapse in Turkey]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698233</guid>
+            <description><![CDATA[Record-long COP31 summit in Turkey ends without a global climate agreement as disputes over fossil fuels and funding for poorer nations derail talks.]]></description>
+            <link>https://www.israelnationalnews.com/news/436847</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436847</guid>
             <pubDate>Sun, 22 Nov 2026 17:26:00 GMT</pubDate>
         </item>
         <item>
@@ -158,9 +231,9 @@
         </item>
         <item>
             <title><![CDATA[Likud and Yashar: Sides presented positions on range of issues, agreed to meet again]]></title>
-            <description><![CDATA[The Yashar and Likud parties issued a joint statement following negotiations between their representatives. According to the statement, both sides presented their positions on a range of key issues and held detailed discussions. The parties agreed to hold a follow-up meeting.]]></description>
-            <link>https://www.israelnationalnews.com/news/436844</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436844</guid>
+            <description><![CDATA[Likud and Yashar: Sides presented positions on range of issues, agreed to meet again]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698230</guid>
             <pubDate>Sun, 22 Nov 2026 16:41:00 GMT</pubDate>
         </item>
         <item>
@@ -172,49 +245,49 @@
         </item>
         <item>
             <title><![CDATA[Likud-Yashar discuss everything - except rotation deal]]></title>
-            <description><![CDATA[Negotiating teams from Likud and Yashar meet for more than four hours, discuss judicial reform, a commission of inquiry, and the conscription law.]]></description>
-            <link>https://www.israelnationalnews.com/news/436844</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436844</guid>
+            <description><![CDATA[Likud-Yashar discuss everything - except rotation deal]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698228</guid>
             <pubDate>Sun, 22 Nov 2026 16:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Likud, Yashar teams conclude meeting after over four hours]]></title>
-            <description><![CDATA[After more than four hours, the meeting between the Likud and Yashar negotiating teams has concluded.]]></description>
+            <description><![CDATA[Likud, Yashar teams conclude meeting after over four hours]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698227</guid>
             <pubDate>Sun, 22 Nov 2026 15:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Behind the news platform representing the world's worst regimes]]></title>
-            <description><![CDATA[In an episode of Common Sense: The Real Story with Shosh Bedrosian, Eitan Fischberger examines Drop Site News' funding, independence, and coverage of Israel and Gaza, raising questions about its editorial agenda.]]></description>
-            <link>https://www.israelnationalnews.com/news/436843</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436843</guid>
+            <description><![CDATA[Behind the news platform representing the world's worst regimes]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698226</guid>
             <pubDate>Sun, 22 Nov 2026 15:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ahmad Tibi meets Jordanian politician known for burning Israeli flags]]></title>
-            <description><![CDATA[MK Ahmad Tibi draws criticism after meeting former Jordanian lawmaker Khalil Atiyeh, who has repeatedly burned Israeli flags and praised Tibi as a hero.]]></description>
-            <link>https://www.israelnationalnews.com/news/436842</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436842</guid>
+            <description><![CDATA[Ahmad Tibi meets Jordanian politician known for burning Israeli flags]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698225</guid>
             <pubDate>Sun, 22 Nov 2026 15:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Bus catches fire, Route 1 closed to traffic]]></title>
-            <description><![CDATA[Six firefighting crews dispatched to Jerusalem-bound Route 1 after bus catches fire.]]></description>
-            <link>https://www.israelnationalnews.com/news/436841</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436841</guid>
+            <description><![CDATA[Watch: Bus catches fire, Route 1 closed to traffic]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698224</guid>
             <pubDate>Sun, 22 Nov 2026 15:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Songs that survived exile | Rabbi Shalom Shabazi manuscripts unveiled to the public]]></title>
-            <description><![CDATA[Rare manuscripts handwritten by Yemenite Jewish sages Rabbi Shalom Shabazi and Rabbi David Adani are displayed at Israel's National Library for a few hours.]]></description>
-            <link>https://www.israelnationalnews.com/news/436840</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436840</guid>
+            <description><![CDATA[Songs that survived exile | Rabbi Shalom Shabazi manuscripts unveiled to the public]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698223</guid>
             <pubDate>Sun, 22 Nov 2026 15:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report: Ukraine behind drone strike on Russian ship in Libya]]></title>
-            <description><![CDATA[Axios reporter Barak Ravid, citing a source with knowledge, reported that the Ukrainian SBU security service conducted the long-range strike against the Russian warship in Libya.]]></description>
+            <description><![CDATA[Report: Ukraine behind drone strike on Russian ship in Libya]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698222</guid>
             <pubDate>Sun, 22 Nov 2026 15:09:00 GMT</pubDate>
@@ -225,69 +298,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698221</guid>
             <pubDate>Sun, 22 Nov 2026 14:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heavy traffic on Route 1 due to burning bus]]></title>
-            <description><![CDATA[Heavy traffic on Route 1 due to burning bus]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698220</guid>
-            <pubDate>Sun, 22 Nov 2026 14:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mystery explosion on Russian ship in Libya raises suspicions of drone attack]]></title>
-            <description><![CDATA[Mystery explosion on Russian ship in Libya raises suspicions of drone attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698219</guid>
-            <pubDate>Sun, 22 Nov 2026 14:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkish woman arrested at Temple Mount, suspected of Hamas ties and incitement]]></title>
-            <description><![CDATA[Turkish woman arrested at Temple Mount, suspected of Hamas ties and incitement]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698218</guid>
-            <pubDate>Sun, 22 Nov 2026 14:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raindrops on roses]]></title>
-            <description><![CDATA[Raindrops on roses]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698217</guid>
-            <pubDate>Sun, 22 Nov 2026 14:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerusalem Haredi Protest Turns Violent, Female IDF Soldier Rescued From Crowd]]></title>
-            <description><![CDATA[Jerusalem Haredi Protest Turns Violent, Female IDF Soldier Rescued From Crowd]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698216</guid>
-            <pubDate>Sun, 22 Nov 2026 14:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bethlehem resident arrest for allegedly placing pipe bombs, Molotov cocktails for use in attack]]></title>
-            <description><![CDATA[Bethlehem resident arrest for allegedly placing pipe bombs, Molotov cocktails for use in attack]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698215</guid>
-            <pubDate>Sun, 22 Nov 2026 13:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seeing hostility develop - and knowing when it is time to leave]]></title>
-            <description><![CDATA[Seeing hostility develop - and knowing when it is time to leave]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698214</guid>
-            <pubDate>Sun, 22 Nov 2026 13:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police disperse riot in Jerusalem, rescue soldier trapped by the crowd]]></title>
-            <description><![CDATA[Police disperse riot in Jerusalem, rescue soldier trapped by the crowd]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698213</guid>
-            <pubDate>Sun, 22 Nov 2026 13:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bennett's political gamble: Expert reveals his post-Netanyahu strategy]]></title>
-            <description><![CDATA[Bennett's political gamble: Expert reveals his post-Netanyahu strategy]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698212</guid>
-            <pubDate>Sun, 22 Nov 2026 13:51:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,294 +4,292 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 23:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 08:41:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 23:27:46 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 08:41:59 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[Bennett warns: Netanyahu will face the consequences]]></title>
-            <description><![CDATA[Ahead of renewed talks between Likud and Yashar, Bennett expresses support for efforts to form a unity government but warns against attempts to drag out negotiations.]]></description>
-            <link>https://www.israelnationalnews.com/news/436953</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436953</guid>
-            <pubDate>Mon, 23 Nov 2026 23:17:00 GMT</pubDate>
+            <title><![CDATA[Eisenkot's Bind: Knesset moves that could derail a government]]></title>
+            <description><![CDATA[Strategic adviser Moshe Klughaft argues that Netanyahu wants to reverse the election results and hold another vote, and that only a credible threat of replacing him could change his position.]]></description>
+            <link>https://www.israelnationalnews.com/news/436988</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436988</guid>
+            <pubDate>Tue, 24 Nov 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Knesset approves establishment of four special committees]]></title>
-            <description><![CDATA[The Knesset plenum approved the Arrangements Committee's recommendation to establish four special committees, by a vote of 55 in favor and 36 against.
+            <title><![CDATA[Weekly Tanya video/lecture on The Holy Epistle]]></title>
+            <description><![CDATA[The Tanya compacts four millennia of Jewish wisdom to answer the great personal and existential questions of life. It has revolutionized the way we think about G -d the human soul, the world and our place in it.]]></description>
+            <link>https://www.israelnationalnews.com/news/436987</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436987</guid>
+            <pubDate>Tue, 24 Nov 2026 08:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Speaking two languages: Bridging global standards and Israeli reality]]></title>
+            <description><![CDATA[The ultimate challenge in global tech projects in Israel lies in navigating the gap between corporate global culture and the volatile dynamics of the local real estate market.]]></description>
+            <link>https://www.israelnationalnews.com/news/436986</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436986</guid>
+            <pubDate>Tue, 24 Nov 2026 08:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A New Book: Torah, Nation, and Land]]></title>
+            <description><![CDATA[A New Book: Torah, Nation, and Land]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698393</guid>
+            <pubDate>Tue, 24 Nov 2026 08:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Court finds security firms provided cover for protection racket]]></title>
+            <description><![CDATA[The court found that an individual known to authorities for involvement in extortion effectively ran registered security firms that were used to transfer money to protection racketeers.]]></description>
+            <link>https://www.israelnationalnews.com/news/436984</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436984</guid>
+            <pubDate>Tue, 24 Nov 2026 08:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Intifada revolution': Anti-Israel protesters gather outside Glasgow synagogue]]></title>
+            <description><![CDATA['Intifada revolution': Anti-Israel protesters gather outside Glasgow synagogue]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698391</guid>
+            <pubDate>Tue, 24 Nov 2026 08:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hassidic women suffer 2500 shekel wage gap]]></title>
+            <description><![CDATA[The employment rate among Hasidic women has jumped to 76%, but wages are lagging behind.]]></description>
+            <link>https://www.israelnationalnews.com/news/436982</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436982</guid>
+            <pubDate>Tue, 24 Nov 2026 08:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zionism: A word only we get to define]]></title>
+            <description><![CDATA[Zionism: A word only we get to define]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698389</guid>
+            <pubDate>Tue, 24 Nov 2026 07:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish rioters endanger Judea and Samaria]]></title>
+            <description><![CDATA[Jewish violence against innocent Palestinians endangers the settlements and serves terrorist organizations' propaganda. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/436980</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436980</guid>
+            <pubDate>Tue, 24 Nov 2026 07:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[26-Mile traffic jam exposes growing economic toll of US blockade on Iran]]></title>
+            <description><![CDATA[26-Mile traffic jam exposes growing economic toll of US blockade on Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698387</guid>
+            <pubDate>Tue, 24 Nov 2026 07:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What really happened when Rachel gave birth?]]></title>
+            <description><![CDATA[What caused Rachel's death while giving birth to Benjamin? An obstetrician-gynecologist's reading of the biblical verses suggests a possible complication during a breech birth.]]></description>
+            <link>https://www.israelnationalnews.com/news/436978</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436978</guid>
+            <pubDate>Tue, 24 Nov 2026 07:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arab MK calls for minority government with haredi parties]]></title>
+            <description><![CDATA[Arab MK calls for minority government with haredi parties]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698385</guid>
+            <pubDate>Tue, 24 Nov 2026 07:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: US weighs training Syrian military despite history of atrocities]]></title>
+            <description><![CDATA[US considers training Syrian forces despite documented abuses against Druze and Alawite minorities, potentially bringing American troops back in 2027.]]></description>
+            <link>https://www.israelnationalnews.com/news/436975</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436975</guid>
+            <pubDate>Tue, 24 Nov 2026 07:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Energy Minister: 'We attacked despite Trump's objections']]></title>
+            <description><![CDATA[Energy Minister: 'We attacked despite Trump's objections']]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698383</guid>
+            <pubDate>Tue, 24 Nov 2026 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Iran gamble: Regime change-or Regime survival?]]></title>
+            <description><![CDATA[I fear that one day, during the remaining two years of his presidency, Trump will wake up at nine in the morning and hear on the radio that the Shiite mullahs have built their nuclear bomb. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/436973</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436973</guid>
+            <pubDate>Tue, 24 Nov 2026 06:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mansour Abbas: Heading towards a government with haredi and Arab parties]]></title>
+            <description><![CDATA[Mansour Abbas: Heading towards a government with haredi and Arab parties]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698381</guid>
+            <pubDate>Tue, 24 Nov 2026 06:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reserve rabbi reveals how he fought to survive after brain injury]]></title>
+            <description><![CDATA[After weeks of serving soldiers on the front lines, Rabbi Rafael Zikri collapsed at home and woke up paralyzed, unable to speak or swallow.]]></description>
+            <link>https://www.israelnationalnews.com/news/436972</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436972</guid>
+            <pubDate>Tue, 24 Nov 2026 06:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian Parliament Speaker: No action or negotiations until seven conditions met]]></title>
+            <description><![CDATA[Iranian Parliament Speaker: No action or negotiations until seven conditions met]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698379</guid>
+            <pubDate>Tue, 24 Nov 2026 06:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court Justice: 'I considered drawing a gun on rioters']]></title>
+            <description><![CDATA[In newly disclosed testimony, Justice Sohlberg said he considered drawing a firearm during rioting by haredim in the courtyard of his home.]]></description>
+            <link>https://www.israelnationalnews.com/news/436971</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436971</guid>
+            <pubDate>Tue, 24 Nov 2026 06:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fmr. IDF Arabic spox criticizes successor's visit to Lebanese school]]></title>
+            <description><![CDATA[Fmr. IDF Arabic spox criticizes successor's visit to Lebanese school]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698377</guid>
+            <pubDate>Tue, 24 Nov 2026 06:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Trump held at least $12 million in Nvidia shares by the end of last year]]></title>
+            <description><![CDATA[ABC News reported that US President Donald Trump's annual financial disclosure shows that he held at least $12 million worth of Nvidia shares at the end of 2025.
 
-The committees are the Special Committee for Eradicating Crime and Violence in Arab Society, chaired by Ra'am chairman Mansour Abbas; the Special Committee for Socioeconomic Equality, chaired by Joint List chairman Yousef Jabareen; the Special Committee for Oversight of the Implementation of the Law on Prosecution for the Events of the October 7 Massacre, chaired by MK Yulia Malinovsky (Yisrael Beytenu); and the Special Committee for Oversight of Efforts to Strengthen the Negev and Galilee, chaired by MK Noam Tibon (Together).]]></description>
+According to the report, more than 36 transactions involving the purchase and sale of Nvidia shares, worth millions of dollars, were carried out in Trump's accounts between the beginning of the year and September.]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698353</guid>
-            <pubDate>Mon, 23 Nov 2026 22:58:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698375</guid>
+            <pubDate>Tue, 24 Nov 2026 06:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israeli achievement: UN adopts Israeli-initiated resolution with 145 votes in favor]]></title>
-            <description><![CDATA[Israeli achievement: UN adopts Israeli-initiated resolution with 145 votes in favor]]></description>
+            <title><![CDATA[Arutz Sheva Exclusive: The IDF's eyes in enemy territory]]></title>
+            <description><![CDATA[As a new cohort of combat soldiers enlists, the commander of the Combat Intelligence Collection Training Base explains how the teams operate, combining observation, drones and robotics.]]></description>
+            <link>https://www.israelnationalnews.com/news/436969</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436969</guid>
+            <pubDate>Tue, 24 Nov 2026 05:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The latest IDF Intelligence leak demands a knockout blow]]></title>
+            <description><![CDATA[Half-measures will not save us.You cannot deter a fanatical regime with half-measures, nor can you secure Israel’s borders while leaving the sponsor of our enemies intact. Opinion.]]></description>
+            <link>https://www.israelnationalnews.com/news/436968</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436968</guid>
+            <pubDate>Tue, 24 Nov 2026 05:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian Foreign Minister believes land blockade 'nearly impossible']]></title>
+            <description><![CDATA[Iranian Foreign Minister believes land blockade 'nearly impossible']]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698352</guid>
-            <pubDate>Mon, 23 Nov 2026 22:38:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698372</guid>
+            <pubDate>Tue, 24 Nov 2026 05:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kushner: Israel is at a crossroads]]></title>
-            <description><![CDATA[Jared Kushner, President Trump's son-in-law, warns in an interview with New York Magazine that Israel risks becoming increasingly isolated on the world stage.]]></description>
-            <link>https://www.israelnationalnews.com/news/436951</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436951</guid>
-            <pubDate>Mon, 23 Nov 2026 22:13:00 GMT</pubDate>
+            <title><![CDATA[UN exhibition sparks outrage in Israel]]></title>
+            <description><![CDATA[An exhibition organized by the Palestinian mission and funded by the UN is drawing Israeli criticism for failing to mention the October 7 massacre or Hamas.]]></description>
+            <link>https://www.israelnationalnews.com/news/436967</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436967</guid>
+            <pubDate>Tue, 24 Nov 2026 05:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Police officer suspected of contact with Iranian agent dismissed]]></title>
-            <description><![CDATA[Police officer suspected of contact with Iranian agent dismissed]]></description>
+            <title><![CDATA[Israeli Assessment: US losing patience with Iran]]></title>
+            <description><![CDATA[Israeli Assessment: US losing patience with Iran]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698350</guid>
-            <pubDate>Mon, 23 Nov 2026 21:42:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698370</guid>
+            <pubDate>Tue, 24 Nov 2026 05:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Disturbing footage: Breached fence on Gaza border]]></title>
-            <description><![CDATA[Yishai Sfez of Moshav Yated filmed himself opening a gate in the border fence with the Gaza Strip and entering Gaza, with no soldiers present. IDF: The incident is under investigation.]]></description>
-            <link>https://www.israelnationalnews.com/news/436949</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436949</guid>
-            <pubDate>Mon, 23 Nov 2026 20:50:00 GMT</pubDate>
+            <title><![CDATA[Expert Zoologist: Whyis a hyena roaming Modii'in?]]></title>
+            <description><![CDATA[After a hyena was spotted roaming Modi'in and reportedly killed a dog, zoologist Dr. Haim Moyal explains what is driving the animal into residential areas.]]></description>
+            <link>https://www.israelnationalnews.com/news/436964</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436964</guid>
+            <pubDate>Tue, 24 Nov 2026 05:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[To thank- and then to ask for more]]></title>
-            <description><![CDATA[To thank- and then to ask for more]]></description>
+            <title><![CDATA[Defense Ministry data: Over 92,000 wounded receiving rehabilitation]]></title>
+            <description><![CDATA[Defense Ministry data: Over 92,000 wounded receiving rehabilitation]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698348</guid>
-            <pubDate>Mon, 23 Nov 2026 20:43:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698368</guid>
+            <pubDate>Tue, 24 Nov 2026 04:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clash in the plenum | Azoulay to Stern: "What hypocrisy"]]></title>
-            <description><![CDATA[Shas faction chairman Yinon Azoulay asked in the Knesset plenum what had become of the harsh criticism Elazar Stern had leveled at the haredim before the elections. Watch]]></description>
-            <link>https://www.israelnationalnews.com/news/436947</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436947</guid>
-            <pubDate>Mon, 23 Nov 2026 20:40:00 GMT</pubDate>
+            <title><![CDATA[New York court shields social media giants from Buffalo massacre lawsuits]]></title>
+            <description><![CDATA[New York's highest court rules that major social media companies cannot be held liable over accusations that their platforms helped radicalize gunman who carried out 2022 Buffalo massacre.]]></description>
+            <link>https://www.israelnationalnews.com/news/436962</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436962</guid>
+            <pubDate>Tue, 24 Nov 2026 04:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The power of unelected officials to carry out their private agendas]]></title>
-            <description><![CDATA[The power of unelected officials to carry out their private agendas]]></description>
+            <title><![CDATA[Israeli Ambassador visits pro-Israel German politician after assault]]></title>
+            <description><![CDATA[Israeli Ambassador visits pro-Israel German politician after assault]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698346</guid>
-            <pubDate>Mon, 23 Nov 2026 20:18:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698366</guid>
+            <pubDate>Tue, 24 Nov 2026 04:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA["My wife hasn't left my side for six months": A soldier's moving story]]></title>
-            <description><![CDATA[Six months after a Hezbollah explosive drone wounded him in Lebanon, Boaz Saluk of Kochav Hashahar is still working to rehabilitate his leg. In an emotional Arutz Sheva interview, his voice broke as he spoke of his wife's devoted support.]]></description>
-            <link>https://www.israelnationalnews.com/news/436945</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436945</guid>
-            <pubDate>Mon, 23 Nov 2026 20:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspected infiltration near Beit Shean: Five suspects arrested, extensive searches in the area]]></title>
-            <description><![CDATA[Suspected infiltration near Beit Shean: Five suspects arrested, extensive searches in the area]]></description>
+            <title><![CDATA[Houston man gets 15 years for concealing support for ISIS]]></title>
+            <description><![CDATA[Houston man gets 15 years for concealing support for ISIS]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698344</guid>
-            <pubDate>Mon, 23 Nov 2026 20:01:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698365</guid>
+            <pubDate>Tue, 24 Nov 2026 03:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trump administration targets Iran's financial lifeline with new sanctions]]></title>
-            <description><![CDATA[US Treasury sanctions two dozen-plus entities linked to Iran's shadow banking network, targeting billions in transactions used to evade restrictions.]]></description>
-            <link>https://www.israelnationalnews.com/news/436942</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436942</guid>
-            <pubDate>Mon, 23 Nov 2026 19:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada designates Masar Badil as terrorist entity]]></title>
-            <description><![CDATA[Canada designates Masar Badil as terrorist entity]]></description>
+            <title><![CDATA[Deni Avdija scores 31 points as Portland defeats Philadelphia]]></title>
+            <description><![CDATA[Deni Avdija scores 31 points as Portland defeats Philadelphia]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698342</guid>
-            <pubDate>Mon, 23 Nov 2026 19:37:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698364</guid>
+            <pubDate>Tue, 24 Nov 2026 03:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Report: Targeted killings deepen crisis within Hamas]]></title>
-            <description><![CDATA[Strikes against Hamas' veteran commanders have been accompanied by internal tensions over the allocation of roles and responsibilities within the terrorist organization, according to sources familiar with the matter.]]></description>
-            <link>https://www.israelnationalnews.com/news/436940</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436940</guid>
-            <pubDate>Mon, 23 Nov 2026 19:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Jews are squabbling over the deckchairs on the Titanic]]></title>
-            <description><![CDATA[The Jews are squabbling over the deckchairs on the Titanic]]></description>
+            <title><![CDATA[MK Moshe Rozental's emotional full-circle moment]]></title>
+            <description><![CDATA[MK Moshe Rozental's emotional full-circle moment]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698340</guid>
-            <pubDate>Mon, 23 Nov 2026 19:01:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698363</guid>
+            <pubDate>Tue, 24 Nov 2026 03:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revealed: Raz Nizri leads talks between Yashar and haredim]]></title>
-            <description><![CDATA[Former Deputy Attorney General Raz Nizri is leading talks on behalf of Yashar with haredim, who are demanding legislation to halt arrests of draft evaders before the government is sworn in.]]></description>
-            <link>https://www.israelnationalnews.com/news/436938</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436938</guid>
-            <pubDate>Mon, 23 Nov 2026 18:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran warns American bases across Europe could become targets]]></title>
-            <description><![CDATA[Iran warns American bases across Europe could become targets]]></description>
+            <title><![CDATA[After Mamdani’s decision: Anti-Israel group plans Brooklyn protest]]></title>
+            <description><![CDATA[After Mamdani’s decision: Anti-Israel group plans Brooklyn protest]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698338</guid>
-            <pubDate>Mon, 23 Nov 2026 18:22:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698362</guid>
+            <pubDate>Tue, 24 Nov 2026 03:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Herzog hopes Israel, Nvidia will grow closer under Jensen Huang]]></title>
-            <description><![CDATA[President Isaac Herzog speaks with Nvidia founder Jensen Huang following board decision reinstating him, praises his longstanding support for Israel and expresses hope for stronger ties with the technology giant.]]></description>
-            <link>https://www.israelnationalnews.com/news/436936</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436936</guid>
-            <pubDate>Mon, 23 Nov 2026 18:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comedian's wife asks: "An MK hits a citizen?"]]></title>
-            <description><![CDATA[Comedian's wife asks: "An MK hits a citizen?"]]></description>
+            <title><![CDATA[Limor Sonn Har Melech: You are profiteering from bereavement]]></title>
+            <description><![CDATA[Limor Sonn Har Melech: You are profiteering from bereavement]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698336</guid>
-            <pubDate>Mon, 23 Nov 2026 17:58:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698361</guid>
+            <pubDate>Tue, 24 Nov 2026 02:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bnei Brak tragedy: Daughter dies 12 hours after father]]></title>
-            <description><![CDATA[Her father, Rabbi Menachem Mendel Leider, 75, died hours earlier. This morning, his daughter was found dead in an apartment in Bnei Brak.]]></description>
-            <link>https://www.israelnationalnews.com/news/436934</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436934</guid>
-            <pubDate>Mon, 23 Nov 2026 17:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ehud Olmert's daughter arrested at Tel Aviv protest]]></title>
-            <description><![CDATA[Ehud Olmert's daughter arrested at Tel Aviv protest]]></description>
+            <title><![CDATA[US suspects Iranian cyberattacks on up to 50 energy tankers]]></title>
+            <description><![CDATA[US suspects Iranian cyberattacks on up to 50 energy tankers]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698334</guid>
-            <pubDate>Mon, 23 Nov 2026 17:13:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698360</guid>
+            <pubDate>Tue, 24 Nov 2026 02:11:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mamdani urges Democrats to go beyond sanctions and rethink US support for Israel]]></title>
-            <description><![CDATA[NYC Mayor Zohran Mamdani backs sanctions on Jewish settlers and calls for a fundamental shift in US policy, accusing Washington of funding genocide.]]></description>
-            <link>https://www.israelnationalnews.com/news/436932</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436932</guid>
-            <pubDate>Mon, 23 Nov 2026 17:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arutz Sheva studio interview | Wounded in Gaza, he returned to fight for his friends]]></title>
-            <description><![CDATA[Arutz Sheva studio interview | Wounded in Gaza, he returned to fight for his friends]]></description>
+            <title><![CDATA[Report: Three killed in Israeli airstrike in Khan Yunis]]></title>
+            <description><![CDATA[Report: Three killed in Israeli airstrike in Khan Yunis]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698332</guid>
-            <pubDate>Mon, 23 Nov 2026 17:02:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698359</guid>
+            <pubDate>Tue, 24 Nov 2026 01:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Haredi journalist: 'The danger simmering within']]></title>
-            <description><![CDATA[Shneur Weber speaks with Hadar Miller about Israel's future, haredi conscription and fears of renewed unrest.]]></description>
-            <link>https://www.israelnationalnews.com/news/436929</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436929</guid>
-            <pubDate>Mon, 23 Nov 2026 16:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bones were found in an open area near Peki'in, the police have launched an investigation]]></title>
-            <description><![CDATA[Bones were found in an open area near Peki'in, the police have launched an investigation]]></description>
+            <title><![CDATA[The bill that will put Bennett and Liberman to the test]]></title>
+            <description><![CDATA[The bill that will put Bennett and Liberman to the test]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698330</guid>
-            <pubDate>Mon, 23 Nov 2026 16:43:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698358</guid>
+            <pubDate>Tue, 24 Nov 2026 01:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amazon announces $7.5 billion deal for Israeli AI technology]]></title>
-            <description><![CDATA[Amazon agrees to acquire technology from Israeli AI startup Decart in a reported $7.5 billion deal, bringing its founders and engineers on board.]]></description>
-            <link>https://www.israelnationalnews.com/news/436928</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436928</guid>
-            <pubDate>Mon, 23 Nov 2026 16:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Border Police officer killed in motorcycle accident on Highway 40 on his way home]]></title>
-            <description><![CDATA[Border Police officer killed in motorcycle accident on Highway 40 on his way home]]></description>
+            <title><![CDATA[Russian drone enters Polish airspace]]></title>
+            <description><![CDATA[Russian drone enters Polish airspace]]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698328</guid>
-            <pubDate>Mon, 23 Nov 2026 16:19:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698357</guid>
+            <pubDate>Tue, 24 Nov 2026 00:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A 14-year-old boy was seriously injured while riding an electric bicycle in Barta'a]]></title>
-            <description><![CDATA[A 14-year-old boy was seriously injured while riding an electric bicycle in Barta'a.
-
-The MDA team provided him with medical treatment and evacuated him to HaEmek Hospital in Afula.]]></description>
+            <title><![CDATA[Iranian Parliament Speaker: Iran cannot remain in state of 'neither war nor peace']]></title>
+            <description><![CDATA[Iranian Parliament Speaker: Iran cannot remain in state of 'neither war nor peace']]></description>
             <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698327</guid>
-            <pubDate>Mon, 23 Nov 2026 15:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Maaleh Adumim fights delay of 1,234 E1 homes in Supreme Court petition]]></title>
-            <description><![CDATA[Maaleh Adumim petitions the Supreme Court to overturn the attorney general's latest delay of bids for 1,234 E1 homes until a new government is formed.]]></description>
-            <link>https://www.israelnationalnews.com/news/436926</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/436926</guid>
-            <pubDate>Mon, 23 Nov 2026 15:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flydubai is expected to return to Israel in early December]]></title>
-            <description><![CDATA[Flydubai is expected to return to Israel in early December]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698325</guid>
-            <pubDate>Mon, 23 Nov 2026 15:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bereaved father calls for changes to IDF's code of ethics]]></title>
-            <description><![CDATA[Bereaved father calls for changes to IDF's code of ethics]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698324</guid>
-            <pubDate>Mon, 23 Nov 2026 15:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Actor on Arab MKs: "Expel all 19 of them from the country"]]></title>
-            <description><![CDATA[Actor on Arab MKs: "Expel all 19 of them from the country"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698323</guid>
-            <pubDate>Mon, 23 Nov 2026 15:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Traffic ticket overhaul: Fines sent straight to your phone]]></title>
-            <description><![CDATA[Traffic ticket overhaul: Fines sent straight to your phone]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698322</guid>
-            <pubDate>Mon, 23 Nov 2026 15:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mark Ruffalo calls for Chuck Schumer's removal, citing 'religious loyalties']]></title>
-            <description><![CDATA[Mark Ruffalo calls for Chuck Schumer's removal, citing 'religious loyalties']]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698321</guid>
-            <pubDate>Mon, 23 Nov 2026 15:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smotrich demands criminal investigation against Ahmad Tibi following fight with Guy Hochman]]></title>
-            <description><![CDATA[Smotrich demands criminal investigation against Ahmad Tibi following fight with Guy Hochman]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698320</guid>
-            <pubDate>Mon, 23 Nov 2026 15:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["A 100-ton hammer": Ariel Kahana's warning]]></title>
-            <description><![CDATA["A 100-ton hammer": Ariel Kahana's warning]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698319</guid>
-            <pubDate>Mon, 23 Nov 2026 14:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch live: Kilauea volcano erupts in Hawaii]]></title>
-            <description><![CDATA[Watch live: Kilauea volcano erupts in Hawaii]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698318</guid>
-            <pubDate>Mon, 23 Nov 2026 14:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The pitfall awaiting an Eisenkot minority government]]></title>
-            <description><![CDATA[The pitfall awaiting an Eisenkot minority government]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698317</guid>
-            <pubDate>Mon, 23 Nov 2026 14:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia reinstates Jensen Huang as CEO, Trump praises decision]]></title>
-            <description><![CDATA[Nvidia reinstates Jensen Huang as CEO, Trump praises decision]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698316</guid>
-            <pubDate>Mon, 23 Nov 2026 14:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smotrich on Kan report: "A manufactured report in the style of Breaking the Silence"]]></title>
-            <description><![CDATA[Smotrich on Kan report: "A manufactured report in the style of Breaking the Silence"]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698315</guid>
-            <pubDate>Mon, 23 Nov 2026 14:18:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698356</guid>
+            <pubDate>Tue, 24 Nov 2026 00:09:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

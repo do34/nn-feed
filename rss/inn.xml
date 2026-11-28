@@ -4,11 +4,81 @@
         <description><![CDATA[Latest news flashes from Israel National News]]></description>
         <link>https://www.israelnationalnews.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 17:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 01:11:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/do34/nn-feed/rss-updates/rss/inn.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Nov 2026 17:24:11 GMT</pubDate>
+        <pubDate>Sat, 28 Nov 2026 01:11:30 GMT</pubDate>
         <language><![CDATA[en-us]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Shabbat Shalom!]]></title>
+            <description><![CDATA[Arutz Sheva-Israel National News is stopping its round-the-clock news updates at this time in honor of the start of Shabbat in North America, where they are being written now.
+
+Updates will resume Saturday night from Israel, following the conclusion of Shabbat at 17:14 Jerusalem time.
+
+Shabbat Shalom!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_629916</guid>
+            <pubDate>Fri, 27 Nov 2026 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Costa Rica bars anti-Israel UN rapporteur Francesca Albanese from entering country]]></title>
+            <description><![CDATA[Costa Rica denies entry to anti-Israel UN rapporteur Francesca Albanese, citing an international alert over alleged links to terrorist acts. Israel welcomes move.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/437283</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437283</guid>
+            <pubDate>Fri, 27 Nov 2026 20:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran threatens action in air and at sea as it vows to break US blockade]]></title>
+            <description><![CDATA[Iran threatens action in air and at sea as it vows to break US blockade]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698736</guid>
+            <pubDate>Fri, 27 Nov 2026 20:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Countdown to Hamas disarmament: Timetable for Gaza demilitarization revealed]]></title>
+            <description><![CDATA[Israel is expected to approve the Gaza demilitarization plan within days, with a multinational force scheduled to enter the Strip in early 2027.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/437281</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437281</guid>
+            <pubDate>Fri, 27 Nov 2026 19:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: US military disables cargo ship attempting to breach naval blockade on Iran]]></title>
+            <description><![CDATA[Watch: US military disables cargo ship attempting to breach naval blockade on Iran]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698734</guid>
+            <pubDate>Fri, 27 Nov 2026 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bennett: Unity government is preferable, but we are prepared for an alternative]]></title>
+            <description><![CDATA[Naftali Bennett reiterates his preference for a Zionist unity government led initially by Eisenkot, but says he is prepared to accept an alternative.
+
+(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time posted automatically on all Israel National News articles, however, is Israeli time.)]]></description>
+            <link>https://www.israelnationalnews.com/news/437279</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437279</guid>
+            <pubDate>Fri, 27 Nov 2026 18:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eisenkot vows to form government within eight days, accuses Likud of stalling]]></title>
+            <description><![CDATA[Eisenkot vows to form government within eight days, accuses Likud of stalling]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698732</guid>
+            <pubDate>Fri, 27 Nov 2026 18:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shabbat Shalom from Israel!]]></title>
+            <description><![CDATA[Arutz Sheva-Israel National News' Israel desk is stopping its round-the-clock news updates at this time in honor of Shabbat. Jerusalem candle lighting time is 15:56 on Friday. Our North American desk will keep you informed until the 16:12 EST candle lighting time in New York.
+
+The updates from Israel will resume Saturday night, following the conclusion of Shabbat at 17:14 in Jerusalem.
+
+Shabbat Shalom!]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_227155</guid>
+            <pubDate>Fri, 27 Nov 2026 14:25:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel’s home prices fall as sales slow and unsold inventory remains high]]></title>
             <description><![CDATA[November figures show prices down 1.5% from a year earlier, with more than 85,000 new homes awaiting buyers.]]></description>
@@ -165,58 +235,58 @@
         </item>
         <item>
             <title><![CDATA[Israel warms up before possible Sunday rain]]></title>
-            <description><![CDATA[Above-average temperatures to continue through weekend, light rain possible in northern Israel, along the coast.]]></description>
-            <link>https://www.israelnationalnews.com/news/437254</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437254</guid>
+            <description><![CDATA[Israel warms up before possible Sunday rain]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698708</guid>
             <pubDate>Fri, 27 Nov 2026 06:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Genocide Case against Israel just became impossible to defend]]></title>
-            <description><![CDATA[The International Court of Justice just made a ruling that would have tickled Alice in Wonderland. Formerly genocide had to be visible and countable. Not anymore.]]></description>
-            <link>https://www.israelnationalnews.com/news/437253</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437253</guid>
+            <description><![CDATA[The Genocide Case against Israel just became impossible to defend]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698707</guid>
             <pubDate>Fri, 27 Nov 2026 06:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Young woman murdered in Be'er Sheva; police investigate]]></title>
-            <description><![CDATA[Woman, 19, seriously wounded in a shooting in Be'er Sheva, pronounced dead at hospital; police investigating.]]></description>
-            <link>https://www.israelnationalnews.com/news/437252</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437252</guid>
+            <description><![CDATA[Young woman murdered in Be'er Sheva; police investigate]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698706</guid>
             <pubDate>Fri, 27 Nov 2026 06:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The halakhic status of permanent makeup resembling tattoos]]></title>
-            <description><![CDATA[Permanent makeup uses tattooing but fades within years, unlike lifelong tattoos. Some permit it, holding that only lifelong tattoos are forbidden. Those seeking it for beauty may rely on this view, though the stricter approach is preferable.]]></description>
-            <link>https://www.israelnationalnews.com/news/437251</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437251</guid>
+            <description><![CDATA[The halakhic status of permanent makeup resembling tattoos]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698705</guid>
             <pubDate>Fri, 27 Nov 2026 05:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belgium to revoke antisemitic license plates after Jewish MP's campaign]]></title>
-            <description><![CDATA[Belgium grants authorities the power to revoke license plates bearing hateful messages following a years-long campaign by Jewish lawmaker Michael Freilich.]]></description>
-            <link>https://www.israelnationalnews.com/news/437250</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437250</guid>
+            <description><![CDATA[Belgium to revoke antisemitic license plates after Jewish MP's campaign]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698704</guid>
             <pubDate>Fri, 27 Nov 2026 04:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran insists demands must be met before Strait of Hormuz reopens]]></title>
-            <description><![CDATA[Iranian Foreign Minister Abbas Araghchi says mediation efforts are ongoing but insists Tehran's demands must be met before the Strait of Hormuz can reopen.]]></description>
-            <link>https://www.israelnationalnews.com/news/437249</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437249</guid>
+            <description><![CDATA[Iran insists demands must be met before Strait of Hormuz reopens]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698703</guid>
             <pubDate>Fri, 27 Nov 2026 04:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jewish groups slam NBC over anti-Israel ad aired during SNL Thanksgiving special]]></title>
-            <description><![CDATA[Jewish organizations condemn NBC for airing an anti-Israel advertisement during its SNL Thanksgiving special, accusing the network of fueling antisemitism.]]></description>
-            <link>https://www.israelnationalnews.com/news/437248</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437248</guid>
+            <description><![CDATA[Jewish groups slam NBC over anti-Israel ad aired during SNL Thanksgiving special]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698702</guid>
             <pubDate>Fri, 27 Nov 2026 03:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Germany arrests two suspected pro-Iranian terrorists over synagogue plots]]></title>
-            <description><![CDATA[German authorities arrest two Iraqi nationals suspected of belonging to a pro-Iranian terrorist organization that plotted attacks against European synagogues.]]></description>
-            <link>https://www.israelnationalnews.com/news/437247</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/news/437247</guid>
+            <description><![CDATA[Germany arrests two suspected pro-Iranian terrorists over synagogue plots]]></description>
+            <link>https://www.israelnationalnews.com/flashes</link>
+            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698701</guid>
             <pubDate>Fri, 27 Nov 2026 03:24:00 GMT</pubDate>
         </item>
         <item>
@@ -232,62 +302,6 @@
             <link>https://www.israelnationalnews.com/flashes</link>
             <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698699</guid>
             <pubDate>Fri, 27 Nov 2026 02:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK antisemitism adviser launches investigation into BBC]]></title>
-            <description><![CDATA[UK antisemitism adviser launches investigation into BBC]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698698</guid>
-            <pubDate>Fri, 27 Nov 2026 01:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diplomatic official: We will advance implementation of Trump's plan in the coming days]]></title>
-            <description><![CDATA[Diplomatic official: We will advance implementation of Trump's plan in the coming days]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698697</guid>
-            <pubDate>Fri, 27 Nov 2026 01:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dutch Prime Minister: Little progress made in EU budget talks]]></title>
-            <description><![CDATA[Dutch Prime Minister: Little progress made in EU budget talks]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698696</guid>
-            <pubDate>Fri, 27 Nov 2026 00:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump: I spoke to Netanyahu, if we did anything in Iran, we'd hit Pickaxe]]></title>
-            <description><![CDATA[Trump: I spoke to Netanyahu, if we did anything in Iran, we'd hit Pickaxe]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698695</guid>
-            <pubDate>Fri, 27 Nov 2026 00:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Attack alerts issued in southwestern Saudi Arabia]]></title>
-            <description><![CDATA[Attack alerts issued in southwestern Saudi Arabia]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698694</guid>
-            <pubDate>Thu, 26 Nov 2026 23:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump tells troops victory over Iran is at hand, questions Tehran's willingness to deal]]></title>
-            <description><![CDATA[Trump tells troops victory over Iran is at hand, questions Tehran's willingness to deal]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698693</guid>
-            <pubDate>Thu, 26 Nov 2026 23:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Board of Peace official: We expect Israel to translate its commitments into action]]></title>
-            <description><![CDATA[Board of Peace official: We expect Israel to translate its commitments into action]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698692</guid>
-            <pubDate>Thu, 26 Nov 2026 22:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Following attempted terror attack: Flydubai set to return to Israel]]></title>
-            <description><![CDATA[Following attempted terror attack: Flydubai set to return to Israel]]></description>
-            <link>https://www.israelnationalnews.com/flashes</link>
-            <guid isPermaLink="false">https://www.israelnationalnews.com/flashes#flash_698691</guid>
-            <pubDate>Thu, 26 Nov 2026 22:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
